@@ -1,0 +1,3 @@
+Animated Poster Prompt Example
+
+Animate this soccer poster as a short loop. Keep the player's face, body, and pose stable. Add subtle motion only to the stadium lights, background flags, crowd glow, fabric edges, and floating particles. Keep the cinematic matchday 

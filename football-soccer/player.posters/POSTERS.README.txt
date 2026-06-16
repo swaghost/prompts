@@ -1,0 +1,77 @@
+
+----------------------------------------------------
+STRONG PROMPTS
+----------------------------------------------------
+
+Below are ready-to-copy prompts for creating a Soccer Poster in different styles. Pick the one closest to your idea, paste it into SeaArt AI, and adjust the colors, team mood, background, or poster text as needed.
+
+For stronger results, build each prompt around five layers: 
+(1) subject
+(2) match context
+(3) visual style
+(4) lighting
+(5) layout. 
+
+Here is a quick keyword set you can reuse when writing an AI Football Poster for Match.
+
+
+Prompt Layer	Useful Keywords								Best For
+-------------	----------------------------------------------------------------------	----------------------------------
+Subject	fictional football player, national team-style kit, captain pose, team lineup	Player posters and team graphics
+Setting	packed stadium, floodlights, tunnel entrance, matchday crowd, city skyline	Matchday and final posters
+Style	cinematic sports poster, editorial football photography, clean match graphic	Professional-looking social posts
+Lighting	dramatic rim light, stadium glow, high contrast, blue and white light	More depth and impact
+Safety	fictional badge, no official logo, no sponsor name, no real player likeness	Personal fan visuals
+
+----------------------------------------------------
+SOURCE PORTRAIT - Turn Your Photo into a Football Player Portrait
+----------------------------------------------------
+
+A soccer poster does not have to feature only fictional players. You can also use your own photo as a reference and turn it into a football player-style portrait. This is useful for social posts, profile images, fantasy team graphics, and personal fan posters.
+
+To keep the image believable, preserve your face shape and expression while adding a clean football kit, studio-style lighting, and matchday atmosphere.
+Upload Your Photo as a Reference Image
+
+Prepare a clear photo before uploading. A well-lit image where your face is easy to see usually works better because the AI has more visual information to preserve.
+
+Open the SeaArt AI image generation page and upload your photo as a reference image. For an upper-body portrait, choose a photo that shows your face and shoulders. For a full-body soccer poster, use a standing photo so the AI can more easily create a football pose.
+
+Before uploading, check the background. Avoid photos that show addresses, school names, workplace signs, license plates, or other private information, especially if you plan to share the final image online.
+Prompt for Turning Yourself into a Football Player Portrait
+
+After uploading the photo, tell the AI to preserve the person's identity while changing the clothing, lighting, and background into a football poster style.
+
+----------------------------------------------------
+ANIMATED POSTER - How to Turn a Soccer Poster into an Animated Poster
+----------------------------------------------------
+A soccer poster made in SeaArt AI can also be used as the starting image for a short animated poster. This works well for social posts when the movement stays subtle.
+
+For example, you can animate stadium lights, flags, hair, kit fabric, crowd glow, or small particles in the background. If the movement is too strong, the image may stop feeling like a poster, so start with a short loop and a limited motion range.
+Use the Still Poster for Video Generation
+
+First, save the soccer poster you created in SeaArt AI. Then open the video generation feature and upload the saved poster as a reference image.
+
+Keep the movement focused on the background or light effects. Stadium floodlights, flags, crowd shimmer, pitch mist, and small sparks usually work better than moving the player's face or body.
+
+If the player moves too much, the pose or expression can break. To preserve the original poster, animate the atmosphere around the player instead of the player's main features.
+
+
+----------------------------------------------------
+What to Check Before Using an AI Soccer Poster
+----------------------------------------------------
+Before using an AI-generated soccer poster, review the final image carefully. Even if your prompt asks for no official marks, the result may still create a badge, sponsor-like text, or a player who looks too close to a real athlete.
+Check for Official Logos and Real Player Likeness
+
+Avoid putting official federation names, club badges, sponsor names, tournament marks, or real player names in your prompt. AI generation can still create accidental lookalikes, so review the chest badge, background signage, kit design, and player face after generation.
+
+If the image feels too close to an official design, add phrases such as "fictional player," "no official logo," "fictional badge," and "no sponsor text," then generate again.
+Make It Clear That the Poster Is Not Official
+
+If you share the poster on social media, avoid presenting it as an official match graphic. A World Cup-style or club-style design can look official at first glance, so it is better to treat it as a personal fan poster.
+
+For public posts, consider mentioning that the image was AI-generated. This helps avoid confusion, especially when the poster uses tournament-style lighting, kit colors, or matchday text.
+Check Poster Text After Generation
+
+GPT Image 2 can create posters with text, including titles, slogans, and short match messages. Still, AI-generated text can contain spelling, layout, or spacing issues.
+
+Always check match dates, names, scores, venue details, and event information before sharing the image. If you want different text placement, add clear instructions such as "larger title," "centered text," or "more empty space around the headline."

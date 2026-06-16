@@ -1,0 +1,11 @@
+Prompt 1: "Clean 4-3-3 football formation graphic, numbered player positions as dots connected by tactical lines, national team colors, dark pitch background, modern sports data visualization, minimalist and precise."
+
+Prompt 2: "Player movement heat map overlay on football pitch, high activity zones in orange and red, low activity in cool blue, clean data visualization aesthetic, sports analytics design."
+
+Prompt 3: "Pass network diagram, player positions connected by lines of varying thickness representing pass frequency, national team color palette, data-led visual design, sports analytics aesthetic."
+
+Prompt 4: "Tournament group standings table graphic, clean typographic layout, points and goal difference columns, country color accents per row, modern sports data visualization, shareable 1:1 social format."
+
+Prompt 5: "Pressing intensity zone graphic, pitch divided into color-coded pressure intensity zones, orange high press zones, blue passive zones, professional sports analytics visual design, dark background."
+
+Prompt 6: "Set-piece corner routine tactical board, top-down pitch view, numbered player movement arrows, clean and precise coaching board aesthetic, dark board with white markings, instructional graphic design."

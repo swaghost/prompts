@@ -1,0 +1,67 @@
+Prompt:
+
+"{
+"Professional FIFA World Cup 2026 player poster featuring {subject} from the uploaded image as the main athlete. Full-body portrait, seated confidently on a large geometric pedestal marked with jersey number 10, direct eye contact, calm and determined expression. Wearing a modern Japan national football team navy-blue jersey with white shoulder stripes, matching shorts, knee-high socks, football boots, captain armband with Japanese flag. Clean editorial sports photography, premium Nike/Adidas-style campaign aesthetic, minimalist beige studio background. Large oversized translucent number '10' dominating the backdrop. Sophisticated sports branding layout with Japanese typography, national flags, geometric design elements, vertical text blocks, player profile information, tournament graphics, and modern magazine-style composition. High-end commercial sports poster, balanced negative space, sharp details, realistic fabric textures, subtle shadows, elite athlete presentation, FIFA promotional artwork style, centered composition, symmetrical design, ultra-clean typography hierarchy, muted cream and navy color palette, premium print-quality finish.",
+"negative_prompt": "low resolution, blurry face, extra limbs, extra fingers, distorted anatomy, duplicate body parts, bad typography, cluttered layout, watermark, logo errors, cropped feet, deformed hands, overexposed lighting, oversaturated colors, cartoon, anime, illustration, CGI, unrealistic proportions, messy background, poor composition",
+"style": "sports editorial poster",
+"camera": {
+"angle": "eye level",
+"framing": "full body portrait",
+"lens": "85mm"
+},
+"lighting": {
+"type": "soft studio lighting",
+"quality": "clean, even, commercial"
+},
+"subject": {
+"source": "uploaded image",
+"identity_preservation": "high",
+"pose": "sitting on pedestal, elbows resting on knees, hands clasped together",
+"expression": "confident and composed"
+},
+"design": {
+"aspect_ratio": "4:5",
+"background": "minimalist warm beige",
+"primary_colors": ["navy blue", "cream", "white", "red"],
+"graphic_elements": [
+"oversized number 10",
+"Japanese flags",
+"sports branding graphics",
+"vertical typography",
+"player information panels",
+"modern geometric accents"
+]
+},
+"quality": {
+"photorealism": "ultra realistic",
+"detail": "high",
+"render_quality": "8k"
+}
+}
+"
+
+This prompt is especially useful for making:
+
+    custom football player posters
+
+    national team profile graphics
+
+    sports magazine covers
+
+    fantasy World Cup campaign images
+
+    player-card style portraits
+
+    social media football edits
+
+A good tip is to keep the jersey, number, color palette, and national branding consistent. GPT Image 2.0 usually performs better when the visual identity is very clear instead of mixing too many team styles at once.
+
+You can also swap the country and color palette easily. For example:
+
+"Japan → Brazil / yellow, green, blue
+Japan → Germany / white, black, red
+Japan → France / navy, white, red
+Japan → Argentina / sky blue, white, gold
+Japan → Turkey / red, white, deep burgundy"
+
+Overall, this is a solid prompt structure for creating clean, premium sports posters with GPT Image 2.0, especially when using an uploaded photo as the identity reference. 

@@ -1,0 +1,23 @@
+Transform the uploaded sports poster into a premium graded collectible sports card sealed inside a transparent PSA-style plastic slab.
+
+Keep the original poster fully visible and preserve all its details, composition, colors, typography, player portrait, number 77, team graphics, Breton flags, beige and navy palette, and all existing visual elements. Do not redesign the poster itself. The original image must appear as the card artwork inside the case.
+
+Add a realistic black transparent hard plastic grading case around the poster, with thick molded edges, rounded corners, glossy reflections, subtle scratches, dust marks, plastic scuffs, bevels, and inner holding rails. The card should look physically sealed inside the slab, with a slight plastic glare overlay across the artwork.
+
+At the top of the slab, add a PSA-style grading label with a white background, red border, barcode, small PSA-style logo, and clean black typography. Text on the label:
+
+FABIEN ROUX
+PETIT MAROC
+FIFA WORLD CUP 2026
+CAPITAINE – MILIEU DÉFENSIF
+
+On the right side of the label:
+
+#77
+GEM MT
+10
+202600077
+
+The final image should look like a high-end photorealistic graded sports trading card photographed straight-on, centered, sharp, premium collectible object, realistic plastic reflections, realistic depth, subtle shadows, preserved poster artwork, print-quality finish.
+
+Negative prompt: do not change the man’s face, do not change the jersey, do not crop the poster, do not alter the number 77, do not remove the Breton flag, do not simplify the design, no cartoon, no CGI look, no distorted text, no extra limbs, no warped face, no messy layout, no overexposed glare. 

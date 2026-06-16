@@ -1,0 +1,31 @@
+How to Customize Any Prompt
+
+Every prompt in this guide is a starting point. Five variables change the output most significantly:
+
+1. Country colors — swap in your nation's palette
+
+    Argentina: "sky blue and white vertical stripes"
+    Brazil: "yellow and green"
+    Germany: "black white and red"
+    Spain: "deep red and yellow"
+    Morocco: "red and green"
+    Japan: "deep blue and red"
+
+2. Tournament stage — changes the emotional weight
+
+    "group stage" → open, early tournament energy
+    "quarter final" → pressure building
+    "semi final" → near the summit
+    "final" → maximum stakes
+
+3. Platform format — add at the end of any prompt
+
+    "9:16 vertical, Instagram Story format"
+    "1:1 square, Instagram feed"
+    "16:9, YouTube thumbnail"
+
+4. Mood — one word shifts the entire atmosphere
+
+    "euphoric", "tense", "melancholic", "triumphant", "exhausted"
+
+5. Model — use the model table above to match style to output

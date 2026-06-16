@@ -1,0 +1,16 @@
+Create a cinematic football matchday poster showing a young elite striker walking from a dark stadium tunnel into heavy rain. Use bright floodlights, wet grass reflections, water droplets on the jersey, fog near the pitch entrance, and a low-angle hero shot. Add deep navy shadows, silver highlights, realistic skin texture, and a serious expression. Include small top text "MATCHDAY" and bottom text "Blue City FC vs Madrid United" in clean sports typography. Use fictional teams only, no official logos or sponsor names. Vertical poster format, premium football campaign look, sharp focus, high detail.
+
+
+STYLE: cinematic football matchday poster showing 
+SUBJECT: a young elite striker 
+ACTION: walking 
+CONTEXT: from a dark stadium tunnel into heavy rain. 
+LIGHTING: Use bright floodlights
+ENVIRONMENT: , wet grass reflections, water droplets on the jersey, fog near the pitch entrance, and a low-angle hero shot. 
+COLOR: Add deep navy shadows, silver highlights
+TEXTURE, realistic skin texture, and a serious expression. 
+TEXT DETAILS: Include small top text "MATCHDAY" and bottom text "Blue City FC vs Madrid United" in 
+TYPOGRAPHY: clean sports typography. 
+INSTRUCTIONS/PROHIBITIONS: Use fictional teams only, no official logos or sponsor names. 
+FORMAT: Vertical poster format
+QUALITY: premium football campaign look, sharp focus, high detail.

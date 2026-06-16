@@ -1,0 +1,19 @@
+Prompt 1: "Tournament group stage fixture announcement poster, bold condensed white typography, two country flag color palettes facing each other in a split composition, dark stadium atmosphere background, 'MATCHDAY' header top of frame, professional sports broadcast graphic quality, 9:16 vertical."
+
+Prompt 2: "Match countdown social media graphic, large digital clock display showing hours to kickoff, team color gradient background, electric blue accent, bold white sans-serif typography, 9:16 Story format, clean and urgent."
+
+Prompt 3: "Kickoff tonight graphic, aerial floodlit stadium view at night, golden 'TONIGHT' text overlay with match time, crowd silhouette filling the stands below, cinematic sports broadcast quality, 1:1 square."
+
+Prompt 4: "Group stage bracket update graphic, clean typographic grid, tournament stage labels in bold type, gold and white palette, four groups visible, modern sports data visualization style, Instagram feed format."
+
+Prompt 5: "Knockout round fixture announcement, 'QUARTER FINAL' in large bold display type, opposing country colors split vertically down the center, dramatic pre-match stadium silhouette at base, dark background, 9:16."
+
+Prompt 6: "Tournament day schedule graphic, clean white and gold layout, multiple match times and groups listed clearly, minimal iconography, professional broadcast graphic design, 1:1 square social post."
+
+Prompt 7: "Pre-match squad lineup graphic, eleven numbered player positions marked on a top-down pitch diagram, team colors as background, clean modern sans-serif typography, starting eleven announcement design, Instagram Story format."
+
+Prompt 8: "Halftime score update graphic, bold scoreboard layout, two countries represented as color blocks, match time clock display, live sports graphic aesthetic, high contrast, 1:1 square."
+
+Prompt 9: "Full-time result announcement graphic, winning country colors dominant, final score in large condensed white type, stadium celebration energy, gold confetti texture overlay, shareable social media format, 1:1."
+
+Prompt 10: "Tournament day summary graphic, results listed in clean typographic grid, goal count per match displayed, standings update section, gold accent color, modern sports broadcast aesthetic, 9:16 vertical Story."
