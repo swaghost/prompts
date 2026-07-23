@@ -1,0 +1,67 @@
+MASTER PROMPT TEMPLATE (IDENTITY-PRESERVING B&W EDITORIAL)
+
+Create a photorealistic, hyperrealistic black-and-white editorial portrait.
+
+1) REFERENCE LOCK (non-negotiable)
+Use the uploaded reference image as the exact template for:
+- framing and crop
+- camera height/angle and perspective
+- subject scale and placement
+- pose and gesture structure
+- background structure/negative space
+- lighting direction, hardness, and intensity
+- tonal distribution, contrast curve, shadow density, highlight roll-off
+- depth of field, focus placement, lens character
+- grain and overall editorial mood
+
+2) IDENTITY REPLACEMENT RULE
+Replace ONLY the original subject with the person from the uploaded target image.
+Preserve maximum real identity accuracy:
+- skull/face shape and proportions
+- hairline/hairstyle/texture/volume
+- brows, eyes (shape/spacing), nose, lips, cheeks/cheekbones, jaw/chin, ears
+- skin tone and realistic skin texture
+- facial hair if present
+- neck/shoulders/arms/hands/body proportions
+Do not blend identities or borrow features from the original model.
+
+3) TOGGLES
+
+[POSE_TOGGLE]
+- A: Front-facing intimate close-up, hand supporting cheek/chin, direct eye contact
+- B: Standing/crossed-arms, head turned frame-right, off-camera gaze
+- C: Three-quarter side profile frame-right, hand-to-face gesture, eyes down
+
+[MOOD_TOGGLE]
+- A: Calm, confident, subtly contemplative, relaxed half-smile
+- B: Candid joyful laugh, spontaneous energy
+- C: Serious, introspective, neutral lips, subtle brow tension
+
+[LIGHTING_TOGGLE]
+- A: Soft diffused frontal daylight, gentle highlights, no hard shadows
+- B: Hard key from high frame-right, clean monochrome contrast
+- C: Low-key studio, hard-to-medium key from high frame-left, deep sculpted shadows, minimal fill
+
+[LENS_PROFILE_TOGGLE]
+- A: 85mm, f/2–f/2.8, very shallow DOF
+- B: 70–85mm, f/4–f/5.6, moderate DOF
+- C: 85–105mm, f/2.8–f/4, compressed perspective, shallow DOF
+
+4) WARDROBE / ACCESSORY
+[WARDROBE_DESC]
+Examples:
+- dark/medium grayscale knitwear, ribbed texture, no branding
+- optional understated analog wristwatch on matching wrist/position from reference
+
+5) COMPOSITION OUTPUT SPECS
+- [FRAMING_DESC] (e.g., tight head-and-upper-torso / waist-up / medium close-up)
+- [SUBJECT_PLACEMENT_DESC] (e.g., centered or slightly left with frame-right negative space)
+- sharp focus priority on [FOCUS_ZONES]
+- background softness per reference
+- 8K, ultra high definition, highly detailed, professional photography, matte monochrome finish, fine analog grain
+
+6) HARD NEGATIVES
+No text, logos, extra jewelry/objects, or background clutter unless naturally present in target/reference.
+No pose/camera/gaze changes beyond selected toggles.
+No dramatic relighting outside selected lighting profile.
+No artificial skin smoothing, over-sharpening, overexposure, or brightened shadows.

@@ -1,0 +1,38 @@
+the requested elements are highly consistent and structured around identity-preserving, reference-faithful black-and-white editorial portrait generation.
+
+Common Elements In All 3
+
+Photorealistic/hyperrealistic black-and-white editorial portrait style.
+Strict reference matching: composition, camera setup, pose, lighting, background, lens/DOF, tonal/contrast behavior.
+Identity replacement rule: swap only the original model with the target person while preserving real, recognizable anatomy and facial features.
+No identity blending or feature borrowing from the original model.
+Detailed anatomical fidelity requirements (face structure, proportions, hair, skin texture/tone, etc.; plus body/hand proportions where relevant).
+Controlled professional photo look: sharp focus in key zones, film/analog grain, high detail, 8K/UHD quality.
+Negative constraints: avoid text/logos and avoid unwanted alterations (pose/gaze/expression changes, artificial smoothing/sharpening, overexposure, dramatic relighting, extra objects/accessories unless specified).
+Major Differences Between The 3
+
+Pose and mood:
+- Image 1: intimate front-facing, hand supporting cheek/chin, calm/contemplative with half-smile and direct eye contact.
+- Image 2: standing/crossed-arms, off-camera gaze, candid joyful laugh.
+- Image 3: three-quarter side profile, eyes down, serious introspective expression.
+
+Framing and composition:
+- Image 1: tight head-and-upper-torso vertical close-up.
+- Image 2: near-square, waist-up/upper-thigh crop, subject slightly left with right-side negative space.
+- Image 3: vertical medium close-up side portrait with strong frame-right dark mass.
+
+Lighting character:
+- Image 1: soft diffused frontal daylight, gentle highlights, low-medium contrast.
+- Image 2: harder key from high frame-right, cleaner monochrome contrast.
+- Image 3: low-key studio, hard-to-medium key from high frame-left, deep sculpted shadows.
+
+Lens/DOF targets:
+- Image 1: 85mm, f/2–f/2.8, very shallow DOF.
+- Image 2: 70–85mm, f/4–f/5.6, moderate DOF.
+- Image 3: 85–105mm, f/2.8–f/4, shallow DOF, compressed perspective.
+Wardrobe/accessory constraints:
+- Image 1: soft long-sleeved knit, no added accessories unless naturally present.
+- Image 2: dark crew-neck knit plus a tasteful wristwatch in same wrist position.
+- Image 3: dark textured knitwear plus understated analog wristwatch; explicitly forbids extra jewelry/objects.
+
+Condense this into a reusable “master prompt template” with toggles for pose, mood, lighting, and lens profile.
