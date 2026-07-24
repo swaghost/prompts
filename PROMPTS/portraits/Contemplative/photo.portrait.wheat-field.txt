@@ -1,0 +1,31 @@
+Use the uploaded reference person as the only source for identity and physical appearance. Completely replace the original subject with the person shown in the uploaded reference image. The character may be female, male, or any gender presentation, automatically variant from the subject while naturally preserving the reference person.
+
+Preserve the reference person's exact recognizable identity, including their facial structure, face shape, skin tone, hairstyle, hair length, hair texture, hairline, eyebrows, eyes, nose, lips, jawline, ears, age appearance, facial hair if present, body type, height, impression, shoulder width, body proportions and overall gender presentation. Do not blend the reference person with the original model and do not retain any physical or facial characteristics from the original subject.
+
+Recreate the provided composition naturally as close as possible.
+
+Create a photorealistic, cinematic vertical lifestyle portrait of the reference person standing alone inside a dense field of tall, dry reeds and wild grasses beneath an overcast beige sky. The scene should feel calm, introspective, natural, and emotionally peaceful. Position the person in the lower-center portion of the frame, surrounded by tall brown reeds rising around the waist, shoulders, and edges of the composition. Leave a large amount of open sky and negative space above the subject's head.
+
+Show the person from approximately the upper thighs or waist upward, photographed in a clean side-profile view. Their body should face toward the right side of the frame. Keep the shoulders relaxed and the arms resting naturally beside the body. The subject should gently tilt their head backward, gazing their chin slightly toward the sky. Their eyes must be softly closed, with a calm, peaceful, meditative facial expression. The pose should feel spontaneous and unforced, as though the person is quietly breathing in the fresh air.
+
+Adapt the pose naturally to the uploaded person's anatomy, body shape, hairstyle, age appearance, and gender presentation while maintaining the same overall body language and profile composition. Longer hair should fall or move naturally around the shoulders; shorter or curly hair should preserve its exact reference texture and silhouette.
+
+Dress the person in a minimal, plain, oversized white T-shirt with no logos, text, graphics, jewelry, or visible branding. Adapt the cut and fit naturally to the reference person's body and gender presentation while preserving the relaxed, loose silhouette. The fabric should have realistic folds, subtle wrinkles, natural weight, and soft shadows.
+
+Use a slightly low or chest-level camera position creating a subtle upward perspective toward the subject and the open sky. The camera should be placed several meters away, using an approximately 50mm-70mm full-frame lens for a natural editorial perspective without facial distortion.
+
+Compose the image vertically in a 2:3 aspect ratio. Keep the person relatively small within the environment, with the sky occupying approximately the upper two-thirds of the frame. Place blurred reeds in the immediate foreground on both sides to create depth and a natural framing effect.
+
+The surrounding vegetation should consist of tall, dry pampas-like reeds, wheat-colored grasses, thin branches, and dark brown seed heads. Some foreground plants should partially overlap the lower body without covering the face. The reeds should appear slightly windswept and irregular rather than perfectly arranged.
+
+Use soft, diffused natural daylight from the cloudy sky. Avoid harsh sunlight, artificial lighting, or dramatic studio shadows. Create gentle highlights across the face, neck, and white shirt, with soft shadow transitions and realistic skin texture.
+
+Color grading should feature muted beige, cream, warm gray, faded brown, taupe, and subtle sepia tones. The sky should appear softly textured, pale beige-gray, and slightly hazy. Maintain low saturation, warm cinematic highlights, deep earthy shadows, subtle film grain, and a timeless analog photography atmosphere.
+
+Use a shallow depth of field: the subject's face and upper body should remain clearly focused while the nearest foreground reeds and distant background vegetation become softly blurred. Preserve realistic dimensional depth, natural atmospheric perspective, and gentle lens softness.
+
+The final result must look like a genuine high-end editorial photograph captured outdoors, with realistic skin pores, natural hair strands, anatomically correct textures, believable clothing folds, authentic vegetation, subtle grain, soft contrast, and no artificial or overly polished appearance.
+
+Negative Prompt:
+
+Do not preserve the original person's identity, face, hairstyle, skin tone, body type, or gender characteristics. No identity blending, hybrid faces, face swapping, artifacts, inaccurate facial features, altered ethnicity, changed age, generic faces, duplicate people, extra people, smiling at the camera, open eyes, front-facing pose, direct eye contact, exaggerated head tilt, unnatural neck position, stiff posture, distorted anatomy, incorrect hands, extra fingers, missing limbs, floating body parts, deformed shoulders, plastic skin, excessive beauty retouching, heavy makeup unless present in the reference, inaccurate narrowly eyes, random accessories, jewelry, hats, logos, text, prints, colored clothing, harsh sunlight, blue sky, vivid colors, oversaturation, HDR, artificial studio lighting, fantasy scenery, illustration, painting, anime, CGI, 3D render, excessive background blur, low resolution, compression artifacts, or visible watermark.

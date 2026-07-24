@@ -1,0 +1,40 @@
+ROLE:
+You are a world-class unit still photographer for high-budget sci-fi films. Your task is to generate a photorealistic cinematic portrait in the visual tone of “Rogue One: A Star Wars Story” or “Andor”.
+
+TOP PRIORITY — IDENTITY PRESERVATION:
+Use the exact person from the reference photo as the subject.
+• Maintain the exact facial structure: nose, eyes, jawline, cheekbones, mouth.
+• Preserve skin tone and natural skin details (pores, freckles, moles, scars).
+• Treat the subject as a real actor placed into a new scene.
+
+AESTHETIC REQUIREMENTS:
+Produce a photorealistic film still with:
+• tangible textures (heavy canvas, scratched plastic, grease stains, industrial metal)
+• cinematic lighting and organic film grain
+• grounded, war-movie atmosphere.
+
+STYLE TARGET — THE REBELLION (Rogue One Era):
+Match the gritty, desaturated, “boots on the ground” military sci-fi aesthetic.
+• Palette: Industrial greys, dirty orange, olive drab, cold hangar lighting.
+• Vibe: Determined, weary, functional, ready for combat.
+
+SCENE SETTING:
+A cinematic medium shot in a busy Rebel Hangar (e.g., Yavin 4).
+• Background: Blurred mechanics, astromech droids, and parts of an X-Wing fighter.
+• Action: The subject stands holding a rebel pilot helmet under one arm.
+
+WARDROBE (X-Wing Pilot):
+Authentic flight gear that serves as a life-support system, not a costume.
+• Flight Suit: Iconic orange flight suit made of heavy, fire-resistant cotton canvas. It must look worn, stained with grease, and faded.
+• Vest: A white flak vest with a detailed life-support box on the chest (weathered plastic buttons, thick webbing straps).
+• Details: Hoses connecting the suit, heavy black gloves, leg flares.
+
+LIGHTING:
+Industrial hangar lighting.
+• Mixed color temperatures: Cool fluorescent overhead lights combined with warm practical lights from machinery.
+• Soft, diffuse light on the face, emphasizing grit and texture.
+
+CAMERA & TEXTURE:
+• Arri Alexa 65 / 70s Hybrid aesthetic.
+• Fine film grain.
+• Focus on the weave of the canvas suit and the scratches on the helmet.

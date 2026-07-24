@@ -1,0 +1,31 @@
+Use the uploaded character image as the only identity reference for the person in the final image. Completely replace the original model with the uploaded reference character while preserving the reference character's exact facial identity, age range, skin tone, face shape, forehead structure, eyebrows, eye shape and color, nose shape, lips, cheekbones, jawline, chin, ears, natural beard pattern, facial hair density, hairstyle, hairline, hair texture, neck structure, shoulder width, body proportions, and every recognizable physical detail.
+
+Do not rent or imitate any facial characteristics from the original model shown in the composition reference. The final person must clearly and accurately resemble only the uploaded reference character.
+
+Recreate the supplied studio portrait scene as precisely as possible.
+
+Create a hyper-realistic, premium 4:5 vertical editorial portrait photograph of the uploaded reference character posing against a seamless, saturated electric-blue studio background.
+
+POSE AND COMPOSITION:
+
+Preserve the exact upper-body three-quarter side pose from the composition reference. Position the character with the torso turns back toward the camera while the head turns back toward the camera. One shoulder must remain prominently visible in the foreground, creating a strong diagonal composition. The character should look directly toward the camera with a calm, confident, slightly serious expression.
+
+Keep the exact camera position, camera height, subject distance, head placement, shoulder placement, body angle, crop, negative space, and overall framing of the reference scene. Frame the character from approximately the upper chest upward. Place the character slightly toward the right side of the composition while leaving clean blue negative space around the head and shoulder.
+
+CLOTHING:
+
+Dress the reference character in the same white sleeveless knitted or mesh tank top seen in the composition reference. Preserve the wide arm opening, ribbed neckline, fabric texture, fit, and bright white color. Add a subtle thin silver chain necklace around the neck. The clothing must adapt naturally to the uploaded character's body proportions.
+
+LIGHTING:
+
+Recreate the exact cinematic dual-color studio lighting.
+
+Use an intense saturated blue key light illuminating most of the face, neck, shoulder, and upper body. Add a strong magenta-pink rim light from the opposite rear side, creating visible pink highlights along the hair, temple, cheek, ear, neck, and shoulder. Maintain luminous blue and violet reflections across the skin and clothing.
+
+The lighting must be dramatic but realistic, with detailed skin texture, natural pores, subtle facial hair, realistic specular highlights, and controlled shadows. Preserve the glossy neon editorial atmosphere without making the skin look plastic.
+
+CAMERA AND QUALITY:
+
+Shot on a professional full-frame camera with an 85mm portrait lens, shallow depth of field, sharp focus on the eyes and face, natural lens compression, realistic skin detail, soft background falloff, cinematic contrast, premium fashion campaign photography, ultra-detailed, photorealistic, high dynamic range, 8K quality.
+
+No logos, no text, no watermark, no distorted facial features, no altered identity, no extra jewelry, no excessive skin smoothing, no cartoon appearance, no duplicated body parts, no deformed shoulders or hands.

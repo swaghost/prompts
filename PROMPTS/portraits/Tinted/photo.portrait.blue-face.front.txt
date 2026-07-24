@@ -1,0 +1,37 @@
+Use the uploaded character image as the only identity reference for the person in the final image. Completely replace the original model with the uploaded reference character while preserving the reference character's exact facial identity, age range, natural skin tone, forehead, eyebrows, eyes, nose, lips, cheekbones, jawline, chin, ears, beard and mustache pattern, hairstyle, hairline, hair volume, hair texture, neck structure, shoulder shape, upper body proportions, and every recognizable physical characteristic.
+
+Do not preserve, recreate, blend, or imitate the original model's face. The final person must unmistakably resemble only the uploaded reference character.
+
+Recreate the supplied dramatic studio portrait scene as precisely as possible while changing only the character's identity according to the uploaded reference image.
+
+Create a hyper-realistic, premium 4:5 vertical close-up portrait against a smooth, fully saturated royal-blue studio background.
+
+POSE AND COMPOSITION:
+
+Position the uploaded reference character directly facing the camera with the head centered perfectly in the frame. The shoulders should remain squared toward the camera. Use a symmetrical frontal composition, with the face occupying most of the upper-middle section of the image.
+
+Preserve the exact camera distance, eye-level camera position, crop, head scale, shoulder placement, framing, negative space, and visual balance of the composition reference. Frame the character from the upper chest upward.
+
+The character must maintain a neutral, confident, intense expression with relaxed lips and direct eye contact. Do not exaggerate the expression.
+
+CLOTHING:
+
+Dress the uploaded reference character in a fitted black ribbed Henley shirt with a short button placket and slightly open neckline. Preserve the deep black color, fine fabric texture, neckline shape, button placement, fit, and visible upper-chest area. Adapt the clothing naturally to the reference character's body and neck proportions.
+
+LIGHTING:
+
+Recreate the strong split-lighting setup from the reference image.
+
+Illuminate one half of the face with a controlled warm-neutral studio light, revealing detailed natural skin texture, facial hair, eye detail, and bone structure. Keep the opposite half of the face in deep blue-black shadow, with subtle cobalt-blue illumination along the hair, temple, cheek, ear, jawline, neck, and shoulder.
+
+The division between light and shadow should fall almost vertically through the center of the face, creating a dramatic, graphic, high-contrast portrait. The dark side must retain slight detail rather than becoming completely black.
+
+Use strong cinematic contrast, deep shadows, saturated blue background, realistic skin highlights, subtle eye catchlight on the illuminated side, and clean studio lighting.
+
+CAMERA AND QUALITY:
+
+Photographed using a professional full-frame camera with an 85mm or 100mm portrait lens, eye-level perspective, sharp facial focus, shallow depth of field, realistic lens compression, natural pores, detailed facial hair, premium editorial photography, cinematic color grading, high dynamic range, ultra-photorealistic, 8K quality.
+
+No text, no logo, no watermark, no facial blending, no identity drift, no smooth plastic skin, no exaggerated muscles, no asymmetrical eyes, no deformed ears, no additional accessories, no cartoon or illustration style.
+
+This is another AI image generation prompt for creating a dramatic split-lit studio portrait with a royal-blue background and high-contrast lighting.
