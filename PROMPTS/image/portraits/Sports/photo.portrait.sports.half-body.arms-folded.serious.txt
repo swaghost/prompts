@@ -1,3 +1,99 @@
-Transform the uploaded image into a high-contrast monochrome particle-render aesthetic. Subject reconstructed entirely from thousands of tiny glowing white dots and voxel-like particles on a pure black background. Use point-cloud dispersion, volumetric particles, halftone density gradients, and scattered noise trails to define the silhouette. Preserve the original subject composition and pose, but simplify details into clean geometric forms. Style should feel like futuristic AI architecture visualization mixed with experimental generative art. Visual characteristics: black background only white particle clusters forming the subject subtle floating debris and dissolving particles around edges sparse orange/red accent particles (very minimal) cinematic negative space ultra minimal soft bloom glow on dense particle areas depth created through particle density abstract but recognizable silhouette no realistic textures no colors besides black, white, and tiny orange accents brutalist futuristic design aesthetic clean composition vertical poster layout slight voxel / point-cloud rendering effect high contrast generative AI art style experimental architecture visualization aesthetic Typography treatment: small thin mono-space typography placed minimally on left and right sides, similar to futuristic design posters, white text only, subtle and secondary to the artwork Rendering style: octane render, point cloud simulation, particle system render, volumetric dispersion, procedural dots, cinematic lighting, ultra detailed, abstract minimalism Negative prompt: realistic shading, painterly textures, colorful backgrounds, low contrast, photorealism, messy composition, extra objects, blur, noisy artifacts, low resolution Ration 4:5
+# Portrait Sports Particle Render Aesthetic
 
-This is an AI image generation prompt for creating a futuristic particle-based monochrome portrait with a generative art aesthetic, using point-cloud and voxel-style rendering.
+## Description of Resulting Image
+
+A high-contrast monochrome image featuring subject reconstructed entirely from thousands of tiny glowing white dots and voxel-like particles on pure black background. The composition uses point-cloud dispersion, volumetric particles, halftone density gradients, and scattered noise trails to define the silhouette with sparse orange/red accent particles, creating futuristic AI architecture visualization mixed with experimental generative art aesthetic in vertical poster layout.
+
+## Usage
+
+Perfect for contemporary art projects, futuristic brand campaigns, and experimental digital art exhibitions. Ideal for tech companies, architectural visualization firms, avant-garde fashion editorials, and social media showcasing cutting-edge generative art. This prompt excels at creating brutalist futuristic design aesthetics with abstract minimalism for innovative creative applications.
+
+## Actor or Subject
+
+Subject from reference image reconstructed as particle-based abstract form with recognizable silhouette.
+
+## Prerequisites
+
+- Reference image for subject composition and pose
+
+## Included Effects
+
+**Lighting Effects:**
+- Soft bloom glow on dense particle areas
+- Cinematic lighting on particle clusters
+- Volumetric dispersion lighting
+
+**Photographic Effects:**
+- Point-cloud dispersion
+- Volumetric particles
+- Halftone density gradients
+- Scattered noise trails
+- Slight voxel/point-cloud rendering effect
+
+**Atmospheric Effects:**
+- Subtle floating debris around edges
+- Dissolving particles creating depth
+- Cinematic negative space
+- Ultra minimal atmosphere
+
+**Post-Processing:**
+- High contrast treatment
+- Abstract minimalism finishing
+- Procedural dots rendering
+- Octane render quality
+
+**Style Filters:**
+- Generative AI art style
+- Experimental architecture visualization aesthetic
+- Brutalist futuristic design
+
+## Included Camera Frames
+
+**Camera Type & Lens:**
+- Digital rendering (not traditional photography)
+- Cinematic framing perspective
+
+**Framing & Composition:**
+- Clean composition
+- Vertical poster layout
+- Abstract but recognizable silhouette
+
+**Camera Angle:**
+- Frontal perspective
+- Centered composition
+
+**Depth of Field:**
+- Depth created through particle density
+- No traditional DoF
+
+**Aspect Ratio:**
+- 4:5 vertical format
+
+**Shot Distance:**
+- Medium to full body silhouette
+
+## Image Prompt
+
+**Subject:**
+Transform the uploaded image into high-contrast monochrome particle-render aesthetic. Subject reconstructed entirely from thousands of tiny glowing white dots and voxel-like particles on pure black background. Preserve the original subject composition and pose, but simplify details into clean geometric forms.
+
+**Setting/Environment:**
+Pure black background only with white particle clusters forming the subject. Cinematic negative space with ultra minimal atmosphere. No realistic environments or props.
+
+**Lighting:**
+Soft bloom glow on dense particle areas with cinematic lighting emphasizing volumetric nature of particles. Procedural dots with volumetric dispersion creating depth through particle density.
+
+**Composition:**
+Clean composition with vertical poster layout. Abstract but recognizable silhouette centered in frame. Subtle floating debris and dissolving particles around edges adding dynamism.
+
+**Style & Aesthetic:**
+Futuristic AI architecture visualization mixed with experimental generative art. Style should feel like brutalist futuristic design aesthetic with clean composition. Sparse orange/red accent particles (very minimal) provide color accents against black and white. No realistic textures, no colors besides black, white, and tiny orange accents. High contrast generative AI art style.
+
+**Technical Specifications:**
+Rendering style: octane render, point cloud simulation, particle system render, volumetric dispersion, procedural dots, ultra detailed, abstract minimalism. Slight voxel/point-cloud rendering effect. 4:5 ratio.
+
+**Typography Treatment:**
+Small thin mono-space typography placed minimally on left and right sides, similar to futuristic design posters, white text only, subtle and secondary to the artwork.
+
+**Negative Specifications:**
+Avoid realistic shading, painterly textures, colorful backgrounds, low contrast, photorealism, messy composition, extra objects, blur, noisy artifacts, low resolution.

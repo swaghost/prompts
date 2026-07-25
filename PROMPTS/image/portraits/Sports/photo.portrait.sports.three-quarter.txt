@@ -1,10 +1,109 @@
-Here's the extracted text from the image:
+# Portrait Sports Three-Quarter Red Atmospheric Fog
 
+## Description of Resulting Image
+
+A dramatic vertical cinematic fashion portrait featuring subject standing upright from powerful low-angle perspective in dark studio environment filled with subtle red atmospheric haze and volumetric fog. The composition captures subject from upper thighs/hips to above head with dramatic red backlighting creating luminous halo around hair and shoulders, strong red-orange rim light highlighting features, and deep shadows creating powerful chiaroscuro effect for mysterious commanding presence.
+
+## Usage
+
+Perfect for underground fashion campaigns, experimental music portraits, and cinematic editorial features. Ideal for album covers, fashion lookbooks, artistic brand campaigns, and moody atmospheric content. This prompt excels at creating dramatic low-angle portraits with volumetric lighting effects for high-end editorial and music industry applications.
+
+## Actor or Subject
+
+Subject from uploaded reference image with exact recognizable facial identity, hairstyle, physical build, clothing, accessories, jewelry, tattoos, and overall styling preserved.
+
+## Prerequisites
+
+**MANDATORY:**
+- Character reference image for identity, face, hairstyle, physical build, clothing, accessories, jewelry, tattoos, and overall styling
+
+## Included Effects
+
+**Lighting Effects:**
+- Dramatic red backlighting creating luminous halo
+- Warm red-orange rim light from above
+- Strong highlights on hair, forehead, nose, shoulders
+- Subtle green-black shadow tones for color separation
+
+**Photographic Effects:**
+- Strong chiaroscuro lighting
+- Natural skin texture and pores visible
+- Realistic lens bloom
+- Controlled halation
+- Slightly vintage analog texture
+
+**Atmospheric Effects:**
+- Dark studio environment with red atmospheric haze
+- Volumetric fog creating visible light diffusion
+- Soft layered cinematic fog
+- Red-orange glowing region behind subject
+- Deep black-red at edges
+
+**Post-Processing:**
+- Moody color grading
+- Subtle film grain
+- Deep shadows with partial facial detail
+- Red dominant color treatment
+
+**Style Filters:**
+- Cinematic underground fashion campaign aesthetic
+- Experimental music portrait style
+- Hyper-photorealistic approach
+- High-end editorial quality
+
+## Included Camera Frames
+
+**Camera Type & Lens:**
+- 28mm to 35mm full-frame lens
+- Close camera distance
+
+**Framing & Composition:**
+- Frame from upper thighs/hips to above head
+- Subject centrally positioned
+- Moderate red negative space around head/shoulders
+
+**Camera Angle:**
+- Dramatic low angle from eye level or lower-chest level
+- Angled sharply upward
+- Upper torso, shoulders, chin, face visually dominant
+
+**Depth of Field:**
+- Controlled cinematic depth
+- Face remains recognizable
+
+**Aspect Ratio:**
+- Vertical format
+
+**Shot Distance:**
+- Medium to full body shot from low angle
+
+## Image Prompt
+
+**CRITICAL IDENTITY PRESERVATION:**
 Use the uploaded character reference image as the sole reference for the character's identity, face, hairstyle, physical build, clothing, accessories, jewelry, tattoos, and overall styling.
 
 Completely replace the original model with the person shown in the uploaded reference image. Preserve the uploaded character's exact recognizable facial identity: face shape, skin tone, forehead, eyebrows, eye shape, nose, lips, jawline, cheekbones, ears, facial hair, hairstyle, hair length, hair volume, hair texture, body build, shoulder width, torso proportions, and visible distinguishing features.
 
-Automatically replace the source model's outfit with the exact outfit visible in the uploaded character reference. Preserve the reference clothing's garment type, silhouette, fit, sleeve length, neckline, collar, hoodie texture, pattern, logos, jewelry, necklaces, earrings, belts, trousers, accessories, and visible styling. Do not retain the original oversized black T-shirt, chain necklace, cargo trousers, belt, or accessories unless they are also present in the uploaded character reference.
+**Subject:**
+Character stands upright and faces camera from powerful low-angle perspective. Torso remains almost front-facing with shoulders relaxed. Head held slightly upward, creating confident, distant, mysterious, and commanding presence. Character looks down toward camera with serious, emotionless expression. Keep lips natural and gaze calm but intense. Position both arms naturally along sides of body or according to visible stance of source composition. Maintain realistic hand placement, natural shoulders, correct elbow positioning, and anatomically accurate body proportions.
+
+**Setting/Environment:**
+Dark studio environment filled with subtle red atmospheric haze and volumetric fog. The backdrop should transition from deep black-red at the edges to brighter glowing red-orange region behind character. The fog should be soft, layered, and cinematic, producing visible light diffusion without hiding the character.
+
+**Lighting:**
+Use dramatic red backlighting positioned behind character, creating luminous halo around hair, shoulders, and outer edges of body. Add narrow warm red-orange rim light from above or slightly above camera, forming strong highlight on top of hair, forehead, nose bridge, shoulders, and upper clothing. Keep much of front torso in deep shadow. Add very subtle green-black or neutral shadow tone in darkest regions to create cinematic color separation, while maintaining red as dominant color. Face should be partially obscured by dramatic shadows, but enough detail must remain visible to identify uploaded reference character accurately. Use strong chiaroscuro lighting. Allow one side of face and neck to fall into deep shadow while red reflected light softly illuminates opposite side. Preserve natural skin texture, pores, facial contours, and realistic highlights/shadows. Do not crush all facial detail into complete black.
+
+**Composition:**
+Recreate dramatic vertical cinematic fashion portrait with low-angle viewpoint, body stance, framing, red atmospheric lighting, background fog, and visual mood. Frame subject from approximately upper thighs or hips to above head. Place subject centrally in composition. Camera should be positioned near eye level or lower-chest level and angled sharply upward, making upper torso, shoulders, chin, and face appear visually dominant. Leave moderate red negative space around head and shoulders. Use characteristics of 28mm to 35mm full-frame lens, close camera distance, dramatic low-angle perspective, slightly emphasized upper body proportions and controlled cinematic distortion. Keep character's identity recognizable and do not excessively stretch or warp face or body.
+
+**Style & Aesthetic:**
+Cinematic underground fashion campaign, experimental music portrait, red volumetric haze, dramatic low-angle photography, powerful silhouette, intense rim lighting, deep shadows, subtle film grain, slightly vintage analog texture, realistic lens bloom, controlled halation, moody color grading, high-end editorial quality, hyper-photorealistic, ultra-detailed, 8K.
+
+**Technical Specifications:**
+Automatically replace source model's outfit with exact outfit visible in uploaded character reference. Preserve reference clothing's garment type, silhouette, fit, sleeve length, neckline, collar, hoodie texture, pattern, logos, jewelry, necklaces, earrings, belts, trousers, accessories, and visible styling. Do not retain original oversized black T-shirt, chain necklace, cargo trousers, belt, or accessories unless they are also present in uploaded character reference. Hair must follow uploaded reference exactly. Use red backlight to define individual strands, curls, waves, or straight sections based on reference character's real hairstyle. Do not keep original shoulder-length hairstyle unless it appears in uploaded character reference. Clothing should react realistically to red atmospheric lighting. Dark fabrics should show subtle red highlights along folds, seams, shoulders, sleeves, and edges. Light-colored garments from uploaded reference should remain recognizable while being naturally affected by red lighting. Preserve visible logos or graphics only when they exist in uploaded reference, without inventing new text.
+
+**Negative Specifications:**
+Do not use original model's identity. Do not combine facial characteristics from both persons. Do not change uploaded character's face, posture, hairstyle, clothing, or accessories. No additional persons, no duplicate figures, no artificial text, no watermark, no borders. Avoid incorrect anatomy, distorted torso, oversized head, shortened arms, duplicated hands, missing fingers, melted clothing, unreadable invented logos, completely black facial features, excessive fog, excessive red saturation, or artificial plastic skin.
 
 Recreate a dramatic vertical cinematic fashion portrait with the same low-angle viewpoint, body stance, framing, red atmospheric lighting, background fog, and visual mood as the supplied reference.
 

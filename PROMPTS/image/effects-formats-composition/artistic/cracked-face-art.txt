@@ -1,1 +1,114 @@
-Surreal black and white portrait of a man with curly hair, wearing a dark turtleneck, with the upper half of his face dissolving into cracked wall textures, abstract emotional art, high contrast editorial style.
+# Cracked Wall Face Dissolution - Abstract Portrait
+
+## Description of Resulting Image
+
+A surreal black and white portrait of a man in a dark turtleneck with curly hair, featuring the upper half of his face dissolving into cracked wall textures, creating abstract emotional art with high contrast editorial styling.
+
+## Usage
+
+Perfect for album covers, mental health awareness campaigns, identity and fragmentation narratives, and contemporary art portfolios. Ideal for editorial content exploring psychological themes, book covers about inner turmoil or transformation, fashion campaigns with conceptual edge, and artistic projects examining the relationship between internal and external surfaces. This prompt excels at creating emotionally resonant surreal portraits with strong visual metaphor.
+
+## Actor or Subject
+
+Man with curly hair in dark turtleneck with face partially dissolving into wall texture
+
+## Prerequisites
+
+- Subject reference photo
+- Can adapt to various face types
+
+## Included Effects
+
+**Lighting Effects:**
+
+- High contrast dramatic lighting
+- Strong shadows and highlights
+- Editorial portrait lighting
+- Directional key light
+
+**Photographic Effects:**
+
+- Black and white conversion
+- High contrast enhancement
+- Sharp detail on intact features
+- Texture blending on dissolution area
+- Editorial photography aesthetic
+
+**Atmospheric Effects:**
+
+- Surreal transformation mood
+- Abstract emotional atmosphere
+- Psychological depth
+- Dissolution and fragmentation feeling
+
+**Post-Processing:**
+
+- Black and white grading
+- High contrast processing
+- Texture overlay on face
+- Seamless blending of face and wall
+- Abstract art refinement
+
+**Style Filters:**
+
+- Surrealist art style
+- Editorial fashion aesthetic
+- Abstract conceptual art
+- Emotional visual storytelling
+
+## Included Camera Frames
+
+**Camera Type & Lens:**
+
+- Professional DSLR/Mirrorless
+- 85mm portrait lens
+- Editorial photography setup
+
+**Framing & Composition:**
+
+- Head and shoulders portrait
+- Upper body visible
+- Centered composition
+- Focus on face dissolution
+
+**Camera Angle:**
+
+- Eye level
+- Straight-on perspective
+- Traditional portrait angle
+
+**Depth of Field:**
+
+- Moderate DoF (f/4-f/5.6)
+- Face sharp before texture transition
+- Slight background separation
+
+**Aspect Ratio:**
+
+- Portrait format (4:5 or 3:4)
+- Vertical composition
+
+**Shot Distance:**
+
+- Close-up to medium close-up
+- Head and shoulders portrait
+
+## Image Prompt
+
+**Subject:**
+Man with curly hair wearing dark turtleneck. Lower half of face including mouth, chin, and neck remains intact and realistic. Upper half of face - forehead, eyes, nose area - dissolving and blending into cracked wall textures. Cracked plaster or concrete texture replacing facial features in dissolution area. Natural curly hair texture maintained. Expression calm or neutral in visible features.
+
+**Setting/Environment:**
+Minimal or clean background allowing focus on surreal face transformation. Could be studio setting or subtle neutral backdrop. Environment secondary to the subject's facial transformation. Simple context emphasizing the portrait itself.
+
+**Lighting:**
+High contrast dramatic lighting creating strong definition between light and shadow areas. Directional key light illuminating intact portion of face and creating depth in texture areas. Editorial portrait lighting style. Strong blacks and bright highlights enhancing surreal effect. Lighting emphasizes both human features and wall texture equally.
+
+**Composition:**
+Head and shoulders portrait with face centered in frame. Upper face dissolution into cracked wall texture as main visual focus. Dark turtleneck creating strong base for portrait. Curly hair adding organic texture contrasting with geometric cracks. Negative space supporting surreal transformation. Balanced composition between realism and abstraction.
+
+**Style & Aesthetic:**
+Surreal black and white portrait combining photorealism with abstract texture art. High contrast editorial style creating dramatic visual impact. Emotional metaphor of dissolution, fragmentation, or internal/external duality. Contemporary conceptual art meets fashion editorial photography. Abstract texture seamlessly integrated with facial features. Psychological depth through visual metaphor.
+
+**Technical Specifications:**
+85mm portrait lens, f/4-f/5.6 aperture, black and white conversion, high contrast processing, texture overlay technique, seamless blending, editorial portrait lighting, 4K-8K resolution, professional black and white photography standards, abstract art composition principles

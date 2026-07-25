@@ -1,1 +1,114 @@
-A hyper-close-up of a human eye. The pupil reflects a flickering screen of code or scrolling data. Superimposed over the eye is a red, minimalist targeting reticle (crosshairs). The overall image is dark, desaturated, with the red reticle as the only color.
+# Eye Targeting System - Surveillance Portrait
+
+## Description of Resulting Image
+
+A hyper-close-up of a human eye with code scrolling in the pupil reflection and a red minimalist targeting reticle overlay, featuring dark desaturated tones with the red crosshairs as the only color accent for a dystopian surveillance aesthetic.
+
+## Usage
+
+Perfect for cybersecurity campaigns, dystopian tech narratives, privacy awareness content, and sci-fi editorial imagery. Ideal for thriller movie posters, technology ethics presentations, data surveillance articles, hacker culture content, and futuristic tech brand marketing. This prompt excels at creating intense close-up visuals with strong symbolic messaging about surveillance, targeting, and digital identity.
+
+## Actor or Subject
+
+Extreme close-up of human eye with digital surveillance elements
+
+## Prerequisites
+
+- Optional: Specific eye reference photo
+- Can generate from description
+
+## Included Effects
+
+**Lighting Effects:**
+
+- Dark low-key lighting
+- Subtle eye catchlight
+- Minimal ambient illumination
+- Focused light on eye surface
+
+**Photographic Effects:**
+
+- Hyper-close-up macro photography
+- Desaturated color palette
+- Sharp iris detail
+- Code reflection in pupil
+- Red accent color isolation
+
+**Atmospheric Effects:**
+
+- Dark dystopian mood
+- Technology surveillance atmosphere
+- Tense monitoring feeling
+- Minimalist clinical environment
+
+**Post-Processing:**
+
+- Heavy desaturation (except red)
+- High contrast enhancement
+- Sharp detail on iris
+- Red reticle overlay
+- Dark tonal grading
+
+**Style Filters:**
+
+- Cyberpunk surveillance aesthetic
+- Dystopian tech style
+- Minimalist dramatic composition
+- Thriller movie poster look
+
+## Included Camera Frames
+
+**Camera Type & Lens:**
+
+- Macro lens photography
+- 100mm macro or equivalent
+- Extreme close-up capability
+
+**Framing & Composition:**
+
+- Extreme close-up
+- Eye fills majority of frame
+- Centered iris and pupil
+- Minimal surrounding context
+
+**Camera Angle:**
+
+- Direct frontal view
+- Perpendicular to eye surface
+- Straight-on perspective
+
+**Depth of Field:**
+
+- Moderate macro DoF
+- Iris sharp, edges softer
+- Pupil reflection in focus
+
+**Aspect Ratio:**
+
+- Square (1:1) or landscape (16:9)
+- Centered composition
+
+**Shot Distance:**
+
+- Extreme close-up
+- Macro photography distance
+
+## Image Prompt
+
+**Subject:**
+Human eye in extreme close-up showing detailed iris texture and pupil. Pupil reflects flickering screen of code or scrolling data - green or white digital text flowing like Matrix-style display. Eye surface shows natural moisture and fine detail. Realistic human eye anatomy with technical digital elements in reflection.
+
+**Setting/Environment:**
+Dark minimalist environment with almost no visible context beyond the eye itself. Clinical dystopian atmosphere. No background distractions - pure black or very dark tones surrounding the eye. Focus entirely on eye and overlay elements.
+
+**Lighting:**
+Dark low-key lighting creating dramatic mood. Subtle catchlight in eye maintaining natural appearance while showing code reflection in pupil. Minimal ambient light - most of frame in shadow. Eye surface lit just enough to show iris detail and pupil reflection clearly.
+
+**Composition:**
+Eye centered and filling frame in extreme close-up. Red minimalist targeting reticle (crosshairs) superimposed over eye - clean geometric lines creating targeting/tracking interface element. Pupil positioned at reticle center. Code reflection visible within pupil area. Dark desaturated surroundings creating stark contrast with red reticle.
+
+**Style & Aesthetic:**
+Hyper-close-up macro photography with dystopian tech surveillance aesthetic. Overall image heavily desaturated - almost black and white - with red targeting reticle as only color element. Code reflection in pupil adds cyberpunk digital layer. Minimalist composition emphasizing surveillance and monitoring themes. Dark tense atmosphere suggesting tracking, targeting, or digital control. Clinical precision combined with dystopian messaging.
+
+**Technical Specifications:**
+Macro lens, extreme close-up distance, desaturated color grading (except red), code/data reflection layer in pupil, red targeting reticle graphic overlay, dark low-key lighting, high contrast processing, 4K-8K resolution for iris detail, professional macro photography standards

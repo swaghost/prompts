@@ -1,1 +1,120 @@
-Ultra-detailed artistic female portrait in profile view, subject standing with her head slightly tilted downward, hair tied in a soft bun with loose strands framing the face. A powerful golden backlight floods the background, creating a glowing halo around her silhouette. Thick smoke diffuses the light, filling the frame with gradients of amber and deep yellow tones, enhancing the ethereal atmosphere. Captured in medium close-up, camera at shoulder height, emphasizing the contour of her profile against the radiant haze. Fine-art cinematic portrait with precise skin textures visible in illuminated areas, soft highlights along hair strands, and fabric folds subtly emerging from shadow. Strong chiaroscuro lighting sculpts the figure, blending mystery with elegance. Negative prompts: distortion, blur excess, cartoon, over-saturation. Captured with a Hasselblad H6D-100c, 100mm f/2.2 lens, rendered in 8K photorealism.
+# Backlit Smoke Portrait - Golden Halo
+
+## Description of Resulting Image
+
+Ultra-detailed artistic female portrait in profile view with powerful golden backlighting creating a glowing halo, thick smoke diffusing amber and yellow tones throughout the ethereal atmosphere, captured with fine-art cinematic quality.
+
+## Usage
+
+Perfect for fine-art photography collections, luxury editorial campaigns, and atmospheric portrait series. Ideal for gallery exhibitions, high-end magazine editorials, artistic social media content, and sophisticated brand storytelling. This prompt excels at creating ethereal backlit portraits with dramatic chiaroscuro lighting and smoke effects for elegant visual narratives.
+
+## Actor or Subject
+
+Female subject in profile view, standing with head slightly tilted downward, hair tied in soft bun with loose strands framing the face.
+
+## Prerequisites
+
+- Reference image for subject identity (recommended)
+
+## Included Effects
+
+**Lighting Effects:**
+- Powerful golden backlight
+- Glowing halo around silhouette
+- Rim lighting on hair strands
+- Strong chiaroscuro lighting
+- Soft highlights in illuminated areas
+- Light diffusion through smoke
+
+**Photographic Effects:**
+- Ultra-detailed resolution
+- Precise skin textures in illuminated areas
+- Medium close-up framing
+- Fine-art photography aesthetic
+- 8K photorealism rendering
+- Shallow depth of field (f/2.2)
+
+**Atmospheric Effects:**
+- Thick smoke diffusing light
+- Gradients of amber and deep yellow tones
+- Ethereal atmosphere
+- Radiant haze filling frame
+- Mystery and elegance blend
+
+**Post-Processing:**
+- High contrast chiaroscuro
+- Fine-art color grading
+- Detail enhancement in key areas
+- Fabric fold rendering from shadow
+- Professional retouching
+
+**Style Filters:**
+- Fine-art cinematic portrait
+- Ethereal atmospheric style
+- Chiaroscuro lighting aesthetic
+- Gallery-worthy quality
+- Elegant mystery tone
+
+## Included Camera Frames
+
+**Camera Type & Lens:**
+- Hasselblad H6D-100c (or equivalent medium format camera)
+- 100mm f/2.2 lens
+
+**Framing & Composition:**
+- Medium close-up portrait
+- Profile view emphasizing silhouette contour
+- Shoulder height camera position
+- Subject positioned against radiant haze
+- Balanced negative space
+
+**Camera Angle:**
+- Shoulder height perspective
+- Level with subject's profile
+- Emphasizing vertical silhouette line
+
+**Depth of Field:**
+- Shallow (f/2.2)
+- Sharp focus on profile
+- Soft atmospheric background
+- Bokeh in smoke particles
+
+**Aspect Ratio:**
+- Portrait orientation
+- Standard fine-art photography ratio
+
+**Shot Distance:**
+- Medium close-up
+- Capturing head, neck, and upper shoulders
+
+## Image Prompt
+
+**Subject:**
+Ultra-detailed artistic female portrait in profile view, subject standing with her head slightly tilted downward, hair tied in a soft bun with loose strands framing the face. Precise skin textures visible in illuminated areas, soft highlights along hair strands, and fabric folds subtly emerging from shadow.
+
+**Setting/Environment:**
+Studio environment with controlled lighting setup. Powerful golden backlight floods the background, creating a glowing halo around her silhouette. Thick smoke fills the space, diffusing the light and creating an ethereal atmosphere.
+
+**Lighting:**
+Powerful golden backlight creating a glowing halo effect around the subject's silhouette. Strong chiaroscuro lighting sculpts the figure, blending mystery with elegance. Soft highlights illuminating key areas while deep shadows create dramatic contrast. Light diffused through thick smoke, creating gradients of amber and deep yellow tones.
+
+**Composition:**
+Captured in medium close-up, camera at shoulder height, emphasizing the contour of her profile against the radiant haze. Profile view with head slightly tilted downward creating elegant line. Loose hair strands framing the face add organic elements. Figure positioned to maximize silhouette impact against backlit smoke.
+
+**Style & Aesthetic:**
+Fine-art cinematic portrait with ethereal atmospheric quality. Chiaroscuro lighting technique creating strong light-dark contrasts. Mystery and elegance blended seamlessly. Gallery-worthy artistic treatment with sophisticated visual language.
+
+**Technical Specifications:**
+Captured with a Hasselblad H6D-100c and 100mm f/2.2 lens, rendered in 8K photorealism. Ultra-detailed resolution with precise skin textures, hair strand definition, and fabric rendering. Professional medium format quality with exceptional dynamic range.
+
+**Color Palette:**
+Gradients of amber and deep yellow tones from backlight. Rich golden hues dominating the atmosphere. Warm skin tones in illuminated areas. Deep shadows with subtle color temperature. Ethereal color harmony throughout.
+
+**Mood & Atmosphere:**
+Ethereal, mysterious, elegant, contemplative, fine-art aesthetic, dramatic, atmospheric, sophisticated, introspective, radiant, chiaroscuro drama, gallery-worthy presence.
+
+**Quality Keywords:**
+8K photorealism, ultra-detailed, fine-art photography, medium format quality, precise skin textures, professional lighting, cinematic quality, gallery exhibition worthy, award-winning portrait, high dynamic range, Hasselblad quality.
+
+**Negative Prompt (What to Avoid):**
+Distortion, blur excess, cartoon style, over-saturation, artificial skin smoothing, flat lighting, cluttered background, loss of detail, unrealistic smoke effects, harsh transitions, amateur composition, digital artifacts, overly processed look.

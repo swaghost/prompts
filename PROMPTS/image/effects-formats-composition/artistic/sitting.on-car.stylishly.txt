@@ -1,1 +1,110 @@
-ultra-realistic fashion portrait, man standing and leaning against the rear of a blackclassic sedan in a seamless studio, huge empty negative space above, body positioned on the right side of the frame, full-body shot, relaxed stance with one shoulder resting on the car, one hand in pocket, other arm hanging naturally, wearing a fitted black shirt, beige trouser, dark sunglasses,, sneakers, muted premium styling, soft diffused studio lighting, subtle floor shadow, clean gray-white cyclorama background, centered Mercedus the left, medium composition, calm confident expression, photorealistic, high-end editorial look, same camera angle, same pose, same composition,
+# Stylish Car Lean - Studio Fashion Portrait
+
+## Description of Resulting Image
+
+An ultra-realistic fashion portrait of a man leaning casually against the rear of a black classic sedan in a seamless studio environment, featuring high-end editorial styling with dramatic negative space and minimalist composition.
+
+## Usage
+
+Perfect for luxury automotive advertising, high-end menswear campaigns, lifestyle brand marketing, and premium fashion editorials. Ideal for fashion magazines, automotive brand collaborations, social media influencer content, and commercial photography portfolios. This prompt excels at creating sophisticated urban luxury aesthetics while maintaining photorealistic quality and editorial polish for premium brand positioning.
+
+## Actor or Subject
+
+Man in stylish casual-formal attire positioned against a classic black sedan
+
+## Prerequisites
+
+- Subject reference photo
+- Optional: Specific car model reference
+
+## Included Effects
+
+**Lighting Effects:**
+
+- Soft diffused studio lighting
+- Subtle floor shadows
+- Even illumination with minimal hotspots
+
+**Photographic Effects:**
+
+- Photorealistic rendering
+- High-end editorial color grading
+- Shallow depth of field
+- Crisp detail and texture
+
+**Atmospheric Effects:**
+
+- Clean studio atmosphere
+- Seamless cyclorama background
+- Premium muted tonal palette
+
+**Post-Processing:**
+
+- High contrast editorial look
+- Muted color styling
+- Professional retouching aesthetic
+- Sharp subject detail
+
+**Style Filters:**
+
+- High-end fashion editorial aesthetic
+- Luxury lifestyle photography
+- Minimalist studio composition
+
+## Included Camera Frames
+
+**Camera Type & Lens:**
+
+- Professional DSLR/Mirrorless
+- 50mm or 85mm prime lens
+- Medium format sensor aesthetic
+
+**Framing & Composition:**
+
+- Full-body shot
+- Subject positioned on right side of frame
+- Huge empty negative space above
+- Car centered on left
+- Medium wide composition
+
+**Camera Angle:**
+
+- Eye level to slightly elevated
+- Straight-on perspective
+- Architectural studio framing
+
+**Depth of Field:**
+
+- Moderate DoF (f/4-f/5.6)
+- Sharp subject and car
+- Clean background
+
+**Aspect Ratio:**
+
+- Vertical portrait format (4:5 or 9:16)
+- Editorial magazine layout
+
+**Shot Distance:**
+
+- Full body shot
+- Medium-wide environmental portrait
+
+## Image Prompt
+
+**Subject:**
+Man in fitted black shirt, beige trousers, dark sunglasses, and sneakers. Relaxed stance with one shoulder resting on the car, one hand in pocket, other arm hanging naturally. Calm confident expression. Muted premium styling and natural posture.
+
+**Setting/Environment:**
+Seamless studio with clean gray-white cyclorama background. Black classic sedan (Mercedes-style) positioned on the left side of frame. Huge empty negative space above the subject. Minimalist premium studio environment with subtle floor reflections.
+
+**Lighting:**
+Soft diffused studio lighting creating even illumination. Subtle floor shadows anchoring the subject. Clean, professional lighting setup with no harsh contrasts. Bright enough to show detail while maintaining mood.
+
+**Composition:**
+Full-body shot with subject positioned on the right side of frame. Car centered on the left. Dramatic negative space above creates editorial balance. Medium wide composition. Rule of thirds positioning with subject as right anchor point.
+
+**Style & Aesthetic:**
+High-end editorial fashion photography. Ultra-realistic photorealistic rendering. Muted premium color palette. Sophisticated urban luxury aesthetic. Clean minimalist studio style with focus on subject and vehicle relationship.
+
+**Technical Specifications:**
+Professional camera setup, 50-85mm lens, f/4-f/5.6 aperture, studio strobe lighting, 8K resolution, high dynamic range, photorealistic rendering quality, editorial retouching standards

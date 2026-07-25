@@ -1,9 +1,116 @@
-# PERFUME BOTTLE WITH WATER BRIDGE
+## POSSIBLE MISCATEGORIZATION
+
+This prompt appears to generate something other than an image, and could be miscategorized.
+
+# Perfume Bottle with Water Bridge
+
+## Description of Resulting Image
+
+A centered perfume bottle with a surreal horizontal torn-paper bridge cutting through its center, filled with a dense volumetric water stream that creates the illusion of the bottle being sliced through, set against a clean monochromatic studio background matching the bottle's dominant color.
+
+## Usage
+
+Use this prompt when creating eye-catching luxury fragrance advertising that requires surreal, impossible visual effects to stand out on social media or in editorial spreads. The water bridge concept works exceptionally well for aquatic or fresh fragrance lines. This style is perfect for campaigns that want to communicate fluidity, freshness, or transformation while maintaining premium luxury aesthetics.
+
+## Actor or Subject
+
+Uploaded perfume bottle (exact reference preserved), horizontal torn-paper bridge with cylindrical curled ends, dense volumetric water stream.
+
+## Prerequisites
+
+- Uploaded perfume bottle image as exact reference
+- Bottle's dominant color identified for background matching
+
+## Included Effects
+
+### Lighting
+
+Premium soft studio lighting, subtle shadow beneath bottle, gentle highlights on water and paper
+
+### Photographic
+
+Ultra-realistic luxury product photography, sharp product focus
+
+### Atmospheric
+
+Surreal impossible physics, water suspension effect, torn paper texture realism
+
+### Post-Processing
+
+Color matching to bottle's dominant color, premium commercial finish, monochromatic background treatment
+
+### Style Filters
+
+Premium commercial advertising quality, luxury fragrance aesthetic
+
+## Included Camera Frames
+
+### Camera Type
+
+Professional studio photography camera
+
+### Framing
+
+Bottle perfectly centered, vertically aligned, occupying majority of frame
+
+### Angle
+
+Straight-on front-facing, eye-level
+
+### DoF
+
+Sharp focus throughout product and water effect
+
+### Aspect Ratio
+
+4:5
+
+### Shot Distance
+
+Full product shot with effect detail visible
 
 ## Image Prompt
 
-Create a premium luxury fragrance advertisement using the uploaded perfume bottle. Preserve the bottle exactly as uploaded. Do not alter the shape, cap, glass, proportions, reflections, colors, label, logo, typography, or branding. Keep the bottle perfectly centered, front-facing, and vertically aligned. Create a clean monochromatic studio background and seamless surface using the bottle's dominant color with premium soft lighting and a subtle shadow beneath the bottle. Across the exact center of the bottle, create a realistic horizontal torn-paper bridge. The paper must have rough torn fibers, visible thickness, and both ends tightly rolled into realistic cylindrical curls like a torn poster, matching the reference. Inside the torn-paper opening, create a dense volumetric water bridge that completely fills the tunnel. The water exists only inside the paper opening, creating the illusion that the bottle has been sliced through. Do not place the water over the bottle surface. The water should be thick, richly colored (matching the bottle), highly detailed, and opaque enough to completely hide any bottle text or logo behind it. No additional props or text. Ultra-realistic luxury product photography, premium commercial advertising quality. Aspect Ratio: 4:5
+### Subject
 
-## Animation Instructions
+Perfume bottle (uploaded reference) preserved exactly as uploaded - do not alter shape, cap, glass, proportions, reflections, colors, label, logo, typography, or branding. Bottle perfectly centered, front-facing, and vertically aligned. Horizontal torn-paper bridge across exact center of bottle with rough torn fibers, visible thickness, both ends tightly rolled into realistic cylindrical curls like torn poster. Dense volumetric water bridge completely filling the tunnel inside torn-paper opening.
 
-Keep the entire scene completely frozen. No camera movement, no bottle movement, no background animation, no lighting changes, no reflections shifting, and no motion in any object. Only the existing horizontal water ribbon inside the bottle's cut moves. The water remains perfectly confined within the narrow horizontal bridge that passes through the center of the bottle, flowing internally from the left torn edge to the right torn edge only. The water does not fall downward, spill, drip, splash, overflow, or leave the bridge at any point. It behaves like a smooth, continuous stream inside a fixed horizontal channel, with subtle internal currents, gentle ripples, and realistic fluid motion while maintaining the exact shape, thickness, and position of the water bridge. The water should have medium-high density with convincing depth and volume, not thin or transparent. The lower portion of the water ribbon should appear full and substantial, with enough water mass that the background beneath it is largely obscured. Maintain the exact blue color, translucency, and rich liquid appearance seen in the original image, preserving its realistic depth, refraction, and glossy highlights throughout the animation. The water never exits the bridge or changes direction. Everything except the water remains 100% motionless.
+### Setting
+
+Clean monochromatic studio background using bottle's dominant color, seamless surface, no additional props
+
+### Lighting
+
+Premium soft lighting creating subtle shadow beneath bottle, gentle highlights on glass and water
+
+### Composition
+
+Bottle perfectly centered and vertical, horizontal paper bridge cutting through exact center, water confined within paper tunnel creating slice-through illusion
+
+### Style
+
+Ultra-realistic luxury product photography, premium commercial advertising aesthetic, surreal impossible effect
+
+### Technical Specs
+
+Water exists only inside paper opening creating bottle-sliced illusion, do not place water over bottle surface. Water thick, richly colored matching bottle, highly detailed, opaque enough to hide bottle text/logo behind it. No additional text.
+
+### Color Palette
+
+Monochromatic background matching bottle's dominant color, bottle colors preserved exactly, water color matching bottle tones
+
+### Mood
+
+Surreal, fresh, luxurious, impossible physics, eye-catching editorial
+
+### Quality Keywords
+
+Ultra-realistic luxury product photography, premium commercial advertising quality, 4:5 aspect ratio
+
+### Negative Prompt
+
+Altered bottle design, changed branding, cluttered background, additional props, text overlay, water spilling outside bridge, thin transparent water, realistic physics, tilted bottle
+
+## Animation Note
+
+This prompt includes animation instructions for water movement within the bridge while keeping all other elements frozen - indicating video/motion graphics application.

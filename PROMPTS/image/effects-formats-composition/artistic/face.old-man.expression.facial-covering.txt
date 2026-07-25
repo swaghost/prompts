@@ -1,1 +1,113 @@
-Medium close-up of a Japanese man standing calmly in a misty green garden, showing his face and upper body, soft morning light diffused through fog, cherry blossom petals drifting in air, his expression focused and serene, traditional kimono and hakama details visible, gentle breeze moving his hair, cinematic portrait framing ARRI Alexa 65, 8K, realistic texture, shallow depth of field, calm green atmosphere.
+# Elderly Expression Portrait - Character Study
+
+## Description of Resulting Image
+
+A cinematic medium close-up portrait of an elderly Japanese man in traditional attire within a misty garden setting, emphasizing natural aged features and serene contemplative expression with atmospheric cinematography and shallow depth of field.
+
+## Usage
+
+Perfect for documentary character studies, cultural heritage projects, aging and wisdom-themed campaigns, and fine art portrait photography. Ideal for meditation and mindfulness content, traditional culture preservation, life experience storytelling, and editorial content celebrating aging with dignity. This prompt excels at capturing authentic elderly character with respect and cinematic beauty while maintaining naturalistic portraiture quality.
+
+## Actor or Subject
+
+Elderly Japanese man in traditional clothing with expressive weathered features
+
+## Prerequisites
+
+- Subject reference photo
+- Optional: Specific facial expression reference
+
+## Included Effects
+
+**Lighting Effects:**
+
+- Soft morning light diffused through fog
+- Natural atmospheric illumination
+- Gentle directional lighting
+- Misty diffusion
+
+**Photographic Effects:**
+
+- Shallow depth of field
+- Cinematic ARRI Alexa 65 aesthetic
+- 8K realistic texture
+- Natural skin detail preservation
+- Film-quality rendering
+
+**Atmospheric Effects:**
+
+- Morning garden mist
+- Cherry blossom petals drifting
+- Gentle breeze effect
+- Calm green atmospheric tones
+
+**Post-Processing:**
+
+- Cinematic color grading
+- Natural skin texture enhancement
+- Film-like quality
+- Respectful character rendering
+
+**Style Filters:**
+
+- Documentary portrait style
+- Cinematic character study
+- Japanese aesthetic principles
+- Natural contemplative mood
+
+## Included Camera Frames
+
+**Camera Type & Lens:**
+
+- ARRI Alexa 65 cinema camera aesthetic
+- 85mm or 100mm portrait lens
+- Professional cinema setup
+
+**Framing & Composition:**
+
+- Medium close-up
+- Face and upper body prominent
+- Traditional portrait framing
+- Atmospheric negative space
+
+**Camera Angle:**
+
+- Eye level
+- Respectful direct perspective
+- Natural portrait angle
+
+**Depth of Field:**
+
+- Shallow DoF (f/2.8 or wider)
+- Face sharp, background soft
+- Atmospheric bokeh
+
+**Aspect Ratio:**
+
+- Cinematic or portrait format (2.39:1 or 4:5)
+- Professional composition
+
+**Shot Distance:**
+
+- Medium close-up
+- Character portrait distance
+
+## Image Prompt
+
+**Subject:**
+Elderly Japanese man with weathered, expressive features showing natural aging. Focused and serene expression conveying wisdom and calm. Traditional kimono and hakama visible with authentic details. Hair gently moved by breeze. Natural facial wrinkles and character lines preserved and respected. Upper body and face clearly visible in medium close-up.
+
+**Setting/Environment:**
+Misty green Japanese garden with atmospheric depth. Cherry blossom petals drifting through air. Natural morning fog creating soft diffusion. Traditional garden elements softly blurred in background. Calm peaceful environment supporting contemplative mood.
+
+**Lighting:**
+Soft morning light diffused through natural fog and garden mist. Gentle directional illumination on face highlighting character and expression. Natural daylight creating peaceful atmosphere. Light quality respectful of aged skin texture showing natural dignity. Balanced exposure maintaining detail and mood.
+
+**Composition:**
+Medium close-up portrait emphasizing facial expression and character. Subject positioned with natural framing. Cherry blossom petals creating atmospheric depth. Shallow depth of field separating subject from softly rendered garden background. Traditional Japanese aesthetic principles of simplicity and reverence for age.
+
+**Style & Aesthetic:**
+Cinematic character portrait in ARRI Alexa 65 style. 8K realistic texture showing natural aged skin with respect and dignity. Documentary portrait approach celebrating wisdom and life experience. Film-quality color science. Calm green atmospheric tones. Authentic cultural representation. Natural contemplative mood emphasizing serenity and focus.
+
+**Technical Specifications:**
+ARRI Alexa 65 aesthetic, 85-100mm portrait lens, f/2.8 or wider, shallow depth of field, soft natural morning light, 8K resolution, cinematic color grading, natural skin texture preservation, respectful aging representation, professional cinema camera quality

@@ -1,1 +1,117 @@
-Create a striking, symmetrically split portrait of a single person, visually divided vertically down from the center. On one side, depict them in their original youth. On the other, render a realistically aged version as an elderly individual, with detailed wrinkles, gray hair, and the wisdom of time. The two halves should merge carefully at the center against a clean, [color] background, creating a powerful contrast. Use dramatic, stylish lighting and ensure professional, high-quality, photorealistic detail throughout the composition.
+# Young-Old Symmetry Portrait
+
+## Description of Resulting Image
+
+A striking symmetrically split portrait of a single person divided vertically down the center, with one side depicting them in their original youth and the other showing a realistically aged elderly version with detailed wrinkles, gray hair, and the wisdom of time. The two halves merge seamlessly at the center against a clean colored background, creating a powerful contrast with dramatic stylish lighting and professional photorealistic quality.
+
+## Usage
+
+Perfect for age progression demonstrations, life insurance marketing, retirement planning materials, and powerful storytelling about time and aging. Ideal for healthcare brands, insurance companies, documentary projects, and social media content exploring themes of aging, wisdom, and life journey. This prompt excels at creating emotionally impactful comparisons while maintaining photorealistic quality for commercial and editorial applications.
+
+## Actor or Subject
+
+A single person whose face is symmetrically split to show both their youthful appearance and realistically aged elderly version, merged at the vertical center line.
+
+## Prerequisites
+
+- Subject reference photo (person to be depicted in both young and old versions)
+- Desired background color specification
+
+## Included Effects
+
+**Lighting Effects:**
+
+- Dramatic stylish lighting
+- Professional portrait illumination
+- Even lighting across both halves
+- Highlight and shadow balance
+
+**Photographic Effects:**
+
+- High contrast between youth and age
+- Photorealistic skin texture rendering
+- Detailed wrinkle and aging detail
+- Sharp focus throughout
+- Professional studio quality
+
+**Atmospheric Effects:**
+
+- Powerful emotional atmosphere
+- Serious contemplative mood
+- Clean minimalist environment
+
+**Post-Processing:**
+
+- Seamless center merge line
+- Color-matched lighting across halves
+- Professional retouching
+- High-quality detail preservation
+
+**Style Filters:**
+
+- Editorial portrait style
+- Dramatic conceptual photography
+- Professional studio aesthetic
+
+## Included Camera Frames
+
+**Camera Type & Lens:**
+
+- Professional studio camera with portrait lens (85mm-135mm equivalent)
+
+**Framing & Composition:**
+
+- Symmetrical portrait composition
+- Centered subject with vertical split
+- Direct frontal view
+- Perfectly balanced halves
+
+**Camera Angle:**
+
+- Eye level, straight-on perspective
+- Direct face-forward angle
+
+**Depth of Field:**
+
+- Sharp focus throughout entire face
+- No background blur (clean backdrop)
+
+**Aspect Ratio:**
+
+- Standard portrait format (3:4 or 4:5)
+
+**Shot Distance:**
+
+- Medium close-up to close-up portrait
+
+## Image Prompt
+
+**Subject:**
+Create a striking, symmetrically split portrait of a single person, visually divided vertically down from the center. On one side, depict them in their original youth with smooth skin and youthful features. On the other, render a realistically aged version as an elderly individual, with detailed wrinkles, gray hair, age spots, and the wisdom of time reflected in their expression.
+
+**Setting/Environment:**
+Clean, [color] background providing minimalist backdrop that emphasizes the subject without distraction.
+
+**Lighting:**
+Dramatic, stylish lighting that illuminates both halves evenly, creating professional portrait quality with balanced highlights and shadows, sophisticated studio lighting setup.
+
+**Composition:**
+Perfectly symmetrical vertical split down the center of the face, with young side and elderly side merging carefully at the centerline. Subject facing directly forward, centered in frame.
+
+**Style & Aesthetic:**
+Professional conceptual portrait photography, dramatic and thought-provoking, editorial quality, powerful visual storytelling about aging and time.
+
+**Technical Specifications:**
+Professional, high-quality, photorealistic detail throughout the composition, seamless merge at center line, sharp focus on both halves, studio-quality rendering.
+
+**Color Palette:**
+Natural skin tones transitioning from youthful to aged, gray hair on elderly side, clean [color] background, professional color grading.
+
+**Mood & Atmosphere:**
+Powerful, dramatic, contemplative, emotional, thought-provoking, serious, impactful, timeless, philosophical.
+
+**Quality Keywords:**
+Photorealistic, professional photography, high-quality, detailed wrinkles, studio portrait, symmetrical composition, dramatic lighting, editorial quality, ultra-detailed, 8K resolution.
+
+**Negative Prompt (What to Avoid):**
+Asymmetrical split, visible seam line, unnatural aging, cartoon-like features, poor merge, inconsistent lighting between halves, blurry details, low quality, artificial appearance, cluttered background, uneven proportions.

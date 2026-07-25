@@ -1,5 +1,121 @@
-Here's the extracted text from the image:
+# Digital Particle Render - Portrait
 
-Transform the uploaded image into a high-contrast monochrome particle-render aesthetic. Subject reconstructed entirely from thousands of tiny glowing white dots and voxel-like particles on a pure black background. Use point-cloud dispersion, volumetric particles, halftone density gradients, and scattered noise trails to define the silhouette. Preserve the original subject composition and pose, but simplify details into clean geometric forms. Style should feel like futuristic AI architecture visualization mixed with experimental generative art. Visual characteristics: black background only white particle clusters forming the subject subtle floating debris and dissolving particles around edges sparse orange/red accent particles (very minimal) cinematic negative space ultra minimal soft bloom glow on dense particle areas depth created through particle density abstract but recognizable silhouette no realistic textures no colors besides black, white, and tiny orange accents brutalist futuristic design aesthetic clean composition vertical poster layout slight voxel / point-cloud rendering effect high contrast generative AI art style experimental architecture visualization aesthetic Typography treatment: small thin mono-space typography placed minimally on left and right sides, similar to futuristic design posters, white text only, subtle and secondary to the artwork Rendering style: octane render, point cloud simulation, particle system render, volumetric dispersion, procedural dots, cinematic lighting, ultra detailed, abstract minimalism Negative prompt: realistic shading, painterly textures, colorful backgrounds, low contrast, photorealism, messy composition, extra objects, blur, noisy artifacts, low resolution Ration 4:5
+## Description of Resulting Image
 
-This is an AI image generation prompt for creating a monochrome particle-based portrait with a futuristic generative art aesthetic.
+A high-contrast monochrome particle-render portrait where the subject is reconstructed entirely from thousands of tiny glowing white dots and voxel-like particles on a pure black background, creating a futuristic AI architecture visualization mixed with experimental generative art aesthetic.
+
+## Usage
+
+Perfect for experimental digital art, futuristic branding, tech startup campaigns, and contemporary art galleries. Ideal for AI companies, generative art portfolios, abstract design projects, architecture visualization, and cutting-edge social media content. This prompt excels at creating minimalist particle-based portraits with brutalist futuristic design for innovative visual art applications.
+
+## Actor or Subject
+
+Subject from uploaded image transformed into particle/voxel rendering
+
+## Prerequisites
+
+**MANDATORY:**
+- Reference image to transform into particle render
+
+## Included Effects
+
+**Lighting Effects:**
+- Soft bloom glow on dense particle areas
+- Minimal lighting focused on particle clusters
+- High contrast pure white on black
+- Volumetric particle illumination
+
+**Photographic Effects:**
+- Point-cloud dispersion effect
+- Halftone density gradients
+- Scattered noise trails
+- Depth created through particle density
+
+**Atmospheric Effects:**
+- Pure black background
+- Cinematic negative space
+- Sparse orange/red accent particles (minimal)
+- Ultra minimal atmosphere
+
+**Post-Processing:**
+- High contrast treatment
+- Octane render quality
+- Procedural dots rendering
+- Volumetric dispersion
+
+**Style Filters:**
+- Futuristic AI architecture visualization
+- Experimental generative art aesthetic
+- Brutalist futuristic design
+- Abstract minimalism
+
+## Included Camera Frames
+
+**Camera Type & Lens:**
+- Digital render camera
+- Vertical poster composition
+
+**Framing & Composition:**
+- Vertical poster layout
+- Clean composition with negative space
+- Abstract but recognizable silhouette
+- Minimal design focus
+
+**Camera Angle:**
+- Frontal perspective
+- Architectural visualization angle
+
+**Depth of Field:**
+- Depth created through particle density
+- All particles sharp
+
+**Aspect Ratio:**
+- 4:5 vertical poster format
+
+**Shot Distance:**
+- Medium to full subject framing
+
+## Image Prompt
+
+**CRITICAL:**
+Transform the uploaded image into a high-contrast monochrome particle-render aesthetic.
+
+**Subject:**
+Subject reconstructed entirely from thousands of tiny glowing white dots and voxel-like particles on a pure black background. Use point-cloud dispersion, volumetric particles, halftone density gradients, and scattered noise trails to define the silhouette. Preserve the original subject composition and pose, but simplify details into clean geometric forms.
+
+**Setting/Environment:**
+Pure black background only. Cinematic negative space creating ultra minimal atmosphere.
+
+**Visual Characteristics:**
+- Black background only
+- White particle clusters forming the subject
+- Subtle floating debris and dissolving particles around edges
+- Sparse orange/red accent particles (very minimal)
+- Depth created through particle density
+- Abstract but recognizable silhouette
+- No realistic textures
+- No colors besides black, white, and tiny orange accents
+
+**Typography Treatment:**
+Small thin mono-space typography placed minimally on left and right sides, similar to futuristic design posters. White text only, subtle and secondary to the artwork.
+
+**Composition:**
+Vertical poster layout with clean composition emphasizing negative space and particle architecture.
+
+**Style & Aesthetic:**
+Futuristic AI architecture visualization mixed with experimental generative art aesthetic. Brutalist futuristic design with clean abstract minimalism.
+
+**Technical Specifications:**
+Octane render, point cloud simulation, particle system render, volumetric dispersion, procedural dots, cinematic lighting, ultra detailed rendering.
+
+**Color Palette:**
+Black, white, and tiny orange/red accents only. High contrast monochrome with minimal color.
+
+**Mood & Atmosphere:**
+Futuristic, experimental, minimalist, architectural, abstract, cutting-edge, technological.
+
+**Quality Keywords:**
+Ultra minimal, high contrast, octane render, point cloud simulation, volumetric particles, ultra detailed, abstract minimalism, generative AI art style, experimental architecture visualization.
+
+**Negative Prompt (What to Avoid):**
+Realistic shading, painterly textures, colorful backgrounds, low contrast, photorealism, messy composition, extra objects, blur, noisy artifacts, low resolution.

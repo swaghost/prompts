@@ -1,1 +1,112 @@
-A detailed artistic drawing of a human face on a white background, facing forward. The face appears to be breaking apart into floating fragments. The left side of the face is made entirely of shimmering light glowing particles, reflections, and rays as if dissolving into brightness. The right side remains realistic, softly shaded, showing calm facial features. The composition is elegant, emotional, and minimalist, with high contrast between light and form.
+# Dissolving Light Face - Duality Portrait
+
+## Description of Resulting Image
+
+An elegant artistic portrait of a human face breaking apart with one half dissolving into shimmering light particles and rays while the other remains realistically rendered, creating a powerful minimalist composition exploring transformation and duality on a white background.
+
+## Usage
+
+Perfect for mental health awareness campaigns, personal transformation narratives, spiritual and wellness brand imagery, and contemporary art portfolios. Ideal for book covers exploring themes of identity or change, therapeutic practice marketing, magazine editorials about inner light or healing, and motivational content about personal growth. This prompt excels at creating emotionally resonant symbolic portraits with clean minimalist execution for impactful visual storytelling.
+
+## Actor or Subject
+
+Human face in frontal view with half realistic, half dissolving into light
+
+## Prerequisites
+
+- Optional: Subject reference photo for facial structure
+- Can generate from description alone
+
+## Included Effects
+
+**Lighting Effects:**
+
+- Shimmering light particles
+- Glowing rays emanating from left side
+- Bright ethereal illumination
+- Light reflections and sparkles
+
+**Photographic Effects:**
+
+- High contrast between light and form
+- Soft shading on realistic side
+- Sharp detail on intact features
+- Particle dispersion effect
+
+**Atmospheric Effects:**
+
+- Dissolving transformation
+- Ethereal brightness
+- Minimalist clean atmosphere
+- Floating fragments
+
+**Post-Processing:**
+
+- High contrast enhancement
+- Clean white background
+- Particle glow effects
+- Soft realistic shading
+
+**Style Filters:**
+
+- Artistic drawing aesthetic
+- Minimalist composition
+- Elegant emotional tone
+- Contemporary digital art style
+
+## Included Camera Frames
+
+**Camera Type & Lens:**
+
+- Digital art rendering
+- Frontal portrait perspective
+- Standard lens equivalent (50mm view)
+
+**Framing & Composition:**
+
+- Head and face frontal view
+- Centered composition
+- Minimalist negative space
+- Clean white background
+
+**Camera Angle:**
+
+- Direct frontal view
+- Eye level
+- Symmetrical perspective split
+
+**Depth of Field:**
+
+- Full focus on face
+- Clean background separation
+- All elements sharp
+
+**Aspect Ratio:**
+
+- Square (1:1) or portrait (4:5)
+- Centered balanced composition
+
+**Shot Distance:**
+
+- Head and upper neck portrait
+- Close-up facial view
+
+## Image Prompt
+
+**Subject:**
+Human face facing forward in frontal view. Left side of face dissolving into shimmering light particles, glowing rays, reflections, and bright ethereal energy - appearing to break apart into brightness. Right side remains realistic with softly shaded calm facial features showing natural detail and peaceful expression. Face appears to be breaking apart into floating fragments transitioning from form to light.
+
+**Setting/Environment:**
+Clean white background creating minimalist canvas. No additional environment elements. Pure white negative space emphasizing the transformation of the face. Elegant and simple backdrop allowing subject to be sole focus.
+
+**Lighting:**
+Left side radiates with intense shimmering light, glowing particles, and bright rays creating ethereal illumination. Right side lit with soft diffused light creating gentle realistic shading. High contrast between the bright dissolving light side and the softly shaded realistic side. Light appears to emanate from within the transformation itself.
+
+**Composition:**
+Face centered in frame with symmetrical division between realistic and dissolving sides. High contrast split creates visual impact. Minimalist composition with elegant simplicity. Floating light particles and fragments extend into white space. Balanced emotional weight between form and dissolution.
+
+**Style & Aesthetic:**
+Detailed artistic drawing style combining realistic rendering with abstract light effects. Elegant and emotional minimalist aesthetic. Contemporary digital art with philosophical undertones. High contrast between physical form and ethereal light creating duality metaphor. Clean execution with focus on transformation symbolism. Calm features suggesting peace within change.
+
+**Technical Specifications:**
+Digital art rendering, frontal perspective, high contrast processing, particle light effects, soft realistic shading, clean white background isolation, high resolution detail, elegant minimalist composition, professional digital art standards

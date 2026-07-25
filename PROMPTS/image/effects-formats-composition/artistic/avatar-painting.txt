@@ -1,1 +1,113 @@
-Use reference photo to create a hyper-realistic scene featuring a 1/7 scale commercialized figurine of the uploaded photo.The figurine is realistic, standing on a round transparent acrylic base, placed on a computer DEST NEXT to the desk is the real-life version of the same man wearing the same attire as in the reference photo, cleaning the figurine carefully with a fine brush.The environment is a modern styled studio room, brightly lit,with shelves in the background holding a collection of toys.
+# Figurine and Creator - Meta Portrait
+
+## Description of Resulting Image
+
+A hyper-realistic scene featuring a 1/7 scale figurine of a person standing on an acrylic base on a desk, with the real-life version of that same person cleaning the miniature carefully with a brush in a modern studio room with toy collection shelves, creating a meta-narrative about creation and self.
+
+## Usage
+
+Perfect for toy and collectible advertising, creative process documentation, artist portfolio showcases, and meta-narrative editorial content. Ideal for social media content about hobbies and collecting, product photography for figurine companies, lifestyle brand campaigns emphasizing craftsmanship and attention to detail, and conceptual projects exploring themes of self-representation and creation. This prompt excels at creating playful yet sophisticated imagery with strong storytelling and commercial appeal.
+
+## Actor or Subject
+
+Person interacting with miniature figurine version of themselves in studio workspace
+
+## Prerequisites
+
+- Subject reference photo (MANDATORY - used to create both figurine and real person with identical appearance and attire)
+- Full body reference showing outfit and pose for figurine
+
+## Included Effects
+
+**Lighting Effects:**
+
+- Bright studio lighting
+- Even illumination throughout
+- Soft shadows
+- Clean white light
+
+**Photographic Effects:**
+
+- Hyper-realistic rendering
+- Sharp detail on figurine and person
+- Product photography quality
+- Depth and scale accuracy
+- Realistic material textures
+
+**Atmospheric Effects:**
+
+- Modern clean studio environment
+- Bright airy atmosphere
+- Collector's workspace mood
+
+**Post-Processing:**
+
+- Natural color correction
+- Enhanced detail on miniature
+- Clean bright aesthetic
+- Product photography finish
+- Identity preservation on both figure and person
+
+**Style Filters:**
+
+- Commercial product photography
+- Lifestyle documentary style
+- Modern clean aesthetic
+- Hobby and collecting vibe
+
+## Included Camera Frames
+
+**Camera Type & Lens:**
+
+- Professional DSLR/Mirrorless
+- 50mm or 85mm lens
+- Product photography setup
+
+**Framing & Composition:**
+
+- Medium shot capturing desk, figurine, and person
+- Horizontal composition
+- Shelves visible in background
+- Multi-element environmental shot
+
+**Camera Angle:**
+
+- Eye level to slightly elevated
+- Natural viewing perspective
+- Clear view of both figurine and person
+
+**Depth of Field:**
+
+- Moderate DoF (f/4-f/5.6)
+- Figurine and person both sharp
+- Background shelves slightly softer but visible
+
+**Aspect Ratio:**
+
+- Horizontal landscape (16:9 or 3:2)
+- Environmental narrative composition
+
+**Shot Distance:**
+
+- Medium shot
+- Environmental lifestyle photography distance
+
+## Image Prompt
+
+**Subject:**
+Real-life person matching reference photo exactly - same facial features, hair, skin tone, and wearing identical attire as shown in reference. Person seated or standing next to computer desk, carefully cleaning a 1/7 scale commercialized figurine of themselves with a fine detail brush. Figurine standing on round transparent acrylic base, positioned on desk surface. Figurine is hyper-realistic miniature version of the person, wearing same outfit as the reference photo and real person, with detailed sculpting and paint work. Person's posture shows careful attention and concentration on cleaning/maintaining the miniature.
+
+**Setting/Environment:**
+Modern styled studio room or workspace. Computer desk as main surface with figurine placed on it. Shelves in background holding collection of toys, figurines, and collectibles creating hobbyist environment. Bright clean contemporary interior. Well-organized creative workspace aesthetic. Natural collector's room atmosphere.
+
+**Lighting:**
+Bright studio lighting creating even illumination throughout the scene. Soft shadows maintaining detail. Clean white light showing colors accurately. Product photography quality lighting on figurine. Natural indoor lighting creating comfortable workspace atmosphere. Well-lit environment showing all details of figurine, person, and background collection clearly.
+
+**Composition:**
+Medium shot environmental composition showing relationship between person and miniature figurine. Desk provides foundation for figurine on acrylic base. Real person positioned next to or behind desk, engaged with the miniature. Background shelves with toy collection provide context and depth. Horizontal format allowing full scene to be captured. Scale relationship between 1/7 figurine and real person clearly visible.
+
+**Style & Aesthetic:**
+Hyper-realistic commercial lifestyle photography. Product photography quality on figurine with detailed sculpting and paint visible. Documentary style capturing collector/hobbyist moment. Modern clean aesthetic with bright airy feel. Meta-narrative about self-representation and creation. Identity preservation critical - figurine and real person must be unmistakably the same individual in same attire. Playful yet sophisticated tone celebrating collecting and craftsmanship.
+
+**Technical Specifications:**
+50-85mm lens, f/4-f/5.6 aperture, bright studio lighting, 8K resolution, product photography standards for figurine detail, accurate scale representation (1/7), hyper-realistic textures on both figurine and environment, exact identity and outfit matching between reference photo, figurine, and real person, professional commercial photography quality

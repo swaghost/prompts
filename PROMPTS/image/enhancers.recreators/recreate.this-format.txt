@@ -1,1 +1,95 @@
-Give me a prompt that creates this format as a template, without the details. Analyze how it's structured, color-coded, font-coded.  I want to make a series that uses something like this  as a template.
+# Format Recreation Template Generator
+
+## Description of Resulting Image
+
+This prompt is designed to analyze and recreate structural formatting templates from reference images. The resulting output is a comprehensive template specification that captures visual formatting elements including color coding, font hierarchy, layout structure, spacing patterns, and typographic styling without the specific content details.
+
+## Usage
+
+This enhancer is perfect for creating consistent visual formatting templates across a series of images or designs. Use when you need to maintain brand consistency, replicate successful design patterns, or establish formatting standards for content series. Apply this technique when developing style guides, creating template libraries, or standardizing visual presentation across multiple assets while allowing content flexibility.
+
+## Actor or Subject
+
+Reference images or designs with clear formatting structure, color schemes, and typographic hierarchy that can be analyzed and abstracted into reusable templates.
+
+## Prerequisites
+
+- High-quality reference image with clear visual formatting
+- Identifiable color-coding system or palette
+- Defined font hierarchy and typographic styling
+- Clear layout structure and spacing patterns
+- Visual elements that can be abstracted from specific content
+
+## Included Effects
+
+### Lighting
+- Not applicable (template formatting focus)
+
+### Photographic
+- Not applicable (template formatting focus)
+
+### Atmospheric
+- Not applicable (template formatting focus)
+
+### Post-Processing
+- Color scheme extraction and codification
+- Typography hierarchy documentation
+- Layout grid and spacing analysis
+- Visual element categorization
+
+### Style Filters
+- Design system abstraction
+- Template formatting standardization
+- Visual hierarchy preservation
+
+## Included Camera Frames
+
+### Camera Type
+Not applicable (template formatting focus)
+
+### Framing
+Layout boundaries and compositional structure analysis
+
+### Angle
+Not applicable (template formatting focus)
+
+### Depth of Field
+Not applicable (template formatting focus)
+
+### Aspect Ratio
+Document original aspect ratio for template replication
+
+### Shot Distance
+Not applicable (template formatting focus)
+
+## Image Prompt
+
+### Subject
+Analyze the reference image's formatting structure, identifying color-coded elements, font-coded sections, visual hierarchy, and layout patterns.
+
+### Setting
+Create a comprehensive template specification that captures the visual formatting system without including specific content details.
+
+### Lighting
+Not applicable for template analysis. Document any lighting-based visual effects used in the formatting if relevant.
+
+### Composition
+Analyze how the format is structured—color-coded sections, font-coded hierarchy, spacing patterns, alignment systems, and visual element positioning.
+
+### Style
+Document the overall design aesthetic, visual style characteristics, and formatting approach that makes the template distinctive and recognizable.
+
+### Technical Specs
+Give me a prompt that creates this format as a template, without the details. Analyze how it's structured, color-coded, font-coded. Provide specifications for replicating the visual formatting system including color values, font sizes and weights, spacing measurements, layout grid, and hierarchical organization.
+
+### Color Palette
+Extract and document all colors used in the formatting system with their specific roles (headers, body, accents, backgrounds, etc.). Provide color values and usage guidelines.
+
+### Mood
+Describe the overall visual tone and aesthetic feeling created by the formatting structure—professional, casual, creative, technical, etc.
+
+### Quality Keywords
+Template formatting, design system, color coding, font hierarchy, layout structure, visual consistency, replicable template, format abstraction, style guide documentation.
+
+### Negative Prompt
+Do not include specific content details, actual text content, particular images, or unique content elements. Focus only on the formatting structure, visual hierarchy, and design system that can be applied to different content.

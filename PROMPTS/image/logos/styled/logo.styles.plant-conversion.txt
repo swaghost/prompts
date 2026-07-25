@@ -1,1 +1,100 @@
-Create a 3D-rendered digital image of the logo using the leaf texture and surface style from the reference image. The logo should maintain its original shape, orientation, and proportions, but be rendered as if it’s entirely made from a soft, organic leaf material — complete with realistic veins, surface depth, and natural matte gloss. Render it in Cinema 4D style, with high contrast lighting that enhances depth, shadow, and surface details. The result should be ultra-realistic, with the logo appearing as if sculpted from natural material in a premium, editorial look. Style: Hyper-realistic 3D Texture: Green leaf with visible veins (from reference) Lighting: Studio lighting, high contrast Background: White Format: Portrait Resolution: (3:4 ratio) Quality: 8K Render
+# Logo Rendered as Natural Leaf Material - Organic 3D Sculpture
+
+## Description of Resulting Image
+
+A 3D-rendered logo maintaining its original shape and proportions but transformed to appear as if sculpted entirely from soft organic leaf material. The rendering features realistic leaf veins, surface depth, natural matte gloss, and high-contrast studio lighting that enhances shadows and surface details in Cinema 4D style.
+
+## Usage
+
+Use this prompt when you want to create an eco-friendly, organic brand representation that connects your logo with nature and sustainability. Perfect for environmental organizations, organic food brands, natural products, green technology companies, or any business wanting to emphasize their connection to nature. The hyper-realistic 3D leaf texture creates memorable visual impact while maintaining brand recognition.
+
+## Actor or Subject
+
+Brand logo transformed into organic leaf material sculpture
+
+## Prerequisites
+
+- Logo design with original shape/proportions to maintain
+- Reference image showing desired leaf texture and vein pattern
+- Cinema 4D style rendering capability
+- 8K resolution support
+
+## Included Effects
+
+### Lighting
+- Studio lighting setup
+- High contrast illumination
+- Depth and shadow enhancement
+- Surface detail highlighting
+
+### Photographic
+- Hyper-realistic 3D rendering
+- Ultra-realistic texture mapping
+- Premium editorial look
+
+### Atmospheric
+- Natural organic aesthetic
+- Premium product presentation
+- Environmental/sustainable mood
+
+### Post-Processing
+- 8K resolution rendering
+- Surface detail enhancement
+- Texture depth refinement
+
+### Style Filters
+- Cinema 4D rendering aesthetic
+- Hyper-realistic 3D style
+- Natural organic material treatment
+
+## Included Camera Frames
+
+### Camera Type
+Studio camera with 3D rendering capability (Cinema 4D)
+
+### Framing
+Centered logo maintaining original orientation
+
+### Angle
+Optimized to showcase leaf texture and surface details
+
+### Depth of Field (DoF)
+Sharp focus on logo with clean background
+
+### Aspect Ratio
+Portrait 3:4 ratio
+
+### Shot Distance
+Close enough to reveal leaf vein details and surface texture
+
+## Image Prompt
+
+### Subject
+Create a 3D-rendered digital image of the logo using the leaf texture and surface style from the reference image. The logo should maintain its original shape, orientation, and proportions, but be rendered as if it's entirely made from a soft, organic leaf material — complete with realistic veins, surface depth, and natural matte gloss.
+
+### Setting
+White background for clean premium editorial presentation
+
+### Lighting
+Studio lighting with high contrast that enhances depth, shadow, and surface details
+
+### Composition
+Logo centered maintaining original proportions, balanced presentation showcasing natural material transformation
+
+### Style
+Hyper-realistic 3D, Cinema 4D rendering aesthetic, premium editorial look, natural organic sculpture
+
+### Technical Specs
+Cinema 4D style rendering, 8K resolution, portrait format (3:4 ratio), ultra-realistic texture mapping with visible leaf veins, surface depth rendering, natural matte gloss finish
+
+### Color Palette
+Green leaf tones with visible natural vein patterns from reference image, white background, natural organic color variations
+
+### Mood
+Organic, sustainable, natural, premium, eco-friendly, artistic, editorial
+
+### Quality Keywords
+3D-rendered, hyper-realistic, soft organic leaf material, realistic veins, surface depth, natural matte gloss, Cinema 4D style, high contrast lighting, ultra-realistic, 8K, premium editorial
+
+### Negative Prompt
+Flat texture, artificial plastic look, distorted proportions, harsh lighting, busy background, unrealistic leaf pattern, shiny finish, low detail, shape alteration

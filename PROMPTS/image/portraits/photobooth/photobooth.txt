@@ -1,15 +1,118 @@
-Edit with the Docs app
+# My Photobooth Sheet 4x4 Grid
 
-Make tweaks, leave comments, and share with others to edit at the same time.
+## Description of Resulting Image
 
-NO THANKSUSE THE APP
+An ultra-high-resolution 4×4 black-and-white photobooth contact sheet featuring 16 panels with the same adult woman from reference image, preserving her identity with strict consistency across all panels. Each frame shows a tight head-and-shoulders portrait with different playful expressions (scrunched smile, intense stare, joyful laugh, etc.), captured with classic photobooth aesthetic featuring plain neutral gray background, direct front flash, and pure black and white with medium-high contrast.
 
-My Photobooth Sheet
+## Usage
 
-My Photobooth Sheet
+Perfect for social media content, creative portrait series, and playful editorial photography. Ideal for personal branding, fun lifestyle campaigns, retro-inspired content, and artistic portrait collections. This prompt excels at creating authentic photobooth contact sheets with 16 varied expressions for creative and social applications.
 
-My Photobooth Sheet
+## Actor or Subject
 
- Upload your reference image and use it as the primary identity anchor. Create an ultra-high-resolution 4×4 black-and-white photobooth contact sheet featuring the same adult woman from the reference image. Preserve her identity with strict consistency, including facial features, hairstyle, face shape, skin texture, and proportions across all 16 panels. Dress her in a plain black T-shirt with no logos or graphics. Use a classic photobooth aesthetic with a plain neutral gray background, no props, direct front photobooth flash, slightly hard but flattering lighting, soft short shadows behind the subject, and avoid cinematic side lighting or dramatic backgrounds. Capture each panel as a tight head-and-shoulders portrait using a 50mm lens, keeping the eyes perfectly sharp in every frame. Arrange the images in a 4×4 square grid with thin gutters and high consistency between panels. Render in pure black and white with medium-high contrast, subtle analog photobooth grain, crisp sharpness, and clean edges. The 16 expressions should be: (1) scrunched smile with slightly squeezed eyes, (2) intense stare with fingers framing the eyes, (3) big joyful laugh with mouth open, (4) bored unimpressed face with chin resting in hands, (5) sad pout with watery eyes, (6) goofy face with both hands making small horns above the head, (7) playful tongue out with a cheeky grin, (8) angry glare with lowered eyebrows, (9) flirty look with one hand touching the cheek, (10) surprised wide eyes with slightly open mouth, (11) fake scream or excited shout with hands near the face, (12) mischievous grin with claw-like hand pose, (13) confused frown with pressed lips, (14) dramatic crying face with hands on the head, (15) playful tongue out with eyes closed, and (16) duck face while making a small devil horns gesture. Prioritize realistic hands and facial anatomy, ensuring no extra or missing fingers, no warped faces, uneven eyes, melted mouths, plastic skin, text, watermarks, or logos. Avoid color, sepia tones, beauty-retouched skin, low resolution, blur, distorted anatomy, and overly cinematic lighting. Aspect ratio 4:5
+Adult woman from reference image with identity strictly preserved across all 16 panels wearing plain black T-shirt.
 
+## Prerequisites
 
+**MANDATORY:**
+- Reference image for identity preservation across all panels
+
+## Included Effects
+
+**Lighting Effects:**
+- Direct front photobooth flash
+- Slightly hard but flattering lighting
+- Soft short shadows behind subject
+- Balanced frontal illumination
+
+**Photographic Effects:**
+- Medium-high contrast
+- Subtle analog photobooth grain
+- Crisp sharpness
+- Clean edges
+- Eyes perfectly sharp in every frame
+
+**Atmospheric Effects:**
+- Plain neutral gray background
+- Classic photobooth environment
+- No dramatic backgrounds or side lighting
+
+**Post-Processing:**
+- Pure black and white conversion
+- Medium-high contrast treatment
+- Professional consistency across panels
+
+**Style Filters:**
+- Classic photobooth aesthetic
+- Authentic analog booth style
+- Contemporary photobooth strip look
+
+## Included Camera Frames
+
+**Camera Type & Lens:**
+- Photobooth camera simulation
+- 50mm lens equivalent
+
+**Framing & Composition:**
+- Tight head-and-shoulders portrait
+- 4×4 square grid arrangement
+- Thin gutters between panels
+- High consistency across frames
+
+**Camera Angle:**
+- Direct frontal photobooth angle
+- Eye level perspective
+
+**Depth of Field:**
+- Eyes perfectly sharp in every frame
+- Moderate DoF typical of photobooths
+
+**Aspect Ratio:**
+- Square format for overall grid
+- Individual frames in portrait format
+
+**Shot Distance:**
+- Tight head-and-shoulders close-up
+
+## Image Prompt
+
+**CRITICAL IDENTITY PRESERVATION:**
+Upload your reference image and use it as the primary identity anchor. Create an ultra-high-resolution 4×4 black-and-white photobooth contact sheet featuring the same adult woman from the reference image. Preserve her identity with strict consistency, including facial features, hairstyle, face shape, skin texture, and proportions across all 16 panels.
+
+**Subject:**
+Same adult woman from reference maintained consistently across all 16 frames. Dress her in plain black T-shirt with no logos or graphics.
+
+**Setting/Environment:**
+Plain neutral gray background with classic photobooth aesthetic. No props, no dramatic backgrounds. Direct front photobooth flash with slightly hard but flattering lighting and soft short shadows behind the subject. Avoid cinematic side lighting or dramatic backgrounds.
+
+**Lighting:**
+Direct front photobooth flash creating authentic booth lighting. Slightly hard but flattering quality with balanced frontal illumination.
+
+**Composition:**
+Capture each panel as tight head-and-shoulders portrait using 50mm lens equivalent, keeping eyes perfectly sharp in every frame. Arrange the images in 4×4 square grid with thin gutters and high consistency between panels.
+
+**Style & Aesthetic:**
+Pure black and white with medium-high contrast, subtle analog photobooth grain, crisp sharpness, and clean edges. Classic photobooth aesthetic throughout.
+
+**Technical Specifications:**
+Ultra-high-resolution with 50mm lens. Eyes perfectly sharp in every frame. Render in pure black and white with medium-high contrast. Prioritize realistic hands and facial anatomy, ensuring no extra or missing fingers, no warped faces, uneven eyes, melted mouths, plastic skin, text, watermarks, or logos.
+
+Avoid color, soft focus, studio lighting with side shadows, heavy makeup, fashion styling, CGI skin, unrealistic smoothing, duplicate subjects, AI face-melt, misshapen hands, inconsistent identity across panels, visible grid lines bleeding into portraits, over-processed contrast, or watermarks.
+
+**Expressions (16 panels):**
+1. Scrunched smile with slightly squeezed eyes
+2. Intense stare with fingers framing the eyes
+3. Big joyful laugh with mouth open
+4. Bored unimpressed face with chin resting in hands
+5. Sad pout with watery eyes
+6. Goofy face with both hands making small horns above the head
+7. Playful tongue out with cheeky grin
+8. Angry glare with lowered eyebrows
+9. Flirty look with one hand touching the cheek
+10. Surprised wide eyes with slightly open mouth
+11. Fake scream or excited shout with hands near the face
+12. Mischievous grin with claw-like hand pose
+13. Confused frown with pressed lips
+14. Dramatic crying face with hands on the head
+15. Playful tongue out with eyes closed
+16. Duck face while making small devil horns gesture

@@ -1,1 +1,118 @@
-cinematic studio portrait, 3/4 view, dark seamless background, black blazer, white t-shirt, 85mm lens, f/2.0, sharp focus on main face, soft directional key light, one sharp exposure plus one semi transparent ghost exposure slightly displaced to the right, organic motion trail, flash freeze base with long exposure effect, warm amber light leak crossing the face horizontally, golden gel flare, subtle bloom, rich blacks, tungsten color grade, slight film grain, no plastic skin, no duplicated eyes, natural asymmetry
+# Motion Blur Ghost Portrait - Cinematic Double Exposure
+
+## Description of Resulting Image
+
+A cinematic studio portrait featuring a sophisticated double exposure effect with one sharp freeze frame and a semi-transparent ghost trail, creating an organic motion blur with warm amber light leaks and film-inspired tungsten color grading.
+
+## Usage
+
+Perfect for album covers, fashion editorials emphasizing movement and dynamism, creative portrait photography portfolios, and artistic brand campaigns. Ideal for music industry visuals, contemporary art photography, magazine covers requiring dramatic visual impact, and advertising campaigns seeking emotional depth and cinematic storytelling. This prompt excels at creating ethereal motion-based portraits while maintaining photorealistic facial detail and professional studio lighting quality.
+
+## Actor or Subject
+
+Person in smart-casual attire (black blazer, white t-shirt) captured with motion blur effect
+
+## Prerequisites
+
+- Subject reference photo
+- Single exposure capture (effect is in-camera/post-processing style)
+
+## Included Effects
+
+**Lighting Effects:**
+
+- Soft directional key light
+- Warm amber light leak crossing horizontally
+- Golden gel flare
+- Subtle bloom effect
+- Rich blacks with controlled highlights
+
+**Photographic Effects:**
+
+- Double exposure technique
+- Sharp freeze frame base
+- Semi-transparent ghost exposure displaced to right
+- Organic motion trail
+- Slight film grain texture
+- Tungsten color grade
+
+**Atmospheric Effects:**
+
+- Cinematic depth
+- Ethereal motion atmosphere
+- Light leak effects
+- Subtle flare and bloom
+
+**Post-Processing:**
+
+- Flash freeze base with long exposure effect
+- Warm amber color temperature
+- Rich black tones
+- Natural asymmetry preservation
+- No plastic skin smoothing
+- Film grain overlay
+
+**Style Filters:**
+
+- Cinematic portrait aesthetic
+- Film-inspired color grading
+- Contemporary art photography
+- Motion-based editorial style
+
+## Included Camera Frames
+
+**Camera Type & Lens:**
+
+- Professional DSLR/Mirrorless
+- 85mm prime lens
+- Portrait photography setup
+
+**Framing & Composition:**
+
+- 3/4 view portrait
+- Head and shoulders composition
+- Dark seamless background
+- Subject positioned with motion trail to right
+
+**Camera Angle:**
+
+- Eye level
+- Slightly off-axis 3/4 view
+- Natural portrait perspective
+
+**Depth of Field:**
+
+- Shallow DoF (f/2.0)
+- Sharp focus on main face
+- Background completely separated
+- Selective focus on features
+
+**Aspect Ratio:**
+
+- Standard portrait format (4:5 or 3:4)
+- Vertical composition
+
+**Shot Distance:**
+
+- Close-up to medium close-up
+- Head and shoulders portrait
+
+## Image Prompt
+
+**Subject:**
+Person wearing black blazer over white t-shirt in 3/4 view. Sharp main exposure with focused facial features showing natural asymmetry and realistic skin texture. Semi-transparent ghost exposure displaced slightly to the right creates organic motion trail. No plastic skin smoothing, no duplicated eyes - maintaining natural human features.
+
+**Setting/Environment:**
+Dark seamless studio background creating clean cinematic environment. Professional studio setup with controlled negative space. Minimalist backdrop emphasizing subject and motion effect.
+
+**Lighting:**
+Soft directional key light illuminating subject from front-side angle. Warm amber light leak crossing the face horizontally adding cinematic drama. Golden gel flare creating subtle atmospheric bloom. Rich blacks in background with controlled highlights. Tungsten color grade giving warm film-inspired tones.
+
+**Composition:**
+3/4 view portrait framing with motion effect extending to the right. Sharp base exposure serves as anchor while ghost trail creates dynamic movement. Natural asymmetry maintained in facial features. Slight film grain adds texture throughout. Composition balances stillness and motion.
+
+**Style & Aesthetic:**
+Cinematic studio portrait with sophisticated double exposure technique. Flash freeze base combined with long exposure ghost effect creates organic motion blur. Film-inspired aesthetic with tungsten color grading and subtle grain. Contemporary art photography meets editorial fashion. Warm amber tones and golden flares add emotional depth. Natural skin texture preserved without artificial smoothing.
+
+**Technical Specifications:**
+85mm lens at f/2.0, controlled studio lighting with amber gels, double exposure technique (sharp + ghost), tungsten color grade, warm amber light temperature, slight film grain overlay, professional portrait lighting setup, 4K-8K resolution, natural skin rendering

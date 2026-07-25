@@ -1,1 +1,119 @@
-Ultra-realistic cinematic portrait of the person from the submitted reference image, centered in the frame, wearing a fitted black turtleneck. He gazes directly at the camera with a powerful, steady look. A razor-sharp horizontal beam of red neon light cuts across the eye area, creating dramatic lighting and vivid reflections on a textured gray concrete wall in the background. The rest of the face and body remains immersed in deep shadow, emphasizing contrast and atmosphere. Hyper-detailed skin texture, realistic facial features, subtle stubble, natural pores, cinematic color grading, high dynamic range (HDR) lighting, shallow depth of field, minimalist and moody composition, luxury editorial fashion photography, psychological thriller aesthetic, volumetric atmosphere, studio-quality lighting, Canon EOS R5, 85mm lens, f/1.4, ultra-sharp focus on the eyes, 8K resolution, photorealistic masterpiece.
+# Laser Eyes Portrait - Red Neon Beam
+
+## Description of Resulting Image
+
+Ultra-realistic cinematic portrait featuring razor-sharp horizontal red neon light beam cutting across eye area creating dramatic lighting and vivid reflections against textured gray concrete wall, with rest of face and body immersed in deep shadow emphasizing contrast and atmosphere.
+
+## Usage
+
+Perfect for psychological thriller aesthetics, dramatic editorial photography, and cinematic portrait campaigns. Ideal for luxury editorial fashion, dramatic social media content, moody brand photography, and artistic portrait collections. This prompt excels at creating high-contrast cinematic portraits with dramatic neon lighting effects and thriller aesthetic.
+
+## Actor or Subject
+
+Person from reference image wearing fitted black turtleneck, gazing directly at camera with powerful steady look, centered in frame.
+
+## Prerequisites
+
+**MANDATORY:**
+- Reference image for person's identity preservation
+
+## Included Effects
+
+**Lighting Effects:**
+- Razor-sharp horizontal red neon light beam
+- Dramatic neon lighting on eye area
+- Vivid reflections on concrete wall
+- Deep shadow immersion
+- High dynamic range (HDR) lighting
+- Volumetric atmosphere
+
+**Photographic Effects:**
+- Ultra-realistic rendering
+- Hyper-detailed skin texture
+- Realistic facial features rendering
+- Subtle stubble detail
+- Natural pores visible
+- Shallow depth of field (f/1.4)
+- Ultra-sharp focus on eyes
+
+**Atmospheric Effects:**
+- Textured gray concrete wall background
+- Volumetric atmospheric quality
+- Minimalist moody environment
+- Psychological thriller atmosphere
+
+**Post-Processing:**
+- Cinematic color grading
+- High dynamic range processing
+- Contrast and atmosphere emphasis
+- Psychological thriller aesthetic enhancement
+- Premium editorial finish
+
+**Style Filters:**
+- Luxury editorial fashion photography
+- Psychological thriller aesthetic
+- Minimalist moody style
+- Studio-quality dramatic look
+
+## Included Camera Frames
+
+**Camera Type & Lens:**
+- Canon EOS R5 (or equivalent professional camera)
+- 85mm lens
+- f/1.4 aperture
+
+**Framing & Composition:**
+- Centered subject framing
+- Portrait composition
+- Eye-level perspective
+- Minimalist compositional approach
+
+**Camera Angle:**
+- Eye level straight-on
+- Direct frontal positioning
+- Centered framing
+
+**Depth of Field:**
+- Shallow (f/1.4)
+- Ultra-sharp focus on eyes
+- Background texture visible but softened
+
+**Aspect Ratio:**
+- Standard portrait format
+- Cinematic composition
+
+**Shot Distance:**
+- Portrait to medium close-up
+- Facial detail emphasis
+
+## Image Prompt
+
+**Subject:**
+Ultra-realistic cinematic portrait of the person from the submitted reference image, centered in the frame, wearing a fitted black turtleneck. He gazes directly at the camera with a powerful, steady look. Hyper-detailed skin texture, realistic facial features, subtle stubble, and natural pores visible.
+
+**Setting/Environment:**
+Textured gray concrete wall in the background creating industrial minimalist setting. Studio environment with controlled dramatic lighting setup. Minimalist and moody atmosphere.
+
+**Lighting:**
+A razor-sharp horizontal beam of red neon light cuts across the eye area, creating dramatic lighting and vivid reflections on the textured gray concrete wall in the background. The rest of the face and body remains immersed in deep shadow, emphasizing contrast and atmosphere. High dynamic range (HDR) lighting with volumetric atmospheric quality. Studio-quality lighting precision.
+
+**Composition:**
+Subject centered in frame with direct gaze at camera. Portrait composition emphasizing eyes with red neon beam cutting across eye area. Minimalist compositional approach focusing on dramatic lighting effect.
+
+**Style & Aesthetic:**
+Luxury editorial fashion photography with psychological thriller aesthetic. Ultra-realistic cinematic quality. Minimalist and moody with high contrast. Dramatic neon lighting creating powerful visual impact.
+
+**Technical Specifications:**
+Ultra-realistic rendering, 8K resolution, photorealistic masterpiece. Canon EOS R5 camera with 85mm lens, f/1.4 aperture. Ultra-sharp focus on the eyes. Hyper-detailed skin texture with subtle stubble and natural pores. Shallow depth of field.
+
+**Color Palette:**
+Fitted black turtleneck. Vivid red neon light beam. Textured gray concrete wall. Deep shadow blacks. Natural skin tones. High contrast color scheme with red accent.
+
+**Mood & Atmosphere:**
+Powerful, steady, dramatic, psychological thriller aesthetic, minimalist moody, high contrast, cinematic, intense, volumetric atmospheric, luxury editorial, mysterious, confrontational gaze, studio quality sophistication.
+
+**Quality Keywords:**
+Ultra-realistic, cinematic portrait, 8K resolution, photorealistic masterpiece, hyper-detailed skin texture, high dynamic range lighting, studio-quality, luxury editorial fashion photography, psychological thriller aesthetic, ultra-sharp focus, volumetric atmosphere.
+
+**Negative Prompt (What to Avoid):**
+Changing identity, soft focus, low contrast, poor neon light rendering, cluttered background, multiple light sources diluting effect, loss of thriller aesthetic, oversaturated colors beyond red beam, amateur lighting, unrealistic skin, loss of shadow depth.

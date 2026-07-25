@@ -1,5 +1,120 @@
-Here's the extracted text from the image:
+# Soft Backlight Portrait – Curtained Window
 
-Create an ultra-realistic cinematic soft backlight portrait using the uploaded reference person as the main subject. Replace the original subject completely with the uploaded reference person while preserving their exact facial features, hairstyle, hairline, hair texture, beard/stubble, skin tone, age, body proportions, and overall identity. Scene: the subject stands in front of sheer white curtains with strong daylight glowing from behind. The curtains should be softly illuminated, semi-transparent, and textured like linen. The surrounding interior is dark and minimal, creating contrast between the glowing curtains and shadowed room. Pose: the subject stands slightly angled, one hand gently holding or touching the curtain, the other hand resting casually near the pocket. He looks down and away from camera with a calm, poetic, introspective expression. Body language should feel natural, elegant, and lifestyle-oriented. Outfit: soft cream or beige knit sweater, matching light trousers, premium monochrome neutral styling, clean fabric texture, no logos. Lighting: diffused backlight through sheer curtains, soft rim light around hair, shoulders, arm, and side profile, gentle shadows across the face, warm neutral color grading, cinematic softness. Camera: medium portrait, vertical 4:5 Instagram aspect ratio, natural framing, shallow depth of field, realistic photography. Style: premium lifestyle portrait, soft cinematic light, elegant minimal interior, calm emotional mood, realistic fabric and skin texture.
+## Description of Resulting Image
 
-This is an AI image generation prompt for creating a soft, artistic portrait with natural backlight through sheer curtains.
+An ultra-realistic cinematic soft backlight portrait featuring a subject standing in front of sheer white curtains with strong daylight glowing from behind, creating dramatic rim lighting. The scene contrasts glowing semi-transparent linen-textured curtains against a dark minimal interior, with the subject in an introspective pose wearing premium neutral knitwear, creating an elegant lifestyle portrait with soft cinematic quality.
+
+## Usage
+
+Perfect for premium lifestyle photography, fashion brand lookbooks, and sophisticated social media content requiring emotional depth and artistic lighting. Ideal for knitwear brands, minimalist fashion labels, Instagram portrait content, and editorial photography portfolios. This prompt excels at creating emotional intimacy through natural backlight technique while maintaining photorealistic quality for high-end commercial and editorial applications.
+
+## Actor or Subject
+
+A person whose exact facial features, hairstyle, hairline, hair texture, beard/stubble, skin tone, age, body proportions, and overall identity are preserved from the uploaded reference image, positioned in an introspective standing pose.
+
+## Prerequisites
+
+- Subject reference photo (uploaded person whose identity will be preserved)
+
+## Included Effects
+
+**Lighting Effects:**
+
+- Strong diffused backlight through sheer curtains
+- Soft rim light around hair, shoulders, arm, and side profile
+- Gentle shadows across face
+- Natural window light glow
+
+**Photographic Effects:**
+
+- Shallow depth of field
+- Cinematic softness
+- Realistic photography rendering
+- Natural framing
+
+**Atmospheric Effects:**
+
+- Calm introspective mood
+- Elegant minimal atmosphere
+- Soft poetic ambiance
+
+**Post-Processing:**
+
+- Warm neutral color grading
+- Cinematic tone
+- Soft contrast
+- Premium lifestyle aesthetic
+
+**Style Filters:**
+
+- Premium lifestyle portrait aesthetic
+- Soft cinematic style
+- Elegant minimal interior photography
+
+## Included Camera Frames
+
+**Camera Type & Lens:**
+
+- Professional portrait lens (50mm-85mm f/1.4-f/2.8)
+
+**Framing & Composition:**
+
+- Medium portrait composition
+- Natural subject framing
+- Slightly angled pose
+
+**Camera Angle:**
+
+- Eye level to slightly elevated
+- Natural perspective
+
+**Depth of Field:**
+
+- Shallow depth of field
+- Subject sharp, subtle background softness
+
+**Aspect Ratio:**
+
+- Vertical 4:5 Instagram aspect ratio
+
+**Shot Distance:**
+
+- Medium portrait shot
+
+## Image Prompt
+
+**Subject:**
+Create an ultra-realistic cinematic soft backlight portrait using the uploaded reference person as the main subject. Replace the original subject completely with the uploaded reference person while preserving their exact facial features, hairstyle, hairline, hair texture, beard/stubble, skin tone, age, body proportions, and overall identity.
+
+**Setting/Environment:**
+The subject stands in front of sheer white curtains with strong daylight glowing from behind. The curtains should be softly illuminated, semi-transparent, and textured like linen. The surrounding interior is dark and minimal, creating contrast between the glowing curtains and shadowed room.
+
+**Lighting:**
+Diffused backlight through sheer curtains, soft rim light around hair, shoulders, arm, and side profile, gentle shadows across the face, warm neutral color grading, cinematic softness.
+
+**Composition:**
+Medium portrait framing, the subject stands slightly angled, one hand gently holding or touching the curtain, the other hand resting casually near the pocket.
+
+**Style & Aesthetic:**
+Premium lifestyle portrait, soft cinematic light, elegant minimal interior, calm emotional mood, realistic fabric and skin texture.
+
+**Technical Specifications:**
+Vertical 4:5 Instagram aspect ratio, natural framing, shallow depth of field, realistic photography quality.
+
+**Color Palette:**
+Warm neutral tones, soft cream and beige, gentle shadows, glowing white curtain backlight, subtle color grading.
+
+**Mood & Atmosphere:**
+Calm, poetic, introspective, elegant, natural, lifestyle-oriented, peaceful, sophisticated, contemplative.
+
+**Quality Keywords:**
+Ultra-realistic, cinematic, photorealistic, professional photography, soft lighting, high resolution, premium quality, realistic texture, natural lighting.
+
+**Negative Prompt (What to Avoid):**
+Harsh lighting, over-exposed curtains, dark silhouette without detail, artificial lighting, cluttered background, logos on clothing, stiff unnatural pose, over-processed colors, low quality, unrealistic rendering.
+
+**Outfit:**
+Soft cream or beige knit sweater, matching light trousers, premium monochrome neutral styling, clean fabric texture, no logos.
+
+**Pose:**
+The subject looks down and away from camera with a calm, poetic, introspective expression. Body language should feel natural, elegant, and lifestyle-oriented.

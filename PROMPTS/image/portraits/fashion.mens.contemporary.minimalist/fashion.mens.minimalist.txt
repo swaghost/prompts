@@ -1,1 +1,93 @@
-Minimalist fashion lookbook photography of a bald man with a beard, wearing a beige and white fleece zip-up jacket, white t-shirt, olive baggy pants and sneakers, leaning casually against a clean white wall with one leg slightly bent, hands in pockets, wearing black sunglasses, exuding effortless confidence. In the background, a pure white faceless mannequin sits on a modern black leather chair. Soft diffused natural lighting, clean neutral tones, minimal and contemporary setting with pure white walls and minimalist architecture. Clean, modern, sophisticated and effortless mood. High resolution, editorial grade, ultra realistic, 8k, sharp detail, natural color palette, professional fashion photography, best quality.
+# Fashion Mens Minimalist Lookbook Portrait
+
+## Description of Resulting Image
+
+A minimalist fashion lookbook photograph featuring bald man with beard leaning casually against clean white wall with one leg slightly bent, hands in pockets, wearing black sunglasses and exuding effortless confidence. The composition includes beige and white fleece zip-up jacket, white t-shirt, olive baggy pants and sneakers, with pure white faceless mannequin sitting on modern black leather chair in background, all captured with soft diffused natural lighting in minimal contemporary setting with pure white walls and minimalist architecture.
+
+## Usage
+
+Perfect for fashion lookbooks, contemporary menswear catalogs, and minimalist brand campaigns. Ideal for lifestyle fashion editorials, modern clothing brand marketing, social media content, and clean aesthetic brand identity. This prompt excels at creating sophisticated minimalist fashion photography for contemporary menswear and lifestyle brands.
+
+## Actor or Subject
+
+Bald man with beard wearing beige and white fleece zip-up jacket, white t-shirt, olive baggy pants, sneakers, and black sunglasses.
+
+## Prerequisites
+
+None
+
+## Included Effects
+
+**Lighting Effects:**
+- Soft diffused natural lighting
+- Even illumination
+- No harsh shadows
+
+**Photographic Effects:**
+- Sharp detail throughout
+- Ultra realistic rendering
+- Natural color palette
+
+**Atmospheric Effects:**
+- Clean neutral tones
+- Minimal atmosphere
+- Pure white environment
+
+**Post-Processing:**
+- Editorial grade finishing
+- High resolution treatment
+- Professional quality
+
+**Style Filters:**
+- Minimalist fashion photography aesthetic
+- Contemporary lookbook style
+- Clean modern approach
+
+## Included Camera Frames
+
+**Camera Type & Lens:**
+- Professional fashion photography lens
+- Sharp detail rendering
+
+**Framing & Composition:**
+- Subject leaning casually against wall
+- One leg slightly bent
+- Hands in pockets
+- Mannequin in background for context
+
+**Camera Angle:**
+- Eye level perspective
+- Straight-on viewpoint
+
+**Depth of Field:**
+- Sharp detail throughout frame
+- Both subject and background elements clear
+
+**Aspect Ratio:**
+- Standard editorial format
+
+**Shot Distance:**
+- Full body to three-quarter length shot
+
+## Image Prompt
+
+**Subject:**
+Minimalist fashion lookbook photography of bald man with beard, wearing beige and white fleece zip-up jacket, white t-shirt, olive baggy pants and sneakers, leaning casually against clean white wall with one leg slightly bent, hands in pockets, wearing black sunglasses, exuding effortless confidence.
+
+**Setting/Environment:**
+Minimal and contemporary setting with pure white walls and minimalist architecture. In the background, pure white faceless mannequin sits on modern black leather chair. Clean neutral tones throughout.
+
+**Lighting:**
+Soft diffused natural lighting creating even illumination without harsh shadows. Clean, natural aesthetic.
+
+**Composition:**
+Subject leaning casually against clean white wall with relaxed pose. Mannequin and black leather chair provide subtle background interest without competing with subject.
+
+**Style & Aesthetic:**
+Clean, modern, sophisticated and effortless mood. Professional fashion photography with natural color palette.
+
+**Technical Specifications:**
+High resolution, editorial grade, ultra realistic, 8k, sharp detail, best quality.
+
+**Negative Specifications:**
+Avoid busy backgrounds, harsh lighting, oversaturated colors, cluttered composition, low resolution, artificial skin texture.

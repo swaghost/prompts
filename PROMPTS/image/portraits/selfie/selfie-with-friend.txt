@@ -1,1 +1,121 @@
-Take an extremely ordinary and unremarkable iPhone selfie, with no clear subject or sense of composition—just a quick accidental snapshot. The photo has slight motion blur and uneven lighting from streetlights or indoor lamps, causing mild overexposure in some areas. The angle is awkward and the framing is messy, giving the picture a deliberately mediocre feel, as if it was taken absentmindedly while pulling the phone from a pocket. The main character is [uploaded person’s face], and (Vinicius Jr) stands next to him, both caught in a casual, imperfect moment. The background shows a lively LA night, with neon lights, traffic, and blurry figures passing by. The overall look is intentionally plain and random, capturing the authentic vibe of a poorly composed, spontaneous iPhone selfie.
+# Casual iPhone Selfie with Friend - LA Night
+
+## Description of Resulting Image
+
+Extremely ordinary unremarkable iPhone selfie with slight motion blur and uneven lighting, awkward angle and messy framing giving deliberately mediocre feel, featuring main character from uploaded reference and Vinicius Jr in casual imperfect moment with lively LA night background.
+
+## Usage
+
+Perfect for authentic casual content, spontaneous moment capture, and realistic social media photography. Ideal for genuine friendship content, behind-the-scenes posts, authentic lifestyle photography, and unfiltered social moments. This prompt excels at creating intentionally imperfect casual selfies that feel genuinely spontaneous and unplanned.
+
+## Actor or Subject
+
+Main character from uploaded person's reference face and Vinicius Jr, both caught in casual imperfect moment.
+
+## Prerequisites
+
+**MANDATORY:**
+- Reference image for main character's face
+
+## Included Effects
+
+**Lighting Effects:**
+- Uneven lighting from streetlights or indoor lamps
+- Mild overexposure in some areas
+- Natural inconsistent illumination
+- Authentic ambient lighting
+- No professional lighting setup
+
+**Photographic Effects:**
+- Slight motion blur
+- Awkward angle
+- Messy framing
+- Deliberately mediocre composition
+- Quick accidental snapshot quality
+- Authentic iPhone camera characteristics
+
+**Atmospheric Effects:**
+- Lively LA night background
+- Neon lights visible
+- Traffic ambiance
+- Blurry figures passing by
+- Urban nighttime atmosphere
+
+**Post-Processing:**
+- No professional post-processing
+- Authentic smartphone capture
+- Deliberately unedited look
+- Raw iPhone quality
+- Spontaneous feeling preserved
+
+**Style Filters:**
+- Intentionally plain and random
+- Authentic spontaneous iPhone selfie
+- Poorly composed casual aesthetic
+- Absentminded snapshot style
+- Unremarkable ordinary look
+
+## Included Camera Frames
+
+**Camera Type & Lens:**
+- iPhone camera (standard lens)
+- Casual handheld positioning
+- Spontaneous capture setup
+
+**Framing & Composition:**
+- Awkward messy framing
+- No clear compositional intent
+- Quick accidental snapshot framing
+- Deliberately poor composition
+- Spontaneous unplanned positioning
+
+**Camera Angle:**
+- Awkward angle
+- As if taken absentmindedly
+- While pulling phone from pocket
+- Unintentional positioning
+
+**Depth of Field:**
+- Standard iPhone depth
+- Background slightly out of focus
+- Authentic mobile camera rendering
+
+**Aspect Ratio:**
+- Standard iPhone photo format
+- Casual smartphone ratio
+
+**Shot Distance:**
+- Close selfie distance
+- Two people in frame
+
+## Image Prompt
+
+**Subject:**
+Take an extremely ordinary and unremarkable iPhone selfie, with no clear subject or sense of composition—just a quick accidental snapshot. The main character is the person from the uploaded reference face, and Vinicius Jr stands next to him, both caught in a casual, imperfect moment.
+
+**Setting/Environment:**
+The background shows a lively LA night, with neon lights, traffic, and blurry figures passing by. Urban nighttime environment with authentic street atmosphere.
+
+**Lighting:**
+Uneven lighting from streetlights or indoor lamps, causing mild overexposure in some areas. Natural inconsistent ambient lighting with no professional setup. Authentic casual illumination.
+
+**Composition:**
+The angle is awkward and the framing is messy, giving the picture a deliberately mediocre feel, as if it was taken absentmindedly while pulling the phone from a pocket. No professional composition or planning.
+
+**Style & Aesthetic:**
+The photo has slight motion blur. The overall look is intentionally plain and random, capturing the authentic vibe of a poorly composed, spontaneous iPhone selfie. Extremely ordinary and unremarkable aesthetic.
+
+**Technical Specifications:**
+Authentic iPhone camera quality with slight motion blur. Poorly composed casual snapshot. Quick accidental capture characteristics. Standard smartphone photo quality without professional treatment.
+
+**Color Palette:**
+Natural LA night colors. Neon light colors. Streetlight tones. Uneven color from inconsistent lighting. Authentic nighttime urban palette. Raw iPhone color rendering.
+
+**Mood & Atmosphere:**
+Casual, imperfect, spontaneous, ordinary, unremarkable, authentic, absentminded, poorly composed, quick accidental, genuine moment, unplanned, mediocre intentionally, lively background, urban nighttime.
+
+**Quality Keywords:**
+Extremely ordinary, unremarkable iPhone selfie, slight motion blur, uneven lighting, awkward angle, messy framing, deliberately mediocre, authentic spontaneous, poorly composed, genuine casual moment.
+
+**Negative Prompt (What to Avoid):**
+Professional composition, polished lighting, clear subject focus, intentional framing, professional post-processing, studio quality, posed appearance, perfect focus, even lighting, carefully planned shot, high-end photography look.

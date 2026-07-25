@@ -1,10 +1,90 @@
 # MINIATURE PERSON ON ADIDAS CAP
 
+## Description of Resulting Image
+
+A surreal luxury fashion scene featuring the subject appearing as a miniature human sitting casually on top of a giant realistic red Adidas baseball cap being held naturally by someone else's hand.
+
+## Usage
+
+Use this prompt when creating playful surreal fashion photography that features miniaturization effects for commercial campaigns. Perfect for luxury streetwear brands like Adidas requiring creative scale manipulation with product integration. Ideal for social media campaigns or advertising imagery that combines whimsy with photorealistic execution.
+
+## Actor or Subject
+
+Person from reference image miniaturized on Adidas cap
+
+## Prerequisites
+
 REFERENCE IMAGE IS MANDATORY.
 
 Create a hyper-realistic commercial fashion photograph using the uploaded reference image as the ONLY source of identity.
 
-## ABSOLUTE IDENTITY LOCK
+## Included Effects
+
+### Lighting
+
+- Soft evening light
+- Realistic depth and perspective
+- Cinematic environmental lighting
+- Accurate realistic shadows
+- Believable lighting
+
+### Photographic
+
+- Premium commercial fashion photography
+- Ultra-detailed miniature rendering
+- No soft focus
+- Realistic fabric textures
+- Shallow depth of field
+- HDR
+
+### Atmospheric
+
+- Urban street background
+- Natural city atmosphere
+
+### Post-Processing
+
+- Cinematic color grading
+
+### Style Filters
+
+- Luxury Adidas campaign aesthetic
+- Playful surrealism
+- Commercial photography style
+
+## Included Camera Frames
+
+### Camera Type
+
+Canon EOS R5
+
+### Lens
+
+50mm lens
+
+### Framing
+
+Close-up of cap with miniature subject
+
+### Angle
+
+Eye-level with cap
+
+### Depth of Field
+
+Shallow depth of field
+
+### Aspect Ratio
+
+Not specified
+
+### Shot Distance
+
+Close-up macro shot
+
+## Image Prompt
+
+### Subject
 
 The miniature person in the final image must be the EXACT SAME PERSON from the reference image.
 Preserve 100% of facial identity, facial anatomy, body anatomy, body proportions, posture proportions, skin texture, skin tone, and all unique identifying characteristics.
@@ -44,32 +124,59 @@ Maintain exactly the same:
 
 No identity drift. No facial modifications. No body modifications. No beauty enhancement. No facial symmetry correction. No age modification. No hairstyle modification. No eye enlargement. No nose refinement. No lip enhancement. No weight modification. No body reshaping. No muscle enhancement. No skin smoothing. The face must remain visually identical to the reference image.
 
-## PROPORTIONS
+### Setting
 
-The miniature person is physically tiny relative to the cap.
+### Setting
 
-## SCENE
+Urban street background. Natural city atmosphere. Soft evening light. Realistic depth and perspective. Cinematic environmental lighting.
 
-Surreal luxury fashion scene featuring the exact same person from the reference image appearing as a miniature human sitting casually on top of a giant realistic red Adidas baseball cap.
-The cap is being held naturally by someone else's hand.
-Body proportions do not change. Identity does not change. Body proportions do not change. Facial proportions do not change.
-The miniature person must be perfectly scaled.
+### Wardrobe
 
-## WARDROBE
+- Oversized Adidas knit sweater
+
+### Wardrobe
 
 - Oversized Adidas knit sweater
 - Loose-fit jeans
 - Adidas sneakers
   Premium Adidas streetwear styling.
 
-## ENVIRONMENT
+### Lighting
 
-Urban street background. Natural city atmosphere. Soft evening light. Realistic depth and perspective. Cinematic environmental lighting.
+Soft evening light. Accurate realistic shadows. Believable lighting. Cinematic environmental lighting.
 
-## SURREALISM EXECUTION
+### Style
+
+Premium commercial fashion photography. Luxury Adidas campaign aesthetic. Playful surrealism. Realistic fabric textures. Ultra-detailed miniature rendering. No soft focus. Accurate realistic shadows. Believable lighting. Cinematic color grading.
+
+### Surrealism Execution
 
 The illusion must come entirely from scale manipulation. The miniature person must retain completely realistic human anatomy. Do not exaggerate the head or body proportions. Do not shrink the face or body proportions. Do not create a cartoon character. Do not create a doll.
 The miniature scale must look like a real human shrunk to miniature scale.
+
+### Technical Specsperspective. Close-up macro shot with shallow depth of field.
+
+### Technical Specs
+
+Photographed with Canon EOS R5. 50mm lens. Shallow depth of field. Hyper-realistic. Photorealistic. HDR. Ultra detailed. 8K resolution.
+
+### Color Palette
+
+Adidas red with urban street tones and evening light warmth
+
+### Mood
+
+Playful, surreal, commercial, whimsical yet realistic
+
+### Quality Keywords
+
+Premium commercial, luxury campaign, hyper-realistic, photorealistic, HDR, ultra-detailed, 8K resolution
+
+### Negative Prompt
+
+No cartoon character, no doll, no exaggerated proportions, no soft focus
+
+#The miniature scale must look like a real human shrunk to miniature scale.
 
 ## PHOTOGRAPHY STYLE
 

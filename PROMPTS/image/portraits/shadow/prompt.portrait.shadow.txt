@@ -1,2 +1,119 @@
- Front-facing chest-up portrait of the subject from the reference image, maintaining exact identity. The pose is relaxed yet upright with a slight head tilt, centered in perfect symmetry. Background features a clean white-to-gray gradient creating a subtle halo glow. Lighting is minimal and high-contrast, with a strong backlight forming a deep silhouette. Fine hair strands catch soft rim light, adding texture, while clothing remains barely visible. The look is cinematic, sculptural, and mysterious.
+# Shadow Portrait - Silhouette with Halo
+
+## Description of Resulting Image
+
+Front-facing chest-up portrait with relaxed yet upright pose featuring strong backlight creating deep silhouette, clean white-to-gray gradient background creating subtle halo glow, fine hair strands catching soft rim light adding texture.
+
+## Usage
+
+Perfect for artistic portrait photography, dramatic silhouette work, and mysterious atmospheric portraits. Ideal for creative editorial content, artistic social media photography, minimalist portrait collections, and sculptural lighting studies. This prompt excels at creating cinematic mysterious portraits with strong backlighting and silhouette effects.
+
+## Actor or Subject
+
+Subject from reference image maintaining exact identity with relaxed yet upright pose, slight head tilt, centered in perfect symmetry.
+
+## Prerequisites
+
+**MANDATORY:**
+- Reference image for identity preservation
+
+## Included Effects
+
+**Lighting Effects:**
+- Strong backlight creating silhouette
+- Soft rim light on hair strands
+- Subtle halo glow effect
+- Minimal high-contrast lighting
+- Fine texture illumination on edges
+
+**Photographic Effects:**
+- High contrast photography
+- Silhouette formation
+- Rim lighting detail
+- Cinematic quality
+- Sculptural lighting
+
+**Atmospheric Effects:**
+- Clean gradient background atmosphere
+- Subtle halo glow
+- Mysterious ambiance
+- Minimal environmental elements
+
+**Post-Processing:**
+- High contrast processing
+- Silhouette refinement
+- Rim light enhancement
+- Cinematic grading
+- Mystery emphasis
+
+**Style Filters:**
+- Cinematic portrait style
+- Sculptural lighting aesthetic
+- Mysterious dramatic look
+- Minimalist artistic approach
+
+## Included Camera Frames
+
+**Camera Type & Lens:**
+- Professional camera
+- Standard portrait lens
+- Studio or controlled environment setup
+
+**Framing & Composition:**
+- Front-facing perspective
+- Chest-up framing
+- Centered composition
+- Perfect symmetry
+- Slight head tilt
+
+**Camera Angle:**
+- Straight-on eye level
+- Frontal positioning
+- Symmetrical angle
+
+**Depth of Field:**
+- Moderate depth
+- Subject silhouette sharp
+- Background gradient smooth
+- Clean separation
+
+**Aspect Ratio:**
+- Standard portrait format
+- Vertical orientation
+
+**Shot Distance:**
+- Chest-up portrait range
+- Silhouette emphasis distance
+
+## Image Prompt
+
+**Subject:**
+Front-facing chest-up portrait of the subject from the reference image, maintaining exact identity. The pose is relaxed yet upright with a slight head tilt, centered in perfect symmetry. Fine hair strands catch soft rim light, adding texture.
+
+**Setting/Environment:**
+Clean white-to-gray gradient background creating a subtle halo glow. Minimal controlled environment with focus on lighting effects rather than environmental detail.
+
+**Lighting:**
+Minimal and high-contrast lighting with strong backlight forming a deep silhouette. Fine hair strands catch soft rim light, adding texture. Clothing remains barely visible in the dramatic backlighting.
+
+**Composition:**
+Front-facing chest-up portrait centered in perfect symmetry. Relaxed yet upright pose with slight head tilt. Balanced compositional symmetry emphasizing silhouette and rim light effects.
+
+**Style & Aesthetic:**
+Cinematic, sculptural, and mysterious. High contrast silhouette portrait with dramatic backlighting. Minimalist artistic approach focusing on form, light, and shadow rather than detail.
+
+**Technical Specifications:**
+Professional high-contrast photography. Strong backlight precision. Rim lighting control. Clean gradient background execution. Silhouette formation quality.
+
+**Color Palette:**
+White-to-gray gradient background. Deep silhouette blacks. Subtle rim light highlights. Minimal color with emphasis on contrast and form. Monochromatic aesthetic.
+
+**Mood & Atmosphere:**
+Cinematic, sculptural, mysterious, dramatic, minimalist, artistic, high contrast, enigmatic, sophisticated, contemplative, powerful simplicity, shadowy intrigue.
+
+**Quality Keywords:**
+Cinematic portrait, high contrast, strong backlight, rim lighting, silhouette photography, clean gradient, sculptural lighting, professional quality, artistic minimalism, mysterious aesthetic.
+
+**Negative Prompt (What to Avoid):**
+Changing identity, flat lighting, low contrast, visible facial details conflicting with silhouette intent, cluttered background, poor rim light execution, uneven gradient, loss of mystery, amateur lighting, oversaturated colors.
 

@@ -1,3 +1,121 @@
-Create an ultra-realistic cinematic seated backlight portrait using the uploaded reference person as the main subject. Replace the person in the scene completely with the uploaded reference person while preserving their exact face, hairstyle, beard/stubble, skin tone, age, body structure, facial proportions, and overall identity. Scene: the subject is seated on a low bench or window ledge in front of a large bright rectangular window. The surrounding interior is dark and minimal, with the window acting as the main light source behind him. The bright background creates a soft glowing halo and dramatic silhouette effect. Pose: the subject is sitting in a relaxed, thoughtful pose, leaning slightly forward with elbows resting on the knees. Hands are loosely clasped between the legs, shoulders relaxed, head slightly turned to the side, looking away from camera with a calm, introspective expression. Outfit: premium light-toned knit sweater or cream sweatshirt, matching light trousers, soft textured fabric, simple elegant casual styling, no logos. Lighting: strong white backlight from the window, soft rim light on the hair, shoulders, arms, and knees, face in gentle shadow with realistic detail, natural skin texture, cinematic contrast, warm neutral color grading. Camera: medium seated portrait, slightly lower or eye-level angle, vertical 4:5 Instagram aspect ratio, shallow depth of field, realistic lens feel. Style: cinematic lifestyle portrait, moody indoor atmosphere, premium editorial photography, realistic shadows, soft film grain, minimal composition.
+# Cinematic Seated Backlight Portrait
 
-This is an AI image generation prompt for creating a professional cinematic seated portrait with dramatic backlight from a window.
+## Description of Resulting Image
+
+An ultra-realistic cinematic seated backlight portrait featuring a subject seated on a low bench or window ledge in front of a large bright rectangular window, creating a soft glowing halo and dramatic silhouette effect. The subject adopts a relaxed thoughtful pose in premium neutral knitwear, with the face in gentle shadow and rim lighting creating moody indoor atmosphere with premium editorial quality.
+
+## Usage
+
+Perfect for premium fashion photography, lifestyle brand campaigns, and editorial content requiring emotional depth and dramatic lighting. Ideal for knitwear brands, casual luxury fashion, Instagram portrait content, and professional photography portfolios. This prompt excels at creating contemplative mood through dramatic backlight technique while maintaining photorealistic detail for high-end commercial and editorial applications.
+
+## Actor or Subject
+
+A person whose exact face, hairstyle, beard/stubble, skin tone, age, body structure, facial proportions, and overall identity are preserved from the uploaded reference image, positioned in a seated contemplative pose.
+
+## Prerequisites
+
+- Subject reference photo (uploaded person whose identity will be preserved)
+
+## Included Effects
+
+**Lighting Effects:**
+
+- Strong white backlight from large window
+- Soft rim light on hair, shoulders, arms, and knees
+- Soft glowing halo effect around subject
+- Face in gentle shadow with realistic detail
+
+**Photographic Effects:**
+
+- Dramatic silhouette effect with detail retention
+- Shallow depth of field
+- Realistic lens feel
+- Cinematic contrast
+- Soft film grain
+
+**Atmospheric Effects:**
+
+- Moody indoor atmosphere
+- Contemplative peaceful mood
+- Dramatic lighting ambiance
+
+**Post-Processing:**
+
+- Warm neutral color grading
+- Cinematic contrast enhancement
+- Premium editorial tone
+- Soft film grain texture
+
+**Style Filters:**
+
+- Cinematic lifestyle portrait aesthetic
+- Premium editorial photography style
+- Moody indoor photography
+
+## Included Camera Frames
+
+**Camera Type & Lens:**
+
+- Professional portrait lens (50mm-85mm f/1.4-f/2.8)
+
+**Framing & Composition:**
+
+- Medium seated portrait composition
+- Minimal composition
+- Subject centered with window backdrop
+
+**Camera Angle:**
+
+- Slightly lower or eye-level angle
+- Natural perspective for seated subject
+
+**Depth of Field:**
+
+- Shallow depth of field
+- Realistic lens feel with soft background
+
+**Aspect Ratio:**
+
+- Vertical 4:5 Instagram aspect ratio
+
+**Shot Distance:**
+
+- Medium seated portrait shot
+
+## Image Prompt
+
+**Subject:**
+Create an ultra-realistic cinematic seated backlight portrait using the uploaded reference person as the main subject. Replace the person in the scene completely with the uploaded reference person while preserving their exact face, hairstyle, beard/stubble, skin tone, age, body structure, facial proportions, and overall identity.
+
+**Setting/Environment:**
+The subject is seated on a low bench or window ledge in front of a large bright rectangular window. The surrounding interior is dark and minimal, with the window acting as the main light source behind them. The bright background creates a soft glowing halo and dramatic silhouette effect.
+
+**Lighting:**
+Strong white backlight from the window, soft rim light on the hair, shoulders, arms, and knees, face in gentle shadow with realistic detail, natural skin texture, cinematic contrast, warm neutral color grading.
+
+**Composition:**
+Medium seated portrait framing, the subject is sitting in a relaxed, thoughtful pose, leaning slightly forward with elbows resting on the knees. Hands are loosely clasped between the legs, shoulders relaxed, head slightly turned to the side.
+
+**Style & Aesthetic:**
+Cinematic lifestyle portrait, moody indoor atmosphere, premium editorial photography, realistic shadows, soft film grain, minimal composition.
+
+**Technical Specifications:**
+Slightly lower or eye-level angle, vertical 4:5 Instagram aspect ratio, shallow depth of field, realistic lens feel, professional photography quality.
+
+**Color Palette:**
+Warm neutral tones, cream and light colors, dramatic contrast between bright window and dark interior, soft shadow tones.
+
+**Mood & Atmosphere:**
+Calm, introspective, thoughtful, relaxed, contemplative, moody, cinematic, peaceful, sophisticated, editorial.
+
+**Quality Keywords:**
+Ultra-realistic, cinematic, photorealistic, professional photography, dramatic backlight, high resolution, premium editorial quality, realistic texture, natural skin detail, soft film grain.
+
+**Negative Prompt (What to Avoid):**
+Over-exposed window, complete silhouette without facial detail, harsh lighting, artificial atmosphere, cluttered background, logos on clothing, stiff unnatural pose, over-processed colors, low quality, unrealistic rendering.
+
+**Outfit:**
+Premium light-toned knit sweater or cream sweatshirt, matching light trousers, soft textured fabric, simple elegant casual styling, no logos.
+
+**Pose:**
+Looking away from camera with a calm, introspective expression. Body language should feel natural and contemplative.

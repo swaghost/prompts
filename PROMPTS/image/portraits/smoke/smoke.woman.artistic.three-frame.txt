@@ -1,2 +1,112 @@
-Using the attached photo as a facial reference, preserve the person’s facial identity accurately and consistently. Create a cinematic composition divided into three horizontal frames stacked vertically. Each frame shows the same person in a different pose + and moment, interacting with the wind and space.The background across all frames is an open sky with dramatic clouds.
-Movement increases from top to bottom, creating a visual narrative.Soft cinematic light, film still feeling, natural colors, poetic and emotional tone.
+# Artistic Three-Frame Smoke Portrait Series
+
+## Description of Resulting Image
+
+Cinematic triptych composition divided into three horizontal frames stacked vertically, showing the same person in different poses and moments against an open sky with dramatic clouds, creating a visual narrative with soft cinematic lighting.
+
+## Usage
+
+Perfect for artistic portrait series, editorial storytelling campaigns, and narrative-driven photography. Ideal for magazine layouts, social media carousel posts, gallery exhibitions, and creative portfolio pieces. This prompt excels at creating poetic visual narratives with multiple moments captured in a unified composition.
+
+## Actor or Subject
+
+Same person appearing in three different poses and moments, interacting with wind and space, with identity preserved consistently across all frames.
+
+## Prerequisites
+
+**MANDATORY:**
+- Reference photo for facial identity preservation across all three frames
+
+## Included Effects
+
+**Lighting Effects:**
+- Soft cinematic lighting
+- Natural light quality
+- Film still lighting aesthetic
+- Consistent lighting across frames
+
+**Photographic Effects:**
+- Film still feeling
+- Natural color rendering
+- Soft focus quality
+- Cinematic color grading
+
+**Atmospheric Effects:**
+- Open sky with dramatic clouds
+- Wind interaction visible
+- Atmospheric depth
+- Natural environmental elements
+
+**Post-Processing:**
+- Natural color palette
+- Poetic tone enhancement
+- Emotional color grading
+- Soft contrast
+
+**Style Filters:**
+- Cinematic composition style
+- Film photography aesthetic
+- Poetic and emotional tone
+- Narrative visual storytelling
+
+## Included Camera Frames
+
+**Camera Type & Lens:**
+- Professional cinema camera or high-end DSLR
+- 50-85mm lens range for portrait framing
+
+**Framing & Composition:**
+- Three horizontal frames stacked vertically
+- Triptych layout structure
+- Each frame shows different pose and moment
+- Unified composition across frames
+- Visual narrative flow from top to bottom
+
+**Camera Angle:**
+- Consistent angle across all three frames
+- Eye level to slightly elevated perspective
+
+**Depth of Field:**
+- Moderate depth of field
+- Subject sharp, background softly rendered
+- Atmospheric background visible
+
+**Aspect Ratio:**
+- Wide horizontal format for each individual frame
+- Vertical stacked composition overall
+
+**Shot Distance:**
+- Medium to full body shots
+- Space for subject to interact with environment
+
+## Image Prompt
+
+**Subject:**
+Using the attached photo as a facial reference, preserve the person's facial identity accurately and consistently across all three frames. The same person appears in different poses and moments, interacting with the wind and space. Movement and expression increase from top to bottom, creating a visual narrative progression.
+
+**Setting/Environment:**
+Open sky environment with dramatic clouds serving as the background across all three horizontal frames. Natural outdoor setting with space for subject to move and interact with the wind. Atmospheric conditions creating visual interest and mood.
+
+**Lighting:**
+Soft cinematic light with film still quality. Natural lighting that feels authentic and unforced. Gentle illumination that enhances the poetic and emotional tone. Consistent lighting treatment across all three frames to maintain visual unity.
+
+**Composition:**
+Create a cinematic composition divided into three horizontal frames stacked vertically. Each frame shows the same person in a different pose and moment. Movement increases from top to bottom, creating a visual narrative flow. Balanced composition within each frame while maintaining overall triptych harmony.
+
+**Style & Aesthetic:**
+Film still feeling with cinematic composition. Natural colors with poetic and emotional tone. Soft artistic treatment that feels like stills from a contemplative art film. Storytelling through visual progression.
+
+**Technical Specifications:**
+High-resolution capture suitable for triptych presentation. Precise facial identity preservation across all frames using reference photo. Professional color accuracy with natural rendering. Sharp focus on subject with atmospheric background treatment.
+
+**Color Palette:**
+Natural colors with soft cinematic grading. Sky blues and dramatic cloud grays. Warm skin tones. Subtle desaturation for poetic feel. Film-like color rendition.
+
+**Mood & Atmosphere:**
+Poetic, emotional, contemplative, cinematic, narrative-driven, artistic, introspective, flowing, wind-swept, dramatic yet gentle, storytelling through visual progression.
+
+**Quality Keywords:**
+Cinematic, high resolution, photorealistic, film still quality, professional photography, natural lighting, precise identity preservation, editorial quality, artistic narrative, triptych composition.
+
+**Negative Prompt (What to Avoid):**
+Identity changes between frames, inconsistent lighting across frames, harsh lighting, oversaturated colors, digital appearance, loss of cinematic quality, cluttered background, misaligned frames, artificial effects, overly processed look, flat composition, amateur execution.

@@ -1,8 +1,113 @@
-Use the uploaded photo as the main reference for the woman. Preserve her realistic facial identity, face structure, skin tone, apparent age, short wavy blonde hair, natural expression, elegant features, and authentic human appearance. Do not turn her into a drawing, anime, Ghibli, or cartoon character.
-Hyper‑realistic macro close‑up photo of a miniature real version of the woman from the reference, sitting on top of a Corona Extra beer can. Her legs hang forward, chin resting on both hands, delicate and charming relaxed pose, looking at the camera with a soft natural expression.
-The miniature woman must look like a real human at small scale, with natural skin, subtle pores, realistic hair, correct human proportions, well‑formed hands, and casual elegant clothing suitable for an outdoor leisure moment.
-The scene takes place in an outdoor leisure setting during golden hour, with a wooden table in a garden, balcony, rooftop, or restaurant patio. A human hand holds the can in the foreground, creating a real sense of scale. Next to the can on the table, a portion of crispy French fries sits in a small container or basket, with realistic texture, visible salt, and warm lighting.
-Shallow depth of field, creamy blurred background with natural bokeh, late‑afternoon natural lighting, strong layering between foreground, midground, and background, ultra‑realistic textures on the can, skin, hair, table, and fries. Diorama‑like isometric feel, premium macro photography, vertical 9:16 composition, cinematic editorial style, extreme realism, no plastic appearance, no distortions, no extra fingers, no incorrect text, no watermark.
+# Miniature Person on Beer Can - Surreal Scale Effect
 
-Negative prompts:  
+## Description of Resulting Image
+
+A hyper-realistic macro close-up photograph featuring a miniature version of the subject sitting casually on top of a Corona Extra beer can. The miniaturized person maintains authentic human features at small scale with realistic proportions, sitting in a relaxed pose with legs hanging forward and chin resting on both hands. The outdoor leisure setting includes a wooden table with French fries, captured during golden hour with shallow depth of field and cinematic editorial quality.
+
+## Usage
+
+Use this prompt when you want to create surreal scale-manipulation photography that places a miniaturized subject on everyday objects. This effect works exceptionally well for social media content, advertising, or creative portfolio pieces that blend realism with fantasy. The diorama-like aesthetic creates an eye-catching visual that maintains photorealistic quality while delivering an impossible scale relationship.
+
+## Actor or Subject
+
+The subject should be preserved exactly from the uploaded reference photo, maintaining realistic facial identity, face structure, skin tone, apparent age, hairstyle, natural expression, and elegant features. The miniaturized version must appear as a real human at small scale with natural skin, subtle pores, realistic hair, correct human proportions, well-formed hands, and casual elegant clothing suitable for an outdoor leisure moment.
+
+## Prerequisites
+
+- One reference photo of the subject to be miniaturized
+- Subject should have a clear, well-lit portrait showing facial features
+- Clothing should be casual and appropriate for outdoor leisure settings
+
+## Included Effects
+
+### Lighting
+- Golden hour natural lighting
+- Late-afternoon warm tones
+- Soft natural expression illumination
+- Warm lighting on French fries and table surface
+
+### Photographic
+- Shallow depth of field
+- Creamy blurred background with natural bokeh
+- Strong layering between foreground, midground, and background
+- Premium macro photography techniques
+- Ultra-realistic textures on can, skin, hair, table, and food
+
+### Atmospheric
+- Outdoor leisure setting atmosphere
+- Garden, balcony, rooftop, or restaurant patio ambiance
+- Diorama-like isometric feel
+
+### Post-Processing
+- Extreme realism enhancement
+- Texture detail amplification
+- No plastic appearance
+- No distortions or anatomical errors
+
+### Style Filters
+- Cinematic editorial style
+- Premium macro photography aesthetic
+- Vertical composition optimization
+
+## Included Camera Frames
+
+### Camera Type
+- Macro photography setup
+- Premium DSLR or mirrorless camera
+
+### Framing
+- Close-up macro shot
+- Miniature subject centered on beer can
+- Human hand holding can in foreground for scale reference
+
+### Angle
+- Eye-level to slightly above angle
+- Focused on beer can top surface
+
+### Depth of Field
+- Shallow depth of field (f/1.8 - f/2.8)
+- Subject in sharp focus
+- Background with creamy bokeh
+
+### Aspect Ratio
+- Vertical 9:16 composition
+
+### Shot Distance
+- Macro close-up range
+- 3-6 inches from subject
+
+## Image Prompt
+
+### Subject
+Use the uploaded photo as the main reference. Preserve realistic facial identity, face structure, skin tone, apparent age, hairstyle, natural expression, elegant features, and authentic human appearance. Do not turn into a drawing, anime, Ghibli, or cartoon character.
+
+Hyper-realistic macro close-up photo of a miniature real version of the subject sitting on top of a Corona Extra beer can. Legs hang forward, chin resting on both hands, delicate and charming relaxed pose, looking at the camera with a soft natural expression.
+
+The miniature person must look like a real human at small scale, with natural skin, subtle pores, realistic hair, correct human proportions, well-formed hands, and casual elegant clothing.
+
+### Setting
+Outdoor leisure setting during golden hour - wooden table in a garden, balcony, rooftop, or restaurant patio. A human hand holds the can in the foreground, creating a real sense of scale. Next to the can on the table, a portion of crispy French fries sits in a small container or basket, with realistic texture, visible salt.
+
+### Lighting
+Golden hour natural lighting, late-afternoon warmth, soft natural illumination on subject, warm lighting on table and food elements.
+
+### Composition
+Strong layering between foreground, midground, and background. Diorama-like isometric feel. Miniature subject centered on beer can top. Human hand holding can creates scale reference. French fries positioned nearby.
+
+### Style
+Cinematic editorial style, premium macro photography, extreme realism, ultra-realistic textures.
+
+### Technical Specs
+Shallow depth of field, creamy blurred background with natural bokeh, ultra-realistic textures on the can, skin, hair, table, and fries. Premium macro photography. 8K resolution.
+
+### Color Palette
+Warm golden hour tones, natural skin tones, Corona Extra beer can colors (clear glass, gold liquid, blue and white label), warm browns of wooden table, golden French fries.
+
+### Mood
+Charming, relaxed, playful surrealism, outdoor leisure atmosphere, delicate and elegant.
+
+### Quality Keywords
+Extreme realism, no plastic appearance, no distortions, no extra fingers, no incorrect text, no watermark, hyper-realistic, premium quality, cinematic.
+
+### Negative Prompt
 low quality, blurry, low resolution, cartoon, anime, CGI, 3D render, watermark, logo, extra text, cropped objects, unnatural anatomy, extra hands, extra fingers, multiple limbs, deformed faces, distortion, noise, overexposed, underexposed, motion blur, unrealistic reflections, broken glass, murky water.

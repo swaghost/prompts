@@ -1,1 +1,98 @@
-Cinematic medium shot of a bald man with a beard wearing a long black leather trench coat, black turtleneck and futuristic black sunglasses, walking forward with a squad of identical men in the same outfit, all moving in perfect synchronized formation. Heavy smoke and dense fog fill the environment, dramatic low-key lighting with strong green color grading, desaturated tones and cinematic contrast. Matrix movie aesthetic, dark, futuristic, intense and cold atmosphere. Photorealistic, ultra detailed, 8k, highly cinematic, sharp focus on the main subject, volumetric fog, moody lighting, epic composition, best quality.
+# Fashion Mens Matrix Black Suite Squad Formation
+
+## Description of Resulting Image
+
+A cinematic medium shot featuring bald man with beard wearing long black leather trench coat, black turtleneck and futuristic black sunglasses, walking forward with squad of identical men in same outfit, all moving in perfect synchronized formation. The composition includes heavy smoke and dense fog filling environment, dramatic low-key lighting with strong green color grading and desaturated tones for Matrix movie aesthetic with dark, futuristic, intense and cold atmosphere.
+
+## Usage
+
+Perfect for sci-fi fashion campaigns, cinematic brand advertising, and futuristic editorial features. Ideal for action-inspired fashion content, dystopian themed lookbooks, movie-inspired marketing materials, and bold contemporary menswear campaigns. This prompt excels at creating Matrix-aesthetic group formations for high-impact cinematic fashion photography.
+
+## Actor or Subject
+
+Bald man with beard wearing long black leather trench coat, black turtleneck and futuristic black sunglasses, with squad of identical men in same outfit.
+
+## Prerequisites
+
+None
+
+## Included Effects
+
+**Lighting Effects:**
+- Dramatic low-key lighting
+- Strong green color grading
+- Moody lighting atmosphere
+- Sharp focus on main subject
+
+**Photographic Effects:**
+- Cinematic contrast
+- Desaturated tones
+- Sharp focus on main subject
+- Motion-forward composition
+
+**Atmospheric Effects:**
+- Heavy smoke filling environment
+- Dense fog throughout
+- Volumetric fog effects
+- Dark futuristic atmosphere
+
+**Post-Processing:**
+- Strong green color grading
+- Desaturated tones
+- Cinematic contrast treatment
+- Epic composition finishing
+
+**Style Filters:**
+- Matrix movie aesthetic
+- Dark futuristic style
+- Intense cold atmosphere
+- Highly cinematic approach
+
+## Included Camera Frames
+
+**Camera Type & Lens:**
+- Cinematic medium lens
+- Sharp focus capabilities
+
+**Framing & Composition:**
+- Medium shot capturing walking formation
+- Main subject in foreground
+- Squad in synchronized formation behind
+- Epic composition
+
+**Camera Angle:**
+- Eye level to slightly low angle
+- Forward-facing perspective
+
+**Depth of Field:**
+- Sharp focus on main subject
+- Slight depth separation from background squad
+
+**Aspect Ratio:**
+- Cinematic widescreen format
+
+**Shot Distance:**
+- Medium shot
+
+## Image Prompt
+
+**Subject:**
+Cinematic medium shot of bald man with beard wearing long black leather trench coat, black turtleneck and futuristic black sunglasses, walking forward with squad of identical men in same outfit, all moving in perfect synchronized formation.
+
+**Setting/Environment:**
+Heavy smoke and dense fog fill the environment, creating dark, futuristic, intense and cold atmosphere. Volumetric fog throughout scene.
+
+**Lighting:**
+Dramatic low-key lighting with strong green color grading. Moody lighting atmosphere emphasizing Matrix movie aesthetic. Sharp focus on main subject with atmospheric lighting effects.
+
+**Composition:**
+Main subject walking forward in foreground with squad of identical men in synchronized formation. All figures moving together in perfect coordination. Epic composition with cinematic framing.
+
+**Style & Aesthetic:**
+Matrix movie aesthetic, dark, futuristic, intense and cold atmosphere. Desaturated tones with strong green color grading creating iconic sci-fi look. Highly cinematic approach.
+
+**Technical Specifications:**
+Photorealistic, ultra detailed, 8k, highly cinematic, sharp focus on the main subject, volumetric fog, moody lighting, epic composition, best quality.
+
+**Negative Specifications:**
+Avoid bright colors, warm tones, clear atmosphere, soft lighting, low contrast, cluttered composition, low resolution.
