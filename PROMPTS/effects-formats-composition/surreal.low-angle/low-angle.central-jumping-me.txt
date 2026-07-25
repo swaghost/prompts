@@ -1,0 +1,8 @@
+An ultra‑realistic DSLR editorial photograph using the uploaded person’s exact face, hairstyle, skin tone, body proportions, facial features, and outfit from the reference image, without any modification or beautification.
+Capture the subject mid‑air while jumping directly over a camera placed on the ground, using an extreme ultra‑wide 8mm fisheye lens pointed straight upward. The exaggerated perspective makes the hands and shoes appear larger than the face while maintaining realistic proportions.
+The background is a circular courtyard surrounded by old European‑style brick buildings forming a ring around the fisheye frame, curving inward to create a circular architectural tunnel that frames the sky.
+At the center of the image, a bright deep blue sky with a few soft white clouds completes the composition.
+Photorealistic DSLR rendering, dynamic forced perspective, crisp detail, dramatic fisheye distortion, cinematic lighting, vertical composition.
+
+Negative prompts:  
+low quality, blurry, low resolution, cartoon, anime, CGI, 3D render, watermark, logo, extra text, cropped objects, unnatural anatomy, extra fingers, multiple limbs, deformed faces, distortion, noise, overexposed, underexposed, motion blur, unrealistic reflections.

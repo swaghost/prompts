@@ -1,0 +1,27 @@
+
+## 🎬 **Title:**  
+**“Cosmos Step – Ultra‑Wide Floral Editorial”**
+
+---
+
+## 📝 **Description:**  
+A cinematic, ultra‑realistic fashion‑editorial photograph capturing a person stepping toward a ground‑level camera placed among blooming cosmos flowers. The scene blends heroic low‑angle perspective, vibrant wildflowers, golden‑hour sunlight, and an 18mm ultra‑wide lens to create immersive travel‑editorial energy. The subject’s exact face, outfit, proportions, and identity from the reference image remain unchanged.
+
+---
+
+## ✅ **Extracted Prompt (clean English version)**
+
+**An ultra‑realistic editorial DSLR photograph using the uploaded person’s exact face, hairstyle, body proportions, skin tone, facial features, and outfit exactly as in the reference image, with no changes.  
+The camera is placed at ground level among blooming pink and white cosmos flowers, capturing the subject stepping confidently toward the lens, with one sneaker dominating the foreground.  
+Wildflowers sway under a blue sky with soft clouds, and the subject’s hair moves gently in the wind.  
+Low‑angle heroic fashion‑editorial perspective, shot with an 18mm ultra‑wide lens for slight perspective exaggeration while maintaining realistic proportions.  
+Golden‑hour natural sunlight with soft highlights, realistic shadows, and vibrant colors.  
+Captured on a Sony A7R V, f/5.6, ISO 100, 8K RAW for ultra‑detailed travel‑editorial realism.  
+Immersive composition with flowers naturally framing the edges, vivid color depth, crisp detail, and authentic outdoor atmosphere.**
+
+**Negative prompts:**  
+low quality, blurry, low resolution, cartoon, anime, CGI, 3D render, watermark, logo, extra text, cropped objects, unnatural anatomy, extra fingers, multiple limbs, deformed faces, distortion, noise, overexposed, underexposed, motion blur, unrealistic reflections.
+
+---
+
+If you want, I can also **tighten this**, convert it into a **short version**, or adapt it for **Midjourney / SDXL / Flux / DALL·E**.

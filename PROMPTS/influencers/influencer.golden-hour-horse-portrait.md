@@ -1,0 +1,5 @@
+# INFLUENCER - GOLDEN HOUR HORSE PORTRAIT
+
+Ultra-realistic editorial portrait in 8K during golden hour, with sophisticated atmosphere, feminine and connected to nature. Woman next to a brown horse, gently leaning her nearby face close to the animal, her touched face elegantly locating her snout. She looks directly at the camera with calm, intense and elegant expression. Bronzed hyper-realistic skin with natural golden glow, minimalist sophisticated makeup and loose wavy hair falling over her shoulders.
+
+Boho-luxury green olive dress with voluminous sleeves, translucent and fluid soft fabric in movements, effortlessly. Open field in the background out of focus with warm light from the setting sun, golden suave and profundity atmosphere. Fast editorial fashion campaign aesthetic inspired by freedom, nature and modern femininity. Canon EOS R5, 85mm lens f/1.8, shot on 35mm film, ultra photorealistic, luxury fashion editorial composition, horse texture, cinematic lighting, warm color grading, Vogue magazine aesthetic.

@@ -1,0 +1,3 @@
+# PORTRAITS - MINIMALIST BW HAUTE COUTURE
+
+Minimalist B&W haute couture. A stunning model with wet-look hair posing in a black backless textured knit dress. Strong contrast, deep shadows mapping her spine and shoulders. Leica Monochrom, 85mm, f/1.4, cinematic low-key...

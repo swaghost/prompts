@@ -1,0 +1,7 @@
+A surreal hyper‑realistic photo of a young man wearing a white England national team jersey, ripped black jeans, and black‑and‑white sneakers, trapped inside a giant transparent glass cup half‑filled with water. The man screams in panic with wide‑open eyes, mouth agape, and hands raised as if begging for help, while water splashes in all directions with realistic bubbles around him.
+The glass cup sits on a wooden table with droplets scattered across the surface. On the left side, stacks of books titled “Discipline,” “Mindset,” “Consistency,” and “Success.” On the right side, an open notebook displaying the phrase “Good Morning Vicky Miki,” with a pen beside it.
+The background shows a cozy modern workspace with wooden shelves, indoor plants, a lit desk lamp, motivational posters on the wall, and a window emitting warm afternoon sunlight. Cinematic composition, warm lighting, shallow depth of field, sharp details on the glass and water splashes, realistic reflections, HDR, 8K, ultra‑detailed, photorealistic, dramatic perspective, playful surrealism, masterpiece.
+Aspect ratio: 9:16.
+
+Negative prompts:  
+low quality, blurry, low resolution, cartoon, anime, CGI, 3D render, watermark, logo, extra text, cropped objects, unnatural anatomy, extra hands, extra fingers, multiple limbs, deformed faces, distortion, noise, overexposed, underexposed, motion blur, unrealistic reflections, broken glass, murky water.
