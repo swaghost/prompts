@@ -1,3 +1,15 @@
+# POV Cooking Breakfast - Sausages Eggs Tomatoes
+
+## Description
+
+A 10-second first-person POV cooking video showing the preparation of breakfast with sausages, eggs, and cherry tomatoes in a luxury dark kitchen. Features realistic food physics, dynamic speed ramps, and premium commercial cinematography.
+
+## Prerequisites
+
+None - generates from scratch
+
+## Video Prompt
+
 Realistic, ultra-detailed, cinematic cooking video, first-person POV, modern luxury dark kitchen, physically accurate food physics, natural lighting, macro food cinematography, crisp textures, realistic steam, oil reflections, shallow depth of field, HDR, smooth motion blur, dynamic speed ramps, seamless continuity, premium commercial food advertisement.
 
 0:00-0:00.7
@@ -35,6 +47,10 @@ Season with salt and freshly ground black pepper. Fine particles fall in slow mo
 
 0:07.4-0:08.1
 Everything cooks together. Steam rises. Sausages become evenly browned. Egg white finishes setting. Tomatoes caramelize.
+
+## Usage
+
+Ideal for cooking channel content, recipe demonstrations, food brand commercials, kitchen appliance advertisements, breakfast product marketing, and culinary social media content. Perfect for first-person cooking experiences with dynamic speed ramps, macro food details, realistic cooking physics, and premium food cinematography with commercial production quality.
 
 0:08.1-0:08.8
 Perform an energetic pan toss. The egg, sausages and tomatoes lift together into the air with realistic food physics, rotate slightly, then land perfectly back into the pan. Dramatic speed ramp and motion blur.

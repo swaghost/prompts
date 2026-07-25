@@ -1,3 +1,34 @@
+# Eiffel Tower Holographic Construction Timeline
+
+## Description
+
+A 10-second ultra-cinematic premium motion design video showing the Eiffel Tower with futuristic holographic interfaces displaying its construction timeline and history, featuring elegant glassmorphism UI and smooth camera orbits.
+
+## Prerequisites
+
+- Reference image of Eiffel Tower
+- Provided storyboard
+
+## Storyboard Prompt
+
+Create a 6-panel storyboard illustration showing key moments of the Eiffel Tower holographic timeline sequence:
+
+**Panel 1 (0:00-0:01):** Wide shot of the Eiffel Tower perfectly centered against pure black background, camera beginning orbital movement, soft golden rim lighting on the metallic structure, no UI elements yet, cinematic composition.
+
+**Panel 2 (0:02-0:03):** Medium shot showing the tower with first holographic UI panels appearing on left and right sides, elegant glassmorphism interfaces with timeline markers and blueprint sketches, thin glowing connection lines, camera in mid-orbit position, premium minimal design aesthetic.
+
+**Panel 3 (0:04-0:05):** The tower surrounded by floating architectural diagrams, CAD drawings, and approval stage UI cards, thin golden wireframe overlay beginning to wrap around structure, camera maintaining smooth orbital motion, multiple UI layers creating depth.
+
+**Panel 4 (0:06-0:07):** Construction phase visualization with small floating video windows showing historical construction footage, timeline indicators, structural diagrams, steel framework illustrations with soft golden pulses along connection lines, camera continued orbit with gentle push-in.
+
+**Panel 5 (0:08-0:09):** Most UI elements dissolving away, only a few elegant floating cards remaining with landmark status information, soft golden particles drifting around the tower, lighting becoming warmer and more dramatic, camera slowing down.
+
+**Panel 6 (0:09-0:10):** Final hero shot with tower perfectly centered, nearly all UI dissolved except clean premium title card, beautiful light sweep traveling from base to top of tower, camera at closest position, luxury architectural documentary aesthetic.
+
+Style: Ultra-realistic CGI architectural visualization, black background, premium motion graphics aesthetic, Apple/Linear design language, glassmorphism UI, thin elegant lines, cinematic lighting, 16:9 widescreen format, each panel should clearly show camera angle and UI placement.
+
+## Video Prompt
+
 Create a **10-second ultra-cinematic premium motion design video** based on the provided storyboard. Maintain **the exact appearance of the reference Eiffel Tower** throughout the entire animation. The tower remains the central subject with **no deformation or redesign**. Use a **pure black seamless background** with subtle floating dust particles, premium volumetric lighting, elegant reflections, and high contrast. The visual style should feel like a premium architectural documentary with futuristic interface overlays.
 
 The camera movement must be **continuous, smooth, and cinematic** with no abrupt cuts. Every transition should flow naturally using dolly, orbit, parallax, and cinematic easing. Motion should feel expansive, refined, and physically relatable.
@@ -55,3 +86,7 @@ Final hero shot. The Eiffel Tower occupies the center of the frame. The camera p
 - 60 FPS motion quality
 - Perfectly smooth camera animation
 - Maximum realism and premium presentation.
+
+## Usage
+
+Perfect for architectural documentaries, landmark history presentations, museum installations, premium brand commercials featuring iconic structures, tech company showcase videos, and futuristic UI/motion design demonstrations. Ideal for showcasing historical construction timelines with modern holographic visualization.

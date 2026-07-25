@@ -1,10 +1,40 @@
+# Residential Complex Controlled Deconstruction Interior Reveal
+
+## Description
+
+A 10-second luxury real estate commercial showing a residential complex undergoing controlled deconstruction to reveal interior apartments, ending with a cinematic interior flythrough.
+
+## Prerequisites
+
+- Uploaded reference image (floating residential complex)
+
+## Storyboard Prompt
+
+Create a 6-panel storyboard showing the controlled deconstruction sequence:
+
+**Panel 1 (0:00-0:02):** Wide shot of complete residential complex floating perfectly still against black background, locked camera composition, then building rushing toward camera with motion blur, architectural details becoming visible, dramatic approach movement, floating island visible below.
+
+**Panel 2 (0:02-0:03):** Extreme architectural close-up with building filling most of frame, premium facade details, balconies, and windows clearly visible, locked static camera, building stopped in close proximity, detailed materiality visible, professional architectural photography composition.
+
+**Panel 3 (0:03-0:05):** Right half of building beginning controlled deconstruction with bricks, concrete, glass, steel beams, and facade panels separating and flying toward right in slow-motion, realistic debris physics, dust and small particles filling air, interior apartments starting to be exposed, dynamic destruction moment.
+
+**Panel 4 (0:05-0:06):** Nearly half of facade disappeared, multiple luxury apartments fully revealed with warm interior lighting contrasting against exposed structure, modern kitchens, living rooms, bedrooms visible, designer furniture and plants illuminated, debris motion slowing, cross-section architectural view.
+
+**Panel 5 (0:07-0:09):** Camera smoothly entering selected apartment through open facade, beginning interior flythrough showing premium furniture, natural wood, stone textures, designer lighting, artwork, plants and elegant decor, shallow depth of field, cinematic interior reveal, warm atmospheric lighting.
+
+**Panel 6 (0:09-0:10):** Final hero shot inside luxurious living room, camera stopped showing warm cinematic interior composition, premium materials and finishes on full display, sophisticated furniture arrangement, designer details, perfect real estate showcase framing, warm inviting atmosphere.
+
+Style: Ultra-realistic architectural visualization, Unreal Engine quality, luxury real estate commercial aesthetic, dramatic deconstruction physics, warm interior lighting, 16:9 format, each panel showing clear camera position and architectural transformation progression.
+
+## Video Prompt
+
 Use the uploaded reference image as the exact first frame.
 
 Create a 10-second ultra-photorealistic luxury real estate commercial.
 
 Keep the residential complex, architecture, floating island, lighting, materials, proportions and black background consistent throughout the entire video.
 
-Aspect Ratio: 16:9
+**Aspect Ratio:** 16:9
 
 SHOT 1 (0:00-0:01)
 The residential complex stands perfectly still in the center against a black background. Locked tripod camera.
@@ -50,3 +80,7 @@ Physics:
 Realistic debris simulation, concrete dust, steel elements, glass fragments and natural motion.
 
 The transition from exterior to interior must be completely seamless, with consistent architecture and premium CGI quality throughout.
+
+## Usage
+
+Ideal for luxury real estate marketing, architectural visualization portfolios, property developer presentations, interior design showcases, and high-end apartment complex launches. Perfect for revealing interior spaces in dramatic fashion while maintaining architectural context and demonstrating construction quality with cinematic storytelling.

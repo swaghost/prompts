@@ -1,3 +1,15 @@
+# Transformer Robot Demolition Construction
+
+## Description
+
+A 10-second hyper-realistic CGI video showing a giant construction transformer robot demolishing an old Soviet apartment building and constructing a modern residential complex in its place.
+
+## Prerequisites
+
+None - generates from scratch
+
+## Video Prompt
+
 Create a 10-second hyper-realistic cinematic CGI video.
 
 An abandoned Soviet-style apartment tower stands in a ruined field. A giant construction transformer is the hero of the film. It is a realistic engineering robot equipped with a crane, excavator arms, hydraulic breakers, welding tools, manipulators, concrete systems and landscaping equipment. Every action is mechanical and physically believable.
@@ -21,3 +33,7 @@ Style:
 Hyper realistic CGI, premium architecture commercial, industrial realism, Apple product film precision, cinematic lighting, ray tracing, 8K, HDR, realistic dust, realistic destruction physics, realistic construction process, dynamic camera movement, smooth transitions, ultra-detailed mechanical parts.
 
 No magic. No teleportation. No glowing effects. Every transformation happens through realistic engineering and construction machinery.
+
+## Usage
+
+Ideal for robotics company marketing, construction technology demonstrations, futuristic urban development concepts, transformer-inspired narratives, and automated building system showcases. Perfect for demonstrating demolition-to-construction cycles with giant robotic machinery, realistic engineering processes, and cinematic CGI with industrial precision and Apple-inspired premium aesthetics.

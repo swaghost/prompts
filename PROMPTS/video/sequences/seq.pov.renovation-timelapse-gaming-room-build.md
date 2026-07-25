@@ -1,3 +1,15 @@
+# POV Renovation Timelapse - Gaming Room Build
+
+## Description
+
+A 10-second first-person POV renovation timelapse showing the transformation of an abandoned room into a modern white minimalist gaming setup. Features continuous motion, realistic construction workflow, and dynamic speed ramps.
+
+## Prerequisites
+
+None - generates from scratch
+
+## Video Prompt
+
 POV, first-person perspective, ultra realistic cinematic renovation timelapse, identical camera position throughout the entire video, same room geometry, same window, same proportions, same composition, two realistic male hands visible in every shot interacting with the environment. Extremely dynamic camera, handheld micro movements, speed ramps, whip pans, motion blur, fast transitions, realistic construction dust, debris particles, natural lighting gradually changing into clean white modern lighting. Every action logically continues from the previous scene.
 
 Scene 1 (0.0-1.0s)
@@ -32,3 +44,7 @@ Turn on LED lighting. RGB fans illuminate. Curved monitor powers on. Final room 
 
 Style:
 Photorealistic, 8K, cinematic, Unreal Engine quality, HDR, highly detailed textures, physically accurate materials, realistic hands, consistent room layout, consistent camera height, realistic renovation workflow, smooth object continuity, high energy editing, seamless transitions, speed ramps, action-focused, no people visible except first-person hands., 16:9
+
+## Usage
+
+Ideal for DIY renovation channels, gaming setup showcases, room transformation content, construction tutorial videos, interior renovation marketing, and first-person timelapse demonstrations. Perfect for showcasing complete room renovations with POV perspective, gaming room builds, realistic construction workflow, and dynamic speed-ramped transformation sequences with hands-on activity focus.
