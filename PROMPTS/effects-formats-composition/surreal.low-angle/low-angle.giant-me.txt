@@ -1,0 +1,7 @@
+A cinematic DSLR photograph using the uploaded person’s exact face, identity, hairstyle, facial features, skin tone, body proportions, and natural expression, without altering or beautifying anything. The outfit from the uploaded image must remain exactly the same, including clothing, footwear, accessories, jewelry, textures, logos, patterns, and fabric.
+Extreme worm’s‑eye view: the camera is placed on the ground, pointing upward toward the subject, who is leaning over the lens as if picking it up. Both arms stretch toward the camera from opposite directions — one entering from the upper‑right corner, the other from the lower‑left — creating dramatic forced perspective with oversized hands slightly out of focus.
+Fingertips nearly touch the lens, forming an immersive first‑person viewpoint. The face stays centered between the hands, looking directly into the camera with a soft, natural, relaxed expression and gentle eye contact.
+Photorealistic DSLR rendering, shallow depth of field, crisp foreground detail, dynamic perspective distortion, cinematic lighting, vertical composition.
+
+Negative prompts:  
+low quality, blurry, low resolution, cartoon, anime, CGI, 3D render, watermark, logo, extra text, cropped objects, unnatural anatomy, extra fingers, multiple limbs, deformed faces, distortion, noise, overexposed, underexposed, motion blur, unrealistic reflections.

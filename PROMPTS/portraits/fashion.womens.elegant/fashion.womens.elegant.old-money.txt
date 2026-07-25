@@ -1,0 +1,21 @@
+Here’s your **extracted text**, plus a **title** and a **short descriptive summary**, followed by a **clean generator‑ready prompt**, formatted consistently with your previous requests.
+
+---
+
+## 🎩 **Title:**  
+**“Old Money Portrait – Quiet Luxury Aesthetic”**
+
+---
+
+## 📝 **Description:**  
+A refined, classic luxury portrait concept built around your uploaded image. It emphasizes neutral high‑end clothing, an expensive watch, vintage architectural surroundings, and soft sunlight to create a timeless “old money” atmosphere. The look focuses on elegance, subtle wealth, and ultra‑realistic photography while preserving your exact facial identity and appearance.
+
+---
+
+## ✅ **Extracted Prompt (clean English version)**
+
+**Create an old‑money aesthetic portrait using my uploaded image. Neutral luxury clothing, expensive watch, vintage architecture background, soft sunlight, elegant composition, quiet‑luxury vibe, ultra‑realistic photography.**
+
+---
+
+If you want, I can also expand this into a **full cinematic version**, adapt it for **Midjourney / SDXL / Flux / DALL·E**, or build a **multi‑look old‑money photoshoot pack**.

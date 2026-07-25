@@ -1,0 +1,6 @@
+An ultra‑realistic DSLR fisheye street photograph captured from an extreme worm’s‑eye view using an 8mm circular fisheye lens. The camera is placed directly on the ground as one foot steps over the lens, the sneaker sole filling nearly half the frame in sharp detail, while the other foot remains planted behind.
+The person’s hand reaches toward the lens, creating dramatic perspective distortion, with a confident expression and direct eye contact. The pose is dynamic, as if walking over the camera, with natural balance, relaxed shoulders, and subtle wind movement in the hair.
+The setting is Piazza del Duomo in Milan, Italy, showing the Gothic cathedral on the right and surrounding historic European buildings curving around the frame. A large open stone plaza stretches outward with a few distant pedestrians. The subject is perfectly centered, with the massive foreground shoe closest to the lens.
+
+Negative prompts:  
+low quality, blurry, low resolution, cartoon, anime, CGI, 3D render, watermark, logo, extra text, cropped objects, unnatural anatomy, extra fingers, multiple limbs, deformed faces, distortion, noise, overexposed, underexposed, motion blur, unrealistic reflections.

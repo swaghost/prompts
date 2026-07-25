@@ -1,0 +1,3 @@
+A cinematic, ultra-realistic full body portrait of a young man standing with his back turned, slightly looking over his shoulder. He has curly black hair, a short beard, and is wearing black sunglasses and white earbuds. He is dressed in a loose black sleeveless t-shirt that shows his muscular arms, paired with baggy beige pants and black shoes. In his right hand, he holds a katana, the blade pointing down toward the ground.
+
+The scene is set in a dark, minimal environment with a huge bright white square light panel behind him, creating a strong backlight and a dramatic silhouette effect. The floor is dark and slightly reflective, adding depth and mood. The overly lighting is high contrast, giving a cinematic, powerful, and mysterious atmosphere.

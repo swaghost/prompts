@@ -1,0 +1,5 @@
+# PORTRAITS - NIKE JORDAN SPORTS FASHION
+
+High end sports fashion advertising banner. Athletic male model in Nike/Jordan inspired outfit, positioned struck in the far left third of the frame, slightly cropped on the left edge, with 60 65% clean negative space on the right for typography. Cinematic directional studio lighting, strong contrast, deep shadows, rich color grading. Deep blacks, vibrant tones, warm skin highlights, cool blue shadows, soft amber accents, high dynamic range, filmic tonal separation, subtle volumetric smoke and atmospheric fog around model only, blending into clean right side. Absolute geometric shafts and light streaks behind model, gradient left to right, glowing energy motion lines, dynamic but uncluttered. Background shifts from rich dark tones near model to light clean gradient on the right. Premium streetwear aesthetic, global sports brand campaign style, ultra realistic, hyper detailed textures, crisp fabric, glossy finish, 8K, 3:1 aspect layout, 8k, editorial commercial hybrid, luxury sportswear identity.
+
+4:5 | Midjourney

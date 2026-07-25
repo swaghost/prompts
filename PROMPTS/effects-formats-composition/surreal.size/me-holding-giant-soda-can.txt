@@ -1,0 +1,5 @@
+A hyper‑realistic surreal action photograph of a man struggling to hold a giant oversized blue soda can with a classic Pepsi logo. Soda splashes out from the top as the man drinks through a white straw. A massive off‑screen hand grabs the back of his white T‑shirt, pulling him backward.
+The scene is chaotic, with soda splattering across the floor and his clothes, realistic ice cubes scattered around, high‑speed photography, crisp studio lighting, clean white background, and 8K ultra‑detailed realism.
+
+Negative prompts:  
+low quality, blurry, low resolution, cartoon, anime, CGI, 3D render, watermark, logo, extra text, cropped objects, unnatural anatomy, extra fingers, multiple limbs, deformed faces, distortion, noise, overexposed, underexposed, motion blur, unrealistic reflections.
