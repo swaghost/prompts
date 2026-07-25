@@ -1,6 +1,6 @@
 # [Sequence Name]
 
-## Description
+## Description of Resulting Video or Video Sequence
 
 [Brief 1-2 sentence description of what this sequence does, including key visual elements, duration, and style. Example: "A 10-second ultra-cinematic sequence showing X transforming into Y with dramatic camera movement and premium CGI quality."]
 

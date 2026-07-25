@@ -1,0 +1,63 @@
+# Prompt-Engineering Guide for AI Video Tools (Subject-Motion Focus)
+
+This is the part most people get wrong. You want motion verbs, camera-subject relationships, emotional intent, and spatial clarity.
+
+---
+
+## A. Prompt Structure (Modular)
+
+### 1. Subject Identity
+
+- "a teenage boy in a hoodie"
+- "a woman in a red coat"
+- "a cracked porcelain mask on a table"
+
+### 2. Subject Motion
+
+Use verbs from the cheat sheet:
+
+- "walking slowly"
+- "glancing nervously"
+- "leaning forward with tension"
+- "drifting downward"
+- "shattering on impact"
+
+### 3. Emotional Behavior
+
+- "hesitant"
+- "determined"
+- "detached"
+- "anxious but composed"
+
+### 4. Spatial Relationship
+
+- "in the foreground"
+- "crossing left to right"
+- "moving toward camera"
+- "isolated in negative space"
+
+### 5. Camera Motion
+
+- "camera performs a slow push-in"
+- "camera tracks alongside"
+- "camera tilts down as object falls"
+- "camera orbits while subject remains still"
+
+### 6. Environmental Motion
+
+- "neon reflections flicker"
+- "smoke drifts upward"
+- "wind pushes through trees"
+
+### 7. Tone / Style
+
+- "moody and atmospheric"
+- "high-energy action"
+- "quiet and intimate"
+- "surreal dreamlike motion"
+
+---
+
+## B. Example Prompt (High-Quality Cinematic Motion)
+
+**A teenage boy in a hoodie walks slowly toward the camera, shoulders tense, glancing around nervously. He moves through the midground, isolated in negative space. The camera performs a slow push-in as he hesitates, tightening the emotional tension. Neon reflections flicker across the wet pavement, creating a moody, atmospheric tone.**
