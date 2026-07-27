@@ -94,3 +94,5 @@ Style: [Overall aesthetic guidance - cinematography style, rendering quality, as
 6. **Usage Section:** Focus on practical applications, target industries, and marketing contexts to help users understand when to use this sequence
 
 7. **Formatting:** Use consistent heading levels, clear time markers, and structured organization for easy scanning
+
+8. **PROMPT MAINTENENANCE:** make sure to ALWAYS add the prompt in totality in the "video prompt" section. I do not want to lose any detail or implied ordering of the original prompt by separating it into parts.

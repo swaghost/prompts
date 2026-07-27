@@ -130,3 +130,5 @@
 7. **Usage Section:** Help users understand when this prompt is appropriate and what contexts it works best in
 
 8. **Organization:** Consider organizing image prompts into subfolders by category (portraits/, products/, influencers/, editorial/, etc.)
+
+9. **PROMPT MAINTENENANCE:**PROMPT MAINTENENANCE:\*\* make sure to ALWAYS add the prompt in totality in the "image prompt" section. I do not want to lose any detail or implied ordering of the original prompt by separating it into parts.
