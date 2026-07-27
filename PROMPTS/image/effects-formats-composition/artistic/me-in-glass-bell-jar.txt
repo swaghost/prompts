@@ -1,0 +1,116 @@
+# Person in Glass Bell Jar - Conceptual Portrait
+
+## Description of Resulting Image
+
+A hyper-realistic conceptual portrait of a person sitting on a glass platform inside or beneath a large transparent bell jar in a minimalist studio, preserving exact facial identity from reference photo while creating surreal artistic symbolism with reflections and dramatic lighting.
+
+## Usage
+
+Perfect for conceptual art portfolios, psychology and mental health awareness campaigns, fine art photography exhibitions, and philosophical editorial content. Ideal for album covers, literary magazine illustrations, therapeutic and wellness brand imagery, and artistic projects exploring themes of isolation, introspection, or containment. This prompt excels at creating emotionally resonant surreal portraits while maintaining photorealistic facial accuracy and identity preservation from reference images.
+
+## Actor or Subject
+
+Person from reference photo seated on glass platform, preserved identity without alterations
+
+## Prerequisites
+
+- Subject reference photo (MANDATORY - identity must be preserved exactly)
+- Full-body reference showing natural pose and proportions
+
+## Included Effects
+
+**Lighting Effects:**
+
+- Studio lighting with dramatic shadows
+- Reflections from glass surfaces
+- Controlled key and fill lights
+- Subtle rim lighting on edges
+- Glass surface reflections
+
+**Photographic Effects:**
+
+- Hyper-realistic rendering
+- Glass transparency and refraction
+- Multiple reflection layers
+- Photorealistic skin texture
+- Sharp detail preservation
+
+**Atmospheric Effects:**
+
+- Minimalist studio atmosphere
+- Glass containment symbolism
+- Surreal conceptual mood
+- Emotional depth through isolation
+
+**Post-Processing:**
+
+- Identity preservation (no beautification)
+- Natural skin texture maintained
+- Realistic color grading
+- Enhanced glass clarity
+- Balanced exposure for realism
+
+**Style Filters:**
+
+- Conceptual art photography
+- Surrealist realism
+- Fine art portrait aesthetic
+- Symbolic visual storytelling
+
+## Included Camera Frames
+
+**Camera Type & Lens:**
+
+- Professional DSLR/Mirrorless
+- 50mm or 85mm prime lens
+- Medium format aesthetic
+
+**Framing & Composition:**
+
+- Full body or 3/4 shot
+- Subject centered within bell jar
+- Glass platform visible with reflections
+- Minimalist negative space
+- Symmetrical or balanced composition
+
+**Camera Angle:**
+
+- Eye level to slightly elevated
+- Straight-on perspective
+- Architectural framing of jar
+
+**Depth of Field:**
+
+- Moderate to deep DoF (f/5.6-f/8)
+- Subject sharp with glass clarity
+- Background minimalist and clean
+
+**Aspect Ratio:**
+
+- Standard portrait format (4:5 or 3:2)
+- Vertical composition
+
+**Shot Distance:**
+
+- Full body portrait
+- Environmental conceptual shot
+
+## Image Prompt
+
+**Subject:**
+Person sitting on transparent glass platform with body language suggesting contemplation or containment. Exact facial features, proportions, expressions, nose, lips, skin texture, and hair from reference photo must be preserved without any beautification, smoothing, or alterations. Natural asymmetries and authentic features maintained. Clothing and pose from reference or natural seated position.
+
+**Setting/Environment:**
+Minimalist studio setting with large transparent bell jar or glass dome. Person positioned on or beneath glass structure. Transparent glass platform creating subtle reflections below. Clean white or neutral background emphasizing isolation and conceptual nature. Professional studio environment with controlled space.
+
+**Lighting:**
+Studio lighting setup creating dramatic shadows and glass reflections. Key light illuminating subject while highlighting glass transparency. Subtle rim lighting defining edges of bell jar. Reflections visible on glass platform below subject. Balanced lighting maintaining realism and emotional depth without over-stylization.
+
+**Composition:**
+Subject centered within bell jar framework. Glass platform creates visual foundation with reflections adding depth. Minimalist composition emphasizing symbolic containment or introspection. Negative space around jar creates breathing room. Symmetrical or balanced framing enhancing conceptual impact.
+
+**Style & Aesthetic:**
+Hyper-realistic conceptual portrait photography. Surrealist symbolism combined with photorealistic execution. Fine art aesthetic with philosophical undertones. Glass transparency creates vulnerability and separation themes. Identity preservation is paramount - no artificial enhancement or feature alteration. Natural human authenticity maintained while creating conceptual artistic statement.
+
+**Technical Specifications:**
+50-85mm lens, f/5.6-f/8 aperture, controlled studio lighting, multiple light sources for glass reflections, 8K resolution, hyper-realistic rendering, exact identity preservation from reference photo, natural skin texture, professional portrait photography standards, glass transparency and refraction rendering

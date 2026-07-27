@@ -1,0 +1,99 @@
+# Antique Gold Logo with Rich Patina - Luxurious Avatar Style
+
+## Description of Resulting Image
+
+A brand logo exquisitely crafted from antique gold featuring a rich textured surface with subtle patina. The rendering showcases intricate details and depth with warm glowing highlights and deep shadows, centered against a luxurious dark slightly blurred background in avatar style format.
+
+## Usage
+
+Use this prompt when you want to create a premium, heritage-focused logo presentation that conveys luxury, craftsmanship, and timeless elegance. Perfect for luxury brands, jewelry companies, premium spirits, heritage products, or any business wanting to project exclusivity and artisanal quality. The avatar-style 1:1 format is ideal for social media profiles, app icons, or circular branding applications.
+
+## Actor or Subject
+
+Brand logo (insert "[NOME DA MARCA]" - brand name) rendered as antique gold sculpture with patina
+
+## Prerequisites
+
+- Brand name to be inserted in prompt
+- Logo design or uploaded image
+- 8K rendering capability
+- Understanding of avatar/profile format (1:1 aspect ratio)
+
+## Included Effects
+
+### Lighting
+- Warm glowing highlights on gold surface
+- Deep dramatic shadows creating depth
+- High contrast lighting
+
+### Photographic
+- 8K ultra detailed resolution
+- Hyperrealistic rendering
+- Shallow depth of field on background
+
+### Atmospheric
+- Luxurious ambiance
+- Heritage/antique aesthetic
+- Premium sophistication
+
+### Post-Processing
+- High contrast enhancement
+- Texture and patina detail refinement
+- Background blur
+
+### Style Filters
+- Antique gold material rendering
+- Heritage/luxury aesthetic
+- Avatar/profile centered composition
+
+## Included Camera Frames
+
+### Camera Type
+High-resolution studio camera (8K capable)
+
+### Framing
+Centered avatar style composition
+
+### Angle
+Straight-on view for centered avatar presentation
+
+### Depth of Field (DoF)
+Sharp focus on logo, luxurious dark background slightly blurred
+
+### Aspect Ratio
+1:1 (square avatar format)
+
+### Shot Distance
+Close-up to showcase intricate gold texture and patina details
+
+## Image Prompt
+
+### Subject
+The [NOME DA MARCA] logo, exquisitely crafted from antique gold with a rich, textured surface and subtle patina. Intricate details and depth, with warm, glowing highlights and deep shadows.
+
+### Setting
+Luxurious dark, slightly blurred background providing contrast and premium ambiance
+
+### Lighting
+Warm glowing highlights on antique gold surface, deep shadows creating dimensional depth, high contrast lighting
+
+### Composition
+Centered, avatar style layout, balanced presentation with focus on logo craftsmanship
+
+### Style
+8K hyperrealistic rendering, antique gold material aesthetic, luxury heritage style, premium avatar presentation
+
+### Technical Specs
+8K resolution, ultra detailed, hyperrealistic rendering, high contrast, subtle patina effects, textured surface detail
+
+### Color Palette
+Antique gold with rich warm tones, subtle patina variations, deep shadowed areas, dark luxurious background
+
+### Mood
+Luxurious, prestigious, timeless, sophisticated, heritage, exclusive, premium
+
+### Quality Keywords
+Exquisitely crafted, antique gold, rich textured surface, subtle patina, intricate details, depth, warm glowing highlights, deep shadows, 8K, ultra detailed, hyperrealistic, high contrast
+
+### Negative Prompt
+Shiny new gold, flat surface, poor texture, low detail, bright background, washed out highlights, flat lighting, low resolution, modern aesthetic

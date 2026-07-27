@@ -1,0 +1,92 @@
+# Knitted Yarn Logo Transformation
+
+## Description of Resulting Image
+
+A three-dimensional logo rendered in thick, textured yarn or wool with each section crafted in vibrant colors. The knitted texture features clearly visible fibers creating a soft, tactile appearance with realistic shading that emphasizes the fabric-like quality of the design.
+
+## Usage
+
+Use this prompt when you want to transform a brand logo into a warm, approachable textile art piece. Perfect for lifestyle brands, craft-related businesses, or when seeking a cozy, handmade aesthetic that stands out from traditional digital logos. The vibrant yarn colors can be customized to match any brand palette while maintaining the crafted, artisanal feel.
+
+## Actor or Subject
+
+Brand logo transformed into knitted yarn/wool material
+
+## Prerequisites
+
+- Uploaded reference logo image
+- Desired color palette matching brand identity
+
+## Included Effects
+
+### Lighting
+- Three-dimensional shading to enhance depth
+- Highlights on yarn fibers for realism
+
+### Photographic
+- Textured surface detail
+- Visible fiber structure
+
+### Atmospheric
+- Warm, handcrafted aesthetic
+
+### Post-Processing
+- 3D effect rendering
+- Texture enhancement for yarn visibility
+
+### Style Filters
+- Textile/fabric style
+- Artisanal/handcrafted aesthetic
+- Vibrant color treatment
+
+## Included Camera Frames
+
+### Camera Type
+Studio/product photography setup
+
+### Framing
+Centered logo composition
+
+### Angle
+Straight-on view to showcase texture
+
+### Depth of Field (DoF)
+Sharp focus on logo texture with subtle depth
+
+### Aspect Ratio
+Standard (not specified, adjustable)
+
+### Shot Distance
+Close enough to show yarn fiber detail
+
+## Image Prompt
+
+### Subject
+Create a highly detailed, textured logo from uploaded image made of thick yarn or wool. Each section of the logo should be in a different vibrant color (matching the reference image provided). The yarn should have a knitted texture with clearly visible fibers, giving a soft, dynamic 3D appearance.
+
+### Setting
+Neutral or light-colored background to allow vibrant yarn texture to stand out
+
+### Lighting
+Dimensional lighting that creates shading and emphasizes the three-dimensional knitted effect
+
+### Composition
+Centered logo with full visibility of textured details, showcasing the brand's unique character
+
+### Style
+Textile art, knitted fabric aesthetic, handcrafted artisanal look
+
+### Technical Specs
+Highly detailed texture rendering, visible fiber structure, 3D appearance with realistic shading
+
+### Color Palette
+Vibrant multi-color sections matching uploaded reference image, contrasting against neutral/light background
+
+### Mood
+Warm, approachable, handcrafted, cozy, artisanal
+
+### Quality Keywords
+Highly detailed, textured, thick yarn, knitted texture, clearly visible fibers, soft, dynamic 3D appearance, three-dimensional effect
+
+### Negative Prompt
+Flat appearance, smooth surface, digital look, cold aesthetic, blurred fibers, undefined texture

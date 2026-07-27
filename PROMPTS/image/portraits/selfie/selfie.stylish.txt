@@ -1,0 +1,117 @@
+# Stylish Mirror Selfie - Y2K Fashion Editorial
+
+## Description of Resulting Image
+
+Fashion editorial portrait of stylish man leaning against white wall in minimal indoor hallway, vertical half-body framing featuring oversized Y2K t-shirt, black wide-leg baggy jeans, black sunglasses with relaxed confident expression, soft natural daylight creating editorial luxury menswear vibe.
+
+## Usage
+
+Perfect for fashion editorial content, Y2K aesthetic campaigns, and stylish mirror selfie photography. Ideal for menswear lookbooks, fashion social media content, contemporary style campaigns, and luxury casual wear marketing. This prompt excels at creating consistent editorial mirror selfies with Y2K fashion aesthetic and natural lighting.
+
+## Actor or Subject
+
+Stylish man leaning against white wall, body tilted slightly left, one hand on hip, other hand holding smartphone in front of chest, wearing oversized Y2K t-shirt and black wide-leg baggy jeans with black sunglasses.
+
+## Prerequisites
+
+- Reference image for subject identity (recommended)
+
+## Included Effects
+
+**Lighting Effects:**
+- Soft natural daylight
+- Clean illumination
+- Minimal shadows
+- Editorial quality natural light
+- Flattering soft illumination
+
+**Photographic Effects:**
+- Photorealistic rendering
+- Mirror selfie perspective
+- Editorial luxury menswear aesthetic
+- Vertical half-body framing
+- Contemporary fashion photography
+
+**Atmospheric Effects:**
+- Minimal indoor hallway atmosphere
+- Clean cream wall background
+- Natural light environment
+- Contemporary interior space
+
+**Post-Processing:**
+- Editorial fashion color grading
+- Luxury menswear processing
+- Photorealistic finish
+- Contemporary style enhancement
+- Clean professional look
+
+**Style Filters:**
+- Editorial luxury menswear vibe
+- Y2K aesthetic
+- Contemporary fashion style
+- Relaxed confident look
+- Minimalist clean aesthetic
+
+## Included Camera Frames
+
+**Camera Type & Lens:**
+- Smartphone camera (mirror selfie)
+- Standard focal length
+- Natural selfie perspective
+
+**Framing & Composition:**
+- Vertical half-body framing
+- Body tilted slightly left
+- One hand on hip posing
+- Mirror selfie composition
+- Clean minimal framing
+
+**Camera Angle:**
+- Mirror selfie angle
+- Same camera angle consistency
+- Eye level to slightly elevated
+
+**Depth of Field:**
+- Standard smartphone depth
+- Subject and background clear
+- Clean minimal separation
+
+**Aspect Ratio:**
+- 9:16 vertical format
+- Instagram story/post optimized
+
+**Shot Distance:**
+- Half-body mirror selfie distance
+- Fashion editorial range
+
+## Image Prompt
+
+**Subject:**
+Fashion editorial portrait of a stylish man leaning against a white wall in a minimal indoor hallway. Vertical half-body framing with body tilted slightly left. One hand on hip, other hand holding a smartphone in front of his chest. Wearing oversized Y2K t-shirt, black wide-leg baggy jeans, and black sunglasses. Relaxed confident expression with dark tousled hair.
+
+**Setting/Environment:**
+Minimal indoor hallway with clean cream wall background. Contemporary interior space with natural light. Simple uncluttered environment focusing attention on subject and styling.
+
+**Lighting:**
+Soft natural daylight creating editorial quality illumination. Clean flattering lighting typical of fashion photography. Natural window light or ambient indoor light quality.
+
+**Composition:**
+Vertical half-body framing with body tilted slightly left. One hand on hip creating dynamic pose. Other hand holding smartphone in mirror selfie position. Same camera angle, same pose, same outfit, same composition for consistency. Mirror selfie composition.
+
+**Style & Aesthetic:**
+Editorial luxury menswear vibe with Y2K aesthetic. Photorealistic fashion photography. Relaxed confident contemporary style. Minimalist clean background emphasizing fashion and attitude.
+
+**Technical Specifications:**
+Photorealistic rendering with editorial fashion quality. Mirror selfie perspective maintained. Contemporary fashion photography execution. Clean professional finish.
+
+**Color Palette:**
+Clean cream wall background. Oversized Y2K t-shirt colors. Black wide-leg baggy jeans. Black sunglasses. Natural skin tones. Soft natural daylight color temperature. Contemporary neutral palette.
+
+**Mood & Atmosphere:**
+Relaxed confident, stylish, editorial luxury, Y2K aesthetic, contemporary fashion, minimal clean, natural casual, photorealistic, professional menswear vibe, effortless cool.
+
+**Quality Keywords:**
+Fashion editorial portrait, photorealistic, soft natural daylight, editorial luxury menswear vibe, Y2K aesthetic, contemporary fashion photography, mirror selfie, professional quality, stylish composition.
+
+**Negative Prompt (What to Avoid):**
+Changing pose, different outfit, different angle, cluttered background, harsh lighting, overstyled appearance, loss of Y2K aesthetic, poor mirror selfie execution, inconsistent composition, artificial effects, overly processed look.

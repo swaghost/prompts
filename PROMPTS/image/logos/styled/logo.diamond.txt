@@ -1,0 +1,98 @@
+# 3D Crystal Holographic Logo with Rainbow Reflections
+
+## Description of Resulting Image
+
+A three-dimensional logo crafted from flawless faceted crystal or holographic glass, positioned at center on a deep black backdrop. The crystal form scatters light into vivid rainbow colors (purple, blue, pink, yellow, green) with sharp highlights and colorful reflections creating a bright, futuristic appearance combining transparent and mirror-like surfaces.
+
+## Usage
+
+Use this prompt when you want to create a premium, futuristic logo representation with high-tech aesthetic appeal. Perfect for tech brands, luxury products, or modern digital services that want to convey innovation, precision, and premium quality. The holographic crystal effect creates eye-catching social media content and memorable brand presentations.
+
+## Actor or Subject
+
+Brand logo transformed into 3D shimmering crystal/holographic glass sculpture
+
+## Prerequisites
+
+- Uploaded logo photo/image
+- Logo with recognizable iconic shape (example mentions Apple logo but adaptable to any brand)
+- Requirement for futuristic/premium aesthetic
+
+## Included Effects
+
+### Lighting
+- Multiple light sources from different angles
+- Sharp highlights on crystal edges and curves
+- Vivid color scatter (purple, blue, pink, yellow, green)
+
+### Photographic
+- Faceted glass texture
+- Holographic surface properties
+- Mirror-like reflectivity
+
+### Atmospheric
+- Bright, futuristic ambiance
+- High-tech premium feel
+- Deep black background for contrast
+
+### Post-Processing
+- Radiant surface rendering
+- Colorful reflection enhancement
+- Light scatter effects
+
+### Style Filters
+- 3D crystal/glass material
+- Holographic aesthetic
+- Futuristic tech style
+
+## Included Camera Frames
+
+### Camera Type
+Studio product photography (3D render)
+
+### Framing
+Centered logo on black backdrop
+
+### Angle
+Straight-on to capture full faceted detail and light scatter
+
+### Depth of Field (DoF)
+Sharp focus throughout crystal form
+
+### Aspect Ratio
+1080x1440 (portrait 3:4 ratio)
+
+### Shot Distance
+Medium close-up to showcase crystal detail and reflections
+
+## Image Prompt
+
+### Subject
+A 3D shimmering crystal [uploaded photo] logo is positioned at the center of a deep black backdrop. The iconic shape is crafted from flawless, faceted glass or holographic crystal, featuring a radiant surface that scatters light into vivid shades of purple, blue, pink, yellow, and green.
+
+### Setting
+Deep black backdrop providing maximum contrast for glowing crystal logo
+
+### Lighting
+Multiple light sources hit the logo from different angles, producing sharp highlights and colorful reflections along its edges and curves
+
+### Composition
+Centered logo positioning, balanced light scatter, clear visibility of crystal facets and holographic properties
+
+### Style
+3D crystal sculpture, holographic glass aesthetic, futuristic tech rendering, premium luxury visualization
+
+### Technical Specs
+Flawless faceted glass rendering, transparent areas with mirror-like reflections, intense reflectivity, 1080x1440 resolution
+
+### Color Palette
+Vivid rainbow light scatter (purple, blue, pink, yellow, green) against pure black background, creating bright multicolored glow
+
+### Mood
+Futuristic, innovative, premium, high-tech, bright, energetic
+
+### Quality Keywords
+3D shimmering crystal, flawless faceted glass, holographic, radiant surface, vivid color scatter, sharp highlights, colorful reflections, bright, intense reflectivity, glowing
+
+### Negative Prompt
+Flat appearance, dull surface, muddy colors, poor reflections, opaque solid material, dim lighting, gray background, blurry edges, low detail

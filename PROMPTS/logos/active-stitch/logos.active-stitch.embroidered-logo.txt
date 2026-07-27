@@ -1,4 +1,0 @@
-This is an AI image generation prompt template for creating photorealistic embroidered logo mockups with customizable aspect ratio, logo name, embroidery style, and fabric color.
--------------------------------
-Create a photorealistic {} aspect ratio image featuring a meticulously crafted uploaded logo emblem for "[logo Name]" embroidered in an intricate [embroidery style] style. The emblem should be the central focus, presented on a premium, textured [color] fabric that complements the design's aesthetic. Use a dynamic, eye-catching perspective with subtle depth of field, where the foreground embroidery is sharply in focus and the fabric elegantly falls away into a soft, blurred background. The lighting should be natural, casting soft shadows to accentuate the texture of the stitches and the weave of the material, resulting in a sophisticated, stylish, and modern visual suitable for a premium brand identity.
-

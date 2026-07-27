@@ -1,0 +1,98 @@
+# Premium Corporate Lobby Wall-Mounted Metallic Logo
+
+## Description of Resulting Image
+
+An ultra-realistic 3D render of a logo transformed into premium brushed metallic silver, mounted perfectly on an indoor office lobby wall. The scene includes a modern wooden reception desk with minimal decor, set against a stylish, well-lit office environment with natural shadows and warm ceiling spotlights.
+
+## Usage
+
+Use this prompt when you need to showcase how a logo would appear as a premium metal installation in a professional corporate environment. Perfect for presenting branding concepts to clients, creating office interior mockups, or demonstrating logo applications in high-end business settings. The 3:4 aspect ratio is ideal for portrait-oriented digital displays and social media.
+
+## Actor or Subject
+
+Uploaded logo rendered as brushed metallic silver wall-mounted signage in corporate lobby
+
+## Prerequisites
+
+- Uploaded logo image with clean, defined shape
+- Requirement for corporate/professional presentation
+- Understanding of 3D rendering output
+
+## Included Effects
+
+### Lighting
+- Soft warm spotlights from ceiling
+- Natural shadow casting
+- Illuminated wall and logo highlighting
+
+### Photographic
+- Ultra-realistic 3D rendering
+- Shallow depth of field for cinematic quality
+- Extreme detail and realistic textures
+
+### Atmospheric
+- Professional office environment
+- Welcoming lobby atmosphere
+- Modern corporate aesthetic
+
+### Post-Processing
+- 3D render refinement
+- Texture detail enhancement
+- Cinematic lighting adjustment
+
+### Style Filters
+- Ultra-realistic 3D render
+- Cinematic corporate photography
+- Premium interior design aesthetic
+
+## Included Camera Frames
+
+### Camera Type
+Professional interior photography camera (3D rendered)
+
+### Framing
+Balanced composition showing logo, reception desk, and lobby context
+
+### Angle
+Straight-on or slight angle capturing wall mount and foreground reception area
+
+### Depth of Field (DoF)
+Shallow - logo and reception desk sharp, background office softly blurred
+
+### Aspect Ratio
+3:4 ratio (portrait orientation)
+
+### Shot Distance
+Medium shot capturing wall logo and reception desk context
+
+## Image Prompt
+
+### Subject
+Ultra-realistic 3D render of the uploaded logo mounted perfectly straight on an indoor office lobby wall, transformed into a premium metallic silver finish with brushed texture, sharp clean edges, and realistic depth. The logo retains the exact shape and proportions of the uploaded logo with no distortion.
+
+### Setting
+Indoor office lobby with modern wooden reception desk featuring minimal decor (small plant or desk lamp), stylish well-lit office space with subtle furniture and indoor plants in background
+
+### Lighting
+Soft warm spotlights from the ceiling illuminate the wall and logo, casting natural shadows for dimensional realism
+
+### Composition
+Logo mounted perfectly straight on wall as focal point, reception desk positioned in front creating welcoming lobby atmosphere, balanced professional layout
+
+### Style
+Ultra-realistic 3D render, cinematic corporate interior photography, premium office aesthetic
+
+### Technical Specs
+Extreme detail, realistic metallic textures, shallow depth of field, cinematic lighting, 3:4 aspect ratio, photorealistic rendering
+
+### Color Palette
+Premium metallic silver logo on neutral office wall, warm wooden reception desk tones, natural office environment colors
+
+### Mood
+Professional, welcoming, premium, corporate, sophisticated, modern
+
+### Quality Keywords
+Ultra-realistic, 3D render, premium metallic silver, brushed texture, sharp clean edges, realistic depth, extreme detail, realistic textures, cinematic lighting
+
+### Negative Prompt
+Distorted logo proportions, crooked mounting, harsh lighting, cluttered background, unrealistic textures, flat appearance, cheap materials, amateur rendering

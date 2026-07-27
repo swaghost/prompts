@@ -1,0 +1,110 @@
+# Artistic Dark Smoke Portrait
+
+## Description of Resulting Image
+
+Dramatic cinematic portrait of a woman against a pitch-black background with side-lighting creating sharp silhouette effects, wisps of smoke drifting across the frame adding mystery and depth.
+
+## Usage
+
+Perfect for editorial fashion photography, artistic portrait collections, and moody atmospheric campaigns. Ideal for luxury brand marketing, high-end magazine editorials, and creative social media content. This prompt excels at creating mysterious cinematic portraits with dramatic lighting and smoke effects for sophisticated visual storytelling.
+
+## Actor or Subject
+
+Woman standing against pitch-black background with dramatic side-lighting.
+
+## Prerequisites
+
+- Reference image for subject identity (recommended)
+
+## Included Effects
+
+**Lighting Effects:**
+- Dramatic side-lighting
+- Sharp silhouette formation
+- Rim lighting on smoke
+- Limited light creating high contrast
+- Faint glow on drifting smoke
+
+**Photographic Effects:**
+- Maximum sharpness on skin detail
+- Natural pores visible
+- Tonal richness under limited light
+- High dynamic range (HDR)
+- Cinematic tension and atmosphere
+
+**Atmospheric Effects:**
+- Wisps of smoke drifting across frame
+- Smoke partially veiling features
+- Depth and mystery enhancement
+- Smoke catching rim light
+
+**Post-Processing:**
+- 8K resolution
+- High contrast processing
+- Enhanced detail rendering
+- Cinematic color grading
+
+**Style Filters:**
+- Cinematic artistic aesthetic
+- Dark moody atmosphere
+- Editorial fashion style
+- Mystery and drama emphasis
+
+## Included Camera Frames
+
+**Camera Type & Lens:**
+- Sony A7R V camera (or equivalent professional DSLR/Mirrorless)
+- 85mm f/1.4 G Master lens
+
+**Framing & Composition:**
+- Portrait orientation
+- Subject standing centered against background
+- Smoke elements integrated into frame
+- Balanced composition with negative space
+
+**Camera Angle:**
+- Eye level perspective
+- Straight-on positioning
+
+**Depth of Field:**
+- Wide aperture (f/1.4)
+- Sharp focus on subject
+- Atmospheric elements preserved
+
+**Aspect Ratio:**
+- Standard portrait format
+
+**Shot Distance:**
+- Medium to close-up portrait range
+
+## Image Prompt
+
+**Subject:**
+Artistic cinematic portrait of a woman standing against a pitch-black background, dramatic side-lighting creating a sharp silhouette of her face while the opposite side falls into darkness. Her skin detail is rendered with maximum sharpness, capturing natural pores and tonal richness under limited light.
+
+**Setting/Environment:**
+Pitch-black background creating complete darkness, studio environment with controlled lighting setup allowing for dramatic contrast and silhouette effects.
+
+**Lighting:**
+Dramatic side-lighting creating a sharp silhouette of her face while the opposite side falls into darkness. Rim lighting catches the wisps of smoke, making them glow faintly and enhancing cinematic tension. Limited light focused on key areas to maximize contrast and mood.
+
+**Composition:**
+Woman standing centered in frame, wisps of smoke drift across the frame, partially veiling her features and adding depth and mystery. Smoke integrated naturally into the composition, enhancing the atmospheric quality.
+
+**Style & Aesthetic:**
+Cinematic artistic portrait with high drama and mystery. Dark moody atmosphere with sophisticated lighting design. Editorial fashion aesthetic with emphasis on texture, contrast, and atmospheric elements.
+
+**Technical Specifications:**
+Captured in 8K HDR with Sony A7R V and 85mm f/1.4 G Master lens. Maximum sharpness on skin details, natural pores visible, tonal richness preserved under limited light. Professional-grade image quality with precise focus control.
+
+**Color Palette:**
+Deep blacks dominating the frame, subtle warm tones on illuminated skin, cool gray smoke tones, rim light creating faint glowing edges.
+
+**Mood & Atmosphere:**
+Mysterious, dramatic, cinematic tension, sophisticated, moody, enigmatic, artistic, high-fashion editorial feel.
+
+**Quality Keywords:**
+8K HDR, ultra-detailed, maximum sharpness, photorealistic, natural pores, tonal richness, professional photography, cinematic quality, editorial grade, award-winning portrait.
+
+**Negative Prompt (What to Avoid):**
+Oversmoothing, distortion, bad proportions, cartoon style, artificial skin texture, overly bright lighting, cluttered background, loss of detail, unrealistic smoke effects, oversaturation, flat lighting, amateur composition.

@@ -1,0 +1,115 @@
+# Premium Portrait Quality Upscaling
+
+## Description of Resulting Image
+
+A dramatically enhanced and upscaled portrait that preserves the subject's identity with accurate facial geometry while upgrading image quality to premium full-frame Sony A1 standards. The image features cinematic shallow depth of field at f1.6, perfect facial focus, and editorial-neutral color profile with upgraded lighting creating soft directional light, warm highlights, cool shadows, and deeper contrast. The final result is rendered in 4K resolution with 10-bit color, maintaining the exact same background while improving realism, depth, texture, and lighting quality.
+
+## Usage
+
+This enhancer is perfect for upscaling and upgrading portrait quality to professional editorial standards while strictly preserving subject identity and background elements. Use when you need to transform lower-resolution or casual portraits into premium high-resolution magazine-quality images without changing the person's appearance. Apply this technique for professional portfolios, large-format printing, high-end social media content, or commercial applications requiring maximum resolution with absolute identity preservation.
+
+## Actor or Subject
+
+Any portrait subject with clearly defined facial features requiring resolution and quality enhancement. Works best with portraits that can support shallow depth of field treatment and cinematic lighting enhancement without losing subject recognition.
+
+## Prerequisites
+
+- Source portrait with clear facial features (even if lower resolution)
+- Background that will remain completely unchanged
+- Understanding of Sony A1 + 85mm f1.4 lens characteristics
+- Original lighting direction that can be enhanced cinematically
+- Subject identity that must be absolutely preserved
+- Need for significant resolution increase to 4K standards
+
+## Included Effects
+
+### Lighting
+- Cinematic, subject-focused lighting upgrade
+- Soft directional light with defined source
+- Warm highlights creating dimensional modeling
+- Cool shadows adding depth and contrast
+- Deeper contrast with expanded dynamic range
+- Micro-contrast boost for enhanced texture perception
+- Smooth gradations avoiding harsh transitions
+- Zero harsh shadows
+
+### Photographic
+- Sony A1 full-frame sensor quality simulation
+- 85mm f1.4 lens rendering at f1.6
+- Cinematic shallow depth of field
+- Perfect facial focus with natural falloff
+- Premium clarity and resolution upscaling
+- Real skin texture preservation and enhancement
+- Subtle film grain for organic feel
+
+### Atmospheric
+- Maintained original environmental vibe
+- Enhanced depth perception
+- Premium dimensional quality
+
+### Post-Processing
+- 4K resolution upscaling and rendering
+- 10-bit color depth upgrade
+- Cinematic editorial style grading
+- Neutral premium color tone
+- Cinematic contrast curve
+- Natural saturation levels
+- Enhanced clarity and sharpness
+- Subtle feature cleanup without identity alteration
+
+### Style Filters
+- Editorial neutral aesthetic
+- Cinematic portrait treatment
+- Premium full-frame camera rendering
+
+## Included Camera Frames
+
+### Camera Type
+Sony A1 with 85mm f1.4 lens (mandatory simulation)
+
+### Framing
+Portrait crop maintaining original composition essence
+
+### Angle
+Preserves original camera angle and perspective
+
+### Depth of Field
+Cinematic shallow depth of field at f1.6 with perfect facial focus
+
+### Aspect Ratio
+Portrait crop optimized for premium presentation
+
+### Shot Distance
+85mm portrait distance perspective
+
+## Image Prompt
+
+### Subject
+Enhance the portrait while strictly preserving the subject's identity with accurate facial geometry. Do not change their expression or face shape. Only allow subtle feature cleanup without altering who they are.
+
+### Setting
+Keep the exact same background from the reference image. No replacements, no changes, no new objects, no layout shifts. The environment must look identical.
+
+### Lighting
+Lighting must match the exact direction, angle, and mood of the reference photo. Upgrade the lighting into a cinematic, subject-focused style: soft directional light, warm highlights, cool shadows, deeper contrast, expanded dynamic range, micro-contrast boost, smooth gradations, and zero harsh shadows.
+
+### Composition
+Maintain neutral premium color tone, cinematic contrast curve, natural saturation, real skin texture (not plastic), and subtle film grain. Portrait crop and keep the original environmental vibe untouched.
+
+### Style
+The image must be recreated as if it was shot on a Sony A1, using an 85mm f1.4 lens, at f1.6, ISO 100, 1/200 shutter speed, cinematic shallow depth of field, perfect facial focus, and an editorial-neutral color profile. This Sony A1+ 85mm f1.4 setup is mandatory. The final image must clearly look like premium full-frame Sony A1 quality.
+
+### Technical Specs
+Render in 4K resolution, 10-bit color, cinematic editorial style, premium clarity, portrait crop. Re-render the subject with improved realism, depth, texture, and lighting while keeping identity and background fully preserved. Upscale resolution significantly while maintaining or enhancing detail quality.
+
+### Color Palette
+Editorial-neutral color profile with cinematic contrast curve. Natural saturation levels avoiding oversaturation. Warm highlights balanced with cool shadows. Premium color tone maintaining skin tone accuracy and natural color relationships.
+
+### Mood
+Professional, editorial, cinematic. The mood should feel like premium magazine photography—polished, sophisticated, and technically excellent while remaining natural and authentic.
+
+### Quality Keywords
+Sony A1 quality, 85mm f1.4 rendering, 4K upscaling, cinematic shallow depth of field, 10-bit color, editorial quality, premium clarity, resolution enhancement, preserved identity, natural skin texture, professional upscaling.
+
+### Negative Prompt
+No new background. No background change. No overly dramatic lighting. No face morphing. No fake glow. No flat lighting. No over-smooth skin. No identity alteration. No changed expression. No artificial plastic appearance. No oversmoothing. No runway lighting. No loss of natural texture.

@@ -1,0 +1,102 @@
+# Photobooth Strip on Book
+
+## Description of Resulting Image
+
+An ultra-realistic black and white photo strip featuring 4 vertical frames placed over an open antique book with text only in Russian. The strip shows natural poses (hand on temple, chin in palm, slight head tilt, relaxed gaze at camera) with model from reference maintaining 100% likeness. Features authentic analog photobooth aesthetic with realistic film grain, soft cinematic shadows, shallow depth of field, and understated luxury look with fitted black Saint Laurent blouse and minimalist Cartier jewelry.
+
+## Usage
+
+Perfect for luxury lifestyle photography, editorial fashion content, and sophisticated social media posts. Ideal for high-end fashion brands, jewelry campaigns, literary-inspired editorials, and content emphasizing refined elegance. This prompt excels at creating cinematic analog photobooth aesthetics with luxury fashion elements for premium editorial applications.
+
+## Actor or Subject
+
+Model from reference image with exact likeness preserved wearing luxury black blouse and minimalist jewelry.
+
+## Prerequisites
+
+**MANDATORY:**
+- Reference image for 100% likeness preservation
+
+## Included Effects
+
+**Lighting Effects:**
+- Soft cinematic shadows
+- Gentle highlights
+- Natural light quality
+
+**Photographic Effects:**
+- Authentic analog photobooth aesthetic
+- Realistic film grain
+- Shallow depth of field
+- Soft focus on book background
+
+**Atmospheric Effects:**
+- Literary ambiance from antique book
+- Understated luxury atmosphere
+- Cinematic editorial mood
+
+**Post-Processing:**
+- Black and white conversion
+- Soft tonal transitions
+- Natural texture preservation
+- No CGI or excessive editing
+
+**Style Filters:**
+- Luxurious cinematic editorial aesthetic
+- Authentic analog photobooth style
+- High-end fashion photography treatment
+
+## Included Camera Frames
+
+**Camera Type & Lens:**
+- Canon R5 professional camera
+- Portrait lens with shallow DoF capability
+
+**Framing & Composition:**
+- Long vertical strip of 4 frames
+- Natural varied poses across frames
+- Strip placed over open book
+
+**Camera Angle:**
+- Direct photobooth angle
+- Eye level frontal perspective
+
+**Depth of Field:**
+- Shallow DoF
+- Subject sharp
+- Book softly out of focus
+
+**Aspect Ratio:**
+- Vertical photobooth strip format
+
+**Shot Distance:**
+- Head and upper body in each frame
+
+## Image Prompt
+
+**CRITICAL IDENTITY PRESERVATION:**
+Use the model's likeness and face as a reference, without alterations. Fully preserve the identity, face shape, gaze, and natural proportions – 100% likeness.
+
+**Subject:**
+Model from reference image with exact likeness preserved. Extremely natural appearance with realistic skin texture, visible pores, natural asymmetry, and subtle imperfections preserved. Natural poses across 4 frames: hand on temple, chin in palm, slight head tilt, and relaxed gaze at camera.
+
+**Setting/Environment:**
+A long vertical strip of 4 photobooth frames placed over an open antique book with text only in Russian. Book creates literary ambiance and depth in composition.
+
+**Lighting:**
+Soft and dramatic with subtle highlights creating cinematic mood. Gentle shadows with natural light quality. Shallow depth of field creating premium aesthetic.
+
+**Composition:**
+Vertical photobooth strip format with 4 distinct frames showing varied natural poses. Strip positioned over open book creating layered composition with literary element.
+
+**Style & Aesthetic:**
+Ultra-realistic black and white photo strip with luxurious cinematic editorial aesthetic. Authentic analog photobooth feel with realistic film grain and soft cinematic shadows. Understated luxury look throughout.
+
+**Technical Specifications:**
+Shot with Canon R5. Shallow depth of field with subject sharp and book softly blurred. Realistic film grain texture. No CGI, beauty retouching, artificial skin, or excessive editing.
+
+**Wardrobe:**
+Fitted black Saint Laurent blouse with premium construction. Minimalist Cartier jewelry adding understated luxury detail.
+
+**Critical Requirements:**
+No CGI, no beauty retouching, no artificial skin, no excessive editing. Preserve natural appearance with realistic textures and authentic imperfections.

@@ -1,8 +1,0 @@
-A hyper‑realistic surreal macro photograph of a miniature human figure trapped inside an overturned clear drinking glass. Shot with shallow depth of field using an 85mm lens at f/1.8, producing intense foreground and background bokeh.
-The central subject—using the uploaded face as reference—appears crouched in a confined posture, barefoot, wearing a grey button‑down shirt and dark trousers, with one hand pressed desperately against the curved inner wall of the glass.
-The glass rests on a polished wooden table with warm grain textures, surrounded by other out‑of‑focus glass vessels that create rhythmic amber‑hued repetition in the background.
-Soft warm cinematic lighting evokes a vintage tungsten atmosphere, with complex refractive distortions, specular highlights on the glass rim, and ray‑traced caustics casting subtle light patterns on the wood.
-Rendered in 8K with extreme photorealistic fidelity, premium macro realism, dramatic perspective, and rich textural detail.
-
-Negative prompts:  
-low quality, blurry, low resolution, cartoon, anime, CGI, 3D render, watermark, logo, extra text, cropped objects, unnatural anatomy, extra hands, extra fingers, multiple limbs, deformed faces, distortion, noise, overexposed, underexposed, motion blur, unrealistic reflections.

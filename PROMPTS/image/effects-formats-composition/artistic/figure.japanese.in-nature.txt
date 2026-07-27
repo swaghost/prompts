@@ -1,0 +1,113 @@
+# Japanese Garden Portrait - Cinematic Nature
+
+## Description of Resulting Image
+
+A cinematic medium close-up portrait of a Japanese man in traditional attire standing serenely in a misty garden with cherry blossom petals drifting through soft morning light, featuring shallow depth of field and peaceful atmospheric cinematography.
+
+## Usage
+
+Perfect for cultural documentaries, luxury travel campaigns, meditation and wellness brand content, and cinematic portrait photography portfolios. Ideal for Japanese cultural promotion, traditional fashion editorials, mindfulness app marketing, spa and wellness retreat advertising, and artistic projects celebrating Japanese aesthetics. This prompt excels at creating peaceful atmospheric portraits with authentic cultural elements while maintaining cinematic production quality.
+
+## Actor or Subject
+
+Japanese man in traditional kimono and hakama in contemplative garden setting
+
+## Prerequisites
+
+- Subject reference photo
+- Optional: Specific kimono style reference
+
+## Included Effects
+
+**Lighting Effects:**
+
+- Soft morning light diffused through fog
+- Natural daylight filtered through mist
+- Gentle atmospheric illumination
+- Soft directional light
+
+**Photographic Effects:**
+
+- Shallow depth of field
+- Cinematic ARRI Alexa 65 aesthetic
+- 8K realistic texture
+- Film-quality rendering
+- Professional color science
+
+**Atmospheric Effects:**
+
+- Morning mist/fog diffusion
+- Cherry blossom petals drifting
+- Gentle breeze effect on hair
+- Calm green atmospheric tones
+
+**Post-Processing:**
+
+- Cinematic color grading
+- Soft natural tones
+- Enhanced atmospheric depth
+- Film-like texture
+
+**Style Filters:**
+
+- Cinematic documentary style
+- Japanese aesthetic principles
+- Natural atmospheric photography
+- Peaceful contemplative mood
+
+## Included Camera Frames
+
+**Camera Type & Lens:**
+
+- ARRI Alexa 65 cinema camera aesthetic
+- 85mm or 100mm portrait lens
+- Professional cinema setup
+
+**Framing & Composition:**
+
+- Medium close-up
+- Face and upper body visible
+- Rule of thirds positioning
+- Negative space for atmosphere
+
+**Camera Angle:**
+
+- Eye level
+- Respectful straight-on perspective
+- Natural portrait angle
+
+**Depth of Field:**
+
+- Shallow DoF (f/2.8 or wider)
+- Subject sharp, background softly blurred
+- Blossom petals creating bokeh
+
+**Aspect Ratio:**
+
+- Cinematic widescreen (2.39:1) or portrait (4:5)
+- Professional cinema format
+
+**Shot Distance:**
+
+- Medium close-up
+- Upper body portrait
+
+## Image Prompt
+
+**Subject:**
+Japanese man standing calmly with focused and serene expression. Wearing traditional kimono and hakama with visible authentic details. Hair moved gently by breeze. Upper body and face clearly visible in medium close-up framing. Contemplative and peaceful demeanor radiating calm presence.
+
+**Setting/Environment:**
+Misty green Japanese garden environment. Cherry blossom petals drifting through air. Soft natural fog creating atmospheric depth. Traditional garden elements visible in softly blurred background. Morning setting with gentle natural light. Calm green color palette dominating atmosphere.
+
+**Lighting:**
+Soft morning light diffused through natural fog and mist. Gentle directional light illuminating subject's face and upper body. Natural daylight creating peaceful calm atmosphere. Light filtered through garden environment creating diffused quality. Balanced exposure maintaining detail while preserving atmospheric mood.
+
+**Composition:**
+Medium close-up portrait framing showing face and upper body. Subject positioned with breathing room in frame. Cherry blossom petals creating motion and depth in various focus planes. Shallow depth of field separating subject from softly blurred garden background. Natural portrait composition following Japanese aesthetic principles of simplicity and balance.
+
+**Style & Aesthetic:**
+Cinematic portrait cinematography in style of ARRI Alexa 65 camera system. 8K realistic texture and detail. Japanese aesthetic sensibility with focus on natural beauty, transience (cherry blossoms), and peaceful contemplation. Film-quality color science and tonal range. Calm green atmospheric tones creating meditative mood. Authentic cultural representation with traditional attire details.
+
+**Technical Specifications:**
+ARRI Alexa 65 aesthetic, 85-100mm lens, f/2.8 or wider aperture, shallow depth of field, soft natural morning light, 8K resolution, cinematic color grading, realistic skin texture, professional cinema camera color science, film-like rendering quality

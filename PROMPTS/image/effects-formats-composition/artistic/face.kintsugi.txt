@@ -1,0 +1,113 @@
+# Kintsugi Figure - Bound Silence Portrait
+
+## Description of Resulting Image
+
+A surrealist portrait of a human figure rendered as cracked kintsugi porcelain with hands bound by shimmering ethereal ribbons and mouth covered by a gag of silence, featuring dramatic tenebrism lighting and hyper-detailed 3D rendering with powerful symbolic imagery.
+
+## Usage
+
+Perfect for mental health awareness campaigns, freedom of expression advocacy, trauma and healing narratives, and contemporary art exhibitions. Ideal for editorial content about silencing and voice, therapeutic practice imagery, book covers exploring themes of constraint or healing through brokenness, and conceptual art portfolios. This prompt excels at creating emotionally powerful symbolic portraits with sophisticated 3D rendering for impactful social and artistic messaging.
+
+## Actor or Subject
+
+Human figure rendered as kintsugi porcelain with bound hands and silenced mouth
+
+## Prerequisites
+
+- Optional: Subject reference photo for body structure
+- Can generate from symbolic description
+
+## Included Effects
+
+**Lighting Effects:**
+
+- Dramatic tenebrism (extreme light/dark contrast)
+- Directional dramatic lighting
+- Deep shadows and bright highlights
+- Chiaroscuro effect
+
+**Photographic Effects:**
+
+- Hyper-detailed rendering
+- Porcelain surface texture
+- Gold kintsugi crack details
+- Octane render quality
+- 3D rendering precision
+
+**Atmospheric Effects:**
+
+- Claustrophobic atmosphere
+- Dark moody environment
+- Ethereal shimmer on ribbons
+- Tense symbolic mood
+
+**Post-Processing:**
+
+- Hyper-detailed refinement
+- Enhanced material textures
+- Dramatic contrast enhancement
+- Surrealist color grading
+
+**Style Filters:**
+
+- Surrealist art masterpiece
+- 3D render aesthetic
+- Symbolic conceptual art
+- Dark atmospheric style
+
+## Included Camera Frames
+
+**Camera Type & Lens:**
+
+- 3D render camera
+- Medium telephoto equivalent (85mm view)
+- Studio portrait setup
+
+**Framing & Composition:**
+
+- Medium to full figure shot
+- Centered dramatic composition
+- Focus on bound hands and silenced mouth
+- Dark negative space
+
+**Camera Angle:**
+
+- Eye level to slightly elevated
+- Direct confrontational perspective
+- Symbolic framing
+
+**Depth of Field:**
+
+- Moderate DoF
+- Figure sharp throughout
+- Dark background separation
+
+**Aspect Ratio:**
+
+- Portrait format (4:5 or 3:4)
+- Vertical composition
+
+**Shot Distance:**
+
+- Full figure or upper body
+- Symbolic portrait distance
+
+## Image Prompt
+
+**Subject:**
+Human figure rendered entirely as cracked kintsugi porcelain - white ceramic surface with golden repair lines filling cracks throughout the body. Hands bound together by shimmering ethereal ribbons that glow with supernatural light. Mouth covered by a gag representing pure silence - smooth, constraining element. Figure conveys constraint, healing through brokenness, and silenced voice. Porcelain texture hyper-detailed showing delicate cracks and gold repair work.
+
+**Setting/Environment:**
+Dark minimalist environment creating claustrophobic atmosphere. Deep shadows surrounding figure. No distracting background elements - focus entirely on symbolic figure. Tense oppressive spatial feeling emphasizing themes of constraint and silence.
+
+**Lighting:**
+Dramatic tenebrism with extreme contrast between light and shadow. Strong directional key light creating deep shadows and bright highlights on porcelain surface. Chiaroscuro lighting technique emphasizing sculptural form and symbolic elements. Gold kintsugi cracks catching and reflecting light. Ethereal ribbons shimmering with internal luminosity. Dark dramatic mood lighting.
+
+**Composition:**
+Figure centered in frame with dramatic presence. Bound hands and silenced mouth as key focal points. Kintsugi cracks creating visual texture and symbolic narrative of healing through brokenness. Ribbons adding ethereal constraint element. Dark negative space creating claustrophobic framing. Powerful symbolic visual balance.
+
+**Style & Aesthetic:**
+Surrealist masterpiece combining 3D hyper-realistic rendering with symbolic conceptual art. Octane render quality with extreme detail in porcelain texture and gold kintsugi repairs. Dramatic tenebrism creating emotional intensity. Symbolic imagery exploring themes of silence, constraint, brokenness, and beauty in repair. Claustrophobic dark atmosphere enhancing psychological impact. Contemporary 3D art meets classical dramatic lighting.
+
+**Technical Specifications:**
+Octane render or equivalent 3D rendering engine, hyper-detailed porcelain material with subsurface scattering, gold metallic kintsugi crack materials, ethereal ribbon shaders with shimmer, dramatic tenebrism lighting setup, 8K resolution, extreme detail preservation, professional 3D art standards, symbolic composition principles

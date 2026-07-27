@@ -1,0 +1,130 @@
+# Augmented Reality Music Interface - Portrait
+
+## Description of Resulting Image
+
+A cinematic dreamlike AR (Augmented Reality) visual featuring a person surrounded by an orbiting system of floating translucent music interface cards displaying their top songs, with glassmorphism design, dynamic motion blur, and futuristic depth of field creating a high-end editorial music photography aesthetic.
+
+## Usage
+
+Perfect for music artist promotion, streaming platform campaigns, AR concept visualizations, and futuristic editorial photography. Ideal for Spotify wrapped campaigns, Apple Music features, music artist branding, tech-forward social media content, and innovative digital art portfolios. This prompt excels at creating sophisticated AR music visualizations with automated track listings for cutting-edge music marketing content.
+
+## Actor or Subject
+
+Person from reference image as central figure surrounded by orbiting AR music interface cards
+
+## Prerequisites
+
+**MANDATORY:**
+- Reference image of music artist/subject for identity preservation
+
+**Automated Content:**
+- Prompt automatically identifies the music artist from reference image
+- Determines artist's top 8 most popular songs
+- Displays real song titles on floating interface cards
+
+## Included Effects
+
+**Lighting Effects:**
+- Natural tones with enhanced quality
+- Soft glow from interface cards
+- Subtle face illumination from floating UI
+- Professional editorial lighting
+
+**Photographic Effects:**
+- Strong depth of field
+- Dynamic motion blur on card edges
+- Sharp focus on subject and closest interfaces
+- Artistic blur on extreme foreground and background
+
+**Atmospheric Effects:**
+- Clean airy vibe
+- Futuristic AR concept atmosphere
+- Dreamlike quality
+- High-end tech environment
+
+**Post-Processing:**
+- 8K resolution rendering
+- Sophisticated lighting enhancement
+- Cinematic color grading
+- Professional editorial treatment
+
+**Style Filters:**
+- High-end editorial music photography
+- Futuristic AR concept aesthetic
+- Clean contemporary design
+- Premium tech visualization
+
+## Included Camera Frames
+
+**Camera Type & Lens:**
+- Professional editorial camera
+- Wide or medium lens
+
+**Framing & Composition:**
+- Cinematic wide or medium shot
+- Subject centered with orbiting elements
+- Layered depth composition
+- Emphasis on scale of floating AR elements
+
+**Camera Angle:**
+- Eye level or slightly elevated
+- Editorial perspective
+
+**Depth of Field:**
+- Strong depth of field effect
+- Subject and closest interfaces sharp
+- Extreme foreground/background artistically blurred
+
+**Aspect Ratio:**
+- Cinematic widescreen or vertical format
+
+**Shot Distance:**
+- Medium shot emphasizing AR element scale
+
+## Image Prompt
+
+**CRITICAL IDENTITY PRESERVATION & AUTOMATED CONTENT:**
+Upload reference image of music artist. The prompt will:
+1. Preserve exact facial features, identity, and likeness of the person in the reference image
+2. Automatically identify the music artist shown
+3. Determine that artist's top 8 most popular songs
+4. Display those real song titles on the floating interface cards
+
+**Subject:**
+High-quality, realistic portrait of the person shown in the attached reference image as the central figure. Preserve their exact facial features, identity, and likeness.
+
+**AR Interface Cards - Style:**
+Numerous 3D Spotify and Apple Music interface cards orbiting the subject at varying depths. Each song title appears on its own floating 3D interface card.
+
+**AR Interface Cards - Material:**
+Translucent frosted glass (glassmorphism), soft rounded edges, subtle glowing borders.
+
+**AR Interface Cards - Movement:**
+Some cards in extreme foreground partially obscuring the subject; others drifting into the distance behind the figure. Dynamic motion blur on card edges to suggest swirling, orbiting movement.
+
+**Setting/Environment:**
+Clean futuristic space with airy atmosphere emphasizing AR elements.
+
+**Lighting:**
+Natural tones, enhanced professional photo quality. Soft glow from the interface cards subtly illuminates the subject's face.
+
+**Composition:**
+Cinematic wide or medium shot emphasizing the scale of the floating AR elements. Strong depth of field with background and extreme foreground cards artistically blurred; sharp focus on the artist and the closest player interfaces.
+
+**Style & Aesthetic:**
+High-end editorial music photography with futuristic AR concept. Clean and airy vibe with sophisticated tech integration.
+
+**Technical Specifications:**
+8K resolution, sophisticated lighting, realistic glass textures, professional editorial quality, accurate depth of field rendering.
+
+**Color Palette:**
+Natural tones with soft glows from interface cards, clean contemporary colors, subtle highlights from glassmorphism effects.
+
+**Mood & Atmosphere:**
+Futuristic, dreamlike, sophisticated, tech-forward, artistic, cinematic.
+
+**Quality Keywords:**
+Cinematic, dreamlike AR visual, 8K resolution, sophisticated lighting, realistic glass textures, high-end editorial photography, futuristic concept, professional quality.
+
+**Negative Prompt (What to Avoid):**
+Fake song titles, incorrect artist identification, poor glassmorphism effect, cluttered composition, flat depth of field, harsh lighting, low resolution, amateur rendering, inconsistent identity.

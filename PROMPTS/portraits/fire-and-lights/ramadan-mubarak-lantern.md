@@ -1,7 +1,0 @@
-# RAMADAN MUBARAK - MOROCCAN LANTERN PORTRAIT
-
-A medium-close up shot of the uploaded person wearing a black turtleneck, posed against a solid pitch-black background.
-
-The Pose & Tilt: Body Angle: The person is standing at a slight 3/4 angle, with their body tilted toward the left side of the frame while their head is turned back to look directly into the camera lens. Hand Placement (Asymmetrical): One arm is raised high, with the hand gripping the top handle of a large, ornate golden Moroccan-style lantern from above. The other arm is held lower, with the hand gently supporting the base of the lantern from below at chest level. Alignment: The lantern is held vertically, positioned slightly to the side of the person's face but close enough that the glow illuminates the eyes directly. Lighting & Atmosphere: The Glow: Warm, intense golden light emanates from inside the lantern, casting a sharp, bright glow. Shadow Play: Deep "chiaroscuro" effect. The lower body below the chest fades into complete darkness.
-
-Background Typography: Calligraphy: Floating in the background is glowing, golden Arabic calligraphy reading "Ramadan Mubarak," with the English cursive translation "Ramadan Mubarak" directly beneath it. Effect: The text has a soft neon-like outer glow, appearing as if it is made of light suspended in the dark air. Key Visual Note: The "tilt" you're seeing comes from the diagonal line created by the two hands. One hand being high and one being low creates a dynamic, slanted composition rather than a flat, centered one..

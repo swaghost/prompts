@@ -1,0 +1,20 @@
+# Product Replacement - Mustang in Wheat Field
+
+## Description
+
+Replaces the product and environment in an existing commercial video while preserving all camera movement, timing, and cinematography. Transforms any commercial into a 1969 Ford Mustang driving through a vast golden wheat field.
+
+## Prerequisites
+
+- Reference video (commercial to be modified)
+- Product image (1969 Ford Mustang)
+
+## Video Prompt
+
+Analyze the uploaded reference video and use it as the master motion reference. Your highest priority is to reproduce the reference video with maximum possible accuracy.
+
+Preserve every cinematic characteristic exactly as it appears in the reference. Replicate with the highest precision: • identical camera choreography • identical camera trajectory • identical camera movement • identical camera speed • identical motion timing • identical speed ramps • identical pacing • identical shot progression • identical framing • identical composition • identical camera angles • identical focal lengths • identical lens characteristics • identical field of view • identical perspective • identical depth of field • identical focus transitions • identical parallax • identical stabilization behavior • identical handheld or robotic motion style • identical transitions between shots • identical cuts • identical duration of every shot • identical overall video duration • identical timing of every movement • identical subject positioning inside every frame • identical cinematic rhythm • identical motion blur • identical reflections • identical shadows • identical lighting direction • identical lighting intensity • identical lighting changes over time • identical highlights • identical contrast • identical exposure • identical cinematic energy • identical visual storytelling Replace ONLY the original subject with the uploaded product image. The product must preserve exactly: • proportions • geometry • materials • colors • textures • branding • badges • reflections • small details Replace ONLY the original environment with: A vast golden wheat field stretching to the horizon under an open sky. The new environment should feel naturally integrated while following exactly the same camera path, perspective, composition and cinematic timing. The generated video must look as if the original commercial had been filmed using this product and this environment from the very beginning. Nothing else may change. Do NOT redesign the commercial. Do NOT invent new shots. Do NOT modify framing. Do NOT modify timing. Do NOT modify camera movement. Do NOT modify pacing. Do NOT modify editing. Do NOT modify lighting behavior. Do NOT modify transitions. Do NOT modify cinematic style. The ONLY differences from the reference video are: • the product becomes a 1969 Ford Mustang • the environment becomes a vast golden wheat field Everything else must remain as close to a frame-by-frame recreation of the reference video as the model allows. Ultra realistic. Premium cinematic commercial. Photorealistic. 8K. Commercial-grade lighting. Physically accurate reflections. High-end color grading. Maximum temporal consistency. Maximum visual consistency. Frame-accurate recreation of the original reference video.
+
+## Usage
+
+Ideal for automotive commercials, product replacement demonstrations, commercial repurposing, environmental transformation showcases, and creative commercial adaptations. Perfect for replacing products while maintaining original cinematography, transforming commercial environments, and demonstrating video modification capabilities with precise motion preservation.

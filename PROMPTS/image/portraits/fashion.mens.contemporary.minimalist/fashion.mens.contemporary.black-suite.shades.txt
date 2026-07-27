@@ -1,0 +1,95 @@
+# Fashion Mens Contemporary Black Suite Motion Blur
+
+## Description of Resulting Image
+
+A contemporary fashion photograph featuring bald man with beard wearing sharp black suit, black turtleneck and rectangular black sunglasses, standing completely still in center of frame with confident and intense gaze directly at camera, hands in pockets. Behind him, multiple identical figures of himself in black suits are captured with heavy motion blur, creating dynamic movement contrast against clean light grey seamless studio background with soft even studio lighting for modern, cool and confident atmosphere.
+
+## Usage
+
+Perfect for contemporary fashion lookbooks, luxury menswear campaigns, and editorial fashion features. Ideal for high-end suit brands, modern gentleman style content, creative advertising campaigns, and sophisticated brand identity materials. This prompt excels at creating striking motion contrast effects for premium contemporary menswear photography.
+
+## Actor or Subject
+
+Bald man with beard wearing sharp black suit, black turtleneck and rectangular black sunglasses.
+
+## Prerequisites
+
+None
+
+## Included Effects
+
+**Lighting Effects:**
+- Soft even studio lighting
+- Perfect highlights and shadows
+- Balanced illumination
+
+**Photographic Effects:**
+- Sharp focus on main subject
+- Heavy motion blur on background figures
+- Dynamic movement contrast effect
+- Multiple exposure-like technique
+
+**Atmospheric Effects:**
+- Clean light grey seamless studio background
+- Minimal atmosphere
+- Studio environment
+
+**Post-Processing:**
+- Ultra realistic rendering
+- Cinematic composition finishing
+- Editorial fashion style treatment
+- Masterpiece quality
+
+**Style Filters:**
+- Contemporary fashion photography aesthetic
+- Editorial fashion style
+- Modern cool atmosphere
+
+## Included Camera Frames
+
+**Camera Type & Lens:**
+- Professional fashion photography lens
+- Sharp rendering capabilities
+
+**Framing & Composition:**
+- Subject standing completely still in center of frame
+- Hands in pockets
+- Confident pose
+- Motion-blurred duplicates behind
+
+**Camera Angle:**
+- Eye level perspective
+- Direct engagement with camera
+
+**Depth of Field:**
+- Sharp focus on main subject
+- Motion blur creating depth layers
+
+**Aspect Ratio:**
+- Standard editorial portrait format
+
+**Shot Distance:**
+- Three-quarter to full body shot
+
+## Image Prompt
+
+**Subject:**
+Contemporary fashion photography of bald man with beard wearing sharp black suit, black turtleneck and rectangular black sunglasses, standing completely still in center of frame with confident and intense gaze directly at camera, hands in pockets.
+
+**Setting/Environment:**
+Clean light grey seamless studio background. Minimal studio environment with no distractions.
+
+**Lighting:**
+Soft even studio lighting with perfect highlights and shadows creating balanced illumination across subject.
+
+**Composition:**
+Subject standing completely still and centered in frame. Behind him, multiple identical figures of himself in black suits are captured with heavy motion blur, creating dynamic movement contrast. This juxtaposition emphasizes the stillness and confidence of the main subject.
+
+**Style & Aesthetic:**
+Modern, cool and confident atmosphere. Editorial fashion style with contemporary approach. Cinematic composition.
+
+**Technical Specifications:**
+Ultra realistic, high resolution, photorealistic, 8k, sharp focus on the main subject, masterpiece quality.
+
+**Negative Specifications:**
+Avoid cluttered backgrounds, uneven lighting, soft focus on main subject, excessive motion blur on main figure, busy composition, low resolution, artificial skin texture.

@@ -1,0 +1,100 @@
+# Massive Suspended Crystal Glass Logo Sculpture in Sky
+
+## Description of Resulting Image
+
+A monumental perfectly centered 3D crystal glass sculpture of a brand logo suspended against a bright blue sky with sparse white cumulus clouds. The hyper-realistic optical-grade crystal features intense direct sunlight creating sharp glass caustics, realistic ray-traced refractions, subtle chromatic aberration, and fire-polished beveled edges with authentic micro-scratches and minimal internal seed bubbles.
+
+## Usage
+
+Use this prompt when you want to showcase a logo as an impossible, dreamlike monolithic sculpture floating in pristine sky. Perfect for creating aspirational brand imagery that conveys transparency, clarity, purity, and monumentality. The ultra-photorealistic crystal rendering with Phase One macro photography specs ensures museum-quality results ideal for premium brand campaigns, hero images, or artistic brand installations.
+
+## Actor or Subject
+
+Brand logo transformed into massive suspended optical-grade crystal glass sculpture
+
+## Prerequisites
+
+- Uploaded logo image with clean geometry
+- Exact 1:1 logo proportions and geometry preservation required
+- Understanding of ultra-photorealistic rendering requirements
+
+## Included Effects
+
+### Lighting
+- Intense direct sunlight
+- Sharp glass caustics
+- Realistic ray-traced refractions
+- Global illumination
+
+### Photographic
+- Ultra-photorealistic product photography
+- Phase One XF 120mm Macro lens simulation
+- f/5.6 aperture
+- Fujifilm Velvia 50 film aesthetic
+
+### Atmospheric
+- Clean bright blue sky
+- Sparse white cumulus clouds only
+- No ground elements (pure sky environment)
+
+### Post-Processing
+- Arnold/Octane render quality
+- Chromatic aberration (subtle)
+- Authentic glass imperfections (micro-scratches, seed bubbles)
+
+### Style Filters
+- Ultra-photorealistic
+- Product photography aesthetic
+- Monolithic sculpture style
+
+## Included Camera Frames
+
+### Camera Type
+Phase One XF with 120mm Macro lens
+
+### Framing
+Perfectly centered, suspended logo sculpture
+
+### Angle
+Straight-on to showcase crystal clarity and proportions
+
+### Depth of Field (DoF)
+f/5.6 - sharp logo with slight sky softness
+
+### Aspect Ratio
+Portrait 4:5 ratio (1080×1350 px)
+
+### Shot Distance
+Optimized macro distance for full sculpture visibility with detail
+
+## Image Prompt
+
+### Subject
+Create a massive, perfectly centered, suspended 3D sculpture using the uploaded logo image as the exact reference. Preserve the official logo geometry and proportions 1:1 with no alterations. Render it as a single monolithic object made of hyper-realistic optical-grade crystal glass with high clarity, realistic refraction, fire-polished beveled edges, subtle micro-scratches, and minimal internal seed bubbles for authentic realism.
+
+### Setting
+The logo floats against a clean bright blue sky with sparse white cumulus clouds only (no land, trees, or other objects)
+
+### Lighting
+Use intense direct sunlight to create sharp glass caustics, realistic ray-traced refractions, subtle chromatic aberration, and global illumination
+
+### Composition
+Perfectly centered suspended sculpture, monolithic presence, balanced against minimal sky environment
+
+### Style
+Ultra-photorealistic product photography, monolithic sculpture, crystal glass material realism, Arnold/Octane render quality
+
+### Technical Specs
+Phase One XF 120mm Macro, f/5.6, Fujifilm Velvia 50 aesthetic, Portrait aspect ratio 4:5 (1080×1350 px), ray-traced refractions, global illumination, fire-polished edges, authentic glass imperfections
+
+### Color Palette
+Clean bright blue sky with white clouds, clear crystal glass with subtle internal refractions, warm sunlight caustics
+
+### Mood
+Monumental, pure, aspirational, impossible, dreamlike, pristine, transparent
+
+### Quality Keywords
+Massive, perfectly centered, suspended, hyper-realistic, optical-grade crystal glass, high clarity, realistic refraction, fire-polished beveled edges, subtle micro-scratches, minimal internal seed bubbles, sharp glass caustics, ray-traced refractions, chromatic aberration, global illumination, ultra-photorealistic
+
+### Negative Prompt
+Distorted logo proportions, ground/land elements, trees, other objects, murky glass, unrealistic refraction, harsh edges, excessive imperfections, colorful tinting, busy background, off-center composition, flat rendering

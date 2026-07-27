@@ -1,1 +1,0 @@
-Full body cinematic studio portrait of a stylish young man with curly hair, wearing black sunglasses, a white textured shirt over a black tank tep, and black pinstripe wide-leg trousers. He stpocket and the other resting on a long medieval sword tip-down on the floor. Moody red background with dramatic studio lighting, high contrast, filmic-created, film-detailed, 8k.

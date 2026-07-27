@@ -1,0 +1,119 @@
+# Miniature Figure Trapped in Overturned Glass - Surreal Confinement
+
+## Description of Resulting Image
+
+A hyper-realistic surreal macro photograph depicting a miniature human figure trapped inside an overturned clear drinking glass. The confined subject appears crouched with one hand pressed desperately against the curved inner wall, creating a powerful sense of entrapment. Shot with shallow depth of field producing intense bokeh, the image features warm cinematic lighting with complex refractive distortions, specular highlights, and ray-traced caustics casting subtle light patterns on the polished wooden table surface.
+
+## Usage
+
+Use this prompt when creating conceptual photography that explores themes of confinement, isolation, or psychological constraint through surreal miniaturization. This effect is ideal for editorial work, mental health awareness campaigns, or artistic portfolio pieces that require powerful metaphorical imagery. The technical execution combines macro photography with dramatic perspective to deliver both visual impact and emotional depth.
+
+## Actor or Subject
+
+The subject should be rendered using the uploaded face as reference, maintaining authentic facial features and identity. The miniature figure appears crouched in a confined posture, barefoot, wearing a grey button-down shirt and dark trousers, with one hand pressed desperately against the curved inner wall of the glass, conveying distress and entrapment.
+
+## Prerequisites
+
+- One reference photo showing the subject's face clearly for identity preservation
+- Facial features should be well-defined for accurate miniaturization
+- Subject photo should have good lighting for detail extraction
+
+## Included Effects
+
+### Lighting
+- Soft warm cinematic lighting
+- Vintage tungsten atmosphere
+- Complex refractive distortions through glass
+- Specular highlights on glass rim
+- Ray-traced caustics on wooden surface
+- Ambient warm glow
+
+### Photographic
+- Shallow depth of field (85mm at f/1.8)
+- Intense foreground and background bokeh
+- Premium macro realism
+- Extreme photorealistic fidelity
+- Dramatic perspective
+- Rich textural detail
+
+### Atmospheric
+- Warm grain textures on wood
+- Rhythmic amber-hued repetition in background
+- Vintage atmosphere
+- Surreal confinement mood
+
+### Post-Processing
+- 8K rendering
+- Extreme photorealistic enhancement
+- Texture amplification
+- Refractive distortion simulation
+- Caustic light pattern generation
+
+### Style Filters
+- Cinematic vintage aesthetic
+- Macro photography style
+- Surreal realism
+- Editorial photography quality
+
+## Included Camera Frames
+
+### Camera Type
+- Macro photography setup
+- Premium DSLR or mirrorless
+- 85mm lens
+
+### Framing
+- Central subject framed by glass walls
+- Overturned glass as primary frame element
+- Other glass vessels providing background rhythm
+
+### Angle
+- Eye-level to slightly above
+- Direct view into glass interior
+
+### Depth of Field
+- Shallow (f/1.8)
+- Subject in focus
+- Background with intense bokeh
+- Out-of-focus glass vessels creating depth
+
+### Aspect Ratio
+- Standard horizontal or square format
+
+### Shot Distance
+- Macro close-up range
+- 6-12 inches from subject
+
+## Image Prompt
+
+### Subject
+A hyper-realistic surreal macro photograph of a miniature human figure trapped inside an overturned clear drinking glass. Shot with shallow depth of field using an 85mm lens at f/1.8, producing intense foreground and background bokeh.
+
+The central subject—using the uploaded face as reference—appears crouched in a confined posture, barefoot, wearing a grey button-down shirt and dark trousers, with one hand pressed desperately against the curved inner wall of the glass.
+
+### Setting
+The glass rests on a polished wooden table with warm grain textures, surrounded by other out-of-focus glass vessels that create rhythmic amber-hued repetition in the background.
+
+### Lighting
+Soft warm cinematic lighting evokes a vintage tungsten atmosphere, with complex refractive distortions, specular highlights on the glass rim, and ray-traced caustics casting subtle light patterns on the wood.
+
+### Composition
+Miniature figure centered within overturned glass. Crouched posture with hand against glass wall. Surrounding glass vessels create depth and repetition. Strong foreground to background separation through bokeh.
+
+### Style
+Premium macro realism, dramatic perspective, surreal photography, cinematic quality.
+
+### Technical Specs
+85mm lens at f/1.8, shallow depth of field, intense bokeh, macro photography setup, ray-traced caustics, refractive distortions. Rendered in 8K with extreme photorealistic fidelity.
+
+### Color Palette
+Warm tungsten tones, amber hues, polished wood browns, clear glass with highlights, grey shirt, dark trousers, natural skin tones with warm ambient lighting.
+
+### Mood
+Desperate confinement, psychological isolation, trapped sensation, surreal entrapment, emotional distress, powerful metaphor.
+
+### Quality Keywords
+Hyper-realistic, extreme photorealistic fidelity, premium macro realism, rich textural detail, 8K rendering, cinematic quality.
+
+### Negative Prompt
+low quality, blurry, low resolution, cartoon, anime, CGI, 3D render, watermark, logo, extra text, cropped objects, unnatural anatomy, extra hands, extra fingers, multiple limbs, deformed faces, distortion, noise, overexposed, underexposed, motion blur, unrealistic reflections.

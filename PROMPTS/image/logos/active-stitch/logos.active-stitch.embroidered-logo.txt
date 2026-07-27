@@ -1,0 +1,97 @@
+# Photorealistic Embroidered Logo on Premium Fabric
+
+## Description of Resulting Image
+
+A meticulously crafted embroidered logo emblem presented on premium textured fabric, featuring intricate embroidery work with sharp focus on the stitching detail. The image showcases sophisticated depth of field with the foreground embroidery in sharp focus while the fabric elegantly falls away into a soft, blurred background.
+
+## Usage
+
+Use this template when creating premium brand identity mockups for embroidered merchandise or luxury fabric applications. Perfect for showcasing how a logo would appear on high-end apparel, corporate uniforms, or branded textile products. The customizable parameters allow you to adjust aspect ratio, embroidery style, and fabric color to match specific brand requirements.
+
+## Actor or Subject
+
+Brand logo emblem embroidered on premium fabric
+
+## Prerequisites
+
+- Uploaded logo image
+- Desired embroidery style (e.g., satin stitch, cross-stitch, chain stitch)
+- Fabric color selection
+- Aspect ratio preference
+
+## Included Effects
+
+### Lighting
+- Natural lighting with soft shadows
+- Highlights on thread texture and fabric weave
+- Dimensional lighting to accentuate stitch depth
+
+### Photographic
+- Photorealistic rendering
+- Dynamic perspective
+- Depth of field (foreground sharp, background soft blur)
+
+### Atmospheric
+- Sophisticated, premium brand aesthetic
+- Modern luxury feel
+
+### Post-Processing
+- Texture enhancement for stitches and fabric
+- Focus refinement
+
+### Style Filters
+- Photorealistic
+- Modern and stylish
+- Premium brand identity aesthetic
+
+## Included Camera Frames
+
+### Camera Type
+Professional product photography camera
+
+### Framing
+Centered on embroidered emblem as focal point
+
+### Angle
+Dynamic, eye-catching perspective
+
+### Depth of Field (DoF)
+Shallow - foreground embroidery sharp, background soft blur
+
+### Aspect Ratio
+Customizable {} aspect ratio
+
+### Shot Distance
+Close-up macro to showcase embroidery detail
+
+## Image Prompt
+
+### Subject
+Create a photorealistic {} aspect ratio image featuring a meticulously crafted uploaded logo emblem for "[logo Name]" embroidered in an intricate [embroidery style] style.
+
+### Setting
+Premium, textured [color] fabric that complements the design's aesthetic, with fabric elegantly falling away into soft background
+
+### Lighting
+Natural lighting casting soft shadows to accentuate the texture of the stitches and the weave of the material
+
+### Composition
+Central focus on emblem, dynamic eye-catching perspective, foreground sharp with background elegantly blurred
+
+### Style
+Photorealistic, sophisticated, stylish, modern, premium brand identity
+
+### Technical Specs
+High detail texture rendering, sharp focus on embroidery, depth of field technique, professional product photography quality
+
+### Color Palette
+[Color] fabric base with embroidery thread colors matching brand identity
+
+### Mood
+Premium, sophisticated, luxurious, modern, professional
+
+### Quality Keywords
+Photorealistic, meticulously crafted, intricate, premium textured fabric, sharp focus, soft shadows, elegant, sophisticated, stylish, modern
+
+### Negative Prompt
+Blurry embroidery, flat appearance, cheap fabric, harsh lighting, cluttered background, unrealistic texture, digital look

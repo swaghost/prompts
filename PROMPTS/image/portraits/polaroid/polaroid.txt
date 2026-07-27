@@ -1,0 +1,116 @@
+# Polaroid Composition Portrait
+
+## Description of Resulting Image
+
+A hyperrealistic 8K photograph of a human figure composed of instant photographic prints (approximately 20 separate photos) layered to form the figure against a dark distressed slate-textured modern minimalist background. Two hands reach out to adjust the photos with one pinching a corner revealing a subtle ring, featuring cinematic studio lighting with soft shadows and 3D depth, rendered in cool and warm muted desaturated color palette.
+
+## Usage
+
+Perfect for conceptual art photography, creative editorial content, and innovative brand storytelling requiring unique visual metaphors. Ideal for photography exhibitions, creative agency portfolios, Instagram artistic content, and commercial advertising exploring themes of identity and fragmentation. This prompt excels at creating thought-provoking visual narrative through layered composition technique for premium editorial and artistic applications.
+
+## Actor or Subject
+
+A human figure composed entirely of instant photographic prints showing the reference face, with hands interacting with the photo arrangement.
+
+## Prerequisites
+
+- Subject reference photo (face to be displayed in the polaroid prints)
+
+## Included Effects
+
+**Lighting Effects:**
+
+- Cinematic studio lighting
+- Soft shadows creating depth
+- Professional illumination
+- Controlled lighting for 3D effect
+
+**Photographic Effects:**
+
+- Hyperrealistic rendering
+- 8K resolution detail
+- 3D depth illusion
+- Layered photo composition
+- Instant photo aesthetic
+
+**Atmospheric Effects:**
+
+- Modern minimalist atmosphere
+- Conceptual artistic mood
+- Sophisticated studio environment
+
+**Post-Processing:**
+
+- Cool and warm color palette balance
+- Muted desaturated tones
+- Professional color grading
+- Texture enhancement on background
+
+**Style Filters:**
+
+- Conceptual art photography aesthetic
+- Modern minimalist style
+- Hyperrealistic rendering
+
+## Included Camera Frames
+
+**Camera Type & Lens:**
+
+- Professional studio camera with standard lens (50mm-85mm)
+
+**Framing & Composition:**
+
+- Medium shot composition
+- Figure composed of layered photos
+- Hands interacting with composition
+- Natural proportions
+
+**Camera Angle:**
+
+- Eye level perspective
+- Straight-on view
+
+**Depth of Field:**
+
+- Sharp focus throughout
+- 3D depth through lighting and shadows
+
+**Aspect Ratio:**
+
+- 9:16 vertical aspect ratio
+
+**Shot Distance:**
+
+- Medium shot
+
+## Image Prompt
+
+**Subject:**
+Hyperrealistic 8K photograph of a human figure composed of instant photographic prints layered to create the complete figure. The figure displays the reference face and is meticulously assembled from approximately 20 separate photographs. Two hands reach out to adjust the photos; one hand pinches the corner of a print, revealing a subtle ring.
+
+**Setting/Environment:**
+Dark, distressed, slate-textured, modern minimalist background providing sophisticated contrast to the photo composition.
+
+**Lighting:**
+Cinematic studio lighting with soft shadows creating 3D depth, professional illumination highlighting the layered photo composition and creating dimensional quality.
+
+**Composition:**
+Medium shot at eye level with natural proportions, figure composed of layered instant photos, hands actively interacting with the photo arrangement.
+
+**Style & Aesthetic:**
+Hyperrealistic conceptual art photography with modern minimalist aesthetic, sophisticated visual metaphor about identity and fragmentation.
+
+**Technical Specifications:**
+8K resolution, hyperrealistic rendering, 9:16 vertical aspect ratio, professional studio quality, 3D depth creation through lighting.
+
+**Color Palette:**
+Cool and warm color palette, muted and desaturated tones, dark slate background, natural photo print colors creating subtle contrast.
+
+**Mood & Atmosphere:**
+Conceptual, artistic, sophisticated, modern, minimalist, thought-provoking, creative, introspective.
+
+**Quality Keywords:**
+Hyperrealistic, 8K photograph, professional studio photography, cinematic lighting, 3D depth, ultra-detailed, photorealistic, high resolution, premium quality.
+
+**Negative Prompt (What to Avoid):**
+Low quality, flat lighting, oversaturated colors, cluttered background, poor photo layering, unnatural composition, blurry details, artificial effects, cartoonish, low resolution, harsh shadows.

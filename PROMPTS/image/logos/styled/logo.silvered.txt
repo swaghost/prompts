@@ -1,0 +1,97 @@
+# High-Contrast Silver Logo on Black - Futuristic Minimalist
+
+## Description of Resulting Image
+
+A sleek silver logo rendered on a pure black background with extreme high contrast. The monochromatic minimalist design features futuristic soft light texture and cinematic ACES tone mapping, creating a sophisticated modern aesthetic with premium metallic appearance.
+
+## Usage
+
+Use this prompt when you need a bold, modern logo presentation with maximum visual impact through contrast. Perfect for tech brands, luxury products, or any company wanting to project sophistication and cutting-edge design. The minimalist approach focuses all attention on the logo form while the silver-on-black palette conveys premium quality and futuristic innovation.
+
+## Actor or Subject
+
+Brand logo rendered in silver on black background with futuristic minimalist treatment
+
+## Prerequisites
+
+- Logo design (referred to as "seu logo" - your logo)
+- Cinema 4D rendering capability or equivalent
+- ACES tone mapping support
+
+## Included Effects
+
+### Lighting
+- Insane lighting with ACES tone mapping
+- Soft light texture treatment
+- High-contrast illumination
+
+### Photographic
+- Monochromatic rendering
+- High contrast composition
+
+### Atmospheric
+- Futuristic ambiance
+- Minimalist aesthetic
+- Premium sophistication
+
+### Post-Processing
+- ACES tone mapping
+- Contrast enhancement
+- Metallic texture refinement
+
+### Style Filters
+- Minimalist style
+- Futuristic aesthetic
+- Cinema 4D rendering approach
+
+## Included Camera Frames
+
+### Camera Type
+Studio/product camera with high-end rendering (C4D)
+
+### Framing
+Centered logo on black background
+
+### Angle
+Straight-on view for maximum impact
+
+### Depth of Field (DoF)
+Sharp focus throughout
+
+### Aspect Ratio
+1080x1440 (portrait 3:4 format)
+
+### Shot Distance
+Optimized to showcase full logo with appropriate negative space
+
+## Image Prompt
+
+### Subject
+A silver logo on black background, rendered with Cinema 4D techniques
+
+### Setting
+Pure black background providing maximum contrast and minimalist presentation
+
+### Lighting
+Insane lighting with ACES tone map, soft light texture creating futuristic illumination
+
+### Composition
+High contrast monochromatic layout, centered logo with minimalist framing
+
+### Style
+Futuristic minimalist, Cinema 4D rendering aesthetic, premium monochromatic design
+
+### Technical Specs
+C4D rendering, ACES tone mapping, soft light texture, high contrast, 1080x1440 resolution
+
+### Color Palette
+Monochromatic - silver metallic on pure black background
+
+### Mood
+Sophisticated, futuristic, bold, premium, modern, minimalist
+
+### Quality Keywords
+High contrast, monochromatic, minimalist style, Cinema 4D rendering, insane lighting, ACES tone map, soft light texture, futuristic
+
+### Negative Prompt
+Colorful elements, busy background, flat lighting, low contrast, cluttered composition, realistic photography style, warm tones, decorative elements

@@ -1,0 +1,118 @@
+# Portrait Sports Jersey with Motion Blur Effect
+
+## Description of Resulting Image
+
+A dramatic low-key cinematic sports portrait featuring subject in confident three-quarter pose with arms crossed and intense determined gaze. The composition includes premium black Argentina-inspired training jersey with dual-color cinematic studio lighting (electric teal rim light and warm amber-orange backlight), plus two realistic ghosted motion-blur portraits trailing toward the right, creating premium long-exposure effect symbolizing speed and determination against deep black seamless studio background.
+
+## Usage
+
+Perfect for luxury sports campaigns, premium athlete branding, and commercial sports advertising. Ideal for sports team marketing materials, athlete social media content, editorial sports features, and high-end athletic brand campaigns. This prompt excels at creating dramatic low-key sports portraits with motion effects for professional athlete representation and premium sports marketing.
+
+## Actor or Subject
+
+Subject from uploaded reference image with exact facial features, hairstyle, hair color, neat trimmed beard, skin tone, facial structure, and body proportions preserved.
+
+## Prerequisites
+
+**MANDATORY:**
+- Reference image for face and identity of subject
+
+## Included Effects
+
+**Lighting Effects:**
+- Vibrant electric teal rim light illuminating left side
+- Warm amber-orange backlight from right
+- Dramatic separation from background
+- Subtle highlights enhancing depth
+
+**Photographic Effects:**
+- Realistic ghosted motion-blur portraits trailing right
+- Premium long-exposure double/triple-exposure effect
+- Sharp central portrait with gradually softening trails
+- Natural horizontal motion blur
+
+**Atmospheric Effects:**
+- Deep black seamless studio background
+- Cinematic lighting dominance
+- High-contrast editorial atmosphere
+
+**Post-Processing:**
+- High-contrast editorial color grading
+- Rich teal and amber tones
+- Dramatic shadow sculpting
+- Subtle cinematic film grain
+- HDR lighting treatment
+
+**Style Filters:**
+- Photorealistic luxury sports campaign aesthetic
+- Premium editorial athlete portrait style
+- Cinematic studio photography look
+
+## Included Camera Frames
+
+**Camera Type & Lens:**
+- 85mm portrait lens
+- f/1.8 aperture
+
+**Framing & Composition:**
+- Three-quarter pose with arms crossed
+- Confident stance
+- Portrait orientation (4:5)
+
+**Camera Angle:**
+- Eye level to slightly above
+- Direct engagement angle
+
+**Depth of Field:**
+- Shallow depth of field
+- Ultra-sharp facial detail
+- Motion blur on ghost trails
+
+**Aspect Ratio:**
+- Portrait orientation (4:5)
+
+**Shot Distance:**
+- Medium close-up portrait
+
+## Image Prompt
+
+**CRITICAL IDENTITY PRESERVATION:**
+Use the uploaded image only as the face and identity reference for the subject. Preserve the exact facial features, hairstyle, hair color, neat trimmed beard, skin tone, facial structure, body proportions, and identity with maximum accuracy. Do not alter the face, hairstyle, or facial hair unless they already exist in the reference image.
+
+**Subject:**
+Create dramatic low-key cinematic sports portrait in confident three-quarter pose with arms crossed and intense, determined gaze directed straight into camera. Expression should convey focus, confidence, discipline, and leadership.
+
+**Setting/Environment:**
+Deep black seamless studio background, allowing the cinematic lighting and motion effects to dominate the composition.
+
+**Lighting:**
+Use dual-color cinematic studio lighting: vibrant electric teal rim light illuminating the left side of face and upper body, and warm amber-orange backlight from the right that creates dramatic separation from background. Emphasize realistic skin texture, sharp dark brown eyes, natural beard detail, premium jersey fabric, and subtle highlights that enhance depth without losing realism.
+
+**Composition:**
+Subject in confident three-quarter pose with arms crossed. Behind subject, create two realistic ghosted motion-blur portraits of face trailing toward the right, forming premium long-exposure double/triple-exposure effect. The central portrait remains perfectly sharp while the trailing portraits gradually soften with natural horizontal motion blur, symbolizing speed, determination, and relentless progress.
+
+**Style & Aesthetic:**
+Photorealistic luxury sports campaign, premium editorial athlete portrait, cinematic studio photography, long-exposure motion effect, dramatic low-key lighting. Apply high-contrast editorial color grading using rich teal and amber tones, dramatic shadow sculpting, subtle cinematic film grain, shallow depth of field, HDR lighting, and ultra-sharp facial detail.
+
+**Technical Specifications:**
+85mm portrait lens, f/1.8 aperture, ultra-detailed skin texture, premium fabric realism, 8K resolution, portrait orientation (4:5), masterpiece quality, award-winning commercial sports advertising.
+
+**Wardrobe Details:**
+Dress in premium black Argentina-inspired training jersey featuring elegant dark navy geometric patterns, three clean white shoulder stripes, luxurious gold chest crest detailing, and premium performance fabric with realistic stitching and texture. Keep the design original and avoid reproducing any specific brand logos.
+
+**Negative Specifications:**
+No watermark, no text, no logos.
+
+Dress me in a premium black Argentina-inspired training jersey featuring elegant dark navy geometric patterns, three clean white shoulder stripes, luxurious gold chest crest detailing, and premium performance fabric with realistic stitching and texture. Keep the design original and avoid reproducing any specific brand logos. Use dual-color cinematic studio lighting:
+
+A vibrant electric teal rim light illuminating the left side of my face and upper body.
+
+A warm amber-orange backlight from the right that creates dramatic separation from the background.
+
+Behind me, create two realistic ghosted motion-blur portraits of my face trailing toward the right, forming a premium long-exposure double/triple-exposure effect. The central portrait remains perfectly sharp while the trailing portraits gradually soften with natural horizontal motion blur, symbolizing speed, determination, and relentless progress.
+
+Place me against a deep black seamless studio background, allowing the cinematic lighting and motion effects to dominate the composition. Emphasize realistic skin texture, sharp dark brown eyes, natural beard detail, premium jersey fabric, and subtle highlights that enhance depth without losing realism.
+
+Apply high-contrast editorial color grading using rich teal and amber tones, dramatic shadow sculpting, subtle cinematic film grain, shallow depth of field, HDR lighting, and ultra-sharp facial detail.
+
+Photorealistic luxury sports campaign, premium editorial athlete portrait, cinematic studio photography, long-exposure motion effect, dramatic low-key lighting, shallow depth of field, 85mm portrait lens, f/1.8 aperture, ultra-detailed skin texture, premium fabric realism, 8K resolution, portrait orientation (4:5), masterpiece quality, award-winning commercial sports advertising, no watermark, no text, no logos.
