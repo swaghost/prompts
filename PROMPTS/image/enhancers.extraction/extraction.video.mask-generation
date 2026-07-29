@@ -1,0 +1,10 @@
+Use this when you want to define exactly what part of the frame is generated (foreground vs background).
+
+Prompt:  
+    Hyper‑realistic photoreal video using a mask‑based generation workflow. Treat the masked region as the active generation zone and preserve all unmasked areas. Maintain perfect edge fidelity between mask and non‑mask regions. Subject motion should remain consistent with mask boundaries. Lighting and color grading must blend seamlessly with the preserved background. Generate clean, stable video optimized for compositing.
+
+Optional add‑ons:
+
+“feathered mask edges (2–4px)”
+“hard‑edge mask for graphic elements”
+“motion‑consistent mask tracking”

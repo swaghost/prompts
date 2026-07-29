@@ -1,0 +1,10 @@
+Use this when you want OpenArtAI to pull the subject out of the background automatically.
+
+Prompt:  
+    Hyper‑realistic photoreal foreground extraction. Identify the primary subject and isolate it cleanly from the background. Remove all background elements while preserving full subject detail, accurate contours, hair edges, and fine textures. Output should be a clean foreground cutout suitable for compositing, with no haloing, no leftover artifacts, and consistent lighting.
+
+Optional add‑ons:
+
+“hair‑strand fidelity”
+“no background color bleed”
+“studio‑neutral lighting for clean edges”

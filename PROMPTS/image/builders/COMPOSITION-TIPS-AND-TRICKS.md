@@ -1,0 +1,7 @@
+- One clean reference = a consistent board. The attached image is the source of truth for every panel — start with a sharp, clear shot.
+- Boards adapt to aspect ratio. No fixed column, so run at whatever ratio you need — feed, story, or wide desktop board.
+- Palette + hex are built in. Every board ends with 6 swatches and hex codes you can pull straight into your design.
+- Pose Board is animation-ready. It's built for video generation — basic + action poses give you clean motion references.
+- Shot Board is a sequence. Feed one keyframe and it breaks the scene into 12 continuous shots — a full storyboard, not a single subject.
+- Use them to lock consistency. Generate a board first, then reference it to keep a character, creature or location identical across a whole project.
+- Swap the subject, keep the board. The format works for anything you need a clean reference sheet for.

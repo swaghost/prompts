@@ -1,0 +1,10 @@
+Use this when you want a cutout PNG with no background.
+
+Prompt:  
+Hyper‑realistic photoreal subject on a fully transparent background. Generate a clean alpha‑ready PNG with no shadows, no background artifacts, and crisp edge definition. Subject should be isolated perfectly with smooth contours and no haloing. Lighting should be even and neutral to ensure flawless compositing. Output as a transparent PNG with full foreground detail.
+
+Optional add‑ons:
+“studio lighting”
+“no floor reflections”
+“no ambient fog”
+“hard‑edge mask precision”
