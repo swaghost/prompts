@@ -14,12 +14,13 @@
 
 [Optional third sentence if needed: Additional context or unique selling points]
 
-## Prerequisites
+## Prerequisites / Dependencies
 
 [List required images, references, or storyboards needed to generate this sequence]
 
-- Option 1: List specific required images (e.g., "Reference image of subject", "Character image", "Storyboard reference")
+- Option 1: List specific required images (e.g., "Dependency #[number] - Reference image of subject", "Dependency #[number] - Character image", "Dependency #[number] - Storyboard reference")
 - Option 2: If generates from scratch, write: "None - generates from scratch"
+- Additional Note: If it's an image, and a prompt for the image is supplied, list it as "Dependency #[number] - Prompt"
 
 ## Storyboard Prompt
 
