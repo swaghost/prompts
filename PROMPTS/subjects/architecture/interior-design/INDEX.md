@@ -1,10 +1,12 @@
-# Interior Design Style Prompts - Index
+# Interior Design Prompts - Complete Collection Index
 
-A comprehensive collection of professional interior design prompts for generating full architectural documentation including elevations, plans, and sectional drawings.
+A comprehensive collection of professional interior design prompts including 13 living room style prompts for architectural documentation and photorealistic rendering, plus 15 professional design workflow tools covering the complete process from client consultation through final presentation.
 
 ## Overview
 
-Each prompt in this collection provides detailed specifications for creating professional architectural drawings and photorealistic renders of complete interior spaces. All prompts follow the format of generating:
+This collection provides two types of prompts:
+
+**Style Prompts (13):** Detailed specifications for creating professional architectural drawings and photorealistic renders of complete living room interiors in various styles. Each generates:
 
 - Front, Back, Left, Right elevations
 - Plan View (top-down)
@@ -14,6 +16,8 @@ Each prompt in this collection provides detailed specifications for creating pro
 - Lighting schedules
 - Furniture specifications
 - CAD-style professional presentations
+
+**Process & Tool Prompts (15):** Professional workflow tools for interior designers covering concept generation, space planning, material selection, colour palettes, client presentations, budget planning, and technical documentation.
 
 ---
 
@@ -162,6 +166,175 @@ Each prompt in this collection provides detailed specifications for creating pro
 
 ---
 
+## Professional Design Tools & Process Prompts
+
+In addition to the living room style prompts above, this collection includes professional tools for the interior design process, from initial client consultation through final presentation.
+
+### 01. **Interior Design Concept Generator**
+
+[01.concept-generator.md](01.concept-generator.md)
+
+**Purpose:** Complete design concept creation for any room and style  
+**Includes:** Colour palette, furniture direction, lighting, materials, décor, budget alternatives  
+**Platform:** ChatGPT (GPT-4)  
+**Best For:** Initial concepts, client presentations, exploring design directions
+
+---
+
+### 02. **Room Makeover Ideas**
+
+[02.room-makeover-ideas.md](02.room-makeover-ideas.md)
+
+**Purpose:** Analyze existing rooms and provide transformation recommendations  
+**Includes:** Layout, wall colours, lighting upgrades, storage, styling changes  
+**Platform:** ChatGPT (GPT-4o with vision)  
+**Best For:** Before/after planning, budget refreshes, renovation projects
+
+---
+
+### 03. **Space Planning Expert**
+
+[03.space-planning-expert.md](03.space-planning-expert.md)
+
+**Purpose:** Create efficient furniture layouts based on room dimensions  
+**Includes:** Circulation, zoning, seating, storage, natural light optimization  
+**Platform:** ChatGPT (GPT-4)  
+**Best For:** New homes, furniture arrangement, spatial challenges
+
+---
+
+### 04. **Material & Finish Selector**
+
+[04.material-finish-selector.md](04.material-finish-selector.md)
+
+**Purpose:** Recommend materials and finishes for any interior style  
+**Includes:** Flooring, walls, countertops, cabinetry, fabrics, metals, durability notes  
+**Platform:** ChatGPT (GPT-4)  
+**Best For:** Renovation planning, material selection, finish schedules
+
+---
+
+### 05. **Colour Palette Creator**
+
+[05.colour-palette-creator.md](05.colour-palette-creator.md)
+
+**Purpose:** Generate 5 professional colour schemes with hex codes  
+**Includes:** Wall colours, furniture tones, accents, décor, hex codes  
+**Platform:** ChatGPT (GPT-4)  
+**Best For:** Paint selection, colour coordination, mood boards
+
+---
+
+### 06. **Mood Board Generator**
+
+[06.mood-board-generator.md](06.mood-board-generator.md)
+
+**Purpose:** Curate furniture, fabrics, textures, lighting, art, and plants  
+**Includes:** Complete mood board elements, style story, cohesive explanation  
+**Platform:** ChatGPT (GPT-4)  
+**Best For:** Client presentations, Pinterest boards, design direction
+
+---
+
+### 07. **Client Presentation Writer**
+
+[07.client-presentation-writer.md](07.client-presentation-writer.md)
+
+**Purpose:** Write premium client presentations for design projects  
+**Includes:** Concept story, inspiration, layout, materials, mood board, narrative  
+**Platform:** ChatGPT (GPT-4)  
+**Best For:** Winning clients, design proposals, professional presentations
+
+---
+
+### 08. **Budget Interior Planner**
+
+[08.budget-interior-planner.md](08.budget-interior-planner.md)
+
+**Purpose:** Design beautiful rooms within specific budgets  
+**Includes:** Cost breakdown, priorities, alternatives, savings tips, itemized lists  
+**Platform:** ChatGPT (GPT-4)  
+**Best For:** Budget projects, cost estimation, DIY planning
+
+---
+
+### 09. **Lighting Design Assistant**
+
+[09.lighting-design-assistant.md](09.lighting-design-assistant.md)
+
+**Purpose:** Create professional layered lighting plans  
+**Includes:** Ambient, task, accent, decorative lighting, Kelvin, lumens, placement  
+**Platform:** ChatGPT (GPT-4)  
+**Best For:** Lighting upgrades, new construction, renovation planning
+
+---
+
+### 10. **3D Render Improvement Prompt**
+
+[10.3d-render-improvement.md](10.3d-render-improvement.md)
+
+**Purpose:** Analyze and improve interior renders  
+**Includes:** Lighting, materials, realism, composition, textures, reflections, camera  
+**Platform:** ChatGPT (GPT-4o with vision)  
+**Best For:** Refining AI renders, portfolio quality, pre-client polish
+
+---
+
+### 11. **Interior Design Content Creator**
+
+[11.content-creator.md](11.content-creator.md)
+
+**Purpose:** Generate 30 Instagram content ideas for design businesses  
+**Includes:** Reels, carousels, hooks, captions, CTAs, SEO angles  
+**Platform:** ChatGPT (GPT-4)  
+**Best For:** Social media planning, content calendars, marketing
+
+---
+
+### 12. **Client Consultation Assistant**
+
+[12.client-consultation-assistant.md](12.client-consultation-assistant.md)
+
+**Purpose:** Generate comprehensive client questionnaires  
+**Includes:** Lifestyle, budget, preferences, family needs, storage, timeline, expectations  
+**Platform:** ChatGPT (GPT-4)  
+**Best For:** Client intake, project discovery, consultation preparation
+
+---
+
+### 13. **Luxury Presentation Board**
+
+[13.luxury-presentation-board.md](13.luxury-presentation-board.md)
+
+**Purpose:** Transform renders into luxury editorial presentation boards  
+**Includes:** Material palette, specs, elevations, floor plans, Swiss grid layout  
+**Platform:** Midjourney, DALL-E 3  
+**Best For:** Client deliverables, portfolio, competitions, Behance
+
+---
+
+### 14. **Architectural Presentation Board**
+
+[14.architectural-presentation-board.md](14.architectural-presentation-board.md)
+
+**Purpose:** Create premium technical documentation boards  
+**Includes:** Furniture specs, material palette, floor plan, millwork diagrams, elevations  
+**Platform:** Midjourney, DALL-E 3  
+**Best For:** Technical presentations, RFP submissions, construction docs
+
+---
+
+### 15. **Bathroom Presentation Board**
+
+[15.bathroom-presentation-board.md](15.bathroom-presentation-board.md)
+
+**Purpose:** Transform bathroom renders into architectural presentation boards  
+**Includes:** Fixture schedule, material palette, floor plan, elevations, sections, details  
+**Platform:** Midjourney, DALL-E 3  
+**Best For:** Bathroom projects, hospitality design, renovation presentations
+
+---
+
 ## How to Use These Prompts
 
 ### For Architectural Drawings:
@@ -269,20 +442,24 @@ All prompts are structured to allow easy customization:
 
 ## Version Information
 
-**Collection:** Interior Design Style Prompts  
-**Total Styles:** 13  
+**Collection:** Interior Design Prompts  
+**Total Style Prompts:** 13 (Living room designs)  
+**Total Process/Tool Prompts:** 15 (Professional design workflow)  
+**Total Prompts:** 28  
 **Format:** Markdown (.md)  
-**Use Case:** AI image generation for architectural documentation and photorealistic rendering  
+**Use Case:** AI image generation, architectural documentation, design process, client management  
 **Updated:** 2026
 
 ---
 
 ## Notes
 
+- **Style Prompts (1-13):** Architectural documentation and photorealistic rendering for living room designs
+- **Process/Tool Prompts (01-15):** Professional workflow tools from client consultation through final presentation
 - All prompts preserve design authenticity while allowing customization
-- Suitable for use with professional AI image generation tools
-- Each prompt includes comprehensive material and technical specifications
-- Designed for both architectural documentation and visualization purposes
+- Suitable for use with ChatGPT, Midjourney, DALL-E, and other professional AI tools
+- Each prompt includes comprehensive specifications and best practices
+- Designed for both architectural documentation and complete design business workflow
 - Based on professional interior design principles and standards
 
 ---
