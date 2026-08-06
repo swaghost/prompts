@@ -33,11 +33,6 @@ Provide detailed terminology and specifications for prompting AI image generator
 - Escaped strands
 - Wispy edges
 
-**Russian Terms:**
-
-- Выбившиеся волосы (vybivshiyesya volosy)
-- Естественная текстура волос (estestvennaya tekstura volos)
-
 **Description:**
 Individual hair strands that escape from the main hairstyle, particularly visible around the hairline, crown, and behind ears. These create natural, lived-in texture and prevent overly controlled or artificial appearance.
 
@@ -68,11 +63,6 @@ Individual hair strands that escape from the main hairstyle, particularly visibl
 - Flowing hair
 - Movement in hair
 - Hair responding to air
-
-**Russian Terms:**
-
-- Волосы в движении (volosy v dvizhenii)
-- Ветер в волосах (veter v volosakh)
 
 **Description:**
 Hair actively responding to movement, wind, or environmental conditions. Creates dynamic, energetic quality and emphasizes three-dimensionality and natural physics of hair behavior.
@@ -106,10 +96,6 @@ Hair actively responding to movement, wind, or environmental conditions. Creates
 - Casual hairstyle
 - Effortless messy style
 
-**Russian Terms:**
-
-- Слегка небрежная прическа (slegka nerezhnaya pricheska)
-
 **Description:**
 Intentionally imperfect styling that suggests natural, candid, or relaxed context. Avoids overly styled, salon-perfect appearance in favor of authentic, approachable realism.
 
@@ -141,10 +127,6 @@ Intentionally imperfect styling that suggests natural, candid, or relaxed contex
 - Light catchment on hair
 - Subtle highlights
 - Natural hair luster
-
-**Russian Terms:**
-
-- Мягкие блики на волосах (myagkie bliki na volosakh)
 
 **Description:**
 Natural light reflections and highlights created by light source interacting with hair's surface. Creates depth, dimension, and photographic authenticity through realistic light behavior.
@@ -178,10 +160,6 @@ Natural light reflections and highlights created by light source interacting wit
 - Fine hair definition
 - Separated strands
 
-**Russian Terms:**
-
-- Видны отдельные волоски (vidny otdelnye voloski)
-
 **Description:**
 Visible separation and definition of individual hair strands rather than painted or solid mass. Critical for photographic realism and professional portrait quality.
 
@@ -213,10 +191,6 @@ Visible separation and definition of individual hair strands rather than painted
 - Peach fuzz appearance
 - Delicate facial hair
 - Wispy baby hairs
-
-**Russian Terms:**
-
-- Пушковые волосы у лица (pushkovye volosy u litsa)
 
 **Description:**
 Extremely fine, short hairs around hairline and face edges. Creates soft halo effect and natural transition between hair and skin. Essential for photographic realism in portraits.
@@ -391,14 +365,14 @@ Natural textured hair, individual strands visible, soft highlights, gentle flyaw
 
 ## Terminology Quick Reference
 
-| Effect        | English                         | Russian                   | Key Visual                  |
-| ------------- | ------------------------------- | ------------------------- | --------------------------- |
-| Loose strands | Flyaway hairs, loose strands    | Выбившиеся волосы         | Individual strands escaping |
-| Movement      | Hair in motion, wind-blown hair | Волосы в движении         | Dynamic flowing strands     |
-| Casual style  | Slightly messy, imperfect       | Слегка небрежная прическа | Natural undone look         |
-| Light effect  | Soft highlights, reflections    | Мягкие блики на волосах   | Natural light catchment     |
-| Fine detail   | Individual strands visible      | Видны отдельные волоски   | Strand-level definition     |
-| Face edges    | Baby hairs, subtle frizz        | Пушковые волосы у лица    | Soft hairline halo          |
+| Effect        | English                         | Key Visual                  |
+| ------------- | ------------------------------- | --------------------------- |
+| Loose strands | Flyaway hairs, loose strands    | Individual strands escaping |
+| Movement      | Hair in motion, wind-blown hair | Dynamic flowing strands     |
+| Casual style  | Slightly messy, imperfect       | Natural undone look         |
+| Light effect  | Soft highlights, reflections    | Natural light catchment     |
+| Fine detail   | Individual strands visible      | Strand-level definition     |
+| Face edges    | Baby hairs, subtle frizz        | Soft hairline halo          |
 
 ## Use Cases by Photography Style
 
