@@ -234,4 +234,125 @@ Always exclude:
 - Use shallow depth of field (f/2.8) for macro shots
 - Golden hour lighting (3200K) for warm, flattering tones
 
+## Advanced Body Part Realism
+
+### Nose Macro Anatomy
+
+When creating extreme macro shots of the nose (90-degree side profile or straight-on), include these details:
+
+**Nose Surface Detail:**
+
+- Visible pores of varying sizes (smaller on bridge, larger on tip/sidewall)
+- Sebaceous filaments naturally emerging from enlarged pores
+- Tiny blackheads scattered naturally around nose tip (not excessive)
+- Natural oiliness concentrating on bridge and tip creating slight shine
+- Micro skin texture: individual sweat pores, subsurface scattering, natural translucency
+- Tiny capillaries visible beneath thin skin
+- Very slight redness around nostril edge (subtle)
+
+**Nostril Anatomy:**
+
+- Natural cartilage definition visible
+- Visible skin folds around nostril
+- Realistic soft shadow inside nostril
+- Authentic skin thickness and compression
+- Tiny hairs around nostril edge (natural, not excessive)
+- Realistic nostril flare angle
+- Natural asymmetry preserved
+
+**Peach Fuzz Coverage:**
+
+- Tiny translucent peach fuzz covering nose and upper cheek
+- Short vellus hairs catching warm side light
+- Each hair rendered individually with random growth direction
+- Natural facial fuzz extending onto upper cheek with realistic density
+- Fine hairs emerging around nostril edge
+
+**Camera Specs for Nose Macro:**
+
+- 100mm macro lens at f/4 aperture
+- Focus point centered on nose bridge extending toward tip
+- Shallow depth of field with gradual optical blur toward edges
+- Nose occupying approximately 70% of vertical 9:16 frame
+- Only small portions of upper cheek, nostril, philtrum, upper lip visible
+
+### Dual Reference System
+
+For maximum control over style vs. composition:
+
+**Reference Image 1:** Use ONLY the visual style, skin tone, lighting, color palette, facial skin realism, composition quality, atmosphere, and photographic aesthetic.
+
+**Reference Image 2:** Use ONLY the camera angle, macro crop, framing, perspective, head position, lip composition, mouth shape positioning, lip texture, and facial crop.
+
+**Critical Rule:** DO NOT copy either person's identity, facial structure, or unique features. Generate an entirely new person with their own unique facial proportions.
+
+This technique allows you to:
+
+- Match the lighting/mood of one image
+- Match the framing/angle of another
+- Create a completely original character combining both influences
+
+### Enhanced Skin Texture Specifications
+
+**Base Layer:**
+
+- Visible pores of varying sizes: 0.1mm to 0.3mm
+- Individual pore structure with slight shadows within each pore
+- Skin compression and stretching around features
+- Fine facial hairs crossing over pores
+- Natural skin ridges and texture patterns
+
+**Surface Layer:**
+
+- Natural skin oils creating selective sheen (T-zone, bridge of nose, cheekbones)
+- Sebaceous filaments emerging from pores
+- Sweat pore visibility in high-detail areas
+- Authentic skin compression around nostrils, lips, eyes
+- Dry skin flakes where naturally present (lips, nose edges)
+
+**Pigmentation Layer:**
+
+- Tiny pigmentation variations across face
+- Natural uneven skin tone (not uniform)
+- Delicate capillaries showing through translucent areas
+- Subsurface scattering effect
+- Very slight redness in natural areas (around nose, inner cheeks)
+- Subtle skin tone inconsistencies adding realism
+
+### Male Portrait Specifics
+
+When creating realistic male portraits, add:
+
+**Facial Hair Detail:**
+
+- Medium to light stubble with individual hairs visible
+- Individual beard stubble hairs with varying lengths and directions
+- Stubble growth in different directions (not uniform)
+- Natural stubble density variation
+- Fine peach fuzz catching backlight along jawline and temples
+- Tiny freckles visible between stubble
+
+**Skin Texture:**
+
+- Generally larger pores than female subjects
+- More prominent texture on cheeks and forehead
+- Natural oil sheen typically more pronounced
+- Stronger jaw definition with natural shadows
+
+### Comprehensive Negative Prompt Library
+
+**For maximum realism, always exclude:**
+
+```
+plastic skin, beauty filter, airbrushed, smooth skin, CGI, 3D render, wax skin, oversharpened, fake freckles, artificial appearance, perfect symmetry, anime, illustration, painting, excessive blur, HDR tone mapping, oversaturated colors, uncanny valley, duplicate features, low detail, magazine retouching, professional retouching, beauty campaign aesthetic, glamour lighting, studio flash, artificial enhancement, doll-like proportions, stylized features, digital illustration qualities, artificial lips, lip filler look, fake eyelashes, heavy mascara, drawn-on liner, lipstick, glossy cosmetic lips, veneer-white teeth, flat teeth, Instagram filter, Snapchat filter, beautified, polished, no pores, glass skin, porcelain skin, CGI hair, perfectly styled hair, no flyaways, ring light, artificial glow
+```
+
+**Feature-Specific Exclusions:**
+
+- **Lips:** artificial lips, lip filler look, lipstick, gloss, makeup
+- **Eyes:** fake lashes, anime eyes, oversized eyes, perfect symmetry
+- **Skin:** perfect skin, no pores, glass skin, porcelain skin
+- **Hair:** CGI hair, perfectly styled, no flyaways, no natural texture
+- **Lighting:** studio flash, ring light, artificial glow, multiple light sources
+
 ---
