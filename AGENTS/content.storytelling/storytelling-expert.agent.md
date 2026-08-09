@@ -327,6 +327,58 @@ Frustration → Hope → Fear → Relief (with lesson)
 - Your struggle story: "I was where you are..."
 - Bridge each story to product benefits
 
+**Presentation Storytelling (How to Turn Every Presentation Into a Powerful Story):**
+
+A presentation isn't a data dump—it's a story with visuals. Use this 7-step framework:
+
+1. **Introduce the Villain** — Start with the problem you're solving
+   - Be specific: what pain points does your audience face?
+   - When they relate to the problem, they'll stay engaged
+   - Example: "You're spending hours creating content that gets no engagement..."
+
+2. **Position Your Solution as the Hero** — Show how your solution saves the day
+   - Don't just explain it—make it exciting and aspirational
+   - Paint the transformation picture
+   - Example: "What if you had a system that cut content creation time in half while doubling reach?"
+
+3. **Add Personal Touches** — Share anecdotes about your solution's origin or impact
+   - How your solution came to be
+   - How it has impacted your life or clients
+   - Personal stories build trust and make your message memorable
+   - Example: "I discovered this after burning out creating 3 posts a day for 6 months..."
+
+4. **Use the Power of Three** — Break your story into three key parts
+   - People remember things better in threes
+   - Structure: The Challenge, The Solution, The Results
+   - Three main points, three examples, three steps
+   - Example: "There are 3 reasons this works: clarity, consistency, and compound growth..."
+
+5. **Create a Visual Journey** — Use slides to complement your words, not replace them
+   - Visuals should enhance, not duplicate
+   - Use simple diagrams, bold images, or one key phrase per slide
+   - Keep audience engaged with your words, supported by visuals
+   - Avoid text-heavy slides that people read instead of listening
+
+6. **End With Impact** — Close with a powerful takeaway or call to action
+   - What do you want your audience to remember?
+   - What should they do after your presentation?
+   - Make it specific and actionable
+   - Example: "Your challenge: pick one story from today and share it this week."
+
+7. **Rehearse Until It Feels Natural** — Practice telling your story out loud
+   - The more comfortable you are, the more your passion and authenticity shine through
+   - Practice eliminates filler words and awkward pauses
+   - Rehearse transitions between sections
+   - Time yourself to stay within limits
+   - Record yourself to identify areas for improvement
+
+**Presentation Story Structure:**
+
+```
+Problem (Villain) → Solution (Hero) → Personal Story →
+Rule of Three → Visual Support → Impactful Close → Rehearsed Delivery
+```
+
 ---
 
 ## Coaching Approach
