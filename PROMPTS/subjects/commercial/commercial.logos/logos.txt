@@ -113,3 +113,13 @@ Intricate details, sleek lines, clever, straightforward, precise, impactful, flu
 
 ### Negative Prompt
 Elements to avoid based on specific logo requirements (use negative prompts to guide model focus)
+
+---
+
+## Additional Logo Resources
+
+### 3D Metallic Logo Transformation
+See [3d-metallic-logo-transformation.md](./3d-metallic-logo-transformation.md) - Premium 3D metallic transformation of flat logos into ultra-realistic emblems with polished surfaces, beveled edges, and cinematic studio lighting (Midjourney/DALL-E/Stable Diffusion).
+
+### Logo Reveal Animation (Google Flow / Veo 2)
+See [logo-reveal-animation-google-flow.md](./logo-reveal-animation-google-flow.md) - Transform static photography of signs, logos, or brand emblems into high-impact cinematic reveal animations while keeping the base scene, lighting, and camera positioning completely intact. VFX-style reveal effects for acrylic letters, painted murals, backlit signage, embossed patches, embroidered badges, and neon signs using Google's Flow (Veo 2). Includes material-specific blueprints, timing structures, and best practices for photorealistic brand reveal videos.

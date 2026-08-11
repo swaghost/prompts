@@ -1,0 +1,5 @@
+# 🎥 Shot‑Planning Blueprint Prompt (Photographers & Cinematographers)
+
+## Prompt:
+
+“Create a shot‑planning blueprint for photographers and cinematographers for this photoshoot. Include a structured list of all required shots: close‑ups, medium portraits, full‑body poses, wide environmental frames, dynamic action shots, and detail inserts. For each shot, specify camera angle, height, lens choice, focal length, depth‑of‑field behavior, framing geometry, and intended emotional impact. Provide lighting instructions for each shot: key light direction, fill sources, reflections from wet surfaces, industrial fluorescents, natural daylight, and how water droplets or foam should be lit. Add movement notes: tracking direction, panning behavior, tilt usage, and how camera motion interacts with the model’s actions. Include environmental integration: how to position the model relative to cars, hoses, drains, beams, puddles, and reflective surfaces. Finish with continuity guidelines to ensure visual consistency across the entire sequence.”

@@ -1,0 +1,5 @@
+# 🎥 Prompt to Create a Production‑Ready Shot List (Angles, Lenses, Lighting)
+
+## Prompt:
+
+“Create a production‑ready shot list for this photoshoot. Include a structured sequence of all required shots: close‑ups, medium portraits, full‑body poses, wide environmental frames, dynamic action shots, and detail inserts. For each shot, specify the exact camera angle (height, tilt, direction), lens choice (focal length, perspective behavior), depth‑of‑field strategy, and framing geometry. Provide lighting instructions for each shot: key light placement, fill sources, rim lighting, reflections from wet surfaces, industrial fluorescents, natural daylight, and how water droplets, foam, or mist should be illuminated. Include notes on shutter speed for motion, exposure strategy, color temperature, and how to maintain continuity across the entire sequence. Add environmental integration guidelines: how to position the model relative to cars, hoses, drains, beams, puddles, and reflective surfaces. The shot list should function as a complete technical blueprint for photographers and cinematographers.”

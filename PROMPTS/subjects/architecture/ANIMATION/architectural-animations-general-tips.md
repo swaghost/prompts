@@ -541,6 +541,35 @@ Modern luxury house emerging from holographic projection, slow orbital camera mo
 
 ---
 
+### Dual-Reference Assembly
+
+**Advanced Technique for Photorealistic Landmark Reveals:**
+
+This specialized approach uses two reference images instead of text-only prompts:
+
+- **Reference 1:** Empty site with structure removed (0s mark)
+- **Reference 2:** Complete structure in place (6s mark)
+- **Platform:** Omni Flash (pollo.ai) or similar dual-reference generators
+- **Method:** Discrete component assembly (not morphing)
+
+**Key Benefits:**
+
+- Photorealistic accuracy (anchored to actual photography)
+- Precise camera lock (no unwanted perspective shifts)
+- Environment consistency (background stays frozen)
+- Physical realism (micro-impact vibrations on landings)
+
+**Best For:**
+
+- World-famous landmarks (Eiffel Tower, Colosseum, etc.)
+- Existing structures with high-quality photography
+- Tourism marketing requiring photographic authenticity
+- Scenarios where morphing/cross-fading looks unrealistic
+
+**See:** [Landmark Reveal Animation Guide](architectural-landmark-reveal-animation.md) for complete workflow
+
+---
+
 ## Storytelling Through Animation
 
 ### Narrative Structure
@@ -689,6 +718,7 @@ Test one variable at a time:
 - [Holographic Transformation](architectural-animations-holographic-transformation.md) - Digital to real
 - [Construction Timelapse](architectural-animations-construction-timelapse.md) - Realistic building
 - [Particle Transformation](architectural-animations-particle-transformation.md) - Creative abstract
+- [Landmark Reveal](architectural-landmark-reveal-animation.md) - Iconic structures dual-reference assembly
 
 ---
 
