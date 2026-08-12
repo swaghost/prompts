@@ -1,0 +1,3 @@
+# 🌀 Hurricane Weather — Photorealistic Prompt
+
+Photorealistic coastal scene under violent hurricane conditions, with a dark, spiraling cloud canopy overhead and chaotic, fast‑moving low clouds racing across the sky. The ocean is wild and storm‑tossed, with massive waves crashing against flooded shoreline structures. Lighting is dim and bluish‑gray, with brief breaks of harsh, directional light filtering through the rotating storm bands. In the background, the eye wall of a massive hurricane is visible — a towering circular formation of dense clouds rotating with immense force. The atmosphere feels overwhelming, cinematic, and intensely realistic.

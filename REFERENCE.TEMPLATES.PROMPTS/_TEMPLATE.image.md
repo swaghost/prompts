@@ -14,6 +14,10 @@
 
 [Optional third sentence: Unique characteristics or creative opportunities] This prompt excels at [specific strength] while maintaining [quality aspect] for [desired outcome].
 
+## Engines/Models
+
+[Make sure to remember what engines, platforms or models this was orginally applied to, and store any special details that might effective a future reuse.]
+
 ## Actor or Subject
 
 [Brief summary of what people or objects are the primary subject of this image.]

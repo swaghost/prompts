@@ -14,6 +14,10 @@
 
 [Optional third sentence if needed: Additional context or unique selling points]
 
+## Engines/Models
+
+[Make sure to remember what engines, platforms or models this was orginally applied to, and store any special details that might effective a future reuse.]
+
 ## Prerequisites / Dependencies
 
 [List required images, references, or storyboards needed to generate this sequence]
