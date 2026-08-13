@@ -3,6 +3,7 @@
 Transform uploaded images into cinematic AI video using line-drawing path control. The camera follows a drawn path through the scene in one continuous shot.
 
 ## Platform
+
 - **AI Video**: deevid.ai/app
 - **Model**: Master V4.5 (Seedance 2.5)
 - **Aspect Ratio**: 16:9
@@ -13,6 +14,7 @@ Transform uploaded images into cinematic AI video using line-drawing path contro
 **Step 1:** Download or generate your image of the Trojan War scene.
 
 **Step 2:** Draw the camera path directly on the image:
+
 - Use a bright contrasting color line
 - Mark the start point clearly
 - Draw the continuous path the camera should follow
@@ -28,9 +30,9 @@ Transform uploaded images into cinematic AI video using line-drawing path contro
 The camera continuously moves forward, following the path marked on the reference image.
 (@Image)
 
-30 seconds, 16:9 landscape, 720P, 24fps, native cinematic ambience. Fictional late-Bronze-Age Trojan War epic, circa 12th century BCE: ultra-realistic live-action historical cinema, IMAX scale, 35mm lens, natural light, real depth of field, sea mist, dust, humid air, weathered wood, bronze and stone, never game CG or animation. Mycenaean Greek and Trojan aesthetics only: oared wooden warships, bronze armour, leather gear, linen clothing, bronze weapons, wooden shields, wooden carts and massive stone walls. 
+30 seconds, 16:9 landscape, 720P, 24fps, native cinematic ambience. Fictional late-Bronze-Age Trojan War epic, circa 12th century BCE: ultra-realistic live-action historical cinema, IMAX scale, 35mm lens, natural light, real depth of field, sea mist, dust, humid air, weathered wood, bronze and stone, never game CG or animation. Mycenaean Greek and Trojan aesthetics only: oared wooden warships, bronze armour, leather gear, linen clothing, bronze weapons, wooden shields, wooden carts and massive stone walls.
 
-ONE CONTINUOUS SHOT / SINGLE TAKE: no cuts, jumps or teleportation. 
+ONE CONTINUOUS SHOT / SINGLE TAKE: no cuts, jumps or teleportation.
 
 Continuous route: sea paddle → defeated retreating fleet → coast battlefield → Troy gate → one giant horse enters city from rear → celebration → inside same giant horse.
 

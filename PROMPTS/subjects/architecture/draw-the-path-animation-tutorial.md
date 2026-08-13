@@ -26,10 +26,12 @@ You take a still image (painting, photo, panorama) and draw a line on it — the
 ### Two Types of Movement
 
 **1. Frozen Scene**
+
 - Painting/statue stays motionless, ONLY camera moves (orbit, spiral, flythrough)
 - Used for: Kateryna, Motherland Monument, Lviv
 
 **2. Moving Character**
+
 - Scene has a living object (cat) that moves along the route, camera follows
 - People can react
 - Used for: Classics + Cat case
@@ -37,14 +39,17 @@ You take a still image (painting, photo, panorama) and draw a line on it — the
 ### General Workflow
 
 **STEP 1**: Prepare image
+
 - Take existing painting/photo in high quality, or generate frame for your concept
 
 **STEP 2**: Draw camera path
+
 - In any editor (Preview, Canva, Paint, phone markup)
 - Draw one continuous line
 - Mark start with a bold dot and direction arrows along the path
 
 **STEP 3**: Insert prompt and generate
+
 - Upload marked image to generator
 - Insert ready prompt from this guide
 - Launch
@@ -66,10 +71,12 @@ You take a still image (painting, photo, panorama) and draw a line on it — the
 ### Step by Step
 
 **STEP 1: Image**
+
 - Take high-quality painting reproduction
 - Save clean file separately (needed if line needs redrawing)
 
 **STEP 2: Draw orbit arc**
+
 - Start dot: bottom-right of figure
 - Draw arc around figure — right, behind back, exit left (almost a circle)
 - Direction arrows along path
@@ -77,6 +84,7 @@ You take a still image (painting, photo, panorama) and draw a line on it — the
 - Color: neon-green or cyan (NOT magenta/red — will blend with red skirt and ribbons)
 
 **STEP 3: Insert prompt and generate**
+
 - Duration: 8 seconds (270° cannot be shorter — camera will rush and distort)
 
 ### Hardest Part
@@ -122,15 +130,18 @@ AUDIO: no music, foley only — faint steppe wind, distant birds, soft rustle of
 ### Step by Step
 
 **STEP 1: Image**
+
 - Photo of statue at full height, with space around (sky, city below)
 
 **STEP 2: Draw spiral**
+
 - Start dot: bottom near pedestal
 - Draw line as helix upward — wrap statue: skirt → waist → chest → shoulders → face
 - Finish arrow at face level
 - Color: gold, white or neon — main thing is contrast with metal and sky
 
 **STEP 3: Insert prompt and generate**
+
 - Duration: 8–10 seconds (full spiral bottom-up 8s minimum; if cramped, set to 10)
 
 ### Key for Spiral
@@ -172,9 +183,11 @@ AUDIO: no music, foley only — high wind at altitude, faint distant city hum, s
 ### Step by Step
 
 **STEP 1: Image**
+
 - Aerial photo or generated panorama of Lviv from above (roofs, Town Hall, domes, High Castle hill in distance)
 
 **STEP 2: Draw flight route**
+
 - Start dot: bottom over near roofs
 - Draw winding line through city: past Town Hall tower → over roofs → up to horizon
 - Smooth arcs, not sharp angles
@@ -182,6 +195,7 @@ AUDIO: no music, foley only — high wind at altitude, faint distant city hum, s
 - Color: red or neon — contrast with warm roofs
 
 **STEP 3: Insert prompt and generate**
+
 - Duration: 8–10 seconds for long route (5s cannot fit long line — will cause cut)
 
 ### If Mid-Frame Cut (Jump)
@@ -227,16 +241,19 @@ Requires TWO images: clean frame + frame with route.
 ### Step by Step
 
 **STEP 1: Generate starting frame**
+
 - Frame must be designed for movement: cat large in foreground with back to camera, camera at its level, five classics arranged in S-shaped path
 - Prompt for frame generation below (separate)
 
 **STEP 2: Save clean frame + draw route**
+
 - Save clean frame separately (this is image_1)
 - On copy, draw cat's route: start dot on cat → past Shevchenko's boot → onto Franko's desk → past Hrushevsky's table → to Lesia → finish arrow at Krushelnytska by piano (this is image_2)
 - Draw line low (along floor, furniture legs, dress edges), not through faces
 - Color: yellow/green
 
 **STEP 3: Insert video prompt with two frames**
+
 - Upload image_1 (clean) + image_2 (with line)
 - Insert video prompt below
 - Format 3:4
@@ -305,45 +322,55 @@ AUDIO: no music, foley only — soft cat footsteps and landings, page turning, g
 ### Common Problems and Fixes
 
 **• Drawn line stayed in video**
+
 - Redraw with color not in frame (neon-green/cyan)
 - Move line prohibition to start of prompt and duplicate in NEGATIVE
 - Make line thinner
 
 **• Camera just goes up-down, doesn't orbit**
+
 - Your line is arc/loop above scene, model reads only vertical
 - Redraw as arc FROM THE SIDE around object
 - In prompt: "PRIMARY motion is horizontal orbit, NOT vertical"
 
 **• Mid-frame cut / jump**
+
 - Route too long for time
 - Simplify line (fewer nodes, wider arcs) or increase duration
 - "ONE SINGLE UNBROKEN TAKE" block already in prompt
 
 **• Face/back drift during orbit**
+
 - Camera went behind, back doesn't exist in painting
 - Reduce arc angle, or give more time (10s)
 - "build the back once and keep it stable" block
 
 **• Spiral "sags" or breaks apart**
+
 - Model splits helix into rotation+climb separately
 - Keep line "BOTH climbs and orbits at the same time" and "never descends, never stalls"
 
 **• Cat just walks, doesn't jump**
+
 - Describe ACTIONS in words at each node (JUMPS UP, WALKS ALONG)
 - Line alone doesn't set actions — only sequence
 
 **• People frozen, don't react**
+
 - Add "THE PEOPLE ARE ALIVE AND REACT" + reaction description for each (turns head, reaches hand to cat)
 
 **• Object "hangs" in air (vehicle/character)**
+
 - Triple emphasize it moves itself ("keeps moving, never hovers")
 - Add to NEGATIVE "no frozen, no floating"
 
 **• Style drifted to cartoon**
+
 - At start of prompt hard: "photorealistic, NOT animated, NOT cartoon, NOT 3D"
 - Add "35mm film, realistic photography"
 
 **• Too dark/depressive frame**
+
 - In frame generation prompt: "BRIGHT SUNNY DAYTIME, high-key, cheerful"
 - Direct negation "NOT dark, NOT moody, NOT gloomy"
 
