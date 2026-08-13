@@ -11,6 +11,12 @@
 
 ---
 
+> **📋 Quick Access:** Looking for the ready-to-use base prompt? See **[CINEMATIC-FASHION-PORTRAIT-RAILROAD-DESERT-BASE.md](CINEMATIC-FASHION-PORTRAIT-RAILROAD-DESERT-BASE.md)** for the complete standalone prompt.
+>
+> This guide provides comprehensive instruction on methodology, technique, and variations for creating cinematic fashion portraits.
+
+---
+
 ## TABLE OF CONTENTS
 
 1. [Overview & Core Concept](#overview--core-concept)
@@ -173,6 +179,9 @@ Every cinematic fashion portrait uses this hierarchical structure:
 ---
 
 ## COMPLETE BASE PROMPT
+
+> **📄 Standalone File Available:** This complete base prompt is also available as a ready-to-use file:  
+> **[CINEMATIC-FASHION-PORTRAIT-RAILROAD-DESERT-BASE.md](CINEMATIC-FASHION-PORTRAIT-RAILROAD-DESERT-BASE.md)**
 
 ### The Desert Railroad Portrait (Master Template)
 
