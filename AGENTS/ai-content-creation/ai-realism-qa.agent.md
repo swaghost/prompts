@@ -3138,6 +3138,331 @@ Hands are the #1 AI failure point. Requirements:
 
 ---
 
+## Visual Realism Red Flags: The Uncanny Valley Indicators
+
+**Core Truth:** AI doesn't convince people. Perception does. If an image doesn't make you feel something—it's wallpaper, not communication.
+
+**The Gap:** The biggest gap. And hardest to fake. Real visuals transmit feeling. AI generates "neutral pleasant." That reads as nothing. Empty.
+
+### The 8 Critical Inspection Points
+
+Before approving any AI-generated visual content, systematically check these 8 indicators. These are where the human brain instantly detects fakeness—consciously or subconsciously.
+
+---
+
+#### 1. Uncanny Recognition
+
+**The Test:**
+Show someone an AI image. Don't tell them it's AI. Watch their eyes. There's always a micro-pause. "Wait, something's..." They can't name it. But their brain flags it anyway.
+
+**What to Look For:**
+- **The Subtle Wrongness:** Details that most people don't consciously process
+- **Not Obvious Glitches:** Magazine-retouched perfect = everyone's first tell
+- **Not Melted Hands:** Subtle wrongness in details like positioning, lighting, material behavior
+- **Realism Lives in Invisible Signals:** The micro-details that feel "off" even when everything looks technically correct
+
+**How to QA:**
+1. Show the image to someone unfamiliar with the project
+2. Don't mention it's AI-generated
+3. Watch for the pause, the squint, the "something feels weird"
+4. If they pause—find what triggered it and fix it
+
+**Common Triggers:**
+- Perfect symmetry where nature is asymmetric
+- Too-even lighting across a complex scene
+- Dead uniform eyes that don't reflect surroundings
+- Slight asymmetry in eye direction or size
+
+---
+
+#### 2. Skin Texture
+
+**The Reality:**
+Perfect porcelain skin screams "tender." Real skin faces are messy up close.
+
+**What Natural Skin Has:**
+- **Visible Pores:** Especially on nose, cheeks, forehead
+- **Color Variation:** Not uniform tone—slight redness, shadows, uneven pigmentation
+- **Light Reflections:** Some areas shine slightly (oiliness), others absorb (texture)
+- **Minor Blemishes:** Freckles, small spots, fine lines, natural marks
+- **It Looks Magazine-Retouched Perfect:** That's your tell. Real faces are messy up close.
+
+**AI's Default Mistake:**
+- Airbrushed smoothness
+- Uniform skin tone
+- No visible pores or texture
+- Looks like porcelain or wax
+- Perfect = Fake
+
+**How to Fix in Prompts:**
+```
+"Highly realistic skin texture with:
+- Visible pores and natural texture
+- Slight skin imperfections (minor blemishes, freckles, natural marks)
+- Natural color variation across face
+- Realistic light interaction showing some shine and some matte areas
+- NO airbrushing, NO beauty filter, NO artificial smoothing"
+```
+
+---
+
+#### 3. Lighting Barstyle
+
+**The Reality:**
+Good lighting isn't "technically" correct. It's what feels right. Natural light never feels perfectly even. It has character, direction, and mood.
+
+**What Real Lighting Has:**
+- **Uneven Distribution:** Natural light comes from direction and wraps around objects
+- **Shadow Depth:** Soft shadows in natural environments; hard shadows in artificial light
+- **Color Temperature Mix:** Multiple light sources = different color temperatures interact
+- **Atmosphere:** Sunlight has warmth, haze, golden hour glow; flat even lighting = 3D render look
+- **Not Photography:** Flat even lighting? That's 3D render logic. Not photography.
+
+**AI's Default Mistake:**
+- Perfectly even lighting across entire scene
+- No shadows or completely black shadows (no gradation)
+- Clinical, studio-lighting feel even in outdoor scene
+- No atmospheric haze or light scatter
+
+**How to Fix in Prompts:**
+```
+"Natural lighting with:
+- Directional light source (golden hour sunlight, window light, streetlight)
+- Realistic shadow gradation and depth
+- Atmospheric effects (slight haze, light scatter, warm glow)
+- Uneven light distribution showing light direction
+- NOT flat even studio lighting, NOT 3D render lighting
+- Photographic lighting with character and mood"
+```
+
+---
+
+#### 4. Eyes
+
+**The Reality:**
+This is where people feel it first. Real eyes contain life. Dead uniform eyes kill believability in under one second. Nothing else matters after that.
+
+**What Real Eyes Have:**
+- **Catchlights:** Reflections showing environment (windows, sky, lights)
+- **Iris Detail:** Complex patterns, color variation, depth
+- **Natural Moisture:** Subtle shine from eye surface wetness
+- **Irregular Reflections:** Each eye catches light slightly different
+- **Depth Inside Eye:** Not flat color—layers of color, blood vessels in white, depth to pupil
+- **Slight Asymmetry:** One eye might be marginally different position, size, or catch light differently
+
+**AI's Fatal Mistake:**
+- Flat, dead stare with no environmental reflections
+- Uniform color in iris (no detail or pattern)
+- Both eyes exactly identical (perfect symmetry = fake)
+- No moisture or shine
+- Missing or poorly rendered catchlights
+
+**How to Fix in Prompts:**
+```
+"Eyes with extreme realism:
+- Sharp catchlight reflections showing environment
+- Highly detailed iris with natural pattern and color variation
+- Realistic eye moisture and subtle shine
+- Natural asymmetry between left and right eye
+- Depth inside eyes (visible layers, not flat color)
+- Eyes showing life and emotion, NOT blank stare
+- Blood vessels visible in eye whites (subtle, not overdone)"
+
+CRITICAL: If eyes don't feel alive, the entire image fails.
+```
+
+---
+
+#### 5. Fabric + Material Physics
+
+**The Reality:**
+AI struggles with how materials behave under gravity and motion. When clothes look painted onto a body—your brain rejects it immediately.
+
+**What Real Materials Do:**
+- **Gravity Pulls Fabric:** Fabric hangs, drapes, bunches at joints
+- **Wrinkles Form:** Natural creases at elbows, knees, waist when seated
+- **Weight Matters:** Heavy fabrics (wool, denim) drape differently than light fabrics (linen, silk)
+- **Motion Creates Disturbance:** Clothes shift, lift, wrinkle when body moves
+- **Seams, Hems, Texture:** Fabric has detail—stitching, weave pattern, fraying edges
+
+**AI's Mistake:**
+- Fabric looks painted onto body (no draping)
+- Too smooth—no wrinkles or natural folding
+- Ignores gravity (dress floating oddly)
+- No detail in fabric texture (flat color)
+- Perfect symmetry in folds (real fabric wrinkles randomly)
+
+**How to Fix in Prompts:**
+```
+"Realistic fabric behavior:
+- Fabric drapes naturally under gravity
+- Natural wrinkles and folds at joints and pressure points
+- Visible fabric texture (weave pattern, stitching, hem detail)
+- Weight-appropriate draping (heavy vs light fabrics)
+- Fabric reacts to body movement and position
+- NOT painted-on look, NOT perfectly smooth
+- Realistic material physics"
+
+Check for: How fabric hangs when person sits, stands, moves. If it looks too perfect—it's wrong.
+```
+
+---
+
+#### 6. Color Temperature Mix
+
+**The Reality:**
+Real environments never have perfectly color-balanced light. Natural scenes contain multiple light sources at different color temperatures. Warm highlights + cool shadows = depth and realism.
+
+**What Real Color Temperature Does:**
+- **Warm Light + Cool Shadows:** Sunlight (warm) + sky-fill (cool) in shadows
+- **Color Shifts:** Sunset = warm orange highlights, cool blue shadows
+- **Not Evenly Color-Corrected:** Post-processing removes this—that's what makes it look artificial
+- **Environment Reflections:** Warm wood surfaces reflect warm light onto nearby objects; green grass reflects green tint
+
+**AI's Mistake:**
+- Perfectly color-balanced across entire scene (over-corrected)
+- All light sources same color temperature
+- No interplay between warm and cool tones
+- Looks like post-processed perfection = feels artificial
+
+**How to Fix in Prompts:**
+```
+"Natural color temperature variation:
+- Warm highlights (golden hour sunlight, warm interior light)
+- Cool shadows (sky-fill, ambient environment)
+- NOT perfectly color-balanced across scene
+- Natural color shifts showing multiple light sources
+- Environmental color reflections (green grass reflects green, warm wood reflects warm tones)
+- Realistic color temperature mix, NOT clinical perfection"
+
+Over-corrected perfect color balance = artificial. Real photography has warmth/cool interplay.
+```
+
+---
+
+#### 7. Camera Imperfection
+
+**The Reality:**
+Real cameras have physical limitations. That's what makes photos feel real. Clinical digital perfection triggers "this was rendered."
+
+**What Real Cameras Do:**
+- **Film Grain / Digital Noise:** Especially in shadows or low light
+- **Slight Depth-of-Field Blur:** Foreground or background slightly out of focus
+- **Lens Flare (Subtle):** When shooting toward light source
+- **Chromatic Aberration:** Slight color fringing at high-contrast edges
+- **Vignetting:** Edges of image slightly darker than center
+- **Motion Blur (If Action):** Moving elements show slight blur
+- **Focus Falloff:** NOT everything razor-sharp across entire image
+
+**AI's Mistake:**
+- Clinically perfect sharpness across entire image
+- No grain, no noise, no depth-of-field variation
+- Looks like 3D render with infinite depth of field
+- Too clean = computer-generated feeling
+
+**How to Fix in Prompts:**
+```
+"Photographic authenticity:
+- Subtle film grain or digital noise (realistic, not excessive)
+- Natural depth of field with background slightly out of focus
+- Slight imperfections (minor lens artifacts, subtle vignetting)
+- NOT clinically perfect sharpness everywhere
+- Photographic look with real camera characteristics
+- Authentic photography feel, NOT 3D render perfection"
+
+Add intentionally: "Shot on [camera model] with [lens]" to trigger photographic realism.
+```
+
+---
+
+#### 8. The Biggest Gap. And, Hardest to Fake.
+
+**The Ultimate Test:**
+Real visuals transmit feeling. AI generates "neutral pleasant." That reads as nothing. Empty.
+
+**The Emotional Resonance Check:**
+
+**Ask These Questions:**
+1. **Does it make you FEEL something?**
+   - Calm → Soft light, pastel tones, breathing space
+   - Tension → High contrast, tight crop, hard shadows
+   - Intimacy → Warm tones, shallow depth, close framing
+   - Luxury → Dramatic light, rich texture, precise composition
+
+2. **Or does it just exist?**
+   - If the image doesn't make you feel something—it's wallpaper, not communication
+   - "Neutral pleasant" = forgettable = wasted image
+   - AI's default is pleasant nothingness
+
+3. **Can you describe the mood without looking at the subject?**
+   - Lighting alone should convey emotion
+   - Composition should guide eye and create feeling
+   - Color temperature should evoke response
+
+**How to Engineer Emotion in Prompts:**
+
+**Calm:**
+```
+"Soft diffused lighting, pastel tones, breathing space, gentle shadows, serene atmosphere"
+```
+
+**Tension:**
+```
+"High contrast, tight crop, dramatic shadows, saturated colors, compressed framing"
+```
+
+**Intimacy:**
+```
+"Warm tones, shallow depth-of-field, close framing, soft focus background, golden hour light"
+```
+
+**Luxury:**
+```
+"Dramatic directional lighting, rich deep colors, precise composition, textural detail, elegant negative space"
+```
+
+**The Reality:**
+If an image doesn't make you feel something—it's wallpaper, not communication. AI generates neutral pleasant. That reads as nothing. Empty.
+
+**Before Approving ANY Image:**
+Show it to someone. Ask: "What do you feel?"
+- If they pause, analyze, think... it failed.
+- If they immediately say an emotion... it worked.
+
+---
+
+## Visual Realism QA Process
+
+**Step 1: The Gut Check**
+Show the image to someone who hasn't seen it. Don't say it's AI. Watch their reaction in the first 2 seconds.
+- Pause or squint? = Something's off (go to Step 2)
+- Immediate emotional response? = Passed (go to Step 3)
+
+**Step 2: Systematic Inspection**
+If gut check fails, systematically inspect all 8 indicators:
+1. Uncanny Recognition: What made them pause?
+2. Skin Texture: Magazine-perfect or realistically textured?
+3. Lighting: Flat and even, or directional with character?
+4. Eyes: Dead stare or alive with reflections?
+5. Fabric Physics: Painted on or naturally draped?
+6. Color Temperature: Perfectly balanced or naturally varied?
+7. Camera Imperfection: Clinically sharp or photographically real?
+8. Emotional Transmission: Does it make you FEEL something?
+
+**Step 3: The Emotion Test**
+Ask: "What emotion does this image make you feel?"
+- Clear immediate answer = Success
+- Confusion or "it's nice I guess" = Regenerate with emotional direction
+
+**Step 4: Context Match**
+Does the image solve the marketing problem?
+- Conversion? → Creates urgency without fear
+- Positioning? → Brand feels luxurious/accessible/innovative as intended
+- Audience? → Speaks directly to intended viewer
+- Emotion? → Triggers exact feeling you need
+
+---
+
 ## AI Visual Realism QA Checklist
 
 **Before using any AI-generated image, verify:**
