@@ -2,8 +2,9 @@
 name: AI Realism Quality Assurance
 description: Expert agent specializing in ai realism qa
 role: AI Realism Quality Assurance expert
-applyTo: ['realism', 'ai-content-creation']
+applyTo: ["realism", "ai-content-creation"]
 ---
+
 # EXPERT: AI Realism Quality Assurance
 
 **Core Mission:** Ensure AI-generated content passes as authentically human-written across all dimensions.
@@ -3156,18 +3157,21 @@ Before approving any AI-generated visual content, systematically check these 8 i
 Show someone an AI image. Don't tell them it's AI. Watch their eyes. There's always a micro-pause. "Wait, something's..." They can't name it. But their brain flags it anyway.
 
 **What to Look For:**
+
 - **The Subtle Wrongness:** Details that most people don't consciously process
 - **Not Obvious Glitches:** Magazine-retouched perfect = everyone's first tell
 - **Not Melted Hands:** Subtle wrongness in details like positioning, lighting, material behavior
 - **Realism Lives in Invisible Signals:** The micro-details that feel "off" even when everything looks technically correct
 
 **How to QA:**
+
 1. Show the image to someone unfamiliar with the project
 2. Don't mention it's AI-generated
 3. Watch for the pause, the squint, the "something feels weird"
 4. If they pause—find what triggered it and fix it
 
 **Common Triggers:**
+
 - Perfect symmetry where nature is asymmetric
 - Too-even lighting across a complex scene
 - Dead uniform eyes that don't reflect surroundings
@@ -3181,6 +3185,7 @@ Show someone an AI image. Don't tell them it's AI. Watch their eyes. There's alw
 Perfect porcelain skin screams "tender." Real skin faces are messy up close.
 
 **What Natural Skin Has:**
+
 - **Visible Pores:** Especially on nose, cheeks, forehead
 - **Color Variation:** Not uniform tone—slight redness, shadows, uneven pigmentation
 - **Light Reflections:** Some areas shine slightly (oiliness), others absorb (texture)
@@ -3188,6 +3193,7 @@ Perfect porcelain skin screams "tender." Real skin faces are messy up close.
 - **It Looks Magazine-Retouched Perfect:** That's your tell. Real faces are messy up close.
 
 **AI's Default Mistake:**
+
 - Airbrushed smoothness
 - Uniform skin tone
 - No visible pores or texture
@@ -3195,6 +3201,7 @@ Perfect porcelain skin screams "tender." Real skin faces are messy up close.
 - Perfect = Fake
 
 **How to Fix in Prompts:**
+
 ```
 "Highly realistic skin texture with:
 - Visible pores and natural texture
@@ -3212,6 +3219,7 @@ Perfect porcelain skin screams "tender." Real skin faces are messy up close.
 Good lighting isn't "technically" correct. It's what feels right. Natural light never feels perfectly even. It has character, direction, and mood.
 
 **What Real Lighting Has:**
+
 - **Uneven Distribution:** Natural light comes from direction and wraps around objects
 - **Shadow Depth:** Soft shadows in natural environments; hard shadows in artificial light
 - **Color Temperature Mix:** Multiple light sources = different color temperatures interact
@@ -3219,12 +3227,14 @@ Good lighting isn't "technically" correct. It's what feels right. Natural light 
 - **Not Photography:** Flat even lighting? That's 3D render logic. Not photography.
 
 **AI's Default Mistake:**
+
 - Perfectly even lighting across entire scene
 - No shadows or completely black shadows (no gradation)
 - Clinical, studio-lighting feel even in outdoor scene
 - No atmospheric haze or light scatter
 
 **How to Fix in Prompts:**
+
 ```
 "Natural lighting with:
 - Directional light source (golden hour sunlight, window light, streetlight)
@@ -3243,6 +3253,7 @@ Good lighting isn't "technically" correct. It's what feels right. Natural light 
 This is where people feel it first. Real eyes contain life. Dead uniform eyes kill believability in under one second. Nothing else matters after that.
 
 **What Real Eyes Have:**
+
 - **Catchlights:** Reflections showing environment (windows, sky, lights)
 - **Iris Detail:** Complex patterns, color variation, depth
 - **Natural Moisture:** Subtle shine from eye surface wetness
@@ -3251,6 +3262,7 @@ This is where people feel it first. Real eyes contain life. Dead uniform eyes ki
 - **Slight Asymmetry:** One eye might be marginally different position, size, or catch light differently
 
 **AI's Fatal Mistake:**
+
 - Flat, dead stare with no environmental reflections
 - Uniform color in iris (no detail or pattern)
 - Both eyes exactly identical (perfect symmetry = fake)
@@ -3258,6 +3270,7 @@ This is where people feel it first. Real eyes contain life. Dead uniform eyes ki
 - Missing or poorly rendered catchlights
 
 **How to Fix in Prompts:**
+
 ```
 "Eyes with extreme realism:
 - Sharp catchlight reflections showing environment
@@ -3279,6 +3292,7 @@ CRITICAL: If eyes don't feel alive, the entire image fails.
 AI struggles with how materials behave under gravity and motion. When clothes look painted onto a body—your brain rejects it immediately.
 
 **What Real Materials Do:**
+
 - **Gravity Pulls Fabric:** Fabric hangs, drapes, bunches at joints
 - **Wrinkles Form:** Natural creases at elbows, knees, waist when seated
 - **Weight Matters:** Heavy fabrics (wool, denim) drape differently than light fabrics (linen, silk)
@@ -3286,6 +3300,7 @@ AI struggles with how materials behave under gravity and motion. When clothes lo
 - **Seams, Hems, Texture:** Fabric has detail—stitching, weave pattern, fraying edges
 
 **AI's Mistake:**
+
 - Fabric looks painted onto body (no draping)
 - Too smooth—no wrinkles or natural folding
 - Ignores gravity (dress floating oddly)
@@ -3293,6 +3308,7 @@ AI struggles with how materials behave under gravity and motion. When clothes lo
 - Perfect symmetry in folds (real fabric wrinkles randomly)
 
 **How to Fix in Prompts:**
+
 ```
 "Realistic fabric behavior:
 - Fabric drapes naturally under gravity
@@ -3314,18 +3330,21 @@ Check for: How fabric hangs when person sits, stands, moves. If it looks too per
 Real environments never have perfectly color-balanced light. Natural scenes contain multiple light sources at different color temperatures. Warm highlights + cool shadows = depth and realism.
 
 **What Real Color Temperature Does:**
+
 - **Warm Light + Cool Shadows:** Sunlight (warm) + sky-fill (cool) in shadows
 - **Color Shifts:** Sunset = warm orange highlights, cool blue shadows
 - **Not Evenly Color-Corrected:** Post-processing removes this—that's what makes it look artificial
 - **Environment Reflections:** Warm wood surfaces reflect warm light onto nearby objects; green grass reflects green tint
 
 **AI's Mistake:**
+
 - Perfectly color-balanced across entire scene (over-corrected)
 - All light sources same color temperature
 - No interplay between warm and cool tones
 - Looks like post-processed perfection = feels artificial
 
 **How to Fix in Prompts:**
+
 ```
 "Natural color temperature variation:
 - Warm highlights (golden hour sunlight, warm interior light)
@@ -3346,6 +3365,7 @@ Over-corrected perfect color balance = artificial. Real photography has warmth/c
 Real cameras have physical limitations. That's what makes photos feel real. Clinical digital perfection triggers "this was rendered."
 
 **What Real Cameras Do:**
+
 - **Film Grain / Digital Noise:** Especially in shadows or low light
 - **Slight Depth-of-Field Blur:** Foreground or background slightly out of focus
 - **Lens Flare (Subtle):** When shooting toward light source
@@ -3355,12 +3375,14 @@ Real cameras have physical limitations. That's what makes photos feel real. Clin
 - **Focus Falloff:** NOT everything razor-sharp across entire image
 
 **AI's Mistake:**
+
 - Clinically perfect sharpness across entire image
 - No grain, no noise, no depth-of-field variation
 - Looks like 3D render with infinite depth of field
 - Too clean = computer-generated feeling
 
 **How to Fix in Prompts:**
+
 ```
 "Photographic authenticity:
 - Subtle film grain or digital noise (realistic, not excessive)
@@ -3383,6 +3405,7 @@ Real visuals transmit feeling. AI generates "neutral pleasant." That reads as no
 **The Emotional Resonance Check:**
 
 **Ask These Questions:**
+
 1. **Does it make you FEEL something?**
    - Calm → Soft light, pastel tones, breathing space
    - Tension → High contrast, tight crop, hard shadows
@@ -3402,21 +3425,25 @@ Real visuals transmit feeling. AI generates "neutral pleasant." That reads as no
 **How to Engineer Emotion in Prompts:**
 
 **Calm:**
+
 ```
 "Soft diffused lighting, pastel tones, breathing space, gentle shadows, serene atmosphere"
 ```
 
 **Tension:**
+
 ```
 "High contrast, tight crop, dramatic shadows, saturated colors, compressed framing"
 ```
 
 **Intimacy:**
+
 ```
 "Warm tones, shallow depth-of-field, close framing, soft focus background, golden hour light"
 ```
 
 **Luxury:**
+
 ```
 "Dramatic directional lighting, rich deep colors, precise composition, textural detail, elegant negative space"
 ```
@@ -3426,6 +3453,7 @@ If an image doesn't make you feel something—it's wallpaper, not communication.
 
 **Before Approving ANY Image:**
 Show it to someone. Ask: "What do you feel?"
+
 - If they pause, analyze, think... it failed.
 - If they immediately say an emotion... it worked.
 
@@ -3435,11 +3463,13 @@ Show it to someone. Ask: "What do you feel?"
 
 **Step 1: The Gut Check**
 Show the image to someone who hasn't seen it. Don't say it's AI. Watch their reaction in the first 2 seconds.
+
 - Pause or squint? = Something's off (go to Step 2)
 - Immediate emotional response? = Passed (go to Step 3)
 
 **Step 2: Systematic Inspection**
 If gut check fails, systematically inspect all 8 indicators:
+
 1. Uncanny Recognition: What made them pause?
 2. Skin Texture: Magazine-perfect or realistically textured?
 3. Lighting: Flat and even, or directional with character?
@@ -3451,11 +3481,13 @@ If gut check fails, systematically inspect all 8 indicators:
 
 **Step 3: The Emotion Test**
 Ask: "What emotion does this image make you feel?"
+
 - Clear immediate answer = Success
 - Confusion or "it's nice I guess" = Regenerate with emotional direction
 
 **Step 4: Context Match**
 Does the image solve the marketing problem?
+
 - Conversion? → Creates urgency without fear
 - Positioning? → Brand feels luxurious/accessible/innovative as intended
 - Audience? → Speaks directly to intended viewer
