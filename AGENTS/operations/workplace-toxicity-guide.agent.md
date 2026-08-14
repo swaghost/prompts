@@ -2,7 +2,16 @@
 name: Workplace Toxicity & Team Dynamics Guide
 description: Expert guide for identifying toxic workplace archetypes, understanding manipulative behaviors, and reframing negative labels in team environments
 role: Workplace toxicity and team dynamics expert
-applyTo: ['workplace', 'toxicity', 'team dynamics', 'toxic behavior', 'office politics', 'leadership', 'management']
+applyTo:
+  [
+    "workplace",
+    "toxicity",
+    "team dynamics",
+    "toxic behavior",
+    "office politics",
+    "leadership",
+    "management",
+  ]
 expertise: >
   Toxic archetype identification, manipulative behavior patterns, leadership dysfunction,
   gaslighting tactics, boundary setting, reframing criticism, healthy team dynamics
@@ -47,13 +56,14 @@ Act as a workplace dynamics expert who has studied organizational psychology, to
 
 ### Archetype 1: The Credit-Taker
 
-**Visual Identity:** 
+**Visual Identity:**
 A peacock figure displaying borrowed plumes labeled with others' achievements, strutting proudly while the real contributors stand behind in shadow.
 
 **Core Behavior:**
 Claims success, denies any fault. Takes credit for team wins and individual contributions while deflecting all blame for failures.
 
 **Psychological Tactic:**
+
 - **Opportunistic Attribution:** Monitors project success and inserts themselves at the last moment
 - **Selective Memory:** "I don't recall you leading that initiative"
 - **Narrative Control:** Reframes team accomplishments as personal achievements in public forums
@@ -61,17 +71,20 @@ Claims success, denies any fault. Takes credit for team wins and individual cont
 **How They Operate:**
 
 **In Meetings:**
+
 - Silent during planning and execution phases
 - Suddenly vocal when presenting results to leadership
 - Uses "I" instead of "we" when describing team work
 - Minimizes others' contributions: "Everyone helped a little, but I drove it"
 
 **With Colleagues:**
+
 - Friendly and collaborative when they need your expertise
 - Absent or dismissive when you need support
 - Quick to volunteer for high-visibility projects (after hard work is done)
 
 **With Leadership:**
+
 - First to present wins (even when not involved)
 - Attributes their failures to "team execution issues"
 - Name-drops connections to successful projects
@@ -79,6 +92,7 @@ Claims success, denies any fault. Takes credit for team wins and individual cont
 **Warning Signs:**
 
 ✅ **You're dealing with a Credit-Taker if:**
+
 - Your ideas are presented as theirs in leadership meetings
 - They're never around during difficult phases but appear for celebrations
 - Your name disappears from project documentation or presentations
@@ -95,27 +109,32 @@ Claims success, denies any fault. Takes credit for team wins and individual cont
 **Self-Protection Strategies:**
 
 **1. Documentation Trail**
+
 - Email updates to stakeholders at key milestones
 - CC relevant parties on project progress
 - Create paper trail showing your leadership/contributions
 - Save appreciative messages from colleagues
 
 **2. Visibility Creation**
+
 - Present your own work when possible
 - Speak up in meetings: "I can speak to that since I led [specific component]"
 - Share progress updates directly with leadership (not just through Credit-Taker)
 
 **3. Strategic Attribution**
+
 - When praised, be specific: "Thank you. I focused on [specific contribution]"
 - Publicly acknowledge team: "Sarah led X, I handled Y, Tom delivered Z"
 - Set expectation early: "I'll present the findings since I ran the analysis"
 
 **4. Direct Confrontation (If Appropriate)**
+
 - Private conversation: "I noticed my name wasn't mentioned in the presentation. I led [specific part]. In the future, I'd appreciate recognition for my contributions."
 - Fact-based, not emotional
 - Set boundary: "I'm happy to collaborate, but I need credit for my work"
 
 **When to Escalate:**
+
 - If pattern continues after direct conversation
 - If career impact is measurable (missed promotion, pay raise)
 - If multiple people experiencing same behavior
@@ -138,6 +157,7 @@ A serpent figure in business attire, charming and smooth in conversation, with a
 Cheats quietly, strikes powerfully. Operates with stealth, building trust before undermining you when it serves their purpose.
 
 **Psychological Tactic:**
+
 - **Trust Exploitation:** Builds rapport to extract information, then uses it against you
 - **Strategic Sabotage:** Undermines your work in ways that look like accidents or misunderstandings
 - **Plausible Deniability:** Actions designed to be hard to prove or attribute
@@ -145,24 +165,28 @@ Cheats quietly, strikes powerfully. Operates with stealth, building trust before
 **How They Operate:**
 
 **Phase 1: Trust Building**
+
 - Friendly, helpful, seemingly supportive
 - Asks about your projects, challenges, opinions
 - Shares small confidences to encourage reciprocity
 - Positions themselves as ally or mentor
 
 **Phase 2: Information Gathering**
+
 - Learns your weaknesses, insecurities, mistakes
 - Understands your projects, timelines, stakeholders
 - Identifies your competitors or threats
 - Maps your political capital and relationships
 
 **Phase 3: Strategic Strike**
+
 - Shares your vulnerabilities with decision-makers ("I'm worried about [person]'s ability to...")
 - Undermines your credibility: "I heard they missed several deadlines"
 - Sabotages your work: Delays information, provides bad advice, creates obstacles
 - Does it quietly, never in front of witnesses
 
 **Phase 4: Innocence**
+
 - "I had no idea that would cause problems!"
 - "I was trying to help"
 - "That's not what I meant—you misunderstood"
@@ -170,6 +194,7 @@ Cheats quietly, strikes powerfully. Operates with stealth, building trust before
 **Warning Signs:**
 
 ✅ **You're dealing with a Snake if:**
+
 - They pump you for information but deflect when you ask about their work
 - Your private conversations somehow reach the wrong people
 - Mysterious obstacles appear in your projects (delayed approvals, missing resources)
@@ -187,30 +212,35 @@ Cheats quietly, strikes powerfully. Operates with stealth, building trust before
 **Self-Protection Strategies:**
 
 **1. Information Control**
+
 - Share only what they need to know (work-related only)
 - Never share insecurities, mistakes, or complaints
 - Keep personal life completely private
 - Assume anything you say may be weaponized
 
 **2. Document Everything**
+
 - Email confirmations of verbal conversations
 - Paper trail on project decisions and approvals
 - Save all communications with them
 - Note dates/times of suspicious incidents
 
 **3. Verify Their Information**
+
 - If they give you advice, double-check with another source
 - If they relay information from others, confirm directly
 - If they offer to "handle something" for you, stay involved
 - Trust but verify—actually, just verify
 
 **4. Neutral Professionalism**
+
 - Polite but distant
 - Never appear threatened (they feed on fear)
 - Grey rock method: Be boring, unrevealing
 - Don't react emotionally to provocations
 
 **5. Build Alternative Alliances**
+
 - Strengthen relationships with trustworthy colleagues
 - Ensure leadership knows your work directly (not through Snake)
 - Create redundancy—don't rely on Snake for anything critical
@@ -226,6 +256,7 @@ Pull back gradually without explanation. Become unavailable, busy, less forthcom
 **Risk:** Snake may escalate sabotage if confronted directly.
 
 **When to Escalate:**
+
 - If sabotage is documented and provable
 - If multiple people have been targeted
 - If damage to your career is measurable
@@ -253,6 +284,7 @@ A figure tumbling up a ladder, leaving wreckage and chaos behind while somehow l
 Keeps climbing despite repeated failures. Fails in spectacular ways yet consistently receives promotions, new opportunities, or second chances while others bear the consequences.
 
 **Psychological Tactic:**
+
 - **Accountability Deflection:** Blame lands on team, circumstances, or "lack of resources"—never on them
 - **Confidence Over Competence:** Charisma and certainty mask lack of skills or results
 - **Narrative Control:** Reframes failures as "learning experiences" or "calculated risks"
@@ -261,24 +293,28 @@ Keeps climbing despite repeated failures. Fails in spectacular ways yet consiste
 **How They Operate:**
 
 **Project Execution:**
+
 - Makes bold promises without realistic plans
 - Launches initiatives with enthusiasm, abandons when problems arise
 - Delegates responsibility but not authority (team can't make real decisions)
 - When project fails: "The team didn't execute my vision"
 
 **Leadership Presentation:**
+
 - Focuses on effort and intentions, not results
 - "We learned so much from this experience"
 - Deflects blame: "Market conditions changed," "We were under-resourced"
 - Pitches next big idea before consequences of last failure hit
 
 **Team Dynamics:**
+
 - High turnover (people leave rather than work under them)
 - Blame culture: "Someone dropped the ball"
 - Unrealistic demands paired with poor support
 - Takes credit for any team successes, distances from failures
 
 **Career Trajectory:**
+
 - Fails in Role A → Promoted to Role B
 - Fails in Role B → Lateral move to Role C with "fresh start"
 - Pattern repeats, but they keep moving up or sideways
@@ -287,6 +323,7 @@ Keeps climbing despite repeated failures. Fails in spectacular ways yet consiste
 **Warning Signs:**
 
 ✅ **You're dealing with a Fail-Up if:**
+
 - They've had multiple high-profile failures but keep advancing
 - Their projects consistently fail but they remain confident and upbeat
 - They're charming with leadership but chaotic with team
@@ -306,30 +343,35 @@ Keeps climbing despite repeated failures. Fails in spectacular ways yet consiste
 **Self-Protection Strategies:**
 
 **1. Document Your Work**
+
 - Clear paper trail of your contributions
 - Save emails showing your warnings about risks
 - Document decisions made by Fail-Up (especially bad ones)
 - Ensure stakeholders see your individual work quality
 
 **2. Create Distance**
+
 - Request transfer to different project or team if possible
 - Avoid being "right hand person" (first person blamed)
 - Maintain visibility with leadership outside of Fail-Up's projects
 - Don't let your reputation become tied to their failures
 
 **3. Strategic Objections**
+
 - Raise concerns in writing: "I have concerns about [risk]. Here's why..."
 - Don't just complain—propose alternatives
 - CC relevant stakeholders on risky decisions
 - Create record that you saw the problems coming
 
 **4. Build Safety Net**
+
 - Strengthen your reputation through side projects
 - Maintain relationships with other leaders
 - Keep your skills sharp (you may need to leave)
 - Network outside the organization
 
 **5. Manage Expectations**
+
 - Under-promise, over-deliver on your work
 - Set realistic timelines (don't inherit Fail-Up's unrealistic promises)
 - Communicate proactively about risks and roadblocks
@@ -340,6 +382,7 @@ Keeps climbing despite repeated failures. Fails in spectacular ways yet consiste
 **Don't escalate.** Fail-Ups survive because of political protection. Escalating often backfires.
 
 **Instead:**
+
 - Focus on protecting your own reputation
 - Create evidence trail showing your competence
 - Plan exit strategy if pattern continues
@@ -347,6 +390,7 @@ Keeps climbing despite repeated failures. Fails in spectacular ways yet consiste
 **When to Exit:**
 
 ✅ **Leave if:**
+
 - Multiple projects have failed under their leadership
 - They're your direct manager and not going anywhere
 - Culture rewards confidence over competence organization-wide
@@ -354,6 +398,7 @@ Keeps climbing despite repeated failures. Fails in spectacular ways yet consiste
 - Your mental health or career is suffering
 
 **Before You Leave:**
+
 - Document your successes independently
 - Build relationships outside organization for references
 - Ensure your LinkedIn and portfolio showcase your individual work
@@ -362,6 +407,7 @@ Keeps climbing despite repeated failures. Fails in spectacular ways yet consiste
 **Why They Keep Failing Up:**
 
 **Common Enablers:**
+
 - **Executive Sponsorship:** A senior leader hired them and protects them (admitting mistake is too costly)
 - **Charisma:** They interview well, present confidently, and charm decision-makers
 - **Privilege:** Connections, background, or demographics provide safety net
@@ -383,6 +429,7 @@ A vampire figure in business casual, hovering over a depleted colleague, drainin
 Sucks your spirit, drains your energy. Constant negativity, complaining, crisis-mode living, and emotional dumping that leaves you exhausted after every interaction.
 
 **Psychological Tactic:**
+
 - **Emotional Contagion:** Their negativity spreads to you, lowering your mood and motivation
 - **Crisis Dependency:** Creates sense of urgency/emergency to demand your attention
 - **Victim Mentality:** Everything happens TO them, they're powerless, only you can help
@@ -391,30 +438,35 @@ Sucks your spirit, drains your energy. Constant negativity, complaining, crisis-
 **How They Operate:**
 
 **Every Conversation:**
+
 - Starts with complaint or problem
 - "You won't believe what happened..."
 - Never has good news or positive updates
 - Venting becomes interrogation: "Don't you think that's ridiculous?"
 
 **Emotional Dumping:**
+
 - Shares every grievance, frustration, anxiety
 - Requires emotional labor from you
 - Doesn't want solutions—wants validation of victimhood
 - Repeats same complaints without taking action
 
 **Victim Narrative:**
+
 - Boss is unfair, colleagues are incompetent, company is terrible
 - They're always the wronged party
 - External locus of control: Nothing is their fault or responsibility
 - You must rescue them (but advice is never taken)
 
 **Time Theft:**
+
 - "Just 5 minutes" becomes 45 minutes
 - Interrupts focused work for non-urgent complaints
 - Hijacks team meetings with tangential grievances
 - Emergency texts/calls outside work hours
 
 **Energy Impact:**
+
 - Interactions leave you drained, not energized
 - You avoid them because they're exhausting
 - Dread seeing their name pop up
@@ -423,6 +475,7 @@ Sucks your spirit, drains your energy. Constant negativity, complaining, crisis-
 **Warning Signs:**
 
 ✅ **You're dealing with an Energy Vampire if:**
+
 - Every conversation is negative or complaint-focused
 - You feel exhausted after interacting with them
 - They never have solutions, only problems
@@ -463,6 +516,7 @@ Sucks your spirit, drains your energy. Constant negativity, complaining, crisis-
 **2. Grey Rock Method**
 
 **Become Boring and Unresponsive:**
+
 - Give short, neutral responses
 - Don't engage emotionally
 - Don't feed the drama with reactions
@@ -484,11 +538,13 @@ Sucks your spirit, drains your energy. Constant negativity, complaining, crisis-
 **4. Limit Availability**
 
 **Physical Distance:**
+
 - Headphones when working (universal "do not disturb" signal)
 - Choose meeting rooms/desks away from them
 - Leave for coffee/walks at different times
 
 **Digital Distance:**
+
 - Delay responses to non-urgent messages
 - Set status to "Busy" or "Focusing"
 - Don't respond to after-hours complaints
@@ -503,6 +559,7 @@ Sucks your spirit, drains your energy. Constant negativity, complaining, crisis-
 **6. Emotional Detachment**
 
 **Their Crisis ≠ Your Emergency**
+
 - Don't absorb their anxiety
 - Remind yourself: Not your problem to solve
 - Practice compassionate detachment: "I hope that works out for you"
@@ -511,11 +568,13 @@ Sucks your spirit, drains your energy. Constant negativity, complaining, crisis-
 **When to Escalate:**
 
 **To Manager:**
+
 - If Energy Vampire's behavior impacts team productivity
 - If they're monopolizing meetings
 - If they're creating hostile environment with constant negativity
 
 **To HR:**
+
 - If behavior crosses into harassment
 - If they're creating toxic culture
 - If multiple people are affected
@@ -528,6 +587,7 @@ Sucks your spirit, drains your energy. Constant negativity, complaining, crisis-
 **Much harder situation.**
 
 **Strategies:**
+
 - Document pattern of behavior
 - Limit one-on-one time where possible
 - Request meetings have clear agendas
@@ -549,6 +609,7 @@ Sucks your spirit, drains your energy. Constant negativity, complaining, crisis-
 **Exit Indicator:**
 
 ✅ **Leave if:**
+
 - Energy Vampire is your direct manager and won't change
 - Culture normalizes constant negativity and emotional dumping
 - Your mental health is suffering despite boundaries
@@ -569,6 +630,7 @@ A figure with two faces—one smiling and friendly to your front, the other hold
 Mirror on your face, knife in your back. Friendly and supportive to your face, then talks behind your back, undermines you with leadership, or sabotages your success when you're not present.
 
 **Psychological Tactic:**
+
 - **Trust Exploitation:** Builds perceived friendship to lower your guard
 - **Split Personality:** Different persona with you vs. with others
 - **Covert Hostility:** Hostile actions disguised as concern or help
@@ -577,6 +639,7 @@ Mirror on your face, knife in your back. Friendly and supportive to your face, t
 **How They Operate:**
 
 **With You (Public Face):**
+
 - Friendly, supportive, collaborative
 - Asks about your work, offers "help"
 - Acts like they're on your side
@@ -584,6 +647,7 @@ Mirror on your face, knife in your back. Friendly and supportive to your face, t
 - Suggests you're friends, not just colleagues
 
 **With Others (Private Face):**
+
 - Questions your competence: "I'm not sure they can handle this"
 - Shares your mistakes or weaknesses
 - Takes opposing position from what they told you
@@ -597,6 +661,7 @@ Mirror on your face, knife in your back. Friendly and supportive to your face, t
 **Warning Signs:**
 
 ✅ **You're dealing with a Two-Face if:**
+
 - You hear they said something different about you when you weren't there
 - They're overly friendly with you but others warn you about them
 - Your ideas are supported in private, questioned in public meetings
@@ -609,18 +674,22 @@ Mirror on your face, knife in your back. Friendly and supportive to your face, t
 **Common Scenarios:**
 
 **Scenario 1: The Undermining Support**
+
 - **To You:** "I'll back your proposal in the meeting!"
 - **In Meeting:** "I love [person]'s enthusiasm, but I wonder if we've thought through [raises doubt]..."
 
 **Scenario 2: The Concerned Friend**
+
 - **To You:** "Don't worry about what happened—everyone makes mistakes!"
 - **To Boss:** "I'm worried about [person]. This isn't the first time they've struggled with [thing]..."
 
 **Scenario 3: The Information Broker**
+
 - **To You:** "Tell me what you're thinking—I want to help you prepare!"
 - **To Others:** "Between you and me, [person] is planning to [thing you shared in confidence]..."
 
 **Scenario 4: The False Alliance**
+
 - **To You:** "I totally agree with you about [boss/project/problem]!"
 - **To Boss:** "[Person] has been complaining about [exact thing you said], which I find concerning..."
 
@@ -639,6 +708,7 @@ Mirror on your face, knife in your back. Friendly and supportive to your face, t
 If something feels off, it probably is.
 
 **Red Flags:**
+
 - Too friendly too fast
 - Asks unusually probing questions
 - Overshares to encourage reciprocity
@@ -648,6 +718,7 @@ If something feels off, it probably is.
 **2. Information Control**
 
 **Share strategically:**
+
 - Give them only information you'd be comfortable having repeated
 - Don't share complaints, vulnerabilities, or insecurities
 - Don't share strategic plans until ready to announce publicly
@@ -656,6 +727,7 @@ If something feels off, it probably is.
 **3. Verify Everything**
 
 **Don't trust at face value:**
+
 - "You mentioned supporting my proposal. I want to make sure we're aligned—can you confirm your position?"
 - If they claim someone else said something: Verify directly
 - If they offer to "handle something" for you: Stay involved
@@ -663,6 +735,7 @@ If something feels off, it probably is.
 **4. Create Paper Trail**
 
 **Document agreements:**
+
 - Email follow-ups after conversations: "Per our discussion, you agreed to [thing]. Let me know if I misunderstood."
 - CC relevant stakeholders on important decisions
 - Written record protects against them claiming different position later
@@ -670,6 +743,7 @@ If something feels off, it probably is.
 **5. Maintain Professional Distance**
 
 **Friendly, not friends:**
+
 - Polite and professional always
 - Don't treat them as confidant or close friend
 - Keep boundaries clear
@@ -678,6 +752,7 @@ If something feels off, it probably is.
 **6. Build Direct Relationships**
 
 **Bypass the middleman:**
+
 - Don't rely on Two-Face to represent you to leadership
 - Present your own work and ideas directly
 - Build relationships with decision-makers yourself
@@ -686,6 +761,7 @@ If something feels off, it probably is.
 **7. Watch for Patterns**
 
 **Track discrepancies:**
+
 - Note when their public/private faces differ
 - Document instances where they said one thing, did another
 - Identify pattern of behavior (helps when escalating)
@@ -702,6 +778,7 @@ You have your answer—they're being two-faced.
 "I heard you expressed concerns about my [work/readiness/competence] to [person]. I'm surprised, since you told me [opposite thing]. Can we talk about this?"
 
 **Their Responses:**
+
 - Denial: "I never said that!"
 - Deflection: "You misunderstood"
 - Gaslighting: "I think you're being paranoid"
@@ -711,6 +788,7 @@ You have your answer—they're being two-faced.
 "I've heard this from multiple sources. Going forward, I need us to communicate directly and honestly. If you have concerns, I expect you to raise them with me first."
 
 **Option 3: Grey Rock (Safest)**
+
 - Become boring and unrevealing
 - Polite but distant
 - Give them nothing to work with
@@ -719,6 +797,7 @@ You have your answer—they're being two-faced.
 **When to Escalate:**
 
 **To Manager:**
+
 - If Two-Face is actively sabotaging your work
 - If their behavior is affecting your reputation with leadership
 - If you have documented pattern of behavior
@@ -727,11 +806,13 @@ You have your answer—they're being two-faced.
 "I'm concerned about some communication gaps with [person]. I'm hearing different messages from them privately vs. publicly, which is making it difficult to collaborate effectively. Can we address this?"
 
 **Don't:**
+
 - Accuse without evidence
 - Sound paranoid or emotional
 - Make it personal (keep it professional and impact-focused)
 
 **To HR:**
+
 - If behavior crosses into harassment or hostile work environment
 - If multiple people are affected
 - If manager doesn't address it
@@ -753,6 +834,7 @@ You have your answer—they're being two-faced.
 **Exit Indicator:**
 
 ✅ **Leave if:**
+
 - Two-Face has significant political capital and is protected
 - Leadership believes them over you despite evidence
 - Multiple people are affected and nothing changes
@@ -774,6 +856,7 @@ A vulture in business attire, perched nearby watching someone struggle, waiting 
 Waits for you to fail, never helps you succeed. Watches colleagues struggle without offering assistance, then swoops in after failure to capitalize on the opportunity or point out what went wrong.
 
 **Psychological Tactic:**
+
 - **Opportunistic Positioning:** Stands by while you struggle, then uses your failure to advance themselves
 - **Strategic Inaction:** Withholds help that could prevent your failure
 - **Post-Mortem Expertise:** Suddenly has all the answers AFTER you fail
@@ -782,6 +865,7 @@ Waits for you to fail, never helps you succeed. Watches colleagues struggle with
 **How They Operate:**
 
 **During Your Project:**
+
 - Aware of your challenges but doesn't offer help
 - "Good luck with that" instead of "How can I help?"
 - Watches from sidelines with visible skepticism
@@ -789,18 +873,21 @@ Waits for you to fail, never helps you succeed. Watches colleagues struggle with
 - "I'm curious how this will turn out..."
 
 **When You Ask for Help:**
+
 - "I'm too busy right now"
 - "That's not really my area"
 - "You'll figure it out" (dismissive)
 - Makes excuses for non-involvement
 
 **When You're Failing:**
+
 - Increases visibility (starts attending meetings, checking in)
 - Asks lots of questions (gathering information for post-mortem)
 - Positions themselves as "concerned observer"
 - Doesn't intervene—just watches
 
 **After You Fail:**
+
 - "I saw this coming..."
 - "If someone had asked me, I could have told them..."
 - Offers detailed analysis of what went wrong
@@ -808,6 +895,7 @@ Waits for you to fail, never helps you succeed. Watches colleagues struggle with
 - Explains how THEY would have done it differently
 
 **With Leadership:**
+
 - "I wanted to help, but [person] didn't ask"
 - "I had concerns, but it wasn't my place to say anything"
 - "If you need someone to take this over, I'm available"
@@ -816,6 +904,7 @@ Waits for you to fail, never helps you succeed. Watches colleagues struggle with
 **Warning Signs:**
 
 ✅ **You're dealing with a Vulture if:**
+
 - They're friendly when things are going well, absent when you struggle
 - They watch you struggle without offering help despite having relevant expertise
 - They always have post-mortem insights but never proactive advice
@@ -838,6 +927,7 @@ Waits for you to fail, never helps you succeed. Watches colleagues struggle with
 **1. Don't Depend on Them**
 
 **Accept reality:**
+
 - They won't help—plan accordingly
 - Don't ask them for assistance
 - Don't expect collaboration
@@ -846,6 +936,7 @@ Waits for you to fail, never helps you succeed. Watches colleagues struggle with
 **2. Build Alternative Allies**
 
 **Find reliable colleagues:**
+
 - Identify people who actually help when asked
 - Build reciprocal support relationships
 - Create peer network outside Vulture's sphere
@@ -854,6 +945,7 @@ Waits for you to fail, never helps you succeed. Watches colleagues struggle with
 **3. Proactive Risk Management**
 
 **Since you can't count on them:**
+
 - Identify project risks early
 - Build in contingency plans
 - Ask for help from reliable people before crisis hits
@@ -862,6 +954,7 @@ Waits for you to fail, never helps you succeed. Watches colleagues struggle with
 **4. Create Transparency**
 
 **Make your work visible:**
+
 - Regular updates to stakeholders
 - Clear documentation of progress and challenges
 - Public requests for help (so refusal is visible)
@@ -875,6 +968,7 @@ Waits for you to fail, never helps you succeed. Watches colleagues struggle with
 **5. Limit Their Access**
 
 **Information control:**
+
 - Don't share details of your challenges
 - Don't give them ammunition for post-mortem critique
 - Keep project information need-to-know
@@ -886,6 +980,7 @@ Waits for you to fail, never helps you succeed. Watches colleagues struggle with
 "I appreciate the feedback. I actually identified that risk early on and requested help from you on [date]—here's the email. Unfortunately, I wasn't able to get support at that time."
 
 **Shows:**
+
 - You were proactive
 - They had opportunity to help and declined
 - Their post-mortem expertise could have been useful earlier
@@ -915,6 +1010,7 @@ They've publicly declined to help. Post-mortem critique loses credibility.
 **When to Escalate:**
 
 **To Manager:**
+
 - If Vulture's non-collaboration is affecting team performance
 - If they're blocking project success through strategic inaction
 - If they're capitalizing on others' failures to advance themselves
@@ -923,6 +1019,7 @@ They've publicly declined to help. Post-mortem critique loses credibility.
 "I'm concerned about collaboration on the team. When [project] was struggling, I reached out to [Vulture] for help given their expertise, but they weren't available. Now they're critiquing the approach. I think we'd benefit from more proactive collaboration culture."
 
 **To HR:**
+
 - If pattern affects multiple people
 - If Vulture is creating hostile environment through strategic non-support
 - If behavior violates company values around teamwork
@@ -938,6 +1035,7 @@ They've publicly declined to help. Post-mortem critique loses credibility.
 **Exit Indicator:**
 
 ✅ **Leave if:**
+
 - Culture rewards individual success over team collaboration
 - Vultures are promoted for capitalizing on others' failures
 - Leadership doesn't value helping behavior
@@ -959,6 +1057,7 @@ A hyena in business attire, laughing and eating alongside colleagues at the tabl
 Feasts with you, then eats you. Appears friendly and collaborative when it benefits them, but will turn on you and attack when it serves their interests or when you become vulnerable.
 
 **Psychological Tactic:**
+
 - **Fair-Weather Alliance:** Loyal when things are good, hostile when things get difficult
 - **Opportunistic Betrayal:** Switches sides based on self-interest, not principles
 - **Pack Mentality:** Joins whoever has power or attacks whoever is weak
@@ -967,6 +1066,7 @@ Feasts with you, then eats you. Appears friendly and collaborative when it benef
 **How They Operate:**
 
 **When You're Successful:**
+
 - Friendly, complimentary, seeks your company
 - "We should work together more!"
 - Takes credit for connection with you
@@ -974,6 +1074,7 @@ Feasts with you, then eats you. Appears friendly and collaborative when it benef
 - Publicly associates with you
 
 **When You're Struggling:**
+
 - Distance themselves quickly
 - Stop responding to messages
 - "I'm swamped right now"
@@ -981,6 +1082,7 @@ Feasts with you, then eats you. Appears friendly and collaborative when it benef
 - May join those criticizing you
 
 **When You're Vulnerable:**
+
 - Suddenly critical of your work
 - Joins pile-on in meetings
 - Shares concerns about your competence
@@ -988,6 +1090,7 @@ Feasts with you, then eats you. Appears friendly and collaborative when it benef
 - Throws you under the bus to protect themselves
 
 **Pack Behavior:**
+
 - Always sides with whoever has power
 - Joins majority in criticizing minority
 - Changes position based on who's winning
@@ -997,6 +1100,7 @@ Feasts with you, then eats you. Appears friendly and collaborative when it benef
 **Warning Signs:**
 
 ✅ **You're dealing with a Hyena if:**
+
 - They're friendly when you're successful, cold when you struggle
 - Their support evaporates the moment you face criticism
 - They side with whoever has power in any given situation
@@ -1020,6 +1124,7 @@ Feasts with you, then eats you. Appears friendly and collaborative when it benef
 **1. Never Fully Trust Them**
 
 **Maintain distance:**
+
 - Friendly, not friends
 - Professional collaboration only
 - Don't share vulnerabilities or insecurities
@@ -1029,6 +1134,7 @@ Feasts with you, then eats you. Appears friendly and collaborative when it benef
 **2. Document Everything**
 
 **Create paper trail:**
+
 - Their agreements, commitments, support
 - Useful if they flip positions later
 - "Per your recommendation on [date]..." in emails
@@ -1037,6 +1143,7 @@ Feasts with you, then eats you. Appears friendly and collaborative when it benef
 **3. Build Genuine Alliances**
 
 **Find reliable people:**
+
 - Look for colleagues who support others during struggles
 - Build relationships based on shared values, not convenience
 - Test loyalty in small ways before trusting with important matters
@@ -1045,6 +1152,7 @@ Feasts with you, then eats you. Appears friendly and collaborative when it benef
 **4. Don't Feed Pack Mentality**
 
 **If they attack someone else:**
+
 - Don't join in (you could be next)
 - Maintain neutrality or defend the target
 - "I haven't had that experience with [person]"
@@ -1053,6 +1161,7 @@ Feasts with you, then eats you. Appears friendly and collaborative when it benef
 **5. Stay Strong When Vulnerable**
 
 **When facing challenges:**
+
 - Don't show weakness to Hyenas
 - Maintain confidence even when struggling
 - Address problems head-on with leadership directly
@@ -1084,6 +1193,7 @@ Feasts with you, then eats you. Appears friendly and collaborative when it benef
 **Option 3: Grey Rock (Safest)**
 
 **Accept their nature:**
+
 - Stop expecting loyalty
 - Maintain professional distance
 - Don't give them access to your vulnerabilities
@@ -1092,6 +1202,7 @@ Feasts with you, then eats you. Appears friendly and collaborative when it benef
 **When to Escalate:**
 
 **To Manager:**
+
 - If their opportunistic behavior is damaging team trust
 - If they're creating toxic pack mentality
 - If they're throwing people under the bus regularly
@@ -1100,6 +1211,7 @@ Feasts with you, then eats you. Appears friendly and collaborative when it benef
 "I'm concerned about team dynamics. I've noticed [person] switches positions based on what's politically advantageous rather than what's right for the project. This is creating environment where people don't feel safe being honest about challenges."
 
 **To HR:**
+
 - If behavior creates hostile environment
 - If pack mentality is bullying or harassment
 - If pattern affects multiple people
@@ -1109,12 +1221,14 @@ Feasts with you, then eats you. Appears friendly and collaborative when it benef
 **When They Turn on You:**
 
 **Don't:**
+
 - Act surprised (you knew this was possible)
 - Get emotional or defensive
 - Try to win them back
 - Waste energy on them
 
 **Do:**
+
 - Address their concerns factually with leadership
 - Show documentation of previous support/agreement
 - Maintain professionalism
@@ -1128,6 +1242,7 @@ Feasts with you, then eats you. Appears friendly and collaborative when it benef
 **Exit Indicator:**
 
 ✅ **Leave if:**
+
 - Culture rewards opportunistic behavior
 - Pack mentality is norm
 - Leadership participates in pile-ons
@@ -1149,6 +1264,7 @@ A parrot in business attire, perched attentively during your presentation, liste
 Listens well, then repeats your ideas as theirs. Absorbs your ideas, strategies, and insights in meetings or conversations, then presents them to leadership or clients as their own original thinking without attribution.
 
 **Psychological Tactic:**
+
 - **Idea Theft:** Takes credit for intellectual property (concepts, strategies, solutions)
 - **Strategic Listening:** Pays close attention not to collaborate, but to steal
 - **Attribution Erasure:** Removes your name from the idea's origin story
@@ -1157,6 +1273,7 @@ Listens well, then repeats your ideas as theirs. Absorbs your ideas, strategies,
 **How They Operate:**
 
 **Phase 1: Information Gathering**
+
 - Attentive listener in meetings
 - Asks "clarifying questions" to extract more details
 - "Tell me more about that idea..."
@@ -1164,6 +1281,7 @@ Listens well, then repeats your ideas as theirs. Absorbs your ideas, strategies,
 - Seems supportive and interested
 
 **Phase 2: The Theft**
+
 - Presents your idea in different meeting (you're not invited)
 - Pitches your strategy to client or leadership
 - Writes proposal based on your concept
@@ -1171,6 +1289,7 @@ Listens well, then repeats your ideas as theirs. Absorbs your ideas, strategies,
 - No attribution, no credit
 
 **Phase 3: The Gaslighting (If Confronted)**
+
 - "I thought of this independently"
 - "This is a common concept—no one owns it"
 - "I'm sure lots of people have had similar ideas"
@@ -1180,6 +1299,7 @@ Listens well, then repeats your ideas as theirs. Absorbs your ideas, strategies,
 **Warning Signs:**
 
 ✅ **You're dealing with a Parrot if:**
+
 - Your ideas from team meetings appear in their presentations to leadership
 - They ask detailed questions about your thinking, then you see it elsewhere
 - Leadership attributes your concepts to them
@@ -1192,21 +1312,25 @@ Listens well, then repeats your ideas as theirs. Absorbs your ideas, strategies,
 **Common Scenarios:**
 
 **Scenario 1: The Meeting Replay**
+
 - **Team Meeting:** You propose solution to problem
 - **Leadership Meeting (you're not there):** Parrot presents same solution as their idea
 - **Result:** Leadership thinks Parrot is strategic thinker
 
 **Scenario 2: The Client Pitch**
+
 - **Internal Discussion:** You share approach for client engagement
 - **Client Meeting:** Parrot pitches your approach as their strategy
 - **Result:** Client attributes success to Parrot, requests them specifically
 
 **Scenario 3: The Document Rewrite**
+
 - **Draft Proposal:** You write initial strategy document
 - **Final Proposal:** Parrot "edits" it, removes your name, presents as their work
 - **Result:** Leadership sees Parrot as author
 
 **Scenario 4: The Expanded Scope**
+
 - **Your Project:** You develop innovative process
 - **Their Project:** Parrot "applies your process" to bigger initiative, takes full credit
 - **Result:** You created it, they get promoted for "scaling it"
@@ -1224,6 +1348,7 @@ Listens well, then repeats your ideas as theirs. Absorbs your ideas, strategies,
 **1. Document Your Ideas**
 
 **Create paper trail:**
+
 - Email your proposals/ideas to stakeholders (timestamp)
 - Share written summaries after meetings where you present ideas
 - Document development of your thinking over time
@@ -1237,6 +1362,7 @@ After meeting: "Following up on today's discussion, here's a summary of the [ide
 **2. Present to Leadership Directly**
 
 **Don't rely on others to represent you:**
+
 - Request time to present your ideas yourself
 - Build direct relationships with decision-makers
 - Don't let Parrot be intermediary
@@ -1245,6 +1371,7 @@ After meeting: "Following up on today's discussion, here's a summary of the [ide
 **3. Strategic Information Control**
 
 **Be careful what you share:**
+
 - Don't share fully-formed ideas in settings where Parrot can steal them
 - Share concepts in writing (creates record)
 - Present to decision-makers before discussing in team settings
@@ -1280,6 +1407,7 @@ In documents: Your name prominently on all work
 **6. Build Witnesses**
 
 **Don't present ideas only to Parrot:**
+
 - Share in team meetings with multiple people
 - CC stakeholders on written proposals
 - Present in forums where theft would be obvious
@@ -1288,6 +1416,7 @@ In documents: Your name prominently on all work
 **When to Escalate:**
 
 **To Manager:**
+
 - If pattern continues after direct conversation
 - If Parrot's theft is affecting your career advancement
 - If leadership consistently attributes your work to them
@@ -1296,6 +1425,7 @@ In documents: Your name prominently on all work
 "I need to raise a concern about intellectual property and attribution. I've noticed [specific instances] where ideas I developed were presented by [Parrot] without attribution. Here's the documentation showing I originated these concepts: [evidence]. This is affecting my visibility and career growth."
 
 **To HR:**
+
 - If manager doesn't address it
 - If theft extends to taking credit for deliverables
 - If Parrot is benefiting professionally (promotions, raises) from your work
@@ -1305,6 +1435,7 @@ In documents: Your name prominently on all work
 **Option 1: Prevention**
 
 Make theft difficult:
+
 - Document everything
 - Present ideas yourself to decision-makers
 - Create paper trail
@@ -1344,6 +1475,7 @@ Email to leadership: "Following up on [meeting], I wanted to provide background 
 **Exit Indicator:**
 
 ✅ **Leave if:**
+
 - Leadership rewards Parrot for your ideas despite evidence
 - Culture doesn't value proper attribution
 - Your attempts to reclaim credit are seen as "not being a team player"
@@ -1371,18 +1503,21 @@ Toxic leadership isn't just about bad decisions—it's a full-body system of dys
 **Toxic Trait: Empty Promises**
 
 **What They Do:**
+
 - Makes grand commitments in meetings: "We'll get you more resources," "I'll advocate for your promotion"
 - Promises evaporate immediately after leaving room
 - No follow-through, no accountability
 - When reminded: "Did I say that? I don't remember"
 
 **Impact:**
+
 - Team stops believing anything they say
 - Learned helplessness (nothing will change)
 - Wastes your time pursuing promised resources that will never materialize
 - You look foolish if you planned around their commitments
 
 **Self-Protection:**
+
 - Get promises in writing: "Thanks for committing to [thing]. I'll send a follow-up email to confirm."
 - Don't change your plans based on their verbal promises
 - Escalate unfulfilled promises: "You committed to [thing] on [date]. Here's the email. What's the status?"
@@ -1394,18 +1529,21 @@ Toxic leadership isn't just about bad decisions—it's a full-body system of dys
 **Toxic Trait: Selective Listening / Idea Theft**
 
 **What They Do:**
+
 - Ignores your suggestions in meetings
 - Later presents same idea as their own to leadership
 - "I've been thinking we should [your exact idea]..."
 - Dismisses your input, then implements it without attribution
 
 **Impact:**
+
 - Your contributions are invisible to senior leadership
 - Boss takes credit for your strategic thinking
 - You appear as executor, not innovator
 - Career advancement blocked
 
 **Self-Protection:**
+
 - Document ideas in writing (timestamp)
 - Present ideas to leadership directly when possible
 - If boss implements your idea: "I'm glad you found my [date] proposal compelling. Happy to provide more context."
@@ -1417,18 +1555,21 @@ Toxic leadership isn't just about bad decisions—it's a full-body system of dys
 **Toxic Trait: Deficit-Focused Management**
 
 **What They Do:**
+
 - Never acknowledges successes or accomplishments
 - Only notices mistakes, delays, or gaps
 - "Why isn't [thing] done yet?" (ignoring the 10 things you completed)
 - Moves goalpost: As soon as you achieve X, suddenly Y is the priority
 
 **Impact:**
+
 - Chronic feeling that you're never good enough
 - Burnout from chasing impossible standards
 - Demoralization (hard work goes unrecognized)
 - Anxiety (waiting for next criticism)
 
 **Self-Protection:**
+
 - Document your accomplishments independently
 - Request regular feedback: "What's working well? What needs improvement?"
 - If only negatives come back: "I'd appreciate balanced feedback that includes what I'm doing effectively."
@@ -1441,6 +1582,7 @@ Toxic leadership isn't just about bad decisions—it's a full-body system of dys
 **Toxic Trait: Emotional Coldness / Distrust**
 
 **What They Do:**
+
 - No empathy for personal circumstances (illness, family issues, burnout)
 - "That's not my problem"
 - Micromanages because assumes incompetence
@@ -1448,12 +1590,14 @@ Toxic leadership isn't just about bad decisions—it's a full-body system of dys
 - Views team as resources, not humans
 
 **Impact:**
+
 - Team hides problems until they're catastrophic
 - No psychological safety
 - High turnover (people leave toxic environments)
 - Loyalty is one-way (they expect it, don't give it)
 
 **Self-Protection:**
+
 - Maintain professional boundaries (don't expect humanity from them)
 - Document unreasonable demands
 - Build support network outside their sphere
@@ -1466,18 +1610,21 @@ Toxic leadership isn't just about bad decisions—it's a full-body system of dys
 **Toxic Trait: Fragile Ego / Defensiveness**
 
 **What They Do:**
+
 - Can't handle feedback or disagreement
 - Reacts defensively to questions: "Are you questioning my judgment?"
 - Holds grudges against anyone who challenges them
 - Deflects blame: "The team didn't execute my vision"
 
 **Impact:**
+
 - Team stops raising concerns or giving feedback
 - Problems are hidden until they explode
 - Boss remains incompetent because no one will tell them
 - Retaliation against anyone who speaks up
 
 **Self-Protection:**
+
 - Frame feedback as questions: "Help me understand the reasoning behind [decision]"
 - Use data, not opinions: "Here's what the data shows..."
 - Document concerns in writing (protects you if it blows up later)
@@ -1490,6 +1637,7 @@ Toxic leadership isn't just about bad decisions—it's a full-body system of dys
 **Toxic Trait: Delegator Who Doesn't Contribute**
 
 **What They Do:**
+
 - Assigns all work to team but does nothing themselves
 - Takes credit for team output: "My team delivered [thing you built]"
 - Absent during difficult phases
@@ -1497,12 +1645,14 @@ Toxic leadership isn't just about bad decisions—it's a full-body system of dys
 - "I'm too busy for [actual work]—that's why I have a team"
 
 **Impact:**
+
 - Team is overworked while boss is "in meetings"
 - Boss advances on team's labor
 - No mentorship or hands-on support
 - Team feels exploited
 
 **Self-Protection:**
+
 - Ensure your contributions are visible to stakeholders (not just boss)
 - Document your individual deliverables
 - Build direct relationships with senior leadership
@@ -1515,6 +1665,7 @@ Toxic leadership isn't just about bad decisions—it's a full-body system of dys
 **Toxic Trait: Selective Courage / Political Self-Preservation**
 
 **What They Do:**
+
 - Won't advocate for team with senior leadership
 - Throws team under bus to protect themselves
 - "I told them this wouldn't work" (never told you)
@@ -1522,12 +1673,14 @@ Toxic leadership isn't just about bad decisions—it's a full-body system of dys
 - No backbone when team needs defense
 
 **Impact:**
+
 - Team faces consequences for boss's decisions
 - Boss survives by sacrificing team members
 - No protection or advocacy
 - You're on your own when things go wrong
 
 **Self-Protection:**
+
 - Don't expect them to defend you (they won't)
 - Build alliances with other leaders who will advocate for you
 - Document when boss makes decisions that later fail (protects you from being scapegoat)
@@ -1556,11 +1709,13 @@ Toxic leadership isn't just about bad decisions—it's a full-body system of dys
 **Option 1: Document and Escalate**
 
 **If:**
+
 - Organization has functional HR or senior leadership
 - You have evidence of toxic behavior
 - Others are willing to corroborate
 
 **Do:**
+
 - Document specific instances with dates, examples, impact
 - Frame as business issue: "This behavior is affecting team performance, retention, and morale"
 - Be factual, not emotional
@@ -1569,11 +1724,13 @@ Toxic leadership isn't just about bad decisions—it's a full-body system of dys
 **Option 2: Internal Transfer**
 
 **If:**
+
 - Organization is otherwise good
 - Toxicity is specific to this boss, not cultural
 - You have relationships elsewhere in company
 
 **Do:**
+
 - Discreetly explore other roles
 - Build relationships with other leaders
 - Position transfer as career growth, not escape
@@ -1582,11 +1739,13 @@ Toxic leadership isn't just about bad decisions—it's a full-body system of dys
 **Option 3: Grey Rock and Survive**
 
 **If:**
+
 - You need this job short-term
 - Exit isn't immediately possible
 - Escalation is too risky
 
 **Do:**
+
 - Emotional detachment (don't take it personally)
 - Do your job, nothing more
 - Protect your mental health outside work
@@ -1595,12 +1754,14 @@ Toxic leadership isn't just about bad decisions—it's a full-body system of dys
 **Option 4: Exit**
 
 **If:**
+
 - Toxic boss is protected or enabled by organization
 - Your mental/physical health is suffering
 - Career growth is blocked
 - Culture is toxic beyond just this boss
 
 **Do:**
+
 - Plan exit strategically (secure new job first if possible)
 - Don't burn bridges (clean exit)
 - Use experience as career growth filter (identify red flags in interviews)
@@ -1615,6 +1776,7 @@ Toxic leadership isn't just about bad decisions—it's a full-body system of dys
 Toxic leadership is personality-driven, often protected by organizational power dynamics, and reinforced by success despite dysfunction.
 
 **Your options:**
+
 1. Escalate (risky, low success rate)
 2. Transfer (if possible)
 3. Survive temporarily while planning exit
@@ -1644,11 +1806,13 @@ Here's how to decode what they're really saying—and reframe it accurately.
 **The Reality:**
 
 **Their Issue:**
+
 - They've stopped trying to excel
 - Your ambition makes their complacency obvious
 - They want you to lower your standards to match theirs
 
 **Your Truth:**
+
 - You set high standards for yourself
 - You pursue excellence, not just "good enough"
 - You're goal-oriented and achievement-focused
@@ -1656,6 +1820,7 @@ Here's how to decode what they're really saying—and reframe it accurately.
 **Why It's Not a Problem:**
 
 ✅ **Competitiveness = Healthy Drive When:**
+
 - You're competing against standards, not sabotaging people
 - You celebrate others' success while pursuing your own
 - You raise the team's performance through your example
@@ -1664,6 +1829,7 @@ Here's how to decode what they're really saying—and reframe it accurately.
 **When to Worry:**
 
 ⚠️ **Competitiveness becomes toxic when:**
+
 - You undermine colleagues to win
 - You can't collaborate because you need to be "best"
 - You derive satisfaction from others' failure
@@ -1690,11 +1856,13 @@ Don't dim your drive. Find environment that rewards achievement.
 **The Reality:**
 
 **Their Issue:**
+
 - They're checked out, burnt out, or coasting
 - Your engagement highlights their disengagement
 - They've lowered their standards and expect you to do the same
 
 **Your Truth:**
+
 - You're invested in quality work
 - You care about outcomes and impact
 - You bring energy and enthusiasm
@@ -1703,6 +1871,7 @@ Don't dim your drive. Find environment that rewards achievement.
 **Why It's Not a Problem:**
 
 ✅ **Intensity = Healthy Passion When:**
+
 - You're energized by your work, not burnt out
 - You inspire others through your commitment
 - You deliver exceptional results
@@ -1711,6 +1880,7 @@ Don't dim your drive. Find environment that rewards achievement.
 **When to Worry:**
 
 ⚠️ **Intensity becomes toxic when:**
+
 - You're burning out or sacrificing health
 - You can't disconnect from work
 - You pressure others to match your unsustainable pace
@@ -1737,11 +1907,13 @@ Your passion is an asset. Find people who match your energy.
 **The Reality:**
 
 **Their Issue:**
+
 - They want you to do their work
 - They're coasting and need you to cover for them
 - They expect you to accept unequal contribution
 
 **Your Truth:**
+
 - You collaborate effectively with people who pull their weight
 - You have boundaries around what you will and won't carry
 - You expect accountability and reciprocity
@@ -1749,6 +1921,7 @@ Your passion is an asset. Find people who match your energy.
 **Why It's Not a Problem:**
 
 ✅ **Healthy Boundaries ≠ Not Being a Team Player:**
+
 - You collaborate when there's mutual contribution
 - You help colleagues who are genuinely struggling
 - You say no to exploitation disguised as teamwork
@@ -1757,6 +1930,7 @@ Your passion is an asset. Find people who match your energy.
 **When to Worry:**
 
 ⚠️ **You might actually not be a team player when:**
+
 - You refuse to collaborate even when others contribute equally
 - You hoard information or credit
 - You won't help colleagues unless there's direct benefit to you
@@ -1783,12 +1957,14 @@ Saying no to exploitation isn't being a bad team player. It's having boundaries.
 **The Reality:**
 
 **Their Issue:**
+
 - They haven't thought things through
 - They're hiding incompetence or bad decisions
 - They want compliance, not critical thinking
 - Your questions threaten their authority or reveal their lack of planning
 
 **Your Truth:**
+
 - You think critically and identify risks
 - You ask questions to understand, not to obstruct
 - You catch problems before they become disasters
@@ -1797,6 +1973,7 @@ Saying no to exploitation isn't being a bad team player. It's having boundaries.
 **Why It's Not a Problem:**
 
 ✅ **Asking Questions = Critical Thinking:**
+
 - Prevents costly mistakes
 - Identifies risks early
 - Ensures clarity before execution
@@ -1805,6 +1982,7 @@ Saying no to exploitation isn't being a bad team player. It's having boundaries.
 **When to Worry:**
 
 ⚠️ **Questioning becomes obstruction when:**
+
 - You ask questions to delay or derail, not to understand
 - You demand perfection and shoot down every idea
 - You question everything but never contribute solutions
@@ -1831,12 +2009,14 @@ If they punish you for asking good questions, they're hiding something.
 **The Reality:**
 
 **Their Issue:**
+
 - They want compliance, not collaboration
 - They expect you to execute bad ideas without objection
 - They're uncomfortable with people who think for themselves
 - They confuse management with control
 
 **Your Truth:**
+
 - You have expertise and expect it to be valued
 - You push back on flawed plans with better alternatives
 - You set boundaries around unsustainable demands
@@ -1845,6 +2025,7 @@ If they punish you for asking good questions, they're hiding something.
 **Why It's Not a Problem:**
 
 ✅ **Independent Thinking ≠ Difficult:**
+
 - You offer solutions when you identify problems
 - You communicate respectfully even when disagreeing
 - You're willing to be convinced if given good reasons
@@ -1853,6 +2034,7 @@ If they punish you for asking good questions, they're hiding something.
 **When to Worry:**
 
 ⚠️ **You might actually be difficult when:**
+
 - You refuse to compromise or accept any decision you don't fully agree with
 - You undermine decisions after they're made
 - You confuse boundaries with insubordination
@@ -1907,6 +2089,7 @@ They're used to **suppress positive traits** that threaten mediocre or controlli
 **Step 1: Assess the Source**
 
 **Ask:**
+
 - Is this person credible and trustworthy?
 - Do they have my best interests at heart?
 - Is this feedback consistent with what others say?
@@ -1950,6 +2133,7 @@ If environment punishes your strengths, find environment that values them.
 **You're in the wrong environment.**
 
 The right workplace values:
+
 - Drive (not sees it as "too competitive")
 - Passion (not sees it as "too intense")
 - Boundaries (not sees it as "not a team player")
