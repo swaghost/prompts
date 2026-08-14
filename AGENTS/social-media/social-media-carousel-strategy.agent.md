@@ -951,6 +951,7 @@ These 5 core principles form the foundation of every world-class carousel.
 **Principle:** One slide = One idea. Keep your message short, clear, and easy to grasp.
 
 **Why It Matters:**
+
 - Carousel slides have 2-3 seconds of attention
 - Multiple ideas create cognitive overload
 - Clarity drives completion rates
@@ -958,12 +959,14 @@ These 5 core principles form the foundation of every world-class carousel.
 **How to Execute:**
 
 ✅ **DO:**
+
 - One complete thought per slide
 - Maximum 12 words per slide (content slides)
 - Maximum 6 words per slide (headlines)
 - Each slide passes the "3-second clarity test"
 
 ❌ **DON'T:**
+
 - Combine multiple concepts on one slide
 - Use complex sentences requiring re-reading
 - Explain nuances (save for caption or comments)
@@ -985,6 +988,7 @@ That's step one."
 **Principle:** Use bold, easy-to-read fonts. Make sure text is the hero of the slide.
 
 **Why It Matters:**
+
 - 90% of carousel content is text-driven
 - Mobile screens require high readability
 - Typography creates hierarchy and guides the eye
@@ -992,17 +996,20 @@ That's step one."
 **How to Execute:**
 
 **Font Selection:**
+
 - **Headlines:** Bold sans-serif fonts (Montserrat Bold, Poppins Bold, Inter Black)
 - **Body:** Readable sans-serif (Inter, Source Sans Pro, Open Sans)
 - **Maximum:** 2 font families per carousel
 
 **Font Sizing:**
+
 - **Headline:** 72-96pt (1080x1350 canvas)
 - **Subhead:** 48-64pt
 - **Body text:** 36-48pt
 - **Small text/captions:** 24-32pt
 
 **Readability Rules:**
+
 - ✅ High contrast between text and background
 - ✅ Minimum 4.5:1 contrast ratio
 - ✅ Line spacing: 1.4-1.6x font size
@@ -1013,12 +1020,14 @@ That's step one."
 **Example:**
 
 **WEAK Typography:**
+
 - Thin font weight (200-300)
 - Small size (24pt headline)
 - Low contrast (gray on light gray)
 - Decorative cursive font
 
 **STRONG Typography:**
+
 - Bold font weight (700-900)
 - Large size (84pt headline)
 - High contrast (black on white or white on bold color)
@@ -1031,6 +1040,7 @@ That's step one."
 **Principle:** Stick to 2-4 colors. Choose colors that support your message and brand.
 
 **Why It Matters:**
+
 - Color creates emotional resonance
 - Too many colors create visual chaos
 - Consistent palette strengthens brand recognition
@@ -1040,17 +1050,20 @@ That's step one."
 **The 2-4 Color System:**
 
 **2 Color Approach (Minimalist):**
+
 - Primary color (70% of design)
 - Accent color (30% of design)
 - Example: Navy blue + bright yellow
 
 **3 Color Approach (Balanced):**
+
 - Primary color (60%)
 - Secondary color (25%)
 - Accent color (15%)
 - Example: Deep purple + coral + cream
 
 **4 Color Approach (Maximum):**
+
 - Primary (50%)
 - Secondary (25%)
 - Accent 1 (15%)
@@ -1058,6 +1071,7 @@ That's step one."
 - Example: Black + white + red + gold
 
 **Color Psychology for Carousels:**
+
 - **Red:** Urgency, energy, passion (use for key points, CTAs)
 - **Blue:** Trust, professionalism, calm (use for authority content)
 - **Yellow/Orange:** Optimism, creativity, warmth (use for positivity, highlights)
@@ -1066,6 +1080,7 @@ That's step one."
 - **Black/White:** Clarity, sophistication, contrast (use as base)
 
 **Application Rules:**
+
 - ✅ Use same colors consistently across all slides
 - ✅ Assign meaning to colors (red = problem, green = solution)
 - ✅ Test color contrast for accessibility
@@ -1079,6 +1094,7 @@ That's step one."
 **Principle:** Guide the viewer's eyes. Highlight what matters most first.
 
 **Why It Matters:**
+
 - People scan, they don't read
 - Eye movement must be intentional
 - Hierarchy = comprehension speed
@@ -1088,29 +1104,34 @@ That's step one."
 **The Hierarchy Pyramid:**
 
 **Level 1: Primary Element (What they see first) - 45% visual weight**
+
 - Headline or main message
 - Largest size, boldest weight
 - Highest contrast
 - Position: Top or center
 
 **Level 2: Supporting Element (What they see second) - 30% visual weight**
+
 - Subheadline or clarifying text
 - Medium size, medium weight
 - Moderate contrast
 - Position: Below or beside primary
 
 **Level 3: Detail Element (What they see third) - 15% visual weight**
+
 - Context, examples, or details
 - Small size, regular weight
 - Lower contrast
 - Position: Bottom or margins
 
 **Level 4: White Space (Visual breathing room) - 10% minimum**
+
 - Empty space around elements
 - Creates focus and clarity
 - Essential for mobile readability
 
 **Visual Weight Techniques:**
+
 1. **Size:** Bigger = more important
 2. **Contrast:** Higher contrast = more attention
 3. **Color:** Bright accent = focal point
@@ -1123,8 +1144,9 @@ That's step one."
 All text same size, same weight, same color → Everything competes for attention → Nothing stands out
 
 **STRONG (Clear Hierarchy):**
+
 - Headline: 84pt, bold, black
-- Subhead: 48pt, medium, dark gray  
+- Subhead: 48pt, medium, dark gray
 - Body: 36pt, regular, gray
 - Result: Eye flows naturally top to bottom
 
@@ -1135,6 +1157,7 @@ All text same size, same weight, same color → Everything competes for attentio
 **Principle:** Don't clutter your slide. Give your content room to breathe.
 
 **Why It Matters:**
+
 - White space = luxury and professionalism
 - Cluttered slides feel overwhelming
 - Breathing room increases comprehension
@@ -1142,6 +1165,7 @@ All text same size, same weight, same color → Everything competes for attentio
 **How to Execute:**
 
 **White Space Allocation:**
+
 - **Minimum:** 10% of slide should be empty space
 - **Optimal:** 15-20% white space
 - **Premium:** 25-30% white space (high-end brands)
@@ -1149,25 +1173,30 @@ All text same size, same weight, same color → Everything competes for attentio
 **Where to Apply White Space:**
 
 **Around Headlines:**
+
 - Minimum 60-80px padding above and below
 - Never let headline touch edge of slide
 - Create "frame" of space around key messages
 
 **Between Elements:**
+
 - Minimum 40px spacing between distinct sections
 - Double spacing between headline and body (vs. body paragraphs)
 - Use white space to group related elements
 
 **Margins:**
+
 - Minimum 80px margin on all sides
 - 100-120px for polished, premium feel
 - Never let text run to edge of canvas
 
 **Background:**
+
 - Solid color backgrounds create more white space than images
 - If using background image, add semi-transparent overlay to create visual "breathing room"
 
 **White Space Rules:**
+
 - ✅ Less text = more white space = better comprehension
 - ✅ Group related elements together, separate unrelated elements
 - ✅ Use generous margins (don't fear empty space)
@@ -1177,12 +1206,14 @@ All text same size, same weight, same color → Everything competes for attentio
 **Example:**
 
 **CLUTTERED (No White Space):**
+
 - Text edge-to-edge
 - Multiple ideas crammed on one slide
 - No margins, no breathing room
 - Feels overwhelming and cheap
 
 **CLEAN (Generous White Space):**
+
 - Wide margins (100px+)
 - One idea, centered with space around it
 - Generous line spacing
@@ -1215,6 +1246,7 @@ Every high-performing carousel slide follows this structure:
 ```
 
 **Each Section Serves a Purpose:**
+
 1. **Headline (Top):** Captures attention, states main idea
 2. **Supporting Line:** Adds context or builds curiosity
 3. **Visual (Middle):** Reinforces message (not decoration)
@@ -1236,6 +1268,7 @@ These 5 layout principles ensure your carousel is visually organized and strateg
 **Principle:** Use a grid to maintain clarity and professionalism.
 
 **Why It Matters:**
+
 - Grids create visual order
 - Consistency across slides feels intentional
 - Professional designers always use grids
@@ -1245,21 +1278,25 @@ These 5 layout principles ensure your carousel is visually organized and strateg
 **Grid Systems for Carousels:**
 
 **12-Column Grid (Most Versatile):**
+
 - Divide canvas into 12 equal vertical columns
 - Align all elements to grid lines
 - Allows flexible layouts (6+6, 4+4+4, 8+4, etc.)
 
 **3-Section Grid (Simple & Clean):**
+
 - Top section: Headline (25% of height)
 - Middle section: Content (50% of height)
 - Bottom section: Takeaway/CTA (25% of height)
 
 **Center-Aligned Grid (Minimal):**
+
 - All content centered vertically and horizontally
 - Maximum white space
 - Best for quote cards or single statements
 
 **Grid Rules:**
+
 - ✅ Use same grid system across all slides
 - ✅ Snap all elements to grid lines
 - ✅ Maintain consistent gutters (space between columns)
@@ -1276,6 +1313,7 @@ These 5 layout principles ensure your carousel is visually organized and strateg
 **Principle:** Emphasize your most important element. Use contrast in size, color & placement.
 
 **Why It Matters:**
+
 - Not all information is equally important
 - Visual weight guides the eye
 - Emphasis drives comprehension
@@ -1285,25 +1323,30 @@ These 5 layout principles ensure your carousel is visually organized and strateg
 **Creating Visual Weight:**
 
 **Size Contrast:**
+
 - Make important elements 2-3x larger than supporting elements
 - Example: Headline (84pt) vs body text (36pt) = clear hierarchy
 
 **Color Contrast:**
+
 - Use bold accent color for focal point
 - Keep supporting elements in neutral tones
 - Example: Red headline on gray background = immediate focus
 
 **Placement Weight:**
+
 - Top-center gets most attention
 - Bottom corners get least attention
 - Place key message in high-attention zones
 
 **Isolation Weight:**
+
 - Surround important element with white space
 - Separate from other elements
 - Creates "spotlight effect"
 
 **Visual Weight Distribution:**
+
 - **Primary element:** 50-60% of visual attention (headline, main message)
 - **Secondary element:** 25-30% of attention (supporting text, visual)
 - **Tertiary elements:** 10-15% of attention (details, CTA, slide number)
@@ -1323,6 +1366,7 @@ Headline dominates (84pt, bold, red) → Supporting text smaller (36pt, gray) �
 **Principle:** Align text and visuals intentionally. Consistency in alignment creates a clean, premium look.
 
 **Why It Matters:**
+
 - Alignment creates visual order
 - Inconsistent alignment feels chaotic
 - Professional work shows intentional alignment
@@ -1332,22 +1376,26 @@ Headline dominates (84pt, bold, red) → Supporting text smaller (36pt, gray) �
 **Alignment Strategies:**
 
 **Left-Aligned (Best for Reading):**
+
 - Most natural reading pattern
 - Best for text-heavy slides
 - Creates clean left edge
 - Use for: Educational content, list-based slides
 
 **Center-Aligned (Best for Impact):**
+
 - Creates symmetry and balance
 - Best for quotes, headlines, single statements
 - Use for: Cover slides, bold statements, CTAs
 
 **Right-Aligned (Use Sparingly):**
+
 - Creates tension and interest
 - Best as accent or for specific design effect
 - Use for: Small details, slide numbers, decorative elements
 
 **Alignment Rules:**
+
 - ✅ Pick ONE primary alignment per slide
 - ✅ Use same alignment across similar slides
 - ✅ Align elements to each other (create invisible lines)
@@ -1356,6 +1404,7 @@ Headline dominates (84pt, bold, red) → Supporting text smaller (36pt, gray) �
 - ❌ Don't center-align large paragraphs (hard to read)
 
 **Alignment Creates Relationships:**
+
 - Elements aligned to same edge = visually grouped
 - Elements with same alignment = feel connected
 - Breaking alignment = creates emphasis or separation
@@ -1367,6 +1416,7 @@ Headline dominates (84pt, bold, red) → Supporting text smaller (36pt, gray) �
 **Principle:** Guide the viewer's eyes from headline to CTA using hierarchy and spacing.
 
 **Why It Matters:**
+
 - Eye movement should be intentional
 - Natural flow increases comprehension
 - Good flow feels effortless, bad flow causes friction
@@ -1376,6 +1426,7 @@ Headline dominates (84pt, bold, red) → Supporting text smaller (36pt, gray) �
 **The Visual Flow Path:**
 
 **F-Pattern (Most Common):**
+
 1. Eye starts top-left (headline)
 2. Moves right across top (supporting headline)
 3. Drops down left side (body content)
@@ -1383,12 +1434,14 @@ Headline dominates (84pt, bold, red) → Supporting text smaller (36pt, gray) �
 5. Ends bottom-left (CTA)
 
 **Z-Pattern (Dynamic):**
+
 1. Eye starts top-left (headline)
 2. Moves diagonally to top-right (visual)
 3. Drops diagonally to bottom-left (body)
 4. Ends bottom-right (CTA)
 
 **Center-Out Pattern (Impact):**
+
 1. Eye starts center (bold headline)
 2. Radiates outward to supporting elements
 3. Ends at edges (details, CTA)
@@ -1396,26 +1449,31 @@ Headline dominates (84pt, bold, red) → Supporting text smaller (36pt, gray) �
 **Flow Techniques:**
 
 **Size Gradient:**
+
 - Start with largest element (headline)
 - Progress to smaller elements (body, details)
 - Creates natural top-to-bottom flow
 
 **Color Guidance:**
+
 - Use accent color to highlight key path
 - Example: Red headline → Red key points → Red CTA
 - Eye follows the color
 
 **Spacing Control:**
+
 - Tight spacing = elements feel connected
 - Loose spacing = creates separation
 - Use spacing to group related items
 
 **Directional Cues:**
+
 - Arrows or lines guide eye
 - Numbers create sequence (1, 2, 3)
 - Icons or bullets create visual stops
 
 **Flow Rules:**
+
 - ✅ Test your flow: Can you scan slide in 3 seconds and understand message?
 - ✅ Create clear entry point (where eye lands first)
 - ✅ Create clear exit point (where eye should end up)
@@ -1429,6 +1487,7 @@ Headline dominates (84pt, bold, red) → Supporting text smaller (36pt, gray) �
 **Principle:** Don't let text overpower the design. Balance words with visuals for maximum impact.
 
 **Why It Matters:**
+
 - Text-only slides feel like documents
 - Visual-only slides lack clarity
 - Balance creates engaging, professional slides
@@ -1438,16 +1497,19 @@ Headline dominates (84pt, bold, red) → Supporting text smaller (36pt, gray) �
 **The Balance Ratio:**
 
 **Text-Heavy Slides (70/30):**
+
 - 70% text, 30% visual/white space
 - Use for: Educational content, detailed explanations
 - Example: Slide with 4-5 key points + small icon
 
 **Balanced Slides (50/50):**
+
 - 50% text, 50% visual/white space
 - Use for: Most carousel slides
 - Example: Headline + supporting text + medium illustration
 
 **Visual-Heavy Slides (30/70):**
+
 - 30% text, 70% visual/white space
 - Use for: Impact slides, quotes, before/after
 - Example: Large photo/graphic + short headline
@@ -1455,6 +1517,7 @@ Headline dominates (84pt, bold, red) → Supporting text smaller (36pt, gray) �
 **Balance Techniques:**
 
 **Visual Types:**
+
 - **Icons:** Simple, reinforce message without overwhelming
 - **Illustrations:** Add personality, explain concepts visually
 - **Photos:** Create emotion, show real-world application
@@ -1462,17 +1525,20 @@ Headline dominates (84pt, bold, red) → Supporting text smaller (36pt, gray) �
 - **Decorative elements:** Lines, shapes to create structure (use sparingly)
 
 **When to Use More Text:**
+
 - Educational carousels teaching specific concepts
 - Step-by-step tutorials
 - Listicles with short bullet points
 
 **When to Use More Visuals:**
+
 - Before/after transformations
 - Portfolio/case study showcases
 - Inspirational or motivational content
 - Brand storytelling
 
 **Balance Rules:**
+
 - ✅ Every visual must serve the message (not decoration)
 - ✅ If visual doesn't add clarity, remove it
 - ✅ Text should be readable even without visual
@@ -1526,35 +1592,41 @@ Every high-converting carousel follows this proven structure:
 **Blueprint Breakdown:**
 
 **Hook / Headline (Slide 1):**
+
 - Primary purpose: Stop the scroll
 - Maximum 6 words headline
 - Maximum 10 words supporting line
 - Bold typography, high contrast
 
 **Top Hood (Slides 2-3):**
+
 - Primary purpose: Set context and build interest
 - Introduce problem or concept
 - Use relevant high-quality visual to explain
 - Don't reveal full solution yet (retention loop)
 
 **Key Points (Slides 4-7):**
+
 - Primary purpose: Deliver core value
 - One point per slide (maximum 3-4 points total)
 - Keep points short, scannable, actionable
 - Use bullets, icons, or numbers for clarity
 
 **Below Points (Supporting Info):**
+
 - Expand on key points with brief details
 - Keep text minimal (maximum 12 words)
 - Use hierarchy (smaller, lighter text)
 
 **Bottom Takeaway (Slides 8-9):**
+
 - Primary purpose: Summarize and reinforce
 - Synthesize key insights
 - Set up the CTA
 - Create sense of completion
 
 **Takeaway / CTA (Slide 10):**
+
 - Primary purpose: Drive action
 - Clear, specific call to action
 - Create next step (save, share, link in bio, comment)
@@ -1575,6 +1647,7 @@ These 5 principles ensure your carousel doesn't just look good—it converts.
 **Principle:** Crisp, relevant visuals build trust and capture attention instantly.
 
 **Why It Matters:**
+
 - Low-quality visuals = low-quality brand perception
 - Blurry or pixelated images kill credibility
 - First impression forms in 0.05 seconds
@@ -1584,6 +1657,7 @@ These 5 principles ensure your carousel doesn't just look good—it converts.
 **Visual Quality Standards:**
 
 **Resolution Requirements:**
+
 - **Minimum:** 72 DPI for social media
 - **Optimal:** 150 DPI for crisp mobile display
 - **Canvas size:** 1080x1350px (Instagram), 1080x1920px (Stories)
@@ -1593,6 +1667,7 @@ These 5 principles ensure your carousel doesn't just look good—it converts.
 **Visual Selection Criteria:**
 
 **For Photos:**
+
 - ✅ Sharp focus, good lighting
 - ✅ High resolution (not stretched or pixelated)
 - ✅ Relevant to message (not generic stock photo)
@@ -1600,18 +1675,21 @@ These 5 principles ensure your carousel doesn't just look good—it converts.
 - ❌ Watermarks, low-res images, unrelated stock photos
 
 **For Icons/Illustrations:**
+
 - ✅ Vector-based (scales without quality loss)
 - ✅ Consistent style (all flat, all outlined, all 3D—not mixed)
 - ✅ Simple and recognizable
 - ✅ Support message (not just decoration)
 
 **For Data Visualizations:**
+
 - ✅ Clean, easy to read
 - ✅ High contrast between data and background
 - ✅ Clear labels and legends
 - ✅ Professional design (not Excel screenshots)
 
 **Visual Quality Rules:**
+
 - ✅ Test visibility at thumbnail size (can you still tell what it is?)
 - ✅ Use consistent visual language across all slides
 - ✅ Invest in quality tools (Unsplash, Pexels for photos; Noun Project for icons)
@@ -1625,6 +1703,7 @@ These 5 principles ensure your carousel doesn't just look good—it converts.
 **Principle:** Use 3-4 colors max. A strong brand identity.
 
 **Why It Matters:**
+
 - Color palette = instant brand recognition
 - Too many colors = visual chaos
 - Consistent colors = professional, intentional design
@@ -1634,6 +1713,7 @@ These 5 principles ensure your carousel doesn't just look good—it converts.
 **The 3-4 Color System (Reinforced):**
 
 **3 Color Palette (Recommended):**
+
 - **Primary (60%):** Your brand color or dominant background
 - **Secondary (30%):** Complementary color for contrast
 - **Accent (10%):** Bright highlight for key elements
@@ -1641,6 +1721,7 @@ These 5 principles ensure your carousel doesn't just look good—it converts.
 Example: Navy blue (60%) + White (30%) + Yellow (10%)
 
 **4 Color Palette (Maximum):**
+
 - **Primary (50%):** Main brand color
 - **Secondary (25%):** Supporting color
 - **Accent 1 (15%):** Highlight color
@@ -1651,16 +1732,19 @@ Example: Black (50%) + White (25%) + Red (15%) + Gold (10%)
 **Color Role Assignment:**
 
 **Background Colors:**
+
 - Use primary or neutral (black, white, cream, gray)
 - Keep consistent across most slides
 - Can alternate between 2 colors for rhythm
 
 **Headline Colors:**
+
 - Use primary brand color or high-contrast neutral
 - Keep consistent across all headlines
 - Example: All headlines in black or all in brand red
 
 **Accent Colors:**
+
 - Use for: Key points, CTAs, important highlights
 - Reserve for most important elements only
 - Don't overuse (loses impact)
@@ -1668,21 +1752,25 @@ Example: Black (50%) + White (25%) + Red (15%) + Gold (10%)
 **How to Build Your Palette:**
 
 **Option 1: Brand-Based**
+
 - Start with your brand colors
 - Add complementary color for contrast
 - Add neutral for balance
 
 **Option 2: Psychology-Based**
+
 - Choose colors based on emotional goal
 - Trust = blue | Energy = red/orange | Growth = green
 - Add neutrals for balance
 
 **Option 3: Trend-Based**
+
 - Look at top-performing carousels in your niche
 - Identify common color palettes
 - Adapt to your brand
 
 **Color Palette Rules:**
+
 - ✅ Test colors together (create mood board)
 - ✅ Ensure 4.5:1 contrast ratio for text
 - ✅ Use color meaning consistently (red = problem throughout)
@@ -1697,6 +1785,7 @@ Example: Black (50%) + White (25%) + Red (15%) + Gold (10%)
 **Principle:** Use bold, readable fonts. Create contrast between headline and body text.
 
 **Why It Matters:**
+
 - Typography = 90% of carousel visual impact
 - Good typography = professional, trustworthy
 - Bad typography = ignored, skipped
@@ -1706,16 +1795,19 @@ Example: Black (50%) + White (25%) + Red (15%) + Gold (10%)
 **Font Pairing System:**
 
 **Pairing Strategy A: Sans + Sans (Safest)**
+
 - Headline: Bold sans-serif (Poppins Bold, Montserrat Black)
 - Body: Regular sans-serif (Inter, Source Sans Pro)
 - Best for: Modern, clean, professional brands
 
 **Pairing Strategy B: Sans + Serif (Sophisticated)**
+
 - Headline: Bold sans-serif (Helvetica Bold, Futura Bold)
 - Body: Serif (Merriweather, Lora)
 - Best for: Luxury, traditional, authoritative brands
 
 **Pairing Strategy C: Display + Sans (Creative)**
+
 - Headline: Bold display font (Impact, Bebas Neue)
 - Body: Clean sans-serif (Inter, Open Sans)
 - Best for: Bold, energetic, youth-oriented brands
@@ -1723,12 +1815,14 @@ Example: Black (50%) + White (25%) + Red (15%) + Gold (10%)
 **Font Weight Contrast:**
 
 **Maximum Impact Contrast:**
+
 - Headline: 800-900 weight (Black/Bold)
 - Subhead: 600-700 weight (Semibold)
 - Body: 400-500 weight (Regular/Medium)
 - Caption: 300-400 weight (Light/Regular)
 
 **Size Contrast:**
+
 - Headline should be 2-3x larger than body text
 - Example: 84pt headline, 36pt body = clear hierarchy
 
@@ -1748,6 +1842,7 @@ Example: Black (50%) + White (25%) + Red (15%) + Gold (10%)
 ```
 
 **Typography Rules:**
+
 - ✅ Maximum 2 font families per carousel
 - ✅ Use same fonts across all slides (consistency)
 - ✅ Create strong contrast in size and weight
@@ -1767,6 +1862,7 @@ View your slide at 25% size. Can you still read the headline? If not, increase s
 **Principle:** Lead the viewer's eye to what matters first: the headline, then the value.
 
 **Why It Matters:**
+
 - Hierarchy = guided attention
 - People scan in predictable patterns
 - Good hierarchy increases comprehension by 60%
@@ -1776,16 +1872,19 @@ View your slide at 25% size. Can you still read the headline? If not, increase s
 **The Attention Sequence:**
 
 **First Glance (0-1 seconds):**
+
 - What they see: Headline
 - What it does: Captures attention, creates curiosity
 - Visual weight: 50% of attention
 
 **Second Glance (1-2 seconds):**
+
 - What they see: Supporting text or visual
 - What it does: Adds context, builds interest
 - Visual weight: 30% of attention
 
 **Third Glance (2-3 seconds):**
+
 - What they see: Details, key points, CTA
 - What it does: Delivers value, prompts action
 - Visual weight: 20% of attention
@@ -1793,22 +1892,26 @@ View your slide at 25% size. Can you still read the headline? If not, increase s
 **Hierarchy Tools:**
 
 **Size Hierarchy:**
+
 - Largest element = most important
 - Create 2-3x size difference between levels
 - Example: 84pt headline → 36pt body → 24pt caption
 
 **Color Hierarchy:**
+
 - Brightest/boldest color = primary focus
 - Neutral tones = supporting elements
 - Example: Red headline → Black body → Gray caption
 
 **Position Hierarchy:**
+
 - Top = most important (seen first)
 - Center = emphasis
 - Bottom = conclusion/action
 - Corners = least important (slide numbers, details)
 
 **Contrast Hierarchy:**
+
 - Highest contrast = immediate focus
 - Lower contrast = secondary information
 - Example: Black on white (headline) → Gray on white (body)
@@ -1822,6 +1925,7 @@ View your slide at 25% size. Can you still read the headline? If not, increase s
 **Step 5:** Surround with white space
 
 **Hierarchy Rules:**
+
 - ✅ Only ONE primary focal point per slide
 - ✅ Supporting elements should be clearly secondary
 - ✅ Test: Cover slide and ask "What's the main point?" Should be obvious.
@@ -1835,6 +1939,7 @@ View your slide at 25% size. Can you still read the headline? If not, increase s
 **Principle:** Less is more. Every element on the slide should have a purpose.
 
 **Why It Matters:**
+
 - Simplicity = clarity
 - Clutter = cognitive overload = scroll past
 - Professional work looks effortless (because it's simple)
@@ -1844,11 +1949,13 @@ View your slide at 25% size. Can you still read the headline? If not, increase s
 **The Simplicity Audit:**
 
 For every element on your slide, ask:
+
 1. **Does it support the main message?** If no → Remove it
 2. **Does it add clarity or value?** If no → Remove it
 3. **Would the slide work without it?** If yes → Remove it
 
 **What to Keep:**
+
 - ✅ One headline that states main idea
 - ✅ Supporting text that adds necessary context (optional)
 - ✅ One visual that reinforces message (optional)
@@ -1856,6 +1963,7 @@ For every element on your slide, ask:
 - ✅ CTA on final slide
 
 **What to Remove:**
+
 - ❌ Decorative elements that don't support message
 - ❌ Multiple ideas competing for attention
 - ❌ Redundant text (if visual shows it, don't also write it)
@@ -1865,24 +1973,29 @@ For every element on your slide, ask:
 **Simplicity Techniques:**
 
 **One Idea Per Slide:**
+
 - Resist urge to add "just one more thing"
 - If you have two ideas, use two slides
 
 **Generous White Space:**
+
 - Minimum 15-20% of slide should be empty
 - Don't fear emptiness—it creates focus
 
 **Minimal Visual Style:**
+
 - Clean backgrounds (solid colors)
 - Simple icons or illustrations (not complex graphics)
 - Sans-serif fonts (easier to read)
 
 **Consistent Visual Language:**
+
 - Same colors throughout
 - Same fonts throughout
 - Same icon style throughout
 
 **Simplicity Rules:**
+
 - ✅ If in doubt, remove it
 - ✅ Use fewer words, larger fonts
 - ✅ One clear visual hierarchy
@@ -1927,36 +2040,42 @@ Every high-converting slide includes these strategic elements:
 **Element Breakdown:**
 
 **Branding (Top Corner):**
+
 - Your logo or brand name
 - Small, unobtrusive (don't let it compete with headline)
 - Consistent position across all slides
 - Builds brand recognition
 
 **Headline (Top Section):**
+
 - Bold, large, high contrast
 - States main idea in 6 words or less
 - First thing eye sees
 - Maximum impact, minimum words
 
 **Supporting Text (Below Headline):**
+
 - Adds clarity or builds curiosity
 - Medium size, regular weight
 - Optional (only if needed for context)
 - Maximum 10-12 words
 
 **Visual (Middle Section):**
+
 - Relevant image, icon, or illustration
 - High quality, not decorative
 - Reinforces message visually
 - Optional (only if it adds clarity)
 
 **Key Points (Middle-Bottom Section):**
+
 - 2-4 bullet points maximum
 - Short, scannable, benefit-focused
 - Use icons or bullets for visual breaks
 - Each point should be 5-8 words
 
 **CTA / Takeaway (Bottom Section):**
+
 - Clear call to action or conclusion
 - Tells viewer what to do next
 - Medium size, sometimes in accent color
@@ -1967,6 +2086,7 @@ Every high-converting slide includes these strategic elements:
 ### Design Framework Summary
 
 **Foundation (Part A): How to Design**
+
 1. **Clear Message:** One slide = one idea
 2. **Strong Typography:** Bold, readable fonts
 3. **Color Palette:** 2-4 colors maximum
@@ -1974,6 +2094,7 @@ Every high-converting slide includes these strategic elements:
 5. **White Space:** Give content room to breathe
 
 **Layout (Part B): Master the Layout**
+
 1. **Follow Clear Grid:** Maintain clarity and professionalism
 2. **Use Visual Weight:** Emphasize important elements
 3. **Align with Purpose:** Consistency in alignment
@@ -1981,6 +2102,7 @@ Every high-converting slide includes these strategic elements:
 5. **Balance Text & Visuals:** Don't let text overpower design
 
 **Impact (Part C): Design with Impact**
+
 1. **High-Quality Visuals:** Build trust and capture attention
 2. **Stick to Color Palette:** Strong brand identity
 3. **Typography Matters:** Create contrast, ensure readability
