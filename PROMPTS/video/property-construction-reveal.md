@@ -50,6 +50,7 @@ Step 2: Omni Flash (Dual-Reference Animation)
 **Input:** Final photo of completed property
 
 **Execution:**
+
 - AI strips away all architectural structures
 - Removes paving, walls, artificial landscaping
 - Maintains exact frame, lens compression, angle
@@ -64,10 +65,12 @@ Step 2: Omni Flash (Dual-Reference Animation)
 ### Step 2: Sequential Animation Construction (Omni Flash)
 
 **Inputs:**
+
 - Reference Image 1 (Bare Soil) → Position 1 (0s mark)
 - Original Property Photo → Position 2 (6s mark)
 
 **Execution:**
+
 - Places structural components onto bare land
 - Discrete timeline stages (not cross-fade)
 - Camera angle strictly locked
@@ -84,10 +87,12 @@ Step 2: Omni Flash (Dual-Reference Animation)
 ### Platform Access
 
 **Pollo.ai Tools:**
+
 - **Nano Banana:** Object & structure removal engine (Step 1)
 - **Omni Flash:** Video generation engine (Step 2)
 
 **Why These Tools:**
+
 - Nano Banana preserves perspective, focal length, lighting better than standard image editors
 - Omni Flash accepts dual reference inputs with precise prompt-based motion controls
 
@@ -96,22 +101,26 @@ Step 2: Omni Flash (Dual-Reference Animation)
 ### Prerequisites Checklist
 
 **Image Resolution:**
+
 - Minimum: 1080p resolution
 - Recommended: High-contrast, well-lit exterior photos
 - Best: 4K for maximum detail
 
 **Crop Alignment:**
+
 - Reference 1 and Reference 2 must share **identical pixel-for-pixel framing**
 - No re-cropping between steps
 - No resizing or aspect ratio changes
 
 **Aspect Ratio:**
+
 - 9:16 (vertical - social media reels)
 - 16:9 (landscape - presentations)
 - 1:1 (square - Instagram)
 - **Keep consistent across both steps**
 
 **Photo Quality:**
+
 - Sharp focus
 - Clear architectural details
 - Good natural lighting
@@ -134,6 +143,7 @@ Step 2: Omni Flash (Dual-Reference Animation)
    - This becomes Reference Image 2
 
 3. **Apply Structural Removal Prompt:**
+
    ```
    Remove the entire house, building structures, outdoor furniture, driveway paving, and artificial landscaping from this scene. Clear the ground down to a bare, natural plot of land or bare soil. Keep everything else in the background exactly as it is: identical camera angle, identical field of view, identical crop, identical framing, identical horizon line, and identical surrounding environment/trees in the distance. Fill the cleared area with natural dirt and ground texture matching the environment. Same lighting, same shadow direction, same time of day.
    ```
@@ -146,18 +156,22 @@ Step 2: Omni Flash (Dual-Reference Animation)
 
 **Before proceeding to Step 2, verify:**
 
-✅ **Camera Lock:**  
+✅ **Camera Lock:**
+
 - Horizon line unchanged?
 - Background environment identical?
 
-✅ **Perspective:**  
+✅ **Perspective:**
+
 - Distant background elements (sky, trees) in identical positions?
 
-✅ **Surface Replacement:**  
+✅ **Surface Replacement:**
+
 - Building footprint replaced with clean natural soil?
 - Terrain matches local environment?
 
-✅ **Framing:**  
+✅ **Framing:**
+
 - Crop dimensions exactly the same?
 - No shift in composition?
 
@@ -203,6 +217,7 @@ Remove the entire house, building structures, outdoor furniture, driveway paving
 ```
 
 **Key Elements:**
+
 - Remove all human-made structures
 - Preserve camera perspective 100%
 - Maintain background environment
@@ -273,17 +288,20 @@ Negative: changing camera angle, changing perspective, new viewpoint, reframing,
 #### POP-IN (Foundations & Ground Slabs)
 
 **Use For:**
+
 - Foundation slabs
 - Concrete bases
 - Heavy ground-level walls
 
 **Effect:**
+
 - Elements appear directly at final coordinates
 - Undersized by 2% for two frames
 - Settles to 100% scale
 - Duration: ~0.2 seconds
 
 **Visual Weight:**
+
 - Imparts sense of mass to concrete bases
 - Firm settle upon arrival
 - Immediate contact shadows
@@ -293,17 +311,20 @@ Negative: changing camera angle, changing perspective, new viewpoint, reframing,
 #### DROP (Walls, Main Pillars & Doors)
 
 **Use For:**
+
 - Exterior wall panels
 - Main structural pillars
 - Door frames
 - Mid-level structures
 
 **Effect:**
+
 - Descends from slightly above resting position
 - Locks into place upon contact
 - Immediate shadow formation
 
 **Motion Path:**
+
 - Short vertical travel (just above final position)
 - Quick lock-in
 - Duration: ~0.2-0.3 seconds
@@ -313,6 +334,7 @@ Negative: changing camera angle, changing perspective, new viewpoint, reframing,
 #### DESCEND (Roof Assemblies, Upper Floors & Cantilevers)
 
 **Use For:**
+
 - Roof structures
 - Upper story floors
 - Ceiling beams
@@ -320,11 +342,13 @@ Negative: changing camera angle, changing perspective, new viewpoint, reframing,
 - Cantilevers and overhangs
 
 **Effect:**
+
 - Lowers vertically from above
 - Settles onto previously placed lower structures
 - Creates top-down assembly logic
 
 **Motion Path:**
+
 - Longer vertical travel than DROP
 - Gentle descent
 - Settles with weight
@@ -335,6 +359,7 @@ Negative: changing camera angle, changing perspective, new viewpoint, reframing,
 #### SETTLE (Paving, Lawn Turf & Gravel)
 
 **Use For:**
+
 - Grass and lawn turf
 - Stone pathways
 - Gravel driveways
@@ -342,11 +367,13 @@ Negative: changing camera angle, changing perspective, new viewpoint, reframing,
 - Ground cover elements
 
 **Effect:**
+
 - Drops from low height
 - Flattens smoothly upon contact
 - Integrates with terrain
 
 **Motion Path:**
+
 - Short drop to ground level
 - Spreads/flattens on impact
 - Natural ground-covering behavior
@@ -356,6 +383,7 @@ Negative: changing camera angle, changing perspective, new viewpoint, reframing,
 #### INSTANT (Glass Panes, Wall Lights, House Numbers & Plants)
 
 **Use For:**
+
 - Window glass
 - Exterior lighting fixtures
 - House numbers/address
@@ -363,11 +391,13 @@ Negative: changing camera angle, changing perspective, new viewpoint, reframing,
 - Trim details and accents
 
 **Effect:**
+
 - Appears in single frame
 - No spatial travel
 - Instant materialization
 
 **Visual Purpose:**
+
 - Adds finishing touches
 - Detail elements that don't need motion
 - Final polish items
@@ -402,6 +432,7 @@ Negative: changing camera angle, changing perspective, new viewpoint, reframing,
 **Purpose:** Prevents perspective breathing and warping
 
 **Critical Language:**
+
 - "Camera position, height, angle, focal length stay fixed"
 - "All vanishing points remain in same directions"
 - "Composition must overlay onto reference images"
@@ -416,6 +447,7 @@ Without strict camera lock instructions, AI will attempt to regenerate scene fro
 **Purpose:** Prevents interpolation/morphing
 
 **Critical Language:**
+
 - "Two discrete states, NOT two ends of a blend"
 - "Do not interpolate between them"
 - "First image stays exactly as it is, unchanged"
@@ -431,6 +463,7 @@ Default AI behavior is to cross-fade/morph between images. This block forces dis
 **Purpose:** Prevents AI from adding extra elements
 
 **Critical Language:**
+
 - "Defined entirely by the second reference image"
 - "Do not add, invent, substitute, duplicate, restyle"
 - "Final frame must contain exactly the same details"
@@ -445,6 +478,7 @@ AI will attempt to "improve" or "complete" scenes by adding decor, trees, or emb
 **Purpose:** Freezes background environment
 
 **Critical Language:**
+
 - "Background, sky, distant trees stay identical"
 - "Never redrawn, warped, shifted, or reinterpreted"
 
@@ -458,15 +492,18 @@ Ensures only the building animates while environment remains static.
 ### Problem 1: Architectural Warping or Perspective Breathing
 
 **Symptoms:**
+
 - Building appears to warp during animation
 - Perspective shifts or wobbles
 - Background environment distorts
 
 **Root Cause:**
+
 - Misaligned framing between Reference 1 and Reference 2
 - Crop differences between steps
 
 **Solution:**
+
 - Re-generate Reference 1 in Step 1
 - Ensure source file for Nano Banana is **identical** to Reference 2 uploaded to Omni Flash
 - Verify pixel-perfect dimensional match
@@ -477,16 +514,19 @@ Ensures only the building animates while environment remains static.
 ### Problem 2: Melting or Liquid Morphing Structures
 
 **Symptoms:**
+
 - Building melts/morphs into place
 - Walls appear to grow organically
 - Cross-fade effect instead of discrete assembly
 - Translucent/ghosting structures
 
 **Root Cause:**
+
 - Video AI defaulted to image interpolation
 - "HOW TO USE THE TWO REFERENCE IMAGES" block missing or truncated
 
 **Solution:**
+
 - Ensure anti-interpolation block is **completely intact**
 - Do not edit out discrete state language
 - Verify "never a partial blend" language is present
@@ -497,16 +537,19 @@ Ensures only the building animates while environment remains static.
 ### Problem 3: Unwanted Objects Appearing (Unplanned Decor/Trees)
 
 **Symptoms:**
+
 - Extra trees appear that weren't in original photo
 - Additional furniture or decor materializes
 - Landscaping elements not in Reference 2
 - Style changes to building exterior
 
 **Root Cause:**
+
 - AI model auto-styling the scene
 - "STRICT OBJECT INVENTORY" section missing
 
 **Solution:**
+
 - Confirm STRICT OBJECT INVENTORY block is present
 - Ensure "nothing more, nothing less" language included
 - Strengthen negative prompt with "added structures, extra walls, invented objects"
@@ -517,16 +560,19 @@ Ensures only the building animates while environment remains static.
 ### Problem 4: Everything Appears Simultaneously
 
 **Symptoms:**
+
 - All architectural elements appear at once
 - No sequential assembly
 - Timeline skipped
 - Instant full building
 
 **Root Cause:**
+
 - Prompt length exceeded model context limits
 - Timeline instructions truncated or ignored
 
 **Solution:**
+
 - Trim non-essential descriptions
 - Prioritize critical blocks: CAMERA LOCK, HOW TO USE IMAGES, STRICT OBJECT INVENTORY
 - Keep TIMELINE block but simplify motion descriptions
@@ -537,15 +583,18 @@ Ensures only the building animates while environment remains static.
 ### Problem 5: Camera Movement Too Aggressive
 
 **Symptoms:**
+
 - Camera zooms or pans noticeably
 - Composition changes significantly
 - Scene appears re-framed
 
 **Root Cause:**
+
 - Camera drift language too strong
 - Default camera behavior overriding instructions
 
 **Solution:**
+
 - Emphasize "subtle," "minimal," "a few degrees"
 - Add "composition stays recognisably the same shot"
 - Strengthen "No dolly, no zoom, no whip pan"
@@ -556,16 +605,19 @@ Ensures only the building animates while environment remains static.
 ### Problem 6: Background Environment Changes
 
 **Symptoms:**
+
 - Sky color shifts
 - Distant trees move or change
 - Lighting direction changes
 - Surrounding landscape warps
 
 **Root Cause:**
+
 - ABSOLUTE LOCK block insufficient
 - Background not preserved from Reference 1
 
 **Solution:**
+
 - Ensure "background environment stay identical" language present
 - Verify Reference 1 preserved background perfectly
 - Add to negative prompt: "changing sky, altered background, warped landscape"
@@ -575,16 +627,19 @@ Ensures only the building animates while environment remains static.
 ### Problem 7: Final Frame Doesn't Match Reference 2
 
 **Symptoms:**
+
 - Completed building looks different from original
 - Colors changed
 - Elements missing or repositioned
 - Details altered
 
 **Root Cause:**
+
 - AI took creative liberties
 - Object inventory not enforced
 
 **Solution:**
+
 - Strengthen "final frame equals reference image exactly" language
 - Verify Reference 2 image is high-quality and clear
 - Ensure STRICT OBJECT INVENTORY block intact
@@ -597,11 +652,13 @@ Ensures only the building animates while environment remains static.
 ### Multi-Property Developments
 
 **For Multiple Buildings:**
+
 - Ensure all structures visible in Reference 2
 - Stagger assembly: Building 1 (2-3.5s), Building 2 (3.5-5s)
 - Maintain logical construction order
 
 **Timeline Adjustment:**
+
 ```
 2-3s: First building foundation and walls
 3-4s: First building roof, second building foundation
@@ -614,6 +671,7 @@ Ensures only the building animates while environment remains static.
 ### Commercial Properties
 
 **Large Structures:**
+
 - May need more complex motion sequencing
 - Consider splitting DESCEND phase for multi-story buildings:
   - 3.5-4.5s: Floors 1-3
@@ -621,6 +679,7 @@ Ensures only the building animates while environment remains static.
   - 5.5-6s: Finishing details
 
 **Emphasis Elements:**
+
 - Signage (INSTANT at 5-6s)
 - Parking lots (SETTLE at 5-6s)
 - Landscaped entryways (SETTLE sequence)
@@ -630,11 +689,13 @@ Ensures only the building animates while environment remains static.
 ### Seasonal Variations
 
 **Adapt Reference Images:**
+
 - **Spring/Summer:** Lush green landscaping, vibrant gardens
 - **Fall:** Autumn foliage colors, fallen leaves
 - **Winter:** Snow coverage on roof and ground
 
 **Prompt Adjustments:**
+
 - Specify seasonal ground texture in Step 1
 - Maintain seasonal consistency between references
 - Adjust lighting descriptions (warm summer vs. cool winter light)
@@ -644,16 +705,19 @@ Ensures only the building animates while environment remains static.
 ### Dramatic Lighting
 
 **Golden Hour:**
+
 - Shoot Reference 2 during golden hour
 - Warm sunset lighting on building facade
 - Long shadows for dramatic effect
 
 **Blue Hour:**
+
 - Twilight photography
 - Exterior lights on (INSTANT appearance at 5-6s creates dramatic glow)
 - Cool blue sky with warm interior glow
 
 **Overcast:**
+
 - Even, soft lighting
 - Reduces shadow complexity
 - Easier for AI to maintain consistency
@@ -665,18 +729,21 @@ Ensures only the building animates while environment remains static.
 ### Real Estate Marketing
 
 **Property Developers:**
+
 - Pre-construction sales visualization
 - Show completed property before building exists
 - Marketing materials for new developments
 - Investor presentations
 
 **Real Estate Agents:**
+
 - Listing video enhancements
 - Social media property showcases
 - Virtual tours opening sequences
 - Property portfolio reels
 
 **Benefits:**
+
 - No 3D modeling required
 - Photorealistic output
 - Quick turnaround (minutes, not days)
@@ -687,12 +754,14 @@ Ensures only the building animates while environment remains static.
 ### Architectural Firms
 
 **Project Presentations:**
+
 - Client proposal videos
 - Design concept reveals
 - Before/after transformations
 - Portfolio showcase pieces
 
 **Competition Submissions:**
+
 - Dynamic project presentations
 - Engaging visual narratives
 - Professional broadcast quality
@@ -702,12 +771,14 @@ Ensures only the building animates while environment remains static.
 ### Construction Companies
 
 **Progress Documentation:**
+
 - Reverse sequence (completed → bare land)
 - Show project scope dramatically
 - Investor updates
 - Website/social media content
 
 **Marketing Materials:**
+
 - Capability demonstrations
 - Brand storytelling
 - Commercial video content
@@ -717,22 +788,26 @@ Ensures only the building animates while environment remains static.
 ### Social Media Content
 
 **Instagram Reels:**
+
 - 9:16 vertical format
 - Engaging property reveals
 - High shareability
 - Viral potential
 
 **TikTok:**
+
 - Before/after property transformations
 - Real estate content creation
 - Behind-the-scenes development
 
 **YouTube:**
+
 - Property tour intros
 - Real estate channel content
 - Documentary segments
 
 **LinkedIn:**
+
 - Professional development showcases
 - B2B marketing
 - Industry thought leadership
@@ -744,6 +819,7 @@ Ensures only the building animates while environment remains static.
 ### Input Requirements
 
 **Reference Image 2 (Original Property):**
+
 - Resolution: 1080p minimum, 4K recommended
 - Format: JPG, PNG
 - Lighting: Bright natural daylight preferred
@@ -752,6 +828,7 @@ Ensures only the building animates while environment remains static.
 - Composition: Property centered, clear surroundings visible
 
 **Reference Image 1 (Bare Land - Generated):**
+
 - Must match Reference 2 dimensions exactly
 - Identical crop and framing
 - Same aspect ratio
@@ -762,6 +839,7 @@ Ensures only the building animates while environment remains static.
 ### Output Specifications
 
 **Video Output:**
+
 - Duration: 8 seconds (fixed)
 - Frame Rate: Platform default (typically 24-30fps)
 - Resolution: Matches input (1080p or 4K)
@@ -769,6 +847,7 @@ Ensures only the building animates while environment remains static.
 - Quality: High bitrate
 
 **Aspect Ratios:**
+
 - 16:9 (landscape) - Presentations, YouTube
 - 9:16 (vertical) - Instagram, TikTok, mobile
 - 1:1 (square) - Instagram feed
@@ -781,6 +860,7 @@ Ensures only the building animates while environment remains static.
 ### Time Investment
 
 **Total Time per Property:**
+
 - Image selection/preparation: 5-10 minutes
 - Step 1 (Nano Banana removal): 5-10 minutes
 - Step 2 (Omni Flash animation): 15-30 minutes
@@ -788,6 +868,7 @@ Ensures only the building animates while environment remains static.
 - **Total: 35-65 minutes per property**
 
 **Batch Processing:**
+
 - Prepare multiple properties in Step 1
 - Queue multiple animations in Step 2
 - Process 3-5 properties in 2-3 hours
@@ -797,12 +878,14 @@ Ensures only the building animates while environment remains static.
 ### Cost Considerations
 
 **Platform Credits:**
+
 - Check Pollo.ai current pricing
 - Nano Banana: Typically 1 credit per removal
 - Omni Flash: 2-4 credits per 8-second video
 - Budget 3-5 credits per completed property reveal
 
 **Quality vs. Cost:**
+
 - First generation often successful with good references
 - May need 1-2 refinements for perfection
 - Higher resolution = slightly higher cost but better results
