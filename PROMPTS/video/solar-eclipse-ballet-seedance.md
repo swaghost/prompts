@@ -28,6 +28,7 @@ Upload one portrait image of your character.
 **The uploaded image will be used only to preserve the person's identity.**
 
 Seedance will automatically recreate the same:
+
 - Face
 - Hairstyle
 - Freckles
@@ -110,6 +111,7 @@ different face, identity change, different hairstyle, duplicate person, multiple
 ## Complete Prompt Template
 
 **Settings:**
+
 - Aspect Ratio: 16:9
 - Duration: 10 Seconds
 - Quality: Cinematic (1080p)
@@ -139,24 +141,28 @@ Seedance 2.5 will transform your single portrait into a premium cinematic fashio
 ## Key Elements Breakdown
 
 ### Visual Components
+
 - **Setting:** Smooth black hill
 - **Sky:** Total solar eclipse with golden corona
 - **Costume:** White haute couture ballet gown (silk and chiffon)
 - **Composition:** Perfectly centered symmetrical framing
 
 ### Performance Elements
+
 - **Starting Position:** Still, facing camera
 - **Movement:** Slow arm movements, graceful extensions, one pirouette, controlled footwork
 - **Duration:** 10-second continuous performance
 - **Emotion:** Elegant, powerful, effortless
 
 ### Lighting & Atmosphere
+
 - **Primary Light:** Golden corona rim lighting (silhouette)
 - **Fill Light:** Soft twilight illumination (face)
 - **Environmental Effects:** Gentle breeze, fine dust drift
 - **Mood:** Calm, magical, monumental
 
 ### Cinematography
+
 - **Camera Movement:** Continuous slow dolly-in (wide to medium-wide)
 - **Style:** No cuts, no shake, no zoom jumps
 - **Quality Standards:** Ultra photorealistic, Hollywood-grade, HDR, 1080p
@@ -179,24 +185,28 @@ Seedance 2.5 will transform your single portrait into a premium cinematic fashio
 You can modify this prompt for different creative directions:
 
 **Setting Variations:**
+
 - Desert sand dunes instead of black hill
 - Frozen lake surface
 - Mountain peak
 - Ocean cliff edge
 
 **Costume Variations:**
+
 - Black gown for contrast
 - Flowing red silk dress
 - Modern minimalist white suit
 - Traditional cultural attire
 
 **Performance Variations:**
+
 - Contemporary dance instead of ballet
 - Tai chi movements
 - Yoga flow sequence
 - Modern interpretive dance
 
 **Eclipse Variations:**
+
 - Partial eclipse (crescent sun visible)
 - Eclipse progression sequence
 - Multiple frames of totality
