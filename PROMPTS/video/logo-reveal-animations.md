@@ -17,14 +17,17 @@ Transform static photography of signs, logos, or brand emblems into high-impact 
 ### 1.1 Accessing Google Flow
 
 **Direct URL:**
+
 - Primary: labs.google/fx/tools/flow
 - Alternative: flow.google
 
 **Authentication:**
+
 - Sign in with Google credentials
 - Use primary Google account
 
 **Model Selection:**
+
 - Open parameters panel
 - Set generation engine to **Omni Flash**
 
@@ -33,6 +36,7 @@ Transform static photography of signs, logos, or brand emblems into high-impact 
 ### 1.2 Input Requirements
 
 **Image Specifications:**
+
 - High-resolution photography
 - Well-lit, clear lighting
 - Sharp focus on logo/sign
@@ -40,6 +44,7 @@ Transform static photography of signs, logos, or brand emblems into high-impact 
 - Clean composition
 
 **Subject Types:**
+
 - Wall-mounted signage
 - 3D lettering
 - Painted graphics
@@ -74,23 +79,27 @@ Negative prompt: Do not change the camera angle or framing beyond the specified 
 ### 2.2 Template Breakdown
 
 **Opening Lock Statement:**
+
 - "This is a VFX reveal effect on a static scene"
 - Prevents AI from regenerating or redesigning
 - Establishes overlay approach
 - Critical for preventing spatial drift
 
 **Camera Lock Instructions:**
+
 - "Camera position, angle, and framing stay exactly the same"
 - Only specified logo/text animates
 - Background, surface, lighting remain fixed
 - "Like a motion graphics overlay on a still photo"
 
 **Timeline Structure:**
+
 - **0:00-0:02:** Empty starting state + camera movement begins
 - **0:02-0:0X:** Main reveal sequence (material-specific animation)
 - **0:0X-0:10:** Fully revealed + hold final frame
 
 **Final Frame Match:**
+
 - "The final frame should look identical to the uploaded reference image"
 - Ensures completion accuracy
 - No additions or modifications
@@ -100,11 +109,13 @@ Negative prompt: Do not change the camera angle or framing beyond the specified 
 ### 2.3 Universal Negative Prompt
 
 **Always include:**
+
 ```
 Do not change the camera angle or framing beyond the specified movement. Do not change where [SUBJECT/LOGO] sits in the frame. Do not add extra text or objects. No sudden cuts or transitions. No talking, exactly 10 seconds.
 ```
 
 **Why It's Critical:**
+
 - Prevents unwanted camera changes
 - Blocks style modifications
 - Stops AI from adding extra elements
@@ -120,6 +131,7 @@ Do not change the camera angle or framing beyond the specified movement. Do not 
 **Example:** "SHOW TIME" red 3D script lettering on off-white textured wall
 
 **Complete Prompt:**
+
 ```
 This is a VFX reveal effect on a static scene, not a redesign or regeneration of the scene. The camera position, angle, and framing stay exactly the same as the uploaded reference image throughout the entire clip. The only thing that animates is the red 3D "SHOW TIME" lettering itself appearing gradually in its exact original place—everything else in the frame (background, surface, lighting) stays fixed and unchanged, like a motion graphics overlay on a still photo. The final frame should look identical to the uploaded reference image.
 
@@ -135,6 +147,7 @@ Negative prompt: Do not change the camera angle or framing beyond the specified 
 ```
 
 **Key Elements:**
+
 - **Reveal Style:** Extrude/pop-out from flat to 3D raised depth
 - **Direction:** Left to right letter building
 - **Shadow Detail:** Drop shadows form as letters extrude
@@ -147,6 +160,7 @@ Negative prompt: Do not change the camera angle or framing beyond the specified 
 **Example:** "PEOPLE MAKE THIS PLACE" dark red text wrapped across 90-degree corner of white gallery wall
 
 **Complete Prompt:**
+
 ```
 This is a VFX reveal effect on a static scene, not a redesign or regeneration of the scene. The camera position, angle, and framing stay exactly the same as the uploaded reference image throughout the entire clip. The only thing that animates is the dark red "PEOPLE MAKE THIS PLACE" typography itself appearing gradually in its exact original place—everything else in the frame (background, surface, lighting) stays fixed and unchanged, like a motion graphics overlay on a still photo. The final frame should look identical to the uploaded reference image.
 
@@ -162,6 +176,7 @@ Negative prompt: Do not change the camera angle or framing beyond the specified 
 ```
 
 **Key Elements:**
+
 - **Reveal Style:** Extrude/pop-out with corner wrapping
 - **Direction:** Top to bottom word sequence
 - **Corner Challenge:** Typography wraps around 90-degree corner smoothly
@@ -174,6 +189,7 @@ Negative prompt: Do not change the camera angle or framing beyond the specified 
 **Example:** "HAVE YOU HAD COFFEE YET?" white painted text with directional arrow on sage green exterior wall
 
 **Complete Prompt:**
+
 ```
 This is a VFX reveal effect on a static scene, not a redesign or regeneration of the scene. The camera position, angle, and framing stay exactly the same as the uploaded reference image throughout the entire clip. The only thing that animates is the white painted wall graphics and text itself appearing gradually in its exact original place—everything else in the frame (background, surface, lighting) stays fixed and unchanged, like a motion graphics overlay on a still photo. The final frame should look identical to the uploaded reference image.
 
@@ -189,6 +205,7 @@ Negative prompt: Do not change the camera angle or framing beyond the specified 
 ```
 
 **Key Elements:**
+
 - **Reveal Style:** Painted text extrusion (flat to slightly raised)
 - **Direction:** Line by line from top to bottom
 - **Multiple Elements:** Main text + icon + secondary text in sequence
@@ -201,6 +218,7 @@ Negative prompt: Do not change the camera angle or framing beyond the specified 
 **Example:** "altr ego" black 3D lettering on green ribbed/fluted glass background panel
 
 **Complete Prompt:**
+
 ```
 This is a VFX reveal effect on a static scene, not a redesign or regeneration of the scene. The camera position, angle, and framing stay exactly the same as the uploaded reference image throughout the entire clip. The only thing that animates is the black "altr ego" 3D signage itself appearing gradually in its exact original place—everything else in the frame (background, surface, lighting) stays fixed and unchanged, like a motion graphics overlay on a still photo. The final frame should look identical to the uploaded reference image.
 
@@ -216,6 +234,7 @@ Negative prompt: Do not change the camera angle or framing beyond the specified 
 ```
 
 **Key Elements:**
+
 - **Reveal Style:** 3D extrusion with textured surface interaction
 - **Background Texture:** Ribbed/fluted glass requires shadow detail
 - **Shadow Detail:** Shadows form on textured surface (critical for depth)
@@ -228,6 +247,7 @@ Negative prompt: Do not change the camera angle or framing beyond the specified 
 **Example:** "finally, good coffee" black raised lettering with bright white halo backlighting
 
 **Complete Prompt:**
+
 ```
 This is a VFX reveal effect on a static scene, not a redesign or regeneration of the scene. The camera position, angle, and framing stay exactly the same as the uploaded reference image throughout the entire clip. The only thing that animates is the sign itself appearing gradually in its exact original place—everything else in the frame (background, surface, lighting) stays fixed and unchanged, like a motion graphics overlay on a still photo. The final frame should look identical to the uploaded reference image.
 
@@ -241,6 +261,7 @@ Negative prompt: Do not change the camera angle or framing beyond the specified 
 ```
 
 **Key Elements:**
+
 - **Reveal Style:** Flicker-on (neon/lightbox effect)
 - **Lighting Animation:** Backlighting powers on simultaneously with letters
 - **Flicker Detail:** Each line flickers once or twice before steady state
@@ -254,36 +275,42 @@ Negative prompt: Do not change the camera angle or framing beyond the specified 
 ### Material-Based Reveal Styles
 
 **Extrude/Pop-Out:**
+
 - **Use For:** Raised acrylic letters, 3D signage, mounted lettering
 - **Effect:** Flat to full 3D depth
 - **Details:** Drop shadows form as letters rise
 - **Direction:** Left-to-right, top-to-bottom, or center-out
 
 **Emboss/Stamp:**
+
 - **Use For:** Leather patches, debossed signage, pressed metal
 - **Effect:** Impression appears/deepens into surface
 - **Details:** Shadows in recessed areas
 - **Direction:** Usually all-at-once or center-out
 
 **Embroidery Stitch:**
+
 - **Use For:** Fabric badges, embroidered logos, textile signage
 - **Effect:** Thread stitches into place
 - **Details:** Follow stitch pattern/direction
 - **Direction:** Outline-first or fill-progression
 
 **Neon Flicker:**
+
 - **Use For:** Neon tube signage, electric signs
 - **Effect:** Flickers on letter-by-letter or section-by-section
 - **Details:** Warm neon glow, slight buzz/flicker
 - **Direction:** Typically left-to-right or top-to-bottom
 
 **Glow Emerge (Backlit):**
+
 - **Use For:** Lightbox signage, halo-lit letters, LED signs
 - **Effect:** Backlighting powers on, letters glow into visibility
 - **Details:** Halo glow around edges
 - **Direction:** Simultaneous or phrase-by-phrase
 
 **Painted Stroke:**
+
 - **Use For:** Hand-painted murals, spray-painted graphics
 - **Effect:** Paint strokes build letter forms
 - **Details:** Brush or spray texture visible
@@ -296,28 +323,33 @@ Negative prompt: Do not change the camera angle or framing beyond the specified 
 ### Subtle Movements (Recommended)
 
 **Slight Zoom-In (Push-In):**
+
 - "Slight camera zoom-in begins, a gentle and minimal movement"
 - Most common choice
 - Adds drama without distraction
 - Focuses attention on reveal
 
 **Slight Zoom-Out (Pull-Back):**
+
 - "Slight camera zoom-out begins, a gentle and minimal movement"
 - Reveals context gradually
 - Less common but effective
 
 **Slight Tilt Left/Right:**
+
 - "Slight camera tilt left and right begins, a gentle and minimal side-to-side motion"
 - Subtle sway effect
 - Adds organic feel
 - Keep motion very small
 
 **Slight Pan Left/Right:**
+
 - "Slight camera pan [direction] begins, a gentle and minimal movement"
 - Horizontal drift
 - Use sparingly
 
 **Static (No Movement):**
+
 - Omit camera movement line
 - Pure VFX overlay
 - Maximum stability
@@ -327,16 +359,19 @@ Negative prompt: Do not change the camera angle or framing beyond the specified 
 ### Movement Best Practices
 
 **Keep It Micro:**
+
 - Use words like "gentle," "minimal," "slight," "subtle"
 - Aggressive motion forces AI to invent new geometry
 - Goal: composition recognizably the same throughout
 
 **Match to Subject:**
+
 - Zoom-in: Creates focus, intimacy
 - Zoom-out: Reveals scale, context
 - Static: Maximum control, simplest results
 
 **Avoid:**
+
 - Orbiting/arc shots
 - Crane movements
 - Whip pans
@@ -350,32 +385,38 @@ Negative prompt: Do not change the camera angle or framing beyond the specified 
 ### Step-by-Step Customization
 
 **1. Identify Your Subject:**
+
 - What is the logo/sign? (text content, brand name)
 - Material? (acrylic, painted, neon, fabric)
 - Color? (be specific)
 - 3D or flat?
 
 **2. Describe the Surface/Background:**
+
 - What is the logo mounted on?
 - Color and texture
 - Indoor/outdoor?
 
 **3. Choose Reveal Style:**
+
 - Match to material (see Section 4)
 - Extrude, flicker, emboss, stitch, etc.
 
 **4. Select Camera Movement:**
+
 - Slight zoom-in (most common)
 - Or static
 - Or subtle alternative
 
 **5. Fill Template:**
+
 - Replace [SUBJECT/LOGO] with your text/brand
 - Replace [SURFACE/AREA] with background description
 - Replace [REVEAL STYLE] with chosen animation
 - Replace [CAMERA MOVEMENT] with selected motion
 
 **6. Customize Timeline:**
+
 - Adjust 0:02-0:04, 0:04-0:06 timing if needed
 - Multi-line text may need longer reveal window
 - Simple logos can be faster
@@ -387,20 +428,24 @@ Negative prompt: Do not change the camera angle or framing beyond the specified 
 **Subject:** "BREW & CO" gold metallic letters on dark navy wall
 
 **Step 1 - Identify:**
+
 - Logo: "BREW & CO"
 - Material: Metallic (gold)
 - Color: Gold/brass
 - Style: 3D raised letters
 
 **Step 2 - Surface:**
+
 - Background: Dark navy blue wall
 - Texture: Matte painted surface
 - Location: Indoor cafe
 
 **Step 3 - Reveal Style:**
+
 - Extrude/pop-out (matches 3D raised metal)
 
 **Step 4 - Camera Movement:**
+
 - Slight zoom-in (standard)
 
 **Step 5 - Fill Template:**
@@ -424,6 +469,7 @@ Negative prompt: Do not change the camera angle or framing beyond the specified 
 ### Image Quality Requirements
 
 **Always Start With:**
+
 - Sharp, well-lit photography
 - High resolution (1080p minimum, 4K preferred)
 - Clear focus on logo/sign
@@ -431,6 +477,7 @@ Negative prompt: Do not change the camera angle or framing beyond the specified 
 - Even lighting (no harsh shadows obscuring letters)
 
 **Avoid:**
+
 - Extreme angles (shoot straight-on or slight angle only)
 - Blurry imagery
 - Backlit photos where logo is in shadow
@@ -445,12 +492,14 @@ Negative prompt: Do not change the camera angle or framing beyond the specified 
 "The camera position, angle, and framing stay exactly the same as the reference image"
 
 **Why This Matters:**
+
 - Prevents AI spatial drift
 - Locks camera perspective
 - Ensures VFX overlay approach
 - Single most important phrase for stability
 
 **Placement:**
+
 - In opening paragraph of every prompt
 - Repeated in negative prompt (angle/framing)
 
@@ -459,12 +508,14 @@ Negative prompt: Do not change the camera angle or framing beyond the specified 
 ### Subtle Motion Only
 
 **Camera Movement Guidelines:**
+
 - Keep motion micro-sized (gentle zoom or pan)
 - Use descriptors: "slight," "gentle," "minimal"
 - Never exceed subtle drift
 - Stop motion at 6-second mark, hold final frame
 
 **Why Limited Motion:**
+
 - Aggressive camera motion forces model to invent new geometry
 - Large movements break the "VFX overlay" illusion
 - Static backgrounds require minimal camera change
@@ -474,6 +525,7 @@ Negative prompt: Do not change the camera angle or framing beyond the specified 
 ### Negative Prompt Enforcement
 
 **Never Skip the Negative Prompt:**
+
 - Single most important factor preventing unwanted changes
 - Blocks style modifications
 - Prevents camera angle shifts
@@ -481,6 +533,7 @@ Negative prompt: Do not change the camera angle or framing beyond the specified 
 - Enforces 10-second duration
 
 **Essential Elements:**
+
 - Do not change camera angle/framing
 - Do not change logo position
 - Do not add extra text/objects
@@ -493,16 +546,19 @@ Negative prompt: Do not change the camera angle or framing beyond the specified 
 ### Timeline Precision
 
 **Structure:**
+
 - **0:00-0:02:** Empty + camera movement starts
 - **0:02-0:06 (or split):** Main reveal animation
 - **0:06-0:10:** Fully revealed + hold
 
 **Flexibility:**
+
 - Simple single-word logos: Can reveal faster (0:02-0:04)
 - Multi-line complex text: May need full 0:02-0:06 or split into phases
 - Always end at 0:06 for hold
 
 **Hold Final Frame:**
+
 - Critical for professional polish
 - Shows completed result
 - Allows viewer to appreciate final state
@@ -515,10 +571,12 @@ Negative prompt: Do not change the camera angle or framing beyond the specified 
 ### Problem: Camera angle changes or scene regenerates
 
 **Root Cause:**
+
 - Missing or weak anchor lock phrase
 - Camera movement too aggressive
 
 **Solution:**
+
 - Ensure "camera position, angle, and framing stay exactly the same" is in opening paragraph
 - Reduce camera movement to "slight" and "gentle"
 - Strengthen negative prompt with "Do not change camera angle"
@@ -528,10 +586,12 @@ Negative prompt: Do not change the camera angle or framing beyond the specified 
 ### Problem: Logo morphs or cross-fades instead of discrete reveal
 
 **Root Cause:**
+
 - Reveal style not specific enough
 - Timeline too compressed
 
 **Solution:**
+
 - Use precise reveal language: "extrudes/pops out," "flickers on," "stitches into place"
 - Extend timeline for reveal phase (0:02-0:06 instead of 0:02-0:04)
 - Specify direction: "left to right," "top to bottom"
@@ -541,10 +601,12 @@ Negative prompt: Do not change the camera angle or framing beyond the specified 
 ### Problem: Extra text, objects, or design elements appear
 
 **Root Cause:**
+
 - AI attempting to fill space or enhance design
 - Weak negative prompt
 
 **Solution:**
+
 - Strengthen negative prompt: "Do not add extra text or objects"
 - Emphasize "everything else stays fixed and unchanged"
 - Specify "only thing that animates is [SUBJECT]"
@@ -554,11 +616,13 @@ Negative prompt: Do not change the camera angle or framing beyond the specified 
 ### Problem: Final frame doesn't match reference image
 
 **Root Cause:**
+
 - Logo position shifted
 - Colors changed
 - Elements added/removed
 
 **Solution:**
+
 - Add "The final frame should look identical to the uploaded reference image" to opening paragraph
 - Specify exact colors in prompt
 - Lock logo position in negative prompt
@@ -568,9 +632,11 @@ Negative prompt: Do not change the camera angle or framing beyond the specified 
 ### Problem: Animation too fast or too slow
 
 **Root Cause:**
+
 - Timeline doesn't match content complexity
 
 **Solution:**
+
 - **Too Fast:** Extend reveal window (0:02-0:06 or split into 0:02-0:04, 0:04-0:06)
 - **Too Slow:** Tighten reveal window (0:02-0:04 for simple logos)
 - Adjust based on number of words/elements
@@ -580,10 +646,12 @@ Negative prompt: Do not change the camera angle or framing beyond the specified 
 ### Problem: Shadows missing or incorrect
 
 **Root Cause:**
+
 - Shadow detail not specified for 3D reveals
 - Lighting inconsistent
 
 **Solution:**
+
 - Add "with soft drop shadows forming" to extrusion descriptions
 - Specify shadow direction if critical
 - Ensure reference image has clear lighting
@@ -593,10 +661,12 @@ Negative prompt: Do not change the camera angle or framing beyond the specified 
 ### Problem: Backlit/neon effect not glowing properly
 
 **Root Cause:**
+
 - Flicker/glow language not specific enough
 - Lighting effect not described
 
 **Solution:**
+
 - Use "flickers on" language for electrical reveals
 - Specify "bright white backlighting powering on"
 - Describe glow: "cool white halo glow," "warm neon glow"
@@ -609,6 +679,7 @@ Negative prompt: Do not change the camera angle or framing beyond the specified 
 ### Multi-Element Sequencing
 
 **Stagger Complex Logos:**
+
 - Primary wordmark first (0:02-0:04)
 - Secondary text/tagline (0:04-0:05)
 - Icon/graphic element (0:05-0:06)
@@ -616,6 +687,7 @@ Negative prompt: Do not change the camera angle or framing beyond the specified 
 - Guides viewer's eye
 
 **Example Timeline:**
+
 ```
 [0:02-0:03] Main brand name appears
 [0:03-0:04] Tagline text appears below
@@ -628,6 +700,7 @@ Negative prompt: Do not change the camera angle or framing beyond the specified 
 ### Directional Variations
 
 **Build Direction Options:**
+
 - **Left-to-Right:** Western reading order, natural flow
 - **Top-to-Bottom:** Stacked text, vertical compositions
 - **Center-Out:** Radial reveals, circular logos
@@ -642,11 +715,13 @@ Negative prompt: Do not change the camera angle or framing beyond the specified 
 ### Material Texture Emphasis
 
 **For Premium Results, Specify:**
+
 - Surface texture interaction
 - Material properties
 - Lighting catch details
 
 **Examples:**
+
 - "with the metallic surface catching the warm cafe lighting"
 - "on the textured concrete surface with subtle shadows"
 - "glass reflections showing in the glossy acrylic"
@@ -657,10 +732,12 @@ Negative prompt: Do not change the camera angle or framing beyond the specified 
 ### Camera Movement Combinations
 
 **Advanced (Use Carefully):**
+
 - "Slight zoom-in combined with minimal left drift"
 - "Gentle zoom-out with subtle vertical tilt"
 
 **Keep Total Movement Minimal:**
+
 - Combined movements must still be "slight" and "gentle"
 - Test simple version first
 - Only add complexity if needed
@@ -672,18 +749,21 @@ Negative prompt: Do not change the camera angle or framing beyond the specified 
 ### Brand Marketing
 
 **Social Media Content:**
+
 - Instagram Reels logo reveals
 - TikTok brand intros
 - LinkedIn company page headers
 - Facebook video ads
 
 **Website Integration:**
+
 - Homepage hero animations
 - About page brand story
 - Landing page headers
 - Portfolio showcases
 
 **Email Marketing:**
+
 - Animated email headers
 - Product launch announcements
 - Newsletter branding
@@ -693,21 +773,25 @@ Negative prompt: Do not change the camera angle or framing beyond the specified 
 ### Business Applications
 
 **Real Estate:**
+
 - Property signage reveals
 - Building name animations
 - Development brand intros
 
 **Retail:**
+
 - Storefront sign animations
 - Grand opening content
 - Seasonal campaign intros
 
 **Restaurants & Cafes:**
+
 - Menu board reveals
 - Brand identity content
 - Location showcase videos
 
 **Corporate:**
+
 - Office signage animations
 - Conference branding
 - Presentation openers
@@ -717,16 +801,19 @@ Negative prompt: Do not change the camera angle or framing beyond the specified 
 ### Creative Projects
 
 **Portfolio Pieces:**
+
 - Designer portfolio intros
 - Photographer branding
 - Creative agency reels
 
 **Video Production:**
+
 - Title card animations
 - Lower third reveals
 - End credit sequences
 
 **Documentary/Film:**
+
 - Location title cards
 - Establishing shot enhancements
 - Chapter markers
@@ -736,11 +823,13 @@ Negative prompt: Do not change the camera angle or framing beyond the specified 
 ### Event & Entertainment
 
 **Events:**
+
 - Conference stage displays
 - Wedding venue signage
 - Concert venue animations
 
 **Trade Shows:**
+
 - Booth display content
 - Product launch reveals
 - Brand activation screens
@@ -752,22 +841,26 @@ Negative prompt: Do not change the camera angle or framing beyond the specified 
 ### Input Image Specs
 
 **Resolution:**
+
 - Minimum: 1920x1080 (1080p)
 - Recommended: 3840x2160 (4K)
 - Maximum: Platform-dependent
 
 **Aspect Ratio:**
+
 - 16:9 (landscape - most common)
 - 9:16 (vertical - mobile-first)
 - 1:1 (square - social media)
 - 4:5 (portrait - Instagram feed)
 
 **File Format:**
+
 - JPG/JPEG (most common)
 - PNG (supports transparency, if needed)
 - High quality, minimal compression
 
 **Lighting:**
+
 - Even, well-balanced lighting
 - Avoid harsh shadows on logo
 - Good contrast between logo and background
@@ -788,6 +881,7 @@ Negative prompt: Do not change the camera angle or framing beyond the specified 
 ### Platform Requirements
 
 **Google Flow (Omni Flash):**
+
 - Google account required
 - Browser-based (Chrome recommended)
 - No downloads needed
@@ -798,6 +892,7 @@ Negative prompt: Do not change the camera angle or framing beyond the specified 
 ## 12. Workflow Checklist
 
 **Before Generation:**
+
 - ☐ High-quality reference image prepared
 - ☐ Logo/sign clearly visible and sharp
 - ☐ Good lighting and contrast
@@ -805,6 +900,7 @@ Negative prompt: Do not change the camera angle or framing beyond the specified 
 - ☐ Template copied
 
 **During Customization:**
+
 - ☐ [SUBJECT/LOGO] replaced with actual text
 - ☐ [SURFACE/AREA] replaced with background description
 - ☐ [REVEAL STYLE] chosen and specified
@@ -814,6 +910,7 @@ Negative prompt: Do not change the camera angle or framing beyond the specified 
 - ☐ Material details included
 
 **Prompt Review:**
+
 - ☐ Anchor lock phrase present ("camera position...stay exactly the same")
 - ☐ "VFX reveal effect on a static scene" in opening
 - ☐ "Final frame should look identical" included
@@ -822,6 +919,7 @@ Negative prompt: Do not change the camera angle or framing beyond the specified 
 - ☐ Camera movement ends at 0:06
 
 **After Generation:**
+
 - ☐ Camera stays locked (no warping)
 - ☐ Logo reveals with specified style
 - ☐ Background remains unchanged
@@ -839,12 +937,14 @@ Negative prompt: Do not change the camera angle or framing beyond the specified 
 **Structure:** Empty (0-2s) → Reveal (2-6s) → Hold (6-10s)
 
 **Key Phrases:**
+
 - "VFX reveal effect on a static scene"
 - "Camera position, angle, and framing stay exactly the same"
 - "Only thing that animates is [SUBJECT]"
 - "Final frame should look identical to the uploaded reference image"
 
 **Reveal Styles:**
+
 - Extrude/pop-out (3D signage)
 - Flicker on (backlit/neon)
 - Emboss/stamp (pressed/debossed)
@@ -852,11 +952,13 @@ Negative prompt: Do not change the camera angle or framing beyond the specified 
 - Painted stroke (murals)
 
 **Camera Movement:**
+
 - Slight zoom-in (most common)
 - Static (maximum control)
 - Subtle alternatives (minimal)
 
 **Never Skip:**
+
 - Negative prompt (prevents unwanted changes)
 - Anchor lock phrase (prevents spatial drift)
 - Final frame match statement (ensures accuracy)
