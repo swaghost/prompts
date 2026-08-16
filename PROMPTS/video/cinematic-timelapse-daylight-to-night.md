@@ -38,6 +38,7 @@ A cinematic day-to-night timelapse simulates extended temporal progression withi
 #### Diurnal Illumination
 
 Simulating Kelvin color temperature shifts:
+
 - **Sunrise:** Warm gold (3000-3500K)
 - **Solar Noon:** Cool neutral white (5500-6500K)
 - **Sunset:** Crimson/magenta (2500-3000K)
@@ -47,6 +48,7 @@ Simulating Kelvin color temperature shifts:
 #### Directional Shadow Casting
 
 Dynamically recalculating:
+
 - Shadow length (short at noon, long at sunrise/sunset)
 - Shadow angle (tracks virtual sun position)
 - Shadow softness (harsh midday, soft dusk/dawn)
@@ -76,6 +78,7 @@ To achieve consistent, artifact-free timelapse video generations, every prompt m
 **Purpose:** Defines rendering style and forbids camera cuts or scene jumps
 
 **Key Directives:**
+
 - "One continuous shot (no transition)"
 - "Cinematic day-to-night timelapse"
 - "Based strictly on the reference image"
@@ -90,16 +93,18 @@ Prevents AI from switching scenes, cutting to different angles, or regenerating 
 **Purpose:** Explicitly scripts every phase of the 24-hour light progression and enforces a seamless loop
 
 **Key Directives:**
+
 ```
-Seamless lighting cycle transition: 
-soft golden morning light → 
-bright midday sun with sharp shadows → 
-warm sunset/dusk glow → 
-deep night with artificial lights and city glow → 
+Seamless lighting cycle transition:
+soft golden morning light →
+bright midday sun with sharp shadows →
+warm sunset/dusk glow →
+deep night with artificial lights and city glow →
 back to soft morning light, looping smoothly.
 ```
 
 **Structure:**
+
 1. **Morning:** Soft golden light
 2. **Midday:** Bright sun with sharp shadows
 3. **Sunset/Dusk:** Warm glow (crimson/magenta)
@@ -116,11 +121,13 @@ Without explicit cycle instructions, AI defaults to random lighting or single-ph
 **Purpose:** Governs atmospheric movement and lighting physics across the terrain
 
 **Key Directives:**
+
 ```
 Clouds drifting and morphing naturally across the sky, sun and shadow position shifting with the time-of-day cycle.
 ```
 
 **Elements:**
+
 - Cloud movement (drift and morph)
 - Sun position tracking
 - Shadow direction/length changes
@@ -136,17 +143,20 @@ Static sky or unchanging shadows break the illusion of time progression.
 **Purpose:** Instructs moving subjects to display long-exposure motion blur rather than standard real-time motion
 
 **Key Directives:**
+
 ```
 [Target subjects] moving in fast timelapse motion — flowing continuously with natural blur-trail motion typical of timelapse photography.
 ```
 
 **Target Subjects:**
+
 - Pedestrians/crowds
 - Vehicles (cars, trains, buses)
 - Boats/ships
 - Clouds (separate from sky dynamics)
 
 **Motion Characteristics:**
+
 - Fast timelapse motion (accelerated)
 - Flowing continuously
 - Natural blur trails (long-exposure effect)
@@ -162,11 +172,13 @@ Standard motion looks unnatural in timelapses. Blur trails create authentic time
 **Purpose:** Simulates a locked physical tripod setup to prevent unwanted camera wobble or perspective distortion
 
 **Key Directives:**
+
 ```
 Camera movement: slow pan only to the right, minimal parallax, no zoom, locked-off tripod-style stability, composition stays close to the original framing.
 ```
 
 **Camera Rules:**
+
 - **Slow pan only** (single direction - typically right)
 - **Minimal parallax** (no perspective shift)
 - **No zoom** (focal length locked)
@@ -183,11 +195,13 @@ Timelapse photography uses tripods for absolute stability. Camera movement break
 **Purpose:** Locks down every non-moving environmental object to prevent visual hallucinations
 
 **Key Directives:**
+
 ```
 Keep the environment like this reference with zero deviation. Don't add or change anything new to the environment.
 ```
 
 **What Gets Locked:**
+
 - Building facades
 - Architectural details
 - Road layouts
@@ -229,6 +243,7 @@ Without strict fidelity constraints, AI will "improve" scenes by adding elements
    - Minimal existing motion blur
 
 **Avoid:**
+
 - Extreme motion blur in source
 - Overexposed/underexposed images
 - Heavily filtered or stylized photos
@@ -296,6 +311,7 @@ Without strict fidelity constraints, AI will "improve" scenes by adding elements
 **Question:** Do all structures, facades, and geography match the source image?
 
 **Look For:**
+
 - Building shapes unchanged
 - Road layouts identical
 - Mountain/terrain geometry accurate
@@ -303,6 +319,7 @@ Without strict fidelity constraints, AI will "improve" scenes by adding elements
 - Colors consistent with source
 
 **Common Issues:**
+
 - Buildings warped or modified
 - Extra structures added
 - Architectural details changed
@@ -314,6 +331,7 @@ Without strict fidelity constraints, AI will "improve" scenes by adding elements
 **Question:** Does light change smoothly across all four cycles without flickering?
 
 **Look For:**
+
 - Smooth gradient transitions
 - No sudden jumps in brightness
 - Shadows move progressively
@@ -321,6 +339,7 @@ Without strict fidelity constraints, AI will "improve" scenes by adding elements
 - Seamless loop back to morning
 
 **Common Issues:**
+
 - Flickering during transitions
 - Abrupt lighting changes
 - Shadows jump instead of glide
@@ -333,6 +352,7 @@ Without strict fidelity constraints, AI will "improve" scenes by adding elements
 **Question:** Do crowds and vehicles exhibit correct motion blur trails?
 
 **Look For:**
+
 - Fast timelapse motion (accelerated)
 - Visible blur trails
 - Light trails from vehicles at night
@@ -340,6 +360,7 @@ Without strict fidelity constraints, AI will "improve" scenes by adding elements
 - No choppy/stuttering motion
 
 **Common Issues:**
+
 - Real-time motion (too slow)
 - No motion blur
 - Stuttering/choppy movement
@@ -362,6 +383,7 @@ Open hillside monument with monumental concrete sculpture and expansive lawns
 Fast-moving tourist crowds along concrete walkways; shifting illumination across monumental concrete surfaces
 
 **Complete Prompt:**
+
 ```
 One continuous shot (no transition) Cinematic day-to-night timelapse of The Motherland Calls statue and the surrounding Mamayev Kurgan complex, strictly based on the reference image. Seamless lighting cycle transition: soft golden morning light over the green hills → bright midday sun with sharp shadows on the monumental statue → warm sunset/dusk glow → deep night with artificial spotlights and distant city glow → back to soft morning light, looping smoothly.
 
@@ -373,6 +395,7 @@ Keep the environment like this reference with zero deviation. Don't add or chang
 ```
 
 **Key Elements:**
+
 - Monumental statue (static anchor)
 - Green hills (static)
 - Concrete walkways (static)
@@ -390,6 +413,7 @@ Alpine resort town street flanked by commercial chalets, central clock tower, ma
 Pedestrians and vintage transit passing through intersections; changing shadows cast by towering mountain peaks
 
 **Complete Prompt:**
+
 ```
 One continuous shot (no transition) Cinematic day-to-night timelapse of this exact alpine town street, based strictly on the reference image. Seamless lighting cycle transition: soft golden morning light on the snow-capped mountain peak → bright midday sun with sharp street shadows → warm sunset alpenglow → deep night with glowing shop windows, street lamps, and illuminated clock tower → back to soft morning light, looping smoothly.
 
@@ -401,6 +425,7 @@ Keep the environment like this reference with zero deviation. Don't add or chang
 ```
 
 **Key Elements:**
+
 - Snow-capped mountain peak (static anchor)
 - Commercial chalets (static)
 - Clock tower (static, illuminated at night)
@@ -420,6 +445,7 @@ Sloping coastal asphalt road leading to retro railway crossing with open ocean h
 Passing commuter trains and traffic signal lights; sun glare transitioning to moonlight across the water
 
 **Complete Prompt:**
+
 ```
 One continuous shot (no transition) Cinematic day-to-night timelapse of this exact coastal railroad crossing, based strictly on the reference image. Seamless lighting cycle transition: soft golden morning light over the ocean → bright midday sun with sharp shadows across the asphalt road → warm sunset/dusk glow reflecting on the sea horizon → deep night with glowing train windows, flashing crossing signals, and street illumination → back to soft morning light, looping smoothly.
 
@@ -431,6 +457,7 @@ Keep the environment like this reference with zero deviation. Don't add or chang
 ```
 
 **Key Elements:**
+
 - Ocean horizon (static)
 - Asphalt road (static)
 - Railway crossing (static)
@@ -450,6 +477,7 @@ Elevated stone terrace with foreground figures seated on wooden bench overlookin
 Continuous vehicle flow along central bridge; atmospheric cloud morphing across snowfields while foreground figures remain anchored
 
 **Complete Prompt:**
+
 ```
 One continuous shot (no transition) Cinematic day-to-night timelapse of this exact mountain viewpoint with a couple sitting on a bench, based strictly on the reference image. Seamless lighting cycle transition: soft golden morning light over the snow-capped peak → bright midday sun with sharp shadows across the valley → warm sunset/dusk glow reflecting on the mountain face → deep night with headlights, streetlights, and town lights glowing below → back to soft morning light, looping smoothly.
 
@@ -461,6 +489,7 @@ Keep the environment like this reference with zero deviation. Don't add or chang
 ```
 
 **Key Elements:**
+
 - Couple on bench (static - foreground anchor)
 - Stone terrace (static)
 - Snow-capped peak (static)
@@ -481,6 +510,7 @@ High-angle metropolitan intersection with diagonal crosswalks, digital billboard
 Dense pedestrian streams crossing in pulsing intervals; elevated transit speed lines; dynamic neon illumination at night
 
 **Complete Prompt:**
+
 ```
 One continuous shot (no transition) Cinematic day-to-night timelapse of this exact Shibuya scramble crossing intersection, based strictly on the reference image. Seamless lighting cycle transition: soft golden morning light across the city skyline → bright midday sun with sharp building shadows → warm sunset/dusk glow reflecting off glass facades → deep night with dazzling neon signs, luminous digital billboards, and dense city glow → back to soft morning light, looping smoothly.
 
@@ -492,6 +522,7 @@ Keep the environment like this reference with zero deviation. Don't add or chang
 ```
 
 **Key Elements:**
+
 - Diagonal crosswalks (Shibuya scramble - static)
 - Glass building facades (static)
 - Elevated train tracks (static)
@@ -515,11 +546,13 @@ To adapt new, unlisted reference images into this prompt syntax, follow this **f
 **Goal:** Isolate all permanent non-moving elements
 
 **Process:**
+
 1. List every building, monument, mountain, road, statue in the image
 2. Note architectural details (towers, facades, bridges)
 3. Identify terrain features (hills, valleys, coastline)
 
 **Action:**
+
 - Explicitly state these features in the prompt opening
 - Example: "Cinematic day-to-night timelapse of this exact [LANDMARK] with [SPECIFIC FEATURES]"
 
@@ -527,6 +560,7 @@ To adapt new, unlisted reference images into this prompt syntax, follow this **f
 Naming specific anchors locks spatial generation and prevents hallucinations.
 
 **Example:**
+
 - ❌ Generic: "Cinematic timelapse of a city street"
 - ✅ Specific: "Cinematic day-to-night timelapse of this exact Brooklyn brownstone street with the gothic cathedral spire and cobblestone road"
 
@@ -537,6 +571,7 @@ Naming specific anchors locks spatial generation and prevents hallucinations.
 **Goal:** Identify objects capable of rapid movement
 
 **Process:**
+
 1. Scan image for moving subjects:
    - Pedestrians/crowds
    - Vehicles (cars, buses, bikes, trains, boats)
@@ -548,10 +583,12 @@ Naming specific anchors locks spatial generation and prevents hallucinations.
 2. List each kinetic element by type and location
 
 **Action:**
+
 - Insert these subjects into the kinetic section
 - Add "moving in fast timelapse motion — flowing continuously with natural blur-trail motion typical of timelapse photography"
 
 **Examples:**
+
 - "Crowd of tourists on the plaza moving in fast timelapse motion"
 - "Gondolas gliding along the canal in fast timelapse motion"
 - "Red double-decker buses and taxis moving in fast timelapse motion"
@@ -566,6 +603,7 @@ Without explicit kinetic instructions, AI may freeze motion or animate incorrect
 **Goal:** Identify every potential night light source in the image
 
 **Process:**
+
 1. Scan image and imagine it at night:
    - Shop/building windows
    - Street lamps
@@ -580,10 +618,12 @@ Without explicit kinetic instructions, AI may freeze motion or animate incorrect
 2. List all sources by type and location
 
 **Action:**
+
 - Explicitly script these sources into the "deep night" phase
 - Example: "deep night with glowing shop windows, street lamps, headlights, and illuminated clock tower"
 
 **Examples by Environment:**
+
 - **Urban:** "neon signs, digital billboards, street lamps, building windows, headlights"
 - **Suburban:** "porch lights, street lamps, warm house windows"
 - **Coastal:** "lighthouse beam, harbor lights, boat navigation lights"
@@ -599,21 +639,26 @@ Night scenes feel dead without artificial lights. Explicit lighting creates dram
 **Goal:** Maintain spatial rigidity and prevent perspective artifacts
 
 **Action:**
+
 - **Always include this exact clause:**
+
 ```
 Camera movement: slow pan only to the right, minimal parallax, no zoom, locked-off tripod-style stability, composition stays close to the original framing.
 ```
 
 **Modification Options:**
+
 - Change pan direction if needed: "slow pan only to the **left**"
 - Or remove camera movement entirely: "Locked-off tripod-style stability, no camera movement, composition stays exactly as the original framing."
 
 **Why This Matters:**
+
 - Never combine conflicting camera directions (pan + zoom)
 - Never allow free camera movement (causes warping)
 - Timelapse photography uses tripods for absolute stability
 
 **Prohibited Camera Movements:**
+
 - ❌ Zooming (changes focal length)
 - ❌ Orbiting/rotating (changes perspective)
 - ❌ Dolly/tracking (changes position)
@@ -641,27 +686,33 @@ Keep the environment like this reference with zero deviation. Don't add or chang
 ### Fill-in-the-Blank Guide
 
 **[SPECIFIC LANDMARK/SCENE]:**
+
 - Be extremely specific
 - Include unique identifiers
 - Example: "this exact Victorian pier with the red lighthouse and boardwalk"
 
 **[MORNING SPECIFIC DETAIL]:**
+
 - Where does morning light hit first?
 - Example: "over the eastern mountain ridge" / "through the cathedral windows" / "across the harbor water"
 
 **[MIDDAY SPECIFIC DETAIL]:**
+
 - What creates interesting shadows?
 - Example: "on the monument pedestal" / "between the skyscrapers" / "under the bridge arches"
 
 **[SUNSET SPECIFIC DETAIL]:**
+
 - What reflects sunset glow?
 - Example: "reflecting off the glass dome" / "on the snow peaks" / "across the ocean horizon"
 
 **[ARTIFICIAL LIGHT SOURCES LIST]:**
+
 - List all night lights identified in Step 5.3
 - Example: "glowing shop windows, vintage street lamps, ferry boat lights, and distant bridge illumination"
 
 **[KINETIC ELEMENTS LIST]:**
+
 - List all moving subjects identified in Step 5.2
 - Example: "Crowd of beachgoers and passing sailboats" / "Stream of commuters and subway trains"
 
@@ -672,26 +723,31 @@ Keep the environment like this reference with zero deviation. Don't add or chang
 **Source Image:** Historic castle overlooking a river with a stone bridge, cars crossing, tourists on castle grounds, mountains in background
 
 **Step 1 - Structural Anchors:**
+
 - Medieval castle with four towers
 - Stone bridge with seven arches
 - River
 - Mountain range in background
 
 **Step 2 - Kinetic Elements:**
+
 - Cars crossing bridge
 - Tourists on castle grounds
 - Clouds over mountains
 
 **Step 3 - Artificial Lights:**
+
 - Castle windows
 - Bridge lamps
 - Car headlights
 - Town lights beyond river
 
 **Step 4 - Camera Mechanics:**
+
 - Slow pan to the right (or static)
 
 **Completed Prompt:**
+
 ```
 One continuous shot (no transition) Cinematic day-to-night timelapse of this exact medieval castle with four stone towers overlooking the seven-arch stone bridge and river, based strictly on the reference image. Seamless lighting cycle transition: soft golden morning light over the mountain range → bright midday sun with sharp shadows on the castle walls → warm sunset/dusk glow reflecting off the river water → deep night with glowing castle windows, bridge lamps, car headlights, and distant town lights → back to soft morning light, looping smoothly.
 
@@ -711,24 +767,28 @@ Keep the environment like this reference with zero deviation. Don't add or chang
 **Adapt lighting cycle for seasons:**
 
 **Spring:**
+
 - Morning: "fresh spring light with blooming trees"
 - Midday: "bright spring sun"
 - Sunset: "warm pink spring sunset"
 - Night: Standard
 
 **Summer:**
+
 - Morning: "warm summer golden light"
 - Midday: "intense summer sun with harsh shadows"
 - Sunset: "vibrant orange-pink summer sunset"
 - Night: "warm summer night with longer twilight"
 
 **Autumn:**
+
 - Morning: "crisp autumn morning light through falling leaves"
 - Midday: "bright autumn sun with golden foliage"
 - Sunset: "rich amber autumn sunset"
 - Night: Standard
 
 **Winter:**
+
 - Morning: "pale winter morning light on snow"
 - Midday: "bright winter sun with cold blue shadows on snow"
 - Sunset: "brief winter dusk with purple-blue tones"
@@ -739,11 +799,13 @@ Keep the environment like this reference with zero deviation. Don't add or chang
 ### Weather Variations
 
 **Cloudy Day Timelapse:**
+
 ```
 Seamless lighting cycle transition: soft diffused morning light through overcast clouds → bright but filtered midday light with soft shadows → gentle sunset glow through thick cloud cover → deep night with muted artificial lights and heavy cloud cover → back to soft morning light, looping smoothly.
 ```
 
 **Storm Rolling In:**
+
 ```
 Seamless lighting cycle transition: clear golden morning light → gathering storm clouds at midday with darkening shadows → dramatic stormy sunset with lightning flashes → deep night with storm lighting and rain reflections → clearing back to soft morning light, looping smoothly.
 ```
@@ -755,6 +817,7 @@ Seamless lighting cycle transition: clear golden morning light → gathering sto
 **For scenes with water (rivers, lakes, ocean, puddles):**
 
 Add to lighting cycle:
+
 - Morning: "reflecting across the [water body]"
 - Sunset: "reflecting golden-orange sunset on the [water] surface"
 - Night: "with artificial lights shimmering on the [water]"
@@ -766,11 +829,13 @@ Add to lighting cycle:
 **When you want people to stay still in foreground:**
 
 Example from Alpine Overlook prompt:
+
 - "with a couple sitting on a bench" (foreground subjects)
 - These remain static while background traffic moves
 - Creates interesting contrast
 
 **Application:**
+
 - Couple on bench overlooking view
 - Person standing at railing
 - Dog sitting on hill
@@ -785,6 +850,7 @@ Example from Alpine Overlook prompt:
 ### Urban vs. Natural Environments
 
 **Urban (More Artificial Lights):**
+
 - Extensive night light sources
 - Neon/digital billboards
 - Vehicle light trails
@@ -793,6 +859,7 @@ Example from Alpine Overlook prompt:
 - Traffic signals
 
 **Natural (Minimal Artificial Lights):**
+
 - Focus on atmospheric changes
 - Moon/starlight at night
 - Campfires/cabin lights only
@@ -806,15 +873,18 @@ Example from Alpine Overlook prompt:
 ### Problem: Buildings Warp or Change Shape
 
 **Symptoms:**
+
 - Architecture distorts during animation
 - Building facades morph
 - Structures appear to breathe
 
 **Root Cause:**
+
 - Environmental fidelity clause missing or weak
 - AI regenerating scene instead of locking to reference
 
 **Solution:**
+
 - Ensure "Keep the environment like this reference with zero deviation" is present
 - Add more specific structural anchors in opening
 - Strengthen with: "All buildings, roads, and structures remain exactly as shown in reference image"
@@ -824,15 +894,18 @@ Example from Alpine Overlook prompt:
 ### Problem: Motion Too Slow (Looks Real-Time)
 
 **Symptoms:**
+
 - People/cars move at normal speed
 - No motion blur
 - Doesn't feel like timelapse
 
 **Root Cause:**
+
 - Kinetic element instructions too weak
 - "Fast timelapse motion" language missing
 
 **Solution:**
+
 - Strengthen kinetic clause
 - Emphasize: "moving in **fast timelapse motion**"
 - Add: "with long exposure motion blur trails"
@@ -843,15 +916,18 @@ Example from Alpine Overlook prompt:
 ### Problem: Lighting Transition Flickering
 
 **Symptoms:**
+
 - Brightness jumps between frames
 - No smooth gradient
 - Jarring light changes
 
 **Root Cause:**
+
 - Lighting cycle not explicit enough
 - Missing "seamless" and "looping smoothly" language
 
 **Solution:**
+
 - Ensure arrow (→) progression is clear
 - Add "seamless" before "lighting cycle transition"
 - End with "looping smoothly"
@@ -862,15 +938,18 @@ Example from Alpine Overlook prompt:
 ### Problem: Camera Moves Too Much or Wobbles
 
 **Symptoms:**
+
 - Composition shifts significantly
 - Perspective changes
 - Unstable/shaky footage
 
 **Root Cause:**
+
 - Camera mechanics clause missing
 - Motion settings too aggressive
 
 **Solution:**
+
 - Include full camera clause verbatim
 - Emphasize "locked-off tripod-style stability"
 - Consider removing pan entirely: "no camera movement"
@@ -881,14 +960,17 @@ Example from Alpine Overlook prompt:
 ### Problem: No Night Lights Appear
 
 **Symptoms:**
+
 - Night scene is just dark
 - No artificial illumination
 - Looks abandoned
 
 **Root Cause:**
+
 - Artificial light sources not specified in prompt
 
 **Solution:**
+
 - Explicitly list all night light sources in "deep night" phase
 - Be specific: "glowing shop windows, street lamps, headlights"
 - Don't assume AI will add lights automatically
@@ -898,14 +980,17 @@ Example from Alpine Overlook prompt:
 ### Problem: Clouds Don't Move
 
 **Symptoms:**
+
 - Static sky
 - Clouds frozen
 - No atmospheric dynamics
 
 **Root Cause:**
+
 - Sky dynamics clause missing or truncated
 
 **Solution:**
+
 - Ensure "Clouds drifting and morphing naturally across the sky" is present
 - Can strengthen: "Fast-moving clouds drifting and morphing"
 - Verify not cut off during prompt entry
@@ -915,16 +1000,19 @@ Example from Alpine Overlook prompt:
 ### Problem: Elements Added/Removed
 
 **Symptoms:**
+
 - New buildings appear
 - Trees added/removed
 - Elements change color
 - Extra decor appears
 
 **Root Cause:**
+
 - "Zero deviation" clause missing
 - AI taking creative liberties
 
 **Solution:**
+
 - Ensure final clause present: "Keep the environment like this reference with zero deviation. Don't add or change anything new to the environment."
 - Can strengthen: "Preserve every building, road, tree, and object exactly as shown"
 
@@ -933,15 +1021,18 @@ Example from Alpine Overlook prompt:
 ### Problem: Loop Doesn't Seamlessly Connect
 
 **Symptoms:**
+
 - Visible jump when video loops
 - Lighting doesn't match at loop point
 - Discontinuous motion
 
 **Root Cause:**
+
 - Missing "looping smoothly" language
 - "Back to soft morning light" missing
 
 **Solution:**
+
 - Ensure lighting cycle ends with: "→ back to soft morning light, looping smoothly"
 - This instructs AI to match end state to beginning state
 
@@ -952,12 +1043,14 @@ Example from Alpine Overlook prompt:
 ### Travel & Tourism
 
 **Destination Marketing:**
+
 - City tourism boards
 - Hotel/resort promotional videos
 - Travel agency content
 - Destination Instagram accounts
 
 **Examples:**
+
 - Iconic landmark timelapses
 - City skyline day-to-night
 - Beach resort atmosphere
@@ -968,12 +1061,14 @@ Example from Alpine Overlook prompt:
 ### Real Estate & Architecture
 
 **Property Marketing:**
+
 - Luxury real estate listings
 - Commercial property showcases
 - Architectural portfolio pieces
 - Development marketing
 
 **Examples:**
+
 - Building exterior timelapse
 - Neighborhood atmosphere showcase
 - Urban vs. night life appeal
@@ -984,12 +1079,14 @@ Example from Alpine Overlook prompt:
 ### Film & Video Production
 
 **B-Roll & Establishing Shots:**
+
 - Documentary establishing shots
 - Travel film sequences
 - Commercial advertisements
 - Music video atmospherics
 
 **Examples:**
+
 - City establishing shots
 - Location transitions
 - Atmospheric scene-setting
@@ -1000,12 +1097,14 @@ Example from Alpine Overlook prompt:
 ### Social Media Content
 
 **High-Engagement Formats:**
+
 - Instagram Reels (9:16 vertical)
 - TikTok viral content
 - YouTube Shorts
 - Facebook video ads
 
 **Why Timelapses Work:**
+
 - Visually captivating
 - High watch-through rate
 - Shareable aesthetic
@@ -1016,12 +1115,14 @@ Example from Alpine Overlook prompt:
 ### Art & Photography
 
 **Creative Projects:**
+
 - Photo series enhancement
 - Gallery installation pieces
 - Portfolio showcases
 - Experimental visual art
 
 **Examples:**
+
 - Static photo brought to life
 - Temporal art exploration
 - Photographic storytelling
@@ -1034,23 +1135,27 @@ Example from Alpine Overlook prompt:
 ### Input Requirements
 
 **Image Resolution:**
+
 - Minimum: 1920x1080 (1080p)
 - Recommended: 3840x2160 (4K)
 - Optimal: High-resolution DSLR photos
 
 **Image Quality:**
+
 - Sharp focus throughout
 - Good dynamic range
 - Minimal noise/grain
 - Proper exposure
 
 **Composition:**
+
 - Clear foreground/midground/background
 - Open sky area for cloud movement
 - Depth and layers
 - Static architectural elements
 
 **Avoid:**
+
 - Heavy motion blur in source
 - Extreme distortion
 - Overprocessed/filtered images
@@ -1061,6 +1166,7 @@ Example from Alpine Overlook prompt:
 ### Output Specifications
 
 **Video Output:**
+
 - Duration: Typically 5-10 seconds
 - Frame Rate: 24-30fps (platform default)
 - Resolution: Matches input (1080p or 4K)
@@ -1068,6 +1174,7 @@ Example from Alpine Overlook prompt:
 - Quality: High bitrate
 
 **Aspect Ratios:**
+
 - 16:9 (landscape - YouTube, presentations)
 - 9:16 (vertical - Instagram Reels, TikTok)
 - 1:1 (square - Instagram feed)
@@ -1078,6 +1185,7 @@ Example from Alpine Overlook prompt:
 ### Platform Details
 
 **Syntx AI Image-to-Video:**
+
 - Browser-based interface
 - Cloud processing
 - Credit-based system
