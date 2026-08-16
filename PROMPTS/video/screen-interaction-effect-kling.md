@@ -21,6 +21,7 @@ This effect makes it look like a character from your screen reaches into the rea
 You only need a wallpaper, a simple recording, and Kling 3.0 to generate the interaction.
 
 **The process is simple:**
+
 1. Prepare the wallpaper and record the interaction
 2. Generate the AI clip with Kling
 3. Combine the clips together in your editor
@@ -103,12 +104,14 @@ Ultra-realistic cinematic lighting, glossy organic texture, shallow depth of fie
 ### Prompt Breakdown
 
 **Scene Setup:**
+
 - Dark cinematic night scene
 - Dimly lit room
 - Laptop on desk, screen facing camera
 - Black Suit Spider-Man / Venom Spider-Man inside screen
 
 **Camera & Lighting:**
+
 - Camera locked on tripod (stable shot)
 - Very slow cinematic push-in
 - Warm low-key lighting
@@ -116,17 +119,20 @@ Ultra-realistic cinematic lighting, glossy organic texture, shallow depth of fie
 - Soft practical light from one side
 
 **The Interaction:**
+
 - **Character stays inside screen** (important: only arm comes out)
 - Arm slowly pushes through display into real world
 - Human hand extended for handshake, remains perfectly still
 - Spider-Man's symbiote hand reaches forward and grabs human hand
 
 **VFX Moment:**
+
 - When hands touch: thin glossy black symbiote strands shoot out
 - Strands spread from Spider-Man's hand onto human hand
 - Organic, spreading effect
 
 **Quality Requirements:**
+
 - Ultra-realistic cinematic lighting
 - Glossy organic texture (for symbiote effect)
 - Shallow depth of field
@@ -139,6 +145,7 @@ Ultra-realistic cinematic lighting, glossy organic texture, shallow depth of fie
 
 **Different Characters:**
 Replace "Black Suit Spider-Man / Venom Spider-Man" with:
+
 - Iron Man (with glowing arc reactor hand)
 - Deadpool (reaching for high-five)
 - Wolverine (with claws extended but friendly)
@@ -147,6 +154,7 @@ Replace "Black Suit Spider-Man / Venom Spider-Man" with:
 
 **Different VFX on Contact:**
 Replace the symbiote strands effect with:
+
 - **Energy sparks:** "electric blue energy sparks jump between the hands"
 - **Magic:** "golden mystical runes appear and float around the connected hands"
 - **Fire:** "warm orange flames harmlessly dance where the hands meet"
@@ -155,6 +163,7 @@ Replace the symbiote strands effect with:
 - **Light:** "bright white light emanates from the point of contact"
 
 **Different Interactions:**
+
 - **Fist bump** instead of handshake
 - **High-five** with palm contact
 - **Hand pull** where character pulls you toward screen
@@ -162,6 +171,7 @@ Replace the symbiote strands effect with:
 - **Finger touch** (E.T. style)
 
 **Different Devices:**
+
 - Phone screen (handheld or on stand)
 - Tablet screen
 - Desktop monitor
@@ -175,6 +185,7 @@ Replace the symbiote strands effect with:
 Download the generated AI clip.
 
 Open **CapCut** and import both:
+
 - Your original video
 - The AI-generated clip
 
@@ -182,10 +193,12 @@ Open **CapCut** and import both:
 
 **Option 1: Simple Cut**
 Place them side by side in the timeline to create the final effect:
+
 1. Original video (approaching the screen)
 2. Cut to AI clip (interaction happening)
 
 **Option 2: Smooth Transition**
+
 1. Trim original video to just before contact
 2. Add AI clip immediately after
 3. Apply 0.2-0.5 second cross dissolve for seamless blend
@@ -193,12 +206,14 @@ Place them side by side in the timeline to create the final effect:
 ### Advanced Compositing
 
 **Layered Approach:**
+
 1. Keep original video as base layer
 2. Overlay AI clip on top
 3. Mask AI clip to only show the interaction area
 4. Blend layers for more realistic integration
 
 **Enhancement Options:**
+
 - Add sound effects at contact moment (whoosh, energy burst, etc.)
 - Color grade both clips to match (if needed)
 - Add slight camera shake at contact moment
@@ -209,22 +224,26 @@ Place them side by side in the timeline to create the final effect:
 ## Complete Workflow Summary
 
 ### Pre-Production
+
 1. Choose your character and interaction type
 2. Find or create wallpaper with character
 3. Plan your shot composition and lighting
 
 ### Production (Recording)
+
 1. Set wallpaper on device
 2. Position device and camera
 3. Record yourself reaching for handshake with screen
 4. Keep hand steady in final position
 
 ### Capture
+
 1. Review footage in gallery
 2. Find last frame before hands would touch
 3. Screenshot that frame
 
 ### Generation (Kling 3.0)
+
 1. Go to Higgsfield.ai
 2. Select Kling 3.0 model
 3. Upload screenshot as start frame
@@ -233,6 +252,7 @@ Place them side by side in the timeline to create the final effect:
 6. Download result
 
 ### Post-Production (CapCut)
+
 1. Import original footage + AI clip
 2. Arrange clips on timeline
 3. Add transition if desired
@@ -244,6 +264,7 @@ Place them side by side in the timeline to create the final effect:
 ## Tips for Best Results
 
 ### Recording Tips
+
 - **Stable camera:** Use tripod or place camera on stable surface
 - **Consistent lighting:** Match the cinematic dim lighting described in prompt
 - **Hand position:** Keep hand perfectly steady in handshake position
@@ -251,12 +272,14 @@ Place them side by side in the timeline to create the final effect:
 - **Framing:** Both screen and hand should be clearly in frame
 
 ### Screenshot Tips
+
 - **Timing is critical:** Capture the moment just before contact
 - **Clear visibility:** Both hand and screen character should be sharp
 - **Proper framing:** Include enough context around the interaction point
 - **Good quality:** Use highest resolution available
 
 ### Generation Tips
+
 - **Be specific:** Clearly describe the character and VFX you want
 - **Lighting consistency:** Describe lighting that matches your recording
 - **Character positioning:** Specify that character stays inside screen
@@ -264,6 +287,7 @@ Place them side by side in the timeline to create the final effect:
 - **Quality descriptors:** Include "ultra-realistic," "4K HDR," etc.
 
 ### Compositing Tips
+
 - **Match timing:** Transition at the exact moment of intended contact
 - **Color matching:** Color grade if AI clip doesn't match original
 - **Sound design:** Add impactful sound at contact moment
@@ -274,33 +298,43 @@ Place them side by side in the timeline to create the final effect:
 ## Troubleshooting
 
 ### Problem: Character comes fully out of screen
+
 **Solution:**
+
 - Emphasize in prompt: "Character remains inside screen, only arm pushes through"
 - Add: "Character's body never leaves the display"
 - Regenerate with clearer boundary description
 
 ### Problem: Hand moves instead of staying still
+
 **Solution:**
+
 - Emphasize in prompt: "Human hand remains perfectly still"
 - Add: "No hand movement, completely static position"
 - In recording, hold hand as steady as possible
 
 ### Problem: VFX looks unrealistic
+
 **Solution:**
+
 - Add more descriptive terms: "glossy," "organic," "realistic"
 - Specify texture details: "thin strands," "spreading effect"
 - Include: "ultra-realistic," "4K HDR," "cinematic"
 - Regenerate with enhanced quality descriptors
 
 ### Problem: Lighting doesn't match between clips
+
 **Solution:**
+
 - Describe exact lighting from your recording in prompt
 - Use CapCut color grading to match clips
 - Adjust brightness, contrast, and color temperature
 - Add vignette to both clips for consistency
 
 ### Problem: Transition looks jarring
+
 **Solution:**
+
 - Use short cross dissolve (0.2-0.5 seconds)
 - Color grade to match both clips
 - Add subtle zoom or push-in to original before transition
@@ -313,11 +347,13 @@ Place them side by side in the timeline to create the final effect:
 ### Superhero Interactions
 
 **Iron Man Handshake:**
+
 ```
 ...On the laptop display is Iron Man in his Mark 50 armor inside the screen. His armored hand with glowing arc reactor energy slowly pushes through the display...The moment the hands touch, bright blue arc reactor energy pulses and creates glowing circuit patterns on the human hand...
 ```
 
 **Thor Fist Bump:**
+
 ```
 ...On the screen is Thor with Mjolnir. His fist pushes through the display for a fist bump...The moment fists touch, blue lightning arcs between them and small lightning bolts dance around the contact point...
 ```
@@ -325,11 +361,13 @@ Place them side by side in the timeline to create the final effect:
 ### Horror/Thriller Interactions
 
 **Zombie Hand Grab:**
+
 ```
 ...A decaying zombie hand slowly pushes through a cracked, glitching screen...The hand grabs the human hand, and dark veins begin spreading up the human arm...
 ```
 
 **Ghost Touch:**
+
 ```
 ...A translucent ghostly hand phases through the screen...When hands touch, a cold mist spreads and the human hand temporarily becomes semi-transparent...
 ```
@@ -337,11 +375,13 @@ Place them side by side in the timeline to create the final effect:
 ### Fantasy Interactions
 
 **Dragon Touch:**
+
 ```
 ...A dragon's scaled claw carefully pushes through the screen...When contact is made, glowing dragon scales briefly appear on the human hand...
 ```
 
 **Wizard Handshake:**
+
 ```
 ...A wizard's hand with glowing runes pushes through the screen...Upon contact, magical glowing runes transfer and swirl around both hands...
 ```
@@ -353,15 +393,18 @@ Place them side by side in the timeline to create the final effect:
 ### Multi-Stage Interaction
 
 **Stage 1: Approach** (Original footage)
+
 - Hand approaching screen slowly
 - Build anticipation
 
 **Stage 2: Contact** (AI generated)
+
 - Hand pushes through screen
 - Handshake or interaction happens
 - VFX triggers
 
 **Stage 3: Aftermath** (Optional additional footage)
+
 - Show lingering VFX on your hand
 - React to the interaction
 - Character returns to screen
@@ -369,6 +412,7 @@ Place them side by side in the timeline to create the final effect:
 ### Split Screen Effect
 
 Instead of cutting between clips:
+
 1. Keep original as background
 2. Mask out just the screen area
 3. Replace only screen content with AI clip
@@ -377,6 +421,7 @@ Instead of cutting between clips:
 ### Multiple Camera Angles
 
 Record from different angles:
+
 - Close-up of hands
 - Medium shot showing full scene
 - Side angle showing depth
@@ -387,24 +432,28 @@ Record from different angles:
 ## Creative Applications
 
 ### Social Media Content
+
 - Character meet-and-greets
 - Viral VFX videos
 - Fan content for movie releases
 - Creative storytelling shorts
 
 ### Marketing & Advertising
+
 - Product handoff from brand mascot
 - Interactive brand experiences
 - Tech product demonstrations
 - Gaming promotions
 
 ### Short Films
+
 - Portal/dimensional travel scenes
 - Character introduction sequences
 - Magic or supernatural moments
 - Sci-fi digital world interactions
 
 ### Educational Content
+
 - VFX tutorials
 - Behind-the-scenes breakdowns
 - AI video generation demonstrations
@@ -415,6 +464,7 @@ Record from different angles:
 ## Technical Specifications
 
 ### Recording Settings
+
 - **Resolution:** 1080p or 4K
 - **Frame rate:** 24fps, 30fps, or 60fps
 - **Lighting:** Warm, dim, cinematic (matches prompt)
@@ -422,18 +472,21 @@ Record from different angles:
 - **Duration:** 5-10 seconds
 
 ### Screenshot Requirements
+
 - **Quality:** Highest resolution available
 - **Timing:** Last frame before contact
 - **Content:** Clear view of hand and screen character
 - **Format:** JPG or PNG
 
 ### Kling 3.0 Settings
+
 - **Model:** Kling 3.0
 - **Start Frame:** Your screenshot
 - **Prompt:** Detailed interaction description
 - **Output:** 5-10 second video clip
 
 ### Export Settings
+
 - **Resolution:** Match source (1080p or 4K)
 - **Frame rate:** Match source
 - **Format:** MP4 (H.264)
@@ -444,6 +497,7 @@ Record from different angles:
 ## Platform-Specific Optimization
 
 ### TikTok / Instagram Reels
+
 - 9:16 vertical format
 - 1080x1920 resolution
 - 15-30 seconds total
@@ -451,18 +505,21 @@ Record from different angles:
 - Include captions explaining effect
 
 ### YouTube Shorts
+
 - 9:16 vertical format
 - Up to 60 seconds
 - Clear thumbnail showing interaction
 - Title: "Spider-Man Reached Through My Screen!"
 
 ### Instagram Feed
+
 - 4:5 or 1:1 format
 - 1080x1350 or 1080x1080
 - 30-60 seconds
 - Professional presentation
 
 ### YouTube (Standard)
+
 - 16:9 horizontal format
 - 1920x1080 or 4K
 - Include tutorial/breakdown
@@ -473,15 +530,18 @@ Record from different angles:
 ## Cost Considerations
 
 **Higgsfield.ai:**
+
 - Kling 3.0 generation requires credits
 - Check current pricing at higgsfield.ai
 - Typical: 1-2 generations needed
 
 **CapCut:**
+
 - Free to use
 - No paid features required for basic version
 
 **Total Project Time:**
+
 - Recording: 5-10 minutes
 - Screenshot capture: 2 minutes
 - AI generation: 5-15 minutes (processing time)
@@ -493,11 +553,13 @@ Record from different angles:
 ## Safety & Ethics
 
 **Character Rights:**
+
 - Be aware of copyright when using famous characters
 - Use for personal/educational purposes
 - Commercial use may require permissions
 
 **Content Warnings:**
+
 - If using horror/scary characters, add content warnings
 - Consider audience sensitivity
 - Keep effects appropriate for intended platform
@@ -519,6 +581,7 @@ Make characters from your screen reach into the real world using just a wallpape
 **Tools:** Wallpaper + Recording + Kling 3.0 + CapCut
 
 **Key Prompt Elements:**
+
 - Character stays inside screen
 - Only arm/hand pushes through
 - Describe VFX at contact moment
