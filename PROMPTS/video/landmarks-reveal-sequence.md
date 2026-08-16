@@ -56,6 +56,7 @@ All environmental elements—including sky gradients, cloud patterns, shadows, f
 High-contrast daylight imagery with clear structural edges yields the most reliable results.
 
 **Best Lighting:**
+
 - Clear blue sky
 - Bright natural daylight
 - Strong shadows for depth
@@ -101,6 +102,7 @@ Impact vibrations make the iron/stone/concrete arrival feel realistic, grounded,
    - Pixel-perfect dimensional match
 
 **Result:** You now have two perfectly aligned references:
+
 - **Reference 1:** Empty site (0s mark)
 - **Reference 2:** Full landmark (6s mark)
 
@@ -182,18 +184,21 @@ changing camera angle, changing perspective, new viewpoint, reframing, re-anglin
 **For different landmarks, modify these sections:**
 
 **Empty Site Description (0s):**
+
 - Eiffel Tower: "Champ de Mars green lawn, bare winter trees, distant Trocadéro buildings"
 - Statue of Liberty: "Liberty Island stone platform, water surrounding, Manhattan skyline background"
 - Big Ben: "Westminster square, River Thames visible, surrounding Parliament buildings"
 - Colosseum: "Roman Forum ground, tourists in courtyard, ancient stone surroundings"
 
 **Structural Components (arrival sequence):**
+
 - Eiffel Tower: "iron base legs, lower arch, middle tower, observation decks, spire"
 - Statue of Liberty: "stone pedestal, copper robe body, raised arm with torch, crown"
 - Big Ben: "clock tower base, shaft stonework, clock faces, Gothic spire"
 - Colosseum: "arched exterior walls, upper tier arcades, interior arena floor"
 
 **Material Details:**
+
 - Eiffel Tower: "iron lattice sections"
 - Statue of Liberty: "copper patina panels"
 - Big Ben: "limestone Gothic stonework"
@@ -249,6 +254,7 @@ Trim descriptive modifiers from the prompt while strictly preserving the "CAMERA
 Insufficient emphasis on camera lock, or platform defaults overriding instructions.
 
 **Solution:**
+
 - Verify "CAMERA LOCK - ANGLE AND PERSPECTIVE NEVER CHANGE" block is complete
 - Add to negative prompt: "camera movement, dolly, zoom, pan, perspective change"
 - Use only "subtle continuous drift" language if any movement needed
@@ -261,6 +267,7 @@ Insufficient emphasis on camera lock, or platform defaults overriding instructio
 Model is regenerating environment instead of preserving Reference 1.
 
 **Solution:**
+
 - Emphasize "ABSOLUTE LOCK" section
 - Ensure both references have identical backgrounds
 - Verify object removal in Reference 1 didn't alter surrounding pixels
@@ -273,6 +280,7 @@ Model is regenerating environment instead of preserving Reference 1.
 Impact vibration instructions not specific enough or ignored by model.
 
 **Solution:**
+
 - Emphasize "micro-vibration impact shake (1-2 frames of micro camera contact rattle)"
 - Add "physical weight," "grounded," "heavy" descriptors
 - Specify "upon contact" timing
@@ -285,6 +293,7 @@ Impact vibration instructions not specific enough or ignored by model.
 Model is blending/morphing instead of discrete assembly.
 
 **Solution:**
+
 - Re-emphasize "Every section is fully opaque, complete, and correctly proportioned"
 - Add "An architectural element either does not exist yet or exists fully"
 - Strengthen negative prompt against "morphing, dissolving, fading"
@@ -296,6 +305,7 @@ Model is blending/morphing instead of discrete assembly.
 ### 6.1 Multiple Angle Sequences
 
 **Create Series:**
+
 - Generate 3-4 different camera angles of same landmark
 - Front view, side view, aerial view, close-up detail
 - Edit together as multi-angle reveal montage
@@ -303,6 +313,7 @@ Model is blending/morphing instead of discrete assembly.
 ### 6.2 Time-of-Day Variations
 
 **Same landmark, different atmospheres:**
+
 - Golden hour sunrise
 - Bright midday
 - Sunset glow
@@ -314,6 +325,7 @@ Model is blending/morphing instead of discrete assembly.
 ### 6.3 Weather Variations
 
 **Dramatic atmospheric effects:**
+
 - Clear blue sky (default)
 - Partly cloudy
 - Dramatic storm clouds
@@ -323,6 +335,7 @@ Model is blending/morphing instead of discrete assembly.
 ### 6.4 Seasonal Theming
 
 **Adapt environment details:**
+
 - **Spring:** Blooming trees, green grass
 - **Summer:** Lush foliage, bright sun
 - **Fall:** Autumn colors, fallen leaves
@@ -333,24 +346,28 @@ Model is blending/morphing instead of discrete assembly.
 ## 7. Creative Applications
 
 ### Marketing & Advertising
+
 - **Tourism boards:** Dramatic destination reveals
 - **Real estate:** Property/development showcases
 - **Architecture firms:** Project presentations
 - **Historical sites:** Educational content
 
 ### Social Media Content
+
 - **Instagram Reels:** Viral reveal moments
 - **TikTok:** Satisfying assembly videos
 - **YouTube:** Documentary b-roll
 - **LinkedIn:** Professional portfolio pieces
 
 ### Educational Content
+
 - **History channels:** Landmark storytelling
 - **Architecture education:** Construction techniques
 - **Documentary films:** Historical context
 - **Virtual tours:** Immersive experiences
 
 ### Entertainment
+
 - **Film/TV:** Establishing shots
 - **Video games:** Cutscene inspiration
 - **Music videos:** Dramatic backgrounds
@@ -363,22 +380,26 @@ Model is blending/morphing instead of discrete assembly.
 ### Input Requirements (Reference Images)
 
 **Resolution:**
+
 - Minimum: 1920x1080 (1080p)
 - Recommended: 3840x2160 (4K)
 - Maximum: Platform-dependent
 
 **Aspect Ratio:**
+
 - 16:9 (landscape - most common)
 - 9:16 (vertical - mobile-optimized)
 - 1:1 (square - social media)
 
 **Quality:**
+
 - Sharp focus throughout
 - High contrast
 - Clear structural edges
 - Minimal compression artifacts
 
 **Lighting:**
+
 - Bright natural daylight preferred
 - Clear sky (blue or dramatic clouds)
 - Strong directional shadows
@@ -401,18 +422,21 @@ Model is blending/morphing instead of discrete assembly.
 ### Pollo.ai Omni Flash
 
 **Features:**
+
 - Dual-reference image animation
 - 0s and 6s mark reference points
 - 8-second output duration
 - High-quality photorealistic generation
 
 **Settings:**
+
 - Model: Omni Flash
 - Duration: 8 seconds
 - References: 2 images (0s and 6s)
 - Prompt: Main + Negative
 
 **Tips:**
+
 - Use HIGH bitrate if available
 - Allow full processing time
 - Review before final export
@@ -423,6 +447,7 @@ Model is blending/morphing instead of discrete assembly.
 ## 10. Cost & Time Considerations
 
 **Time Investment:**
+
 - Image selection: 5-10 minutes
 - Object removal (Reference 1): 5-10 minutes
 - Prompt customization: 10-15 minutes
@@ -431,6 +456,7 @@ Model is blending/morphing instead of discrete assembly.
 - **Total: 40-85 minutes per landmark**
 
 **Credits/Cost:**
+
 - Platform-dependent pricing
 - Check Pollo.ai current rates
 - Typically 1-3 credits per generation
@@ -441,6 +467,7 @@ Model is blending/morphing instead of discrete assembly.
 ## Quick Reference Checklist
 
 **Before Generation:**
+
 - ☐ High-quality source image selected
 - ☐ Reference 2 (original landmark) prepared
 - ☐ Reference 1 (empty site) created via object removal
@@ -450,6 +477,7 @@ Model is blending/morphing instead of discrete assembly.
 - ☐ Prompt adapted for specific landmark
 
 **During Generation:**
+
 - ☐ Reference 1 uploaded to 0s mark
 - ☐ Reference 2 uploaded to 6s mark
 - ☐ Duration set to 8 seconds
@@ -458,6 +486,7 @@ Model is blending/morphing instead of discrete assembly.
 - ☐ All landmark-specific details updated
 
 **After Generation:**
+
 - ☐ Camera stays locked (no warping)
 - ☐ Elements arrive discretely (no morphing)
 - ☐ Impact vibrations visible
@@ -470,6 +499,7 @@ Model is blending/morphing instead of discrete assembly.
 ## Summary
 
 Create stunning architectural reveal animations by:
+
 1. Starting with empty site (Reference 1)
 2. Ending with complete landmark (Reference 2)
 3. Animating discrete piece-by-piece assembly
