@@ -1,0 +1,1 @@
+Recreate a highly detailed technical drawing in the style of AutoCAD like a sectional cut for the main wall design in the attached living room shot, revealing the main details and approximate dimensions, matching 100% with the geometry and design details of the attached image, professional technical details.

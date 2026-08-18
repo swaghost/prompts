@@ -1,0 +1,1 @@
+Ultra-photorealistic RAW close-up of a man's neck and chin in freezing conditions. Skin shows uneven pallor with waxy yellow-white patches and darker purple zones. Texture crepey, cracked, immobile. Ice dust on stubble hairs. Cold reflected daylight, documentary realism.

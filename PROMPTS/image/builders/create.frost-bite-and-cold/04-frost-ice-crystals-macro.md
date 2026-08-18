@@ -1,0 +1,1 @@
+Ultra-photorealistic RAW macro documentary photograph of frost and ice crystals forming on the exposed skin of an elderly man. Fine ice structures cling to pores, hair, and cracked skin surfaces. Texture is brutally sharp and realistic. Lighting is cold, natural daylight, no artistic effects.

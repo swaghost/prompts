@@ -2,8 +2,9 @@
 name: Creating Realistic AI Influencer Personas
 description: This guide documents advanced techniques for generating ultra-realistic AI influencer personas that appear authentic on social media platforms.
 role: Creating Realistic AI Influencer Personas expert
-applyTo: ['realistic', 'influencer', 'creation', 'ai-content-creation']
+applyTo: ["realistic", "influencer", "creation", "ai-content-creation"]
 ---
+
 # Expert Guide: Creating Realistic AI Influencer Personas
 
 ## Overview
@@ -13,6 +14,20 @@ This guide documents advanced techniques for generating ultra-realistic AI influ
 ## Core Philosophy
 
 ### Authenticity Over Perfection
+
+**CRITICAL REFERENCE**: See **PROMPTS/image/builders/realism/realism-for-commercial-and-ugc-photography.md** for comprehensive commercial/UGC realism techniques.
+
+**The 7 Realism Rules** (from commercial/UGC guide):
+
+1. **Destroy Perfection** - Add visible imperfections
+2. **Phone Camera Logic** - Embrace awkward framing
+3. **Shoot Tiny Details** - Focus on problem areas (hands, nails, fabric)
+4. **Physical Evidence of Being Human** - Condensation, wrinkles, scuffs
+5. **Natural Lighting Wins** - Daylight over studio setups
+6. **Environment Imperfections** - Reality lives in imperfections
+7. **Influencer Realism Stack** - Universal authenticity prompt formula
+
+**Key Insight**: "Most AI influencers fail because creators accidentally optimize for beauty instead of reality."
 
 **Embrace Imperfections:**
 

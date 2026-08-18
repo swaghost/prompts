@@ -400,6 +400,13 @@ The complete video should feel like **one single, continuous camera zoom** from 
 - **[realism-video-prompts-transitions.md](realism-video-prompts-transitions.md)**
   Video transition prompt templates for all 6 transitions with authenticity constraints
 
+### Universal Realism Principles
+
+- **[PROMPTS/image/builders/realism/realism-for-commercial-and-ugc-photography.md](../../PROMPTS/image/builders/realism/realism-for-commercial-and-ugc-photography.md)**
+  The 7 Realism Rules, commercial product photography prompts, UGC techniques, troubleshooting guide for AI tells
+
+  **Key Content**: Destroy perfection principle, phone camera logic, physical evidence techniques, natural lighting strategies, micro-detail examples (chrome nails, eyes macro, ice cube mouth), influencer realism stack formula
+
 ### Quick Reference
 
 **Image Sequence** (7 images):

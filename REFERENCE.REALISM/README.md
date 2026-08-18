@@ -19,6 +19,13 @@ This folder contains a complete workflow for creating ultra-realistic AI-generat
 | **[realism-video-prompts-transitions.md](realism-video-prompts-transitions.md)**           | 6 video transition prompts      | Animating between zoom levels          |
 | **README.md** (this file)                                                                  | Folder index & quick start      | Understanding folder structure         |
 
+### Related Realism Resources
+
+| File/Folder                                                                                                                             | Purpose                                               | Use When                                            |
+| --------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------- | --------------------------------------------------- |
+| **[PROMPTS/image/builders/realism/](../../PROMPTS/image/builders/realism/)**                                                            | Commercial & UGC realism techniques                   | Creating product photography or influencer content  |
+| **[realism-for-commercial-and-ugc-photography.md](../../PROMPTS/image/builders/realism/realism-for-commercial-and-ugc-photography.md)** | The 7 Realism Rules, product prompts, troubleshooting | Need commercial photography or UGC realism guidance |
+
 ---
 
 ## 🚀 Quick Start
@@ -116,6 +123,16 @@ This folder contains a complete workflow for creating ultra-realistic AI-generat
 - Preserve natural imperfections (pores, freckles, asymmetry)
 - Avoid beauty filters and skin smoothing
 - No CGI or plastic-looking skin
+
+**The 7 Realism Rules** (from commercial/UGC guide - applies universally):
+
+1. **Destroy Perfection** - Add visible pores, peach fuzz, flyaway hairs, asymmetry
+2. **Use Phone Camera Logic** - Embrace awkward framing and imperfect composition
+3. **Shoot Tiny Details** - Focus on areas AI struggles with (hands, nails, fabric)
+4. **Add Physical Evidence** - Condensation, wrinkles, scuffs show reality
+5. **Natural Lighting Wins** - Daylight, golden hour, window light (not studio perfection)
+6. **Environment Imperfections** - Reality lives in the imperfections
+7. **Influencer Realism Stack** - Universal authenticity prompt formula
 
 **Identity Consistency**:
 

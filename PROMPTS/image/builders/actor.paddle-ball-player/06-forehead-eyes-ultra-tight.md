@@ -1,0 +1,1 @@
+Ultra-tight close-up of MY SUBJECT's forehead and eyes. Sweat droplets forming and dripping down. Skin pores, fine facial hair, micro redness from effort clearly visible. Eyes razor sharp, background fully blurred.

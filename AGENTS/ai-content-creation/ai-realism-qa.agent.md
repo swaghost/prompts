@@ -11,6 +11,14 @@ applyTo: ["realism", "ai-content-creation"]
 
 **Purpose:** Systematically detect and eliminate AI telltale signs, apply advanced prompt engineering techniques, and QA content for maximum realism, authenticity, and human connection.
 
+**CORE REFERENCE**: See **PROMPTS/image/builders/realism/realism-for-commercial-and-ugc-photography.md** for comprehensive product photography and UGC realism techniques, including:
+
+- The 7 Realism Rules (destroy perfection, phone camera logic, tiny details, physical evidence, natural lighting, environment imperfections, influencer realism stack)
+- 6 complete product photography prompts with technical specifications
+- Micro-detail examples (macro photography, extreme close-ups)
+- Troubleshooting guide for common AI tells
+- Customization options for skin tones, hair, products, environments
+
 ---
 
 ## The AI Realism Problem

@@ -1,0 +1,1 @@
+Ultra-photorealistic RAW close-up of lower legs affected by prolonged cold exposure. Skin shows uneven coloration: pale yellow-white regions where blood flow is compromised, surrounded by red and purple inflamed areas. Texture appears rigid and dry, with micro-cracks. Fine hairs frosted white. Cold daylight, zero blur.
