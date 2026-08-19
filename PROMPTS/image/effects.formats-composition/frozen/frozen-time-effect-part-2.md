@@ -28,12 +28,14 @@ Any subject captured in a moment of dynamic action with moving elements (liquid,
 ## Included Effects
 
 **Temporal Effects:**
+
 - Complete time suspension/freeze
 - Bullet-time effect
 - All motion elements suspended in 3D space
 - Particles, liquids, debris frozen mid-motion
 
 **Camera Effects:**
+
 - Smooth cinematic camera orbit
 - 360-degree or partial rotation around subject
 - Strong spatial parallax
@@ -41,12 +43,14 @@ Any subject captured in a moment of dynamic action with moving elements (liquid,
 - Maintains focus on subject throughout movement
 
 **Lighting Effects:**
+
 - Original lighting preserved and locked
 - Fixed shadows throughout camera movement
 - Locked reflections
 - Physically accurate light behavior
 
 **Rendering Effects:**
+
 - Ultra-photorealistic rendering
 - Film-quality output
 - Extreme detail preservation
@@ -54,6 +58,7 @@ Any subject captured in a moment of dynamic action with moving elements (liquid,
 - Realistic material properties
 
 **Preservation Effects:**
+
 - Exact scene preservation
 - Original environment maintained
 - All textures and surfaces locked
@@ -63,24 +68,28 @@ Any subject captured in a moment of dynamic action with moving elements (liquid,
 ## Included Camera Frames
 
 **Camera Movement:**
+
 - Slow, smooth cinematic orbit
 - Begins from original camera angle
 - Moves through three-dimensional space
 - Maintains visual focus on subject and suspended action
 
 **Composition:**
+
 - Reveals strong spatial parallax
 - Foreground, midground, and background separation
 - Dimensional depth emphasis
 - Subject remains compositional center
 
 **Technical Specifications:**
+
 - Film-quality rendering
 - Ultra-photorealistic output
 - Smooth camera motion
 - Professional cinematography movement
 
 **Depth & Parallax:**
+
 - Strong foreground/background separation
 - Natural element shifting relative to camera position
 - Three-dimensional depth revelation
