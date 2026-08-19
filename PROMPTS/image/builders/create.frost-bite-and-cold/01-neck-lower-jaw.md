@@ -1,0 +1,1 @@
+Ultra-photorealistic RAW documentary close-up photograph of the neck and lower jaw of an elderly man suffering from cold exposure. Skin is deeply wrinkled, stiff, and unevenly discolored, with frostbite patches along the jawline. Sparse beard hairs are frozen together. Adam's apple appears tense and rigid. Lighting is cold winter daylight, flat and realistic.

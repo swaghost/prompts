@@ -1,0 +1,1 @@
+Ultra-photorealistic RAW close-up of the back of a man's hand with advanced frostbite. Pale yellow-white areas dominate the surface, interrupted by darkened necrotic patches near fingertips. Veins faint beneath rigid skin. Snow granules trapped along wrinkles. Cold daylight, zero stylization.

@@ -1,0 +1,1 @@
+Apply a rich, natural color grade with deep greens, warm golden-hour highlights, a clean blue sky, accurate skin tones, and soft neutral shadows without an orange or yellow cast. Enhance dynamic range, local contrast, texture, and detail to an iPhone 16 Pro Smart HDR look while keeping it fully photorealistic. Give that image as it is, not AI-generated artwork.

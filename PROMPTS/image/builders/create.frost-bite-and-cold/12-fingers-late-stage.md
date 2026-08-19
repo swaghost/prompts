@@ -1,0 +1,1 @@
+Ultra-photorealistic RAW extreme close-up of frostbitten fingers in late-stage cold injury. Fingertips show darkened blackened areas alongside rigid pale zones. Skin texture is rough, cracked, and matte, with loss of elasticity. Nails opaque and brittle. Snow granules cling to the surface. Cold daylight, clinical documentary realism.

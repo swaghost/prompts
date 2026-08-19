@@ -1,0 +1,3 @@
+# 🌪️ Tornadic Weather — Photorealistic Prompt
+
+Photorealistic storm scene with dark, churning supercell clouds stretching across the sky, illuminated by eerie green‑gray atmospheric lighting. The foreground shows windswept grass and debris moving in turbulent gusts. In the background, a large, fully formed tornado descends from a rotating wall cloud, partially obscured by sheets of rain and dust. Lightning flickers inside the storm, casting sharp highlights across the swirling clouds. The overall mood is tense, dramatic, and hyper‑real, with high contrast between the dim storm light and the illuminated edges of the tornado.

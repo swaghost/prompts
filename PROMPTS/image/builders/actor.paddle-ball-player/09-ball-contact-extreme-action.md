@@ -1,0 +1,1 @@
+Extreme action frame with the padel ball very close to camera. Racket just milliseconds from contact. Face partially blurred by motion, eyes razor sharp. Nike wristbands and forearm veins highly detailed.

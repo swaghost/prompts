@@ -1,0 +1,1 @@
+Ultra-photorealistic RAW extreme macro of frostbitten skin covered in ice crystals. Skin shows rigid pale yellow-white frostbite areas transitioning into darkened regions from severe cold injury. Cracks, stiffness, and loss of elasticity clearly visible. Ice embedded in pores and fissures. Cold natural light, zero blur, zero stylization.

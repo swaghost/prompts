@@ -1,0 +1,56 @@
+# Productivity and Focus Hooks
+
+Hooks that provide productivity strategies and focus optimization techniques.
+
+## Hooks in This Category
+
+1. [A Morning Routine Doesnt Make You Productive Clarity Does](HOOK.a-morning-routine-doesnt-make-you-productive-clarity-does.md)
+2. [Before You Scroll How I Get Metric Done In Timeframe](HOOK.before-you-scroll-how-i-get-metric-done-in-timeframe.md)
+3. [Before You Scroll How To Get Result In Half The Time](HOOK.before-you-scroll-how-to-get-result-in-half-the-time.md)
+4. [Before You Scroll Stop Being Busy Start Being Productive](HOOK.before-you-scroll-stop-being-busy-start-being-productive.md)
+5. [Before You Scroll The Focus Strategy Of Successful People](HOOK.before-you-scroll-the-focus-strategy-of-successful-people.md)
+6. [Before You Scroll The Productivity Hack That Actually Works](HOOK.before-you-scroll-the-productivity-hack-that-actually-works.md)
+7. [Burnout Isnt A Badge Of Honor Its Bad Productivity](HOOK.burnout-isnt-a-badge-of-honor-its-bad-productivity.md)
+8. [Focus Is A Skill Train It Daily](HOOK.focus-is-a-skill-train-it-daily.md)
+9. [How I Get Metric Done In Timeframe And The Last Point Matters Most](HOOK.how-i-get-metric-done-in-timeframe-and-the-last-point-matters-most.md)
+10. [How I Get Metric Done In Timeframe Start With This](HOOK.how-i-get-metric-done-in-timeframe-start-with-this.md)
+11. [How To Get Result In Half The Time And The Last Point Matters Most](HOOK.how-to-get-result-in-half-the-time-and-the-last-point-matters-most.md)
+12. [How To Get Result In Half The Time Start With This](HOOK.how-to-get-result-in-half-the-time-start-with-this.md)
+13. [If Everything Is Urgent Nothing Is Important](HOOK.if-everything-is-urgent-nothing-is-important.md)
+14. [If You Cant Focus For 25 Minutes Forget About Productivity](HOOK.if-you-cant-focus-for-25-minutes-forget-about-productivity.md)
+15. [If You Cant Measure It You Cant Improve It](HOOK.if-you-cant-measure-it-you-cant-improve-it.md)
+16. [If You Want More Focus Control Your Environment](HOOK.if-you-want-more-focus-control-your-environment.md)
+17. [If Your Brain Is Foggy Your Productivity Will Always Suck](HOOK.if-your-brain-is-foggy-your-productivity-will-always-suck.md)
+18. [Most Procrastination Is Fear In Disguise](HOOK.most-procrastination-is-fear-in-disguise.md)
+19. [Most Productivity Apps Slow You Down](HOOK.most-productivity-apps-slow-you-down.md)
+20. [Most Productivity Problems Are Calendar Problems](HOOK.most-productivity-problems-are-calendar-problems.md)
+21. [Multitasking Is A Myth Its Just Task Switching With A Productivity Tax](HOOK.multitasking-is-a-myth-its-just-task-switching-with-a-productivity-tax.md)
+22. [Procrastination Isnt The Problem Its The Symptom](HOOK.procrastination-isnt-the-problem-its-the-symptom.md)
+23. [Productivity Isnt About Doing More Its About Doing What Matters](HOOK.productivity-isnt-about-doing-more-its-about-doing-what-matters.md)
+24. [Productivity Isnt About Hacks Its About Systems](HOOK.productivity-isnt-about-hacks-its-about-systems.md)
+25. [Productivity Isnt About Speed Its About Direction](HOOK.productivity-isnt-about-speed-its-about-direction.md)
+26. [Productivity Isnt Sexy Its Boring Consistency](HOOK.productivity-isnt-sexy-its-boring-consistency.md)
+27. [Small Daily Habits Create Massive Long Term Productivity](HOOK.small-daily-habits-create-massive-long-term-productivity.md)
+28. [Stop Being Busy Start Being Productive And The Last Point Matters Most](HOOK.stop-being-busy-start-being-productive-and-the-last-point-matters-most.md)
+29. [Stop Being Busy Start Being Productive Start With This](HOOK.stop-being-busy-start-being-productive-start-with-this.md)
+30. [Stop Chasing Motivation Build Discipline Instead](HOOK.stop-chasing-motivation-build-discipline-instead.md)
+31. [Stop Managing Time Start Managing Attention](HOOK.stop-managing-time-start-managing-attention.md)
+32. [The Busiest People Are Usually The Least Productive](HOOK.the-busiest-people-are-usually-the-least-productive.md)
+33. [The Focus Strategy Of Successful People And The Last Point Matters Most](HOOK.the-focus-strategy-of-successful-people-and-the-last-point-matters-most.md)
+34. [The Focus Strategy Of Successful People Start With This](HOOK.the-focus-strategy-of-successful-people-start-with-this.md)
+35. [The Most Productive People Say No More Than Yes](HOOK.the-most-productive-people-say-no-more-than-yes.md)
+36. [The Productivity Hack That Actually Works And The Last Point Matters Most](HOOK.the-productivity-hack-that-actually-works-and-the-last-point-matters-most.md)
+37. [The Productivity Hack That Actually Works Start With This](HOOK.the-productivity-hack-that-actually-works-start-with-this.md)
+38. [The Real Productivity Hack Sleep](HOOK.the-real-productivity-hack-sleep.md)
+39. [The To Do List Is A Trap Use A Priority List Instead](HOOK.the-to-do-list-is-a-trap-use-a-priority-list-instead.md)
+40. [Tired Dont Push Harder Rest Smarter](HOOK.tired-dont-push-harder-rest-smarter.md)
+41. [To Get More Done Slow Down](HOOK.to-get-more-done-slow-down.md)
+42. [True Productivity Is Finishing Not Starting](HOOK.true-productivity-is-finishing-not-starting.md)
+43. [You Dont Need More Discipline You Need Fewer Temptations](HOOK.you-dont-need-more-discipline-you-need-fewer-temptations.md)
+44. [You Dont Need More Hours You Need Better Energy](HOOK.you-dont-need-more-hours-you-need-better-energy.md)
+45. [Your Mornings Decide Your Productivity](HOOK.your-mornings-decide-your-productivity.md)
+
+---
+
+[← Back to Main Index](../README.md)
+

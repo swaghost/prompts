@@ -1,0 +1,1 @@
+Ultra-photorealistic RAW close-up of frost-exposed bare feet in snow. Toes show pale waxy yellow patches mixed with darkened areas from extreme cold exposure. Skin appears stiff, cracked, and swollen. Ice crystals visible between toes. Toenails dulled and opaque. Harsh cold daylight, no diffusion, extreme realism.

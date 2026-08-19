@@ -1,0 +1,5 @@
+# 🌎 Prompt to Create a Full Environment‑Realism Manual
+
+## Prompt:
+
+“Create a full environment‑realism manual for this photoshoot. Analyze the carwash setting in detail: structural materials, textures, industrial fixtures, grime patterns, rust behavior, water runoff, puddles, drains, grates, hoses, foam, and reflections. Describe how each environmental element behaves under different lighting conditions and how water interacts with surfaces (spray physics, mist, droplets, pooling, cling, evaporation). Provide guidance on maintaining realism: accurate wetness gradients, authentic industrial wear, environmental clutter, humidity cues, atmospheric haze, and sensory details such as sound, smell, and tactile impressions. Include instructions for integrating the model into the environment: how wet clothing interacts with surroundings, how props should be handled, how movement affects water behavior, and how the environment contributes to narrative tone. The manual should serve as a complete guide for achieving gritty, cinematic realism throughout the shoot.”

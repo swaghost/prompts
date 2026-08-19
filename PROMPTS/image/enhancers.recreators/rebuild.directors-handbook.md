@@ -1,0 +1,5 @@
+# 🎬 Director’s Handbook Creation Prompt
+
+## Prompt:
+
+“Create a comprehensive Director’s Handbook for this photoshoot. Break down every creative and technical component: narrative concept, emotional tone, environment realism, lighting strategy, wardrobe behavior, makeup direction, accessories usage, pose philosophy, camera angles, framing logic, cinematography style, time‑of‑day impact, weather influence, and movement dynamics. Include detailed guidance for directing the model: emotional cues, facial expression control, body language, interaction with props, and how to maintain editorial intensity. Provide environmental notes covering industrial textures, water behavior, foam, grime, reflections, and spatial layout. Add production workflow instructions: pre‑shoot planning, on‑set communication, safety considerations, continuity checks, and how to maintain visual cohesion across all scenes. The handbook should function as a complete creative and operational guide for executing the entire shoot.”

@@ -1,0 +1,130 @@
+# Portrait Sports Close-Up Straight-On Orange Lighting
+
+## Description of Resulting Image
+
+An extreme close-up cinematic portrait featuring the subject from reference image in powerful straight-on eye-level perspective with intense orange studio atmosphere. The composition captures head, neck, shoulders, and upper chest with camera positioned at eye level directly facing subject, creating intimate direct connection with red-orange side lighting creating glowing highlights and deep shadows for contemporary fashion editorial aesthetic.
+
+## Usage
+
+Perfect for music campaign portraits, contemporary fashion editorials, and bold streetwear campaigns. Ideal for album covers, editorial spreads, brand lookbooks, and social media content requiring direct engagement and dramatic visual impact. This prompt excels at creating intense eye-level cinematic portraits with strong color identity for premium fashion and music industry applications.
+
+## Actor or Subject
+
+Subject from uploaded reference image with exact facial identity, hairstyle, body structure, outfit, and styling preserved.
+
+## Prerequisites
+
+**MANDATORY:**
+- Character reference image for identity, facial characteristics, hairstyle, body structure, outfit, accessories, tattoos, jewelry, and personal styling
+
+## Included Effects
+
+**Lighting Effects:**
+- Intense red-orange side lighting creating glowing highlights
+- Warm key light from front-right revealing facial features
+- Strong contrast with deep shadows
+- Subtle specular highlights on skin
+
+**Photographic Effects:**
+- Moderately shallow depth of field
+- Focus precisely on eyes, nose, lips
+- Realistic skin texture visible
+- Individual hair strands with illumination
+
+**Atmospheric Effects:**
+- Seamless saturated burnt-orange and red-orange studio background
+- Smooth minimal evenly colored backdrop
+- Rich orange-red color palette
+
+**Post-Processing:**
+- Cinematic color grading
+- Subtle analog grain
+- Realistic dynamic range
+- High contrast treatment
+
+**Style Filters:**
+- Contemporary fashion editorial aesthetic
+- Streetwear campaign style
+- Hyper-photorealistic approach
+- Premium fashion photography look
+
+## Included Camera Frames
+
+**Camera Type & Lens:**
+- 50mm or 85mm full-frame lens
+- Close camera distance
+
+**Framing & Composition:**
+- Extreme close-up crop around head, neck, shoulders, upper chest
+- Face occupies most of vertical frame
+- Lower part contains clothing and shoulders
+- Top of head close to top edge
+
+**Camera Angle:**
+- Eye level - camera directly facing subject
+- Straight-on perspective
+- Direct intimate viewpoint
+
+**Depth of Field:**
+- Moderately shallow with important features sharp
+- Eyes, eyelashes, nose, lips in focus
+- Natural facial proportions
+
+**Aspect Ratio:**
+- Portrait orientation suitable for editorial
+
+**Shot Distance:**
+- Extreme close-up / intimate distance
+
+## Image Prompt
+
+**CRITICAL IDENTITY PRESERVATION:**
+Use the uploaded character reference image as the exclusive reference for the subject's identity, facial characteristics, hairstyle, body structure, outfit, accessories, tattoos, jewelry, and personal styling.
+
+Fully replace the person in the original composition with the character from the uploaded reference image. Preserve the uploaded person's exact recognizable identity, including face shape, facial proportions, skin tone, forehead, eyebrows, eyes, nose, lips, cheekbones, jawline, ears, facial hair, hairstyle, hairline, hair texture, neck shape, and all visible distinguishing features.
+
+**Subject:**
+Character from uploaded reference image. The wardrobe must automatically adapt to the uploaded character reference. Reproduce the exact visible clothing from the reference image, including garment type, hood or collar structure, neckline, fabric, color, fit, layering, stitching, logos, prints, jewelry, earrings, piercings, and accessories. The reference character's clothing has priority.
+
+**Setting/Environment:**
+Seamless, saturated burnt-orange and red-orange studio background. The backdrop should be smooth, minimal, evenly colored, and completely free from objects, textures, patterns, or visible horizon lines.
+
+**Lighting:**
+Use intense cinematic lighting inspired by contemporary fashion editorials and music campaign portraits. Place warm red-orange light strongly on camera-left side of subject, creating glowing red highlight across side of hair, temple, cheek, ear, jaw, and neck. Add softer warm key light from front-right to reveal eyes, forehead, nose, lips, and natural skin texture. Preserve strong contrast with deep shadows beneath eyebrows, nose, lower lip, chin, and jaw. Lighting should produce rich orange-red color palette without making skin unnaturally monochromatic. Maintain believable skin color within highlights and shadows. Use subtle specular highlights on forehead, nose, cheeks, and lips. Eyes should remain visible and expressive throughout dramatic shadowing.
+
+**Composition:**
+Create extreme close-up cinematic portrait using straight-on eye-level camera angle. Position camera directly at subject's eye level, facing them head-on. Character looks directly into camera lens with neutral head position - neither tilted up nor down. Maintain direct eye contact with lens. Expression should be serious, composed, confident, emotionally present, and engaged. Keep lips naturally closed and facial muscles relaxed but alert. Crop tightly around head, neck, shoulders, and upper chest. Face should be centered in frame with natural symmetrical composition. Preserve highly intimate camera distance without perspective distortion.
+
+**Style & Aesthetic:**
+Hyper-photorealistic editorial portrait, contemporary streetwear campaign, straight-on eye-level photography, bold orange studio backdrop, red side lighting, high contrast, fine skin texture, cinematic color grading, subtle analog grain, realistic dynamic range, premium fashion photography, ultra-detailed, 8K.
+
+**Technical Specifications:**
+Use approximately 50mm or 85mm full-frame lens at close distance to subject, producing natural portrait perspective with accurate facial proportions. Avoid wide-angle distortion. Keep perspective flattering and realistic. Focus precisely on eyes, eyelashes, nose, lips, and central facial plane. Use moderately shallow depth of field while keeping most important facial features sharp. Hair must follow uploaded reference exactly, including length, curl pattern, volume, direction, hairline, and texture. Render individual strands and natural flyaway hairs with realistic illumination.
+
+**Negative Specifications:**
+Do not merge reference character with original person. Do not preserve original model's face, facial hair, hairstyle, clothing, or accessories. Do not change uploaded character's age, gender presentation, ethnicity, facial identity, or body characteristics. No text, no typography, no logos added to background, no watermark, no additional people, no props. Avoid excessive filters, distortion, oversized features, deformed anatomy, crossed eyes, asymmetrical facial features, waxy skin, smoothed texture, duplicated jewelry, or incorrect clothing details. No low angle, no high angle, maintain eye-level perspective.
+
+Create an extreme close-up cinematic portrait with straight-on eye-level camera perspective. Position the camera directly at the subject's eye level, facing them head-on. The character looks directly into the camera lens with a neutral head position - neither tilted up nor down. Maintain direct eye contact with the lens.
+
+The expression should be serious, composed, confident, emotionally present, and engaged. Keep the lips naturally closed and the facial muscles relaxed but alert. Crop tightly around the head, neck, shoulders, and upper chest. The face should be centered in the frame with natural symmetrical composition.
+
+Use an approximately 50mm or 85mm full-frame lens at close distance to the subject, producing a natural portrait perspective with accurate facial proportions. Avoid wide-angle distortion. Keep the perspective flattering and realistic. Focus precisely on the eyes, eyelashes, nose, lips, and central facial plane. Use a moderately shallow depth of field while keeping most important facial features sharp.
+
+Create a seamless, saturated burnt-orange and red-orange studio background. The backdrop should be smooth, minimal, evenly colored, and completely free from objects, textures, patterns, or visible horizon lines.
+
+Use intense cinematic lighting inspired by contemporary fashion editorials and music campaign portraits. Place a warm red-orange light strongly on the camera-left side of the subject, creating a glowing red highlight across the side of the hair, temple, cheek, ear, jaw, and neck. Add a softer warm key light from the front-right side to reveal the eyes, forehead, nose, lips, and natural skin texture.
+
+Preserve strong contrast with deep shadows beneath the eyebrows, nose, lower lip, chin, and jaw. The lighting should produce a rich orange-red color palette without making the skin unnaturally monochromatic. Maintain believable skin color within the highlights and shadows. Use subtle specular highlights on the forehead, nose, cheeks, and lips. The eyes should remain visible and expressive throughout the dramatic shadowing.
+
+Hair must follow the uploaded reference exactly, including length, curl pattern, volume, direction, hairline, and texture. Render individual strands and natural flyaway hairs with realistic illumination.
+
+Hyper-photorealistic editorial portrait, contemporary streetwear campaign, straight-on eye-level photography, bold orange studio backdrop, red side lighting, high contrast, fine skin texture, cinematic color grading, subtle analog grain, realistic dynamic range, premium fashion photography, ultra-detailed, 8K.
+
+Do not merge the reference character with the original person.
+Do not preserve the original model's face, facial hair, hairstyle, clothing, or accessories.
+Do not change the uploaded character's age, gender presentation, ethnicity, facial identity, or body characteristics.
+No text, no typography, no logos added to the background, no watermark, no additional people, no props.
+Avoid excessive filters, distortion, oversized features, deformed anatomy, crossed eyes, asymmetrical facial features, waxy skin, smoothed texture, duplicated jewelry, or incorrect clothing details.
+No low angle, no high angle, maintain eye-level perspective.
+
+This is an AI image generation prompt for creating a direct eye-level cinematic portrait with red-orange studio lighting and a burnt-orange background.

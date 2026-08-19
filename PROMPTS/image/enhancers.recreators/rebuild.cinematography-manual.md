@@ -1,0 +1,5 @@
+# 🎬 Cinematography‑Only Manual Creation Prompt
+
+## Prompt:
+
+“Create a comprehensive cinematography‑only manual for this photoshoot. Focus exclusively on visual language and camera craft. Break down lens selection, focal lengths, depth‑of‑field behavior, perspective distortion, and how each lens choice affects mood and subject presence. Analyze camera angles, height, tilt, pan, and tracking direction, explaining how each contributes to editorial tone, dominance, intimacy, or dynamism. Provide detailed lighting‑for‑camera guidance: contrast ratios, highlight control, shadow shaping, specular reflections on wet surfaces, and how industrial fluorescents mix with natural daylight. Include instructions for capturing water spray, foam, mist, and reflections with cinematic clarity. Add notes on color temperature, white balance strategy, exposure decisions, shutter behavior for motion, and how to maintain continuity across all shots. The manual should serve as a complete cinematographic blueprint for executing the shoot.”

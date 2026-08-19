@@ -1,0 +1,1 @@
+Ultra-photorealistic RAW macro of a man's nose and upper cheeks affected by frostbite. Skin shows stark contrast: waxy pale yellow-white areas with reduced blood flow next to deep red and purple inflamed zones. Texture looks rigid, dry, and cracked. Ice particles cling to pores and facial hair. Lighting is cold natural daylight, no stylization, absolute sharpness.
