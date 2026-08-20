@@ -9,9 +9,10 @@ user-invocable: true
 
 ## Purpose
 
-This skill enables you to insert quotes into a database using the `CMS.ContextQuotes_INSERT_WITH_DUPLICATE_CHECKING` stored procedure. 
+This skill enables you to insert quotes into a database using the `CMS.ContextQuotes_INSERT_WITH_DUPLICATE_CHECKING` stored procedure.
 
 **Two Input Modes:**
+
 1. **🖼️ IMAGE MODE (Recommended)**: Paste a quote image → AI extracts quote, author, context, meaning, and generates tags → inserts to database
 2. **✍️ MANUAL MODE**: Provide quote details manually → inserts to database
 
@@ -74,11 +75,13 @@ The skill calls `CMS.ContextQuotes_INSERT_WITH_DUPLICATE_CHECKING` with the foll
 ### Installation Steps
 
 1. **Copy configuration template:**
+
    ```powershell
    Copy-Item db-config.example.json db-config.json
    ```
 
 2. **Edit db-config.json** with your SQL Server credentials:
+
    ```json
    {
      "connectionString": "Server=YOUR_SERVER;Database=Basics2025;User Id=YOUR_USER;Password=YOUR_PASSWORD;",
@@ -366,13 +369,13 @@ Agent Actions:
 
 8. Presents to user:
    📸 Extracted from image:
-   
+
    Quote: "The best time to plant a tree was 20 years ago. The second best time is now."
    Author: Chinese Proverb
    Context: Ancient wisdom about procrastination and taking action
    Meaning: Don't let past missed opportunities prevent you from acting now. It's never too late to start something worthwhile, even if you wish you'd started earlier.
    Tags: wisdom|action|procrastination|time-management|chinese-proverb
-   
+
    Ready to insert? Say "yes" to proceed.
 
 User: "yes"

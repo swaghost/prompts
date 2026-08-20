@@ -1,0 +1,10 @@
+{
+  "connectionString": "Server=localhost;Database=Basics2025;User Id=FantasySportsIndex;Password=FantasySportsIndex;",
+  "storedProcedure": "CMS.ContextQuotes_INSERT_WITH_DUPLICATE_CHECKING",
+  "databaseType": "sqlserver",
+  "defaultUserId": 7,
+  "notes": "Configuration for stored procedure-based quote insertion with duplicate checking."
+}
+
+
+

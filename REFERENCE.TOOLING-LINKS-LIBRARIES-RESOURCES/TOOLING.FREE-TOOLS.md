@@ -10,9 +10,13 @@
 
 ### https://github.com/resemble-ai/chatterbox [TEXT TO SPEECH]
 
+### https://voicebox.sh/ [APP]
+
 ## SPEECH-TO-TEXT
 
 ### https://github.com/microsoft/VibeVoice
+
+### https://voicebox.sh/ [APP]
 
 ## VIDEO-TO-3D
 
