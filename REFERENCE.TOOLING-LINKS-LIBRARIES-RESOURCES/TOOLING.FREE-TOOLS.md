@@ -26,6 +26,14 @@
 
 ### https://github.com/deepbeepmeep/Wan2GP
 
+### https://qwen.ai/home [WAN MODELS. FREE? ]
+
+### https://www.hunyuanvideo.org/en/create
+
+## LLM RANKING
+
+### https://arena.ai/
+
 ## SHORT-FORM VIDEO BUILDERS
 
 ### https://github.com/JayWebtech/autoshorts
@@ -61,3 +69,15 @@
 ## STOCK TRADING
 
 ### https://github.com/TraderAlice/OpenAlice
+
+## INSTAGRAM COMMUNICATION
+
+    MANYCHAT vs BOTPRESS [FREE]
+
+## OTHERS?
+
+    LOOM vs SCREEN STUDIO [FREE]
+
+    Webflow vs FRAMER [FREE]
+
+    Perplexity Pro vs GenSpark [FREE]

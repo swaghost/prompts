@@ -23,6 +23,7 @@ This folder contains a complete workflow for creating ultra-realistic AI-generat
 
 | File/Folder                                                                                                                             | Purpose                                               | Use When                                            |
 | --------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------- | --------------------------------------------------- |
+| **[realism-scars-prompts.md](realism-scars-prompts.md)**                                                                                | Imperfection-first realism prompts                    | A generated image looks too perfect or synthetic    |
 | **[PROMPTS/image/builders/realism/](../../PROMPTS/image/builders/realism/)**                                                            | Commercial & UGC realism techniques                   | Creating product photography or influencer content  |
 | **[realism-for-commercial-and-ugc-photography.md](../../PROMPTS/image/builders/realism/realism-for-commercial-and-ugc-photography.md)** | The 7 Realism Rules, product prompts, troubleshooting | Need commercial photography or UGC realism guidance |
 

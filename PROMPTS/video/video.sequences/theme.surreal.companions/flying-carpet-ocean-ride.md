@@ -1,0 +1,3 @@
+# Flying Carpet - Ocean Ride Sequence (Seedance 2.5)
+
+A man sits cross-legged on a Persian flying carpet skimming fast over deep blue ocean, gripping the front edge with both hands. Camera starts in front of him, then sweeps around to behind him, revealing the open sea ahead as the carpet races forward. Wind rushes hard—his black hair and sweater ripple violently, tassels whipping. The carpet banks and dips low toward the water; the camera descends with it, close to the sparkling surface. He leans over and drags his fingertips through the water, trailing a spray. Dolphin glides beneath. Golden afternoon light, cinematic aerial motion, dynamic speed, realistic water splashes.

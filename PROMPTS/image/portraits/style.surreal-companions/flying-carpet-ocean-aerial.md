@@ -1,0 +1,3 @@
+# Flying Carpet - Ocean Aerial Portrait
+
+Far-away wide aerial shot of the uploaded person happily sitting cross-legged on a large floating Persian-style carpet above a vast deep-blue ocean. The carpet has an ornate vintage design with a rich burgundy-red center, intricate beige floral patterns, and a dark navy decorative border with tassels at the corners. The person sits near the lower edge of the carpet, holding its edge with both hands. Bright sunlight creates sparkling reflections across the ocean, with a dolphin visible swimming below the carpet. Cinematic, photorealistic, beautiful surreal scene, high detail, natural lighting, vertical composition, 3:4 aspect ratio.

@@ -1,0 +1,3 @@
+# Underwater Shark Companion - Seabed Walk Sequence (Seedance 2.5)
+
+A lone man strides slowly across the pale sandy seabed, deep underwater, a camera in one hand and a leash in the other—leading a shark that glides beside him like a loyal companion. Sunlight ripples down from the surface, cutting through the blue in soft god-rays. He turns his head to look at the shark, calm and unafraid, then lifts his gaze to the towering kelp swaying around him, and keeps walking forward into the deep. Fine particles drift through the water, the shark's tail sweeps in slow rhythm, kelp bends gently in the current. Wide, distant cinematic underwater shot, slow dramatic pacing, moody deep-blue tones, dreamlike and surreal atmosphere.

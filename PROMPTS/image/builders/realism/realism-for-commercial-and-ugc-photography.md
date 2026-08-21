@@ -137,6 +137,104 @@ ultra-realistic iPhone photo, candid off-guard moment, natural daylight, realist
 
 ---
 
+## Advanced Realism Techniques
+
+### 8. Micro-Emotional Expressions
+
+**The Problem:** AI gives subjects a "blank stare"—emotionally flat faces that lack soul.
+
+**The Solution:** Explicitly prompt for eye muscle engagement and micro-expressions.
+
+**Instead of:**
+
+- "happy expression"
+- "smiling"
+- "joyful"
+
+**Use:**
+
+- **Squinch eye-expression**: Subtle lower eyelid contraction showing genuine emotion
+- **Subtle crow's feet engagement**: Natural fine lines at outer eye corners
+- **Micro smirk**: Asymmetric slight lip corner elevation (not full smile)
+- **Intelligent gaze**: Eyes conveying awareness, thought, presence
+
+**Prompt Addition:**
+
+```
+subtle squinch eye-expression, natural crow's feet engagement, asymmetric micro smirk, intelligent aware gaze with emotional presence
+```
+
+**Impact:** Adds "intelligence" to subject's gaze that stops scrollers and creates authentic human connection.
+
+### 9. Textile Architecture
+
+**The Problem:** Just naming clothing ("white shirt," "cotton dress") gives AI no physics information.
+
+**The Solution:** Describe fabric weight, drape behavior, and textile physics.
+
+**Instead of:**
+
+- "wearing a white shirt"
+- "cotton dress"
+- "silk blouse"
+
+**Use fabric physics:**
+
+- **Heavyweight 400gsm cotton**: Structured hang, sharp creases, substantial drape
+- **Raw silk with visible slub texture**: Irregular weave, matte sheen, delicate draping
+- **Micro-crease details on linen**: Natural wrinkles, lived-in appearance, breathable drape
+- **High-tension fabric draping**: Gravity pull, natural fold physics, weight distribution
+
+**Prompt Formula:**
+
+```
+[Garment] made from [specific fabric with weight], showing natural draping with gravity, micro-crease details where fabric bends, visible textile texture, high-tension fabric behavior, realistic fold patterns
+```
+
+**Examples:**
+
+- "Heavyweight 400gsm cotton tee with natural draping, micro-creases at shoulders, substantial fabric weight"
+- "Raw silk blouse with visible slub texture, irregular weave, matte sheen, high-tension draping"
+- "Linen shirt with pronounced micro-crease details, breathable appearance, natural wrinkles"
+
+**Impact:** Fabric physics signal realism—proper drape and texture make viewers accept the entire image as real.
+
+### 10. Lens Calibration
+
+**The Problem:** Not specifying focal length leaves perspective to AI randomness.
+
+**The Solution:** Always specify focal length—it controls compression, mood, and professional aesthetic.
+
+**The Three Essential Focal Lengths:**
+
+**85mm f/1.8 — Portrait Gold Standard**
+
+- Creamy bokeh background blur
+- Natural facial compression (flattering)
+- Professional editorial feel
+- Use for: Beauty, headshots, product hero shots
+- Prompt: "Shot on 85mm lens at f/1.8, creamy bokeh, natural facial compression"
+
+**35mm f/2.8 — Street Style Lens**
+
+- Candid and real feel
+- Environmental context visible
+- Documentary authenticity
+- Use for: Lifestyle, UGC, social media content
+- Prompt: "Shot on 35mm lens at f/2.8, street photography aesthetic, candid feel"
+
+**24mm Wide-Angle — Editorial Distortion**
+
+- Dramatic perspective distortion
+- Fashion-forward aesthetic
+- Expanded environmental context
+- Use for: High-fashion, editorial campaigns
+- Prompt: "Shot on 24mm wide-angle, editorial perspective distortion"
+
+**Impact:** Focal length specification is the difference between "nice photo" and "professional campaign."
+
+---
+
 ## Complete Product Photography Prompts
 
 ### Prompt 1: Low-Angle Sky Product Hero Shot
