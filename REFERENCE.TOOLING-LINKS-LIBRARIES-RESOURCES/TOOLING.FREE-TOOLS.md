@@ -8,6 +8,8 @@
 
 ## TEXT-TO-SPEECH
 
+### https://github.com/NVIDIA-NeMo/Speech [NVIDIA LABS]
+
 ### https://github.com/resemble-ai/chatterbox [TEXT TO SPEECH]
 
 ### https://voicebox.sh/ [APP]
