@@ -21,7 +21,7 @@ A handheld phone video capturing the moment two metal football crest emblems mec
 
 ## Video Prompt
 
-First-person POV, handheld phone footage. The camera operator's hand enters the frame and presses the metal button on the English crest, then the metal button on the Norwegian crest beside it. As soon as both buttons are pressed, the two crests begin to mechanically transform, unfolding into the English knight and Norwegian Viking figures. Keep the movement realistic, cinematic, and slightly shaky like an authentic phone recording, with natural daylight and the wooden table unchanged. It starts like @image1 and towards the end it looks like on @image2.
+First-person POV, handheld phone footage. The camera operator's hand enters the frame and presses the metal button on the (SCREEN LEFT) TOSA EAST crest, then the metal button on the (SCREEN RIGHT) WAUKESHA WEST crest beside it. As soon as both buttons are pressed, the two crests begin to mechanically transform, unfolding into the Pirate and Wolvering figures. Keep the movement realistic, cinematic, and slightly shaky like an authentic phone recording, with natural daylight and the wooden table unchanged. It starts like @image1 and towards the end it looks like on @image2.
 
 ## Technical Specifications
 

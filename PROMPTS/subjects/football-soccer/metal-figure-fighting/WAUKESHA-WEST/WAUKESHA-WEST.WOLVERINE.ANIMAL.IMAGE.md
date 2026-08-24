@@ -1,0 +1,1 @@
+a fierce Wolvering — large, imposing, fierce, claws bared, teath cared, fur texture, fine sculpted detail. The figure is a premium, highly detailed collectible-style figurine with realistic materials — fur texture, fine sculpted detail.
