@@ -1,0 +1,5 @@
+---
+name: Vintage Invention Patent
+description: Any invention or product photo can be paired with the prompt if desired specific form is required. I just used the text "Apple Vision Pro" for the invention with no uploaded pic for the example image here.
+---
+A vintage patent document for ${invention}, styled after late 1800s United States Patent Office filings. The page features precise technical drawings with numbered callouts (Fig. 1, Fig. 2, Fig. 3) showing front, side, and exploded views. Handwritten annotations in fountain-pen ink describe mechanisms. The paper is aged ivory with foxing stains and soft fold creases. An official embossed seal and red wax stamp appear in the corner. A hand-signed inventor's name and date appear at the bottom. The entire image feels like a recovered archival document—authoritative, historic, and slightly mysterious.
