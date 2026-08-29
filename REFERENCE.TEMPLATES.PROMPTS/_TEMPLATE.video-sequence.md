@@ -1,5 +1,17 @@
 # [Sequence Name]
 
+## Classification
+
+**Product Category:** [Controlled product category, such as apparel, beverage, food, service-signage, fuel-signage, footwear, or product-set]
+
+**Reveal Effect:** [Controlled reveal effect, such as self-stitching, self-writing, molten-formation, pneumatic-inflation, liquid-formation, rib-growth, component-assembly, or cinematic-light-reveal]
+
+**Reveal Mechanism:** [What physically creates the reveal: thread, liquid, molten material, inflated segments, ribs, product components, light, or another material-specific mechanism]
+
+**Sequence Type:** [Self-build / reference-match reveal / transformation / catalogue-to-film / other]
+
+**Filename:** `reveal.<product>.<effect>.md`
+
 ## Description of Resulting Video or Video Sequence
 
 [Brief 1-2 sentence description of what this sequence does, including key visual elements, duration, and style. Example: "A 10-second ultra-cinematic sequence showing X transforming into Y with dramatic camera movement and premium CGI quality."]
@@ -86,18 +98,20 @@ Style: [Overall aesthetic guidance - cinematography style, rendering quality, as
 
 ## Template Usage Notes:
 
-1. **Naming Convention:** Use descriptive filenames starting with `seq.` followed by key descriptors (e.g., `seq.product-holographic-transformation.md`, `seq.pov.cooking-recipe.md`)
+1. **Naming Convention:** Use `reveal.<product>.<effect>.md` for reveal sequences. Keep both dimensions explicit: the product or product category comes first, and the visual mechanism/effect comes second (e.g., `reveal.sneaker.component-assembly.md`, `reveal.beverage.molten-formation.md`). Use `seq.` for non-reveal sequences.
 
-2. **Description Guidelines:** Keep it concise but informative - mention duration, style, and key visual hook
+2. **Classification Rule:** Classify by the product being revealed and by the mechanism that makes the reveal visually distinctive. Do not use a generic `self-build` label when a material-specific effect is available.
 
-3. **Prerequisites:** Be specific about what images/references are needed, or clearly state "None - generates from scratch"
+3. **Description Guidelines:** Keep it concise but informative - mention duration, style, and key visual hook
 
-4. **Storyboard Prompt:** Only include if the sequence is complex enough to benefit from pre-visualization or requires specific reference compositions
+4. **Prerequisites:** Be specific about what images/references are needed, or clearly state "None - generates from scratch"
 
-5. **Video Prompt:** This is the core content - be extremely detailed with timing, camera work, and visual specifications
+5. **Storyboard Prompt:** Only include if the sequence is complex enough to benefit from pre-visualization or requires specific reference compositions
 
-6. **Usage Section:** Focus on practical applications, target industries, and marketing contexts to help users understand when to use this sequence
+6. **Video Prompt:** This is the core content - be extremely detailed with timing, camera work, and visual specifications
 
-7. **Formatting:** Use consistent heading levels, clear time markers, and structured organization for easy scanning
+7. **Usage Section:** Focus on practical applications, target industries, and marketing contexts to help users understand when to use this sequence
 
-8. **PROMPT MAINTENENANCE:** make sure to ALWAYS add the prompt in totality in the "video prompt" section. I do not want to lose any detail or implied ordering of the original prompt by separating it into parts.
+8. **Formatting:** Use consistent heading levels, clear time markers, and structured organization for easy scanning
+
+9. **PROMPT MAINTENANCE:** make sure to ALWAYS add the prompt in totality in the "video prompt" section. I do not want to lose any detail or implied ordering of the original prompt by separating it into parts.

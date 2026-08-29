@@ -1,0 +1,9 @@
+# Full-Body Fashion 01 - Black Evening Dress Vintage Chair
+
+**Source:** full-body-fashion-interior-portrait.md, Example 1
+
+## Image Prompt
+
+```text
+Ultra-realistic high-fashion full-body editorial shot of an elegant woman sitting gracefully on a vintage cream and taupe striped upholstered armchair inside a bright luxury interior. She wears a black halter dress with a high thigh slit revealing sheer black stockings with delicate garter straps visible on thigh, black sheer evening gloves extending to mid-forearm, black high heels (Christian Louboutin style with iconic red soles), and a wide-brimmed black and cream striped straw hat. Her sleek dark hair is styled in a low bun at nape of neck, perfectly smooth and elegant. She sits with legs crossed elegantly showing dress slit, one gloved hand resting on chair arm, other in lap, poised upright posture, refined sophisticated demeanor, confident serene expression looking toward camera. The interior features floor-to-ceiling windows with sheer white curtains gently billowing, natural light flooding the space, cream walls, herringbone light oak wood floor visible, modern minimalist aesthetic with muted cream and beige tones, clean sophisticated luxury. Natural window light from behind and left side creating soft illumination with gentle shadows, bright airy atmosphere, high-key elegant lighting, photographic quality natural light. Shot on Canon EOS R5 with 50mm lens at f/2.8, sharp focus on entire subject from hat to shoes, slight natural blur on background interior maintaining context, balanced depth of field. Photorealistic texture showing fabric details (dress material, stocking sheen, glove texture, hat weave), red shoe soles visible, floor wood grain, curtain fabric, 8K resolution, professional fashion editorial photography. Vertical full-body composition showing complete outfit and elegant pose, sophisticated luxury lifestyle aesthetic, timeless high-fashion elegance.
+```

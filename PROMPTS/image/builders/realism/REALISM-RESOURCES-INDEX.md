@@ -20,6 +20,30 @@ This index provides a comprehensive map of all realism-related resources across 
 6. **Environment Imperfections** - Reality lives in the imperfections (worn surfaces, water spots)
 7. **Influencer Realism Stack** - Universal authenticity prompt formula
 
+**Age Realism Standard:**
+
+- **[REFERENCE.REALISM/age-realism.md](../../../REFERENCE.REALISM/age-realism.md)**
+  - Age-appropriate skin, facial anatomy, hair, and eye detail
+  - Identity and dignity constraints for mature and elderly subjects
+  - Reusable portrait and macro prompt formulas
+  - Builder integration rules for age-aware prompts
+
+**Freckles Realism Standard:**
+
+- **[REFERENCE.REALISM/freckles-realism.md](../../../REFERENCE.REALISM/freckles-realism.md)**
+  - Natural freckle density, distribution, color, and asymmetry
+  - Identity-preserving reference handling
+  - Portrait and macro prompt formulas
+  - Builder integration and anti-overlay constraints
+
+**Stretch Marks Realism Standard:**
+
+- **[REFERENCE.REALISM/stretch-marks-realism.md](../../../REFERENCE.REALISM/stretch-marks-realism.md)**
+  - Anatomical placement, maturity, color, direction, and variation
+  - Identity-preserving body-texture guidance
+  - Full-body, portrait, and macro prompt formulas
+  - Builder integration and anti-stigma constraints
+
 ---
 
 ## Resources by Use Case

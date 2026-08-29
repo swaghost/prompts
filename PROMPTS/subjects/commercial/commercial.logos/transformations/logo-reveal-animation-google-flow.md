@@ -422,4 +422,4 @@ Adapted for the A7 ai.prompts library structure and expanded with additional use
 ## Related Files
 
 - See also: [3d-metallic-logo-transformation.md](./3d-metallic-logo-transformation.md) for static 3D logo rendering
-- See also: [logos.active-stitch.video.md](../../../video/sequences/logos/logos.active-stitch.video.md) for alternative logo animation styles
+- See also: [reveal.logo.self-weaving.embroidery-logo.md](../../../video/video.sequences/reveals.embroidery-and-sewing/reveal.logo.self-weaving.embroidery-logo.md) for alternative logo animation styles

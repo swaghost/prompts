@@ -867,7 +867,7 @@ Essential negative prompts included:
 
 ---
 
-**Related Guide:** See [logo-embroidery-animations.md](logo-embroidery-animations.md) for the two-frame method with Higgsfield AI + Seedance 2.5
+**Related Guide:** See [reveal.logo.thread-embroidery.multi-brand.md](reveal.logo.thread-embroidery.multi-brand.md) for the two-frame method with Higgsfield AI + Seedance 2.5
 
 ---
 

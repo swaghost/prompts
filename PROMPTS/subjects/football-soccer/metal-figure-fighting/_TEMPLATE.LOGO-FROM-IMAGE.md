@@ -1,4 +1,4 @@
-Use @image1 as the exact visual reference for the Whitefish Bay high school crest. Preserve its artwork, lettering, symbols, colors, proportions, orientation, and layout exactly. Do not invent, correct, simplify, replace, mirror, or rearrange any crest detail. The result must show one complete crest only, centered and fully visible.
+Use @image1 as the exact visual reference for a high school crest. Preserve its artwork, lettering, symbols, colors, proportions, orientation, and layout exactly. Do not invent, correct, simplify, replace, mirror, or rearrange any crest detail. The result must show one complete crest only, centered and fully visible.
 
 User @image2 as the shading reference.
 

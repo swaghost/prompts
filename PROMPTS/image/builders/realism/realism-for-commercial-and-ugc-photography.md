@@ -139,7 +139,92 @@ ultra-realistic iPhone photo, candid off-guard moment, natural daylight, realist
 
 ## Advanced Realism Techniques
 
-### 8. Micro-Emotional Expressions
+### 8. Age Realism Must Follow the Stated Age
+
+When a commercial, UGC, editorial, or product prompt includes an age or an older subject, do not rely on generic phrases such as "realistic elderly person." Apply age-appropriate anatomy and preserve the person's identity and dignity.
+
+**Add:**
+
+- Exact age or a narrow age range
+- Wrinkles with varied depth and direction that follow facial anatomy and expression
+- Visible pores, fine facial hairs, uneven pigmentation, age spots, and realistic sun damage where appropriate
+- Age-related changes in cheek volume, temples, eyelids, jawline, and neck when the age supports them
+- Natural gray or white hair following the subject's existing growth pattern
+- Exact eye color, facial proportions, distinctive marks, and asymmetries from the reference
+
+**Avoid:**
+
+- De-aging, airbrushing, poreless or plastic skin
+- Random decorative wrinkles pasted onto a young-looking face
+- Generic elderly features that erase identity
+- Automatically cloudy eyes, cataracts, skeletal anatomy, or sickly styling
+- Exaggerated wrinkles that read as caricature or prosthetic makeup
+
+**Reusable builder addition:**
+
+```text
+[exact age], unmistakably biologically consistent with that age, realistic age-appropriate facial anatomy and wrinkle patterns, visible pores and natural skin irregularities, natural pigmentation and age spots where appropriate, hair aging consistent with the subject's growth pattern, exact eye color and identity preserved, raw unretouched photographic skin, no de-aging, no beauty filter, no plastic smoothing
+```
+
+**Reference:** See [Age Realism for Human Image Prompts](../../../REFERENCE.REALISM/age-realism.md) for portrait, macro, age-progression, and negative-prompt variants.
+
+### 9. Freckles Must Read as Skin, Not a Filter
+
+When freckles are requested or visible in a reference, describe their density, anatomical zones, color variation, and asymmetry. Treat the freckle map as part of identity and keep it integrated with pores, vellus hair, redness, and natural skin tone variation.
+
+Do not treat `8K`, "ultra realistic," or beauty language as a substitute for visual detail. Name the imperfections that must be visible and describe how they behave under the chosen light and camera distance.
+
+**Add:**
+
+- Varied freckle size, opacity, spacing, and edge softness
+- Natural clusters across the nose bridge, upper cheeks, temples, or sun-exposed skin
+- Clear skin between asymmetrical clusters
+- Pigment embedded in skin with realistic light response
+- Exact freckle placement preserved from a reference
+
+**Avoid:**
+
+- Identical repeated dots, perfect symmetry, or sticker-like marks
+- Makeup-like freckle overlays or painted spots
+- Freckles floating above pore detail
+- Airbrushing, poreless skin, or beauty filters that erase the pattern
+
+**Reusable builder addition:**
+
+```text
+[light/subtle/dense] natural freckles distributed asymmetrically across [zones], varied in size, opacity, spacing, and warm [color] tones embedded in realistic skin, visible pores, fine vellus hair, natural redness and tonal variation, no repeated dot pattern, no makeup overlay, no airbrushing
+```
+
+**Reference:** See [Freckles Realism for Human Image Prompts](../../../REFERENCE.REALISM/freckles-realism.md) for close-up, macro, identity-lock, and negative-prompt variants.
+
+### 10. Stretch Marks Must Follow the Body
+
+When stretch marks are requested or visible in a reference, describe their anatomical location, maturity, color, direction, density, and variation. Treat them as natural body texture integrated with pores, vellus hair, pigmentation, folds, elasticity, and light response.
+
+**Add:**
+
+- Natural striae on explicitly named body areas
+- Varied length, width, spacing, opacity, and direction following body contours
+- Pink, red, violet, pale, or silver tones appropriate to maturity and skin tone
+- Realistic skin texture continuing around and between the marks
+- Exact stretch-mark placement preserved from a reference
+
+**Avoid:**
+
+- Repeated identical stripes, tattoo-like lines, or artificial overlays
+- Exaggerated scarring, wounds, gore, or disease language
+- Erasing or minimizing natural marks through beauty retouching
+- Assumptions about weight, health, pregnancy, age, or cause
+
+**Reusable builder addition:**
+
+```text
+natural stretch marks on [areas], [newer/mature/mixed] striae with varied length, width, spacing, direction, opacity, and [color] tones following anatomical contours, integrated with realistic pores, vellus hair, pigmentation, elasticity, and natural light response, unretouched skin, no repeated pattern, no airbrushing
+```
+
+**Reference:** See [Stretch Marks Realism for Human Image Prompts](../../../REFERENCE.REALISM/stretch-marks-realism.md) for full-body, portrait, macro, identity, and negative-prompt variants.
+
+### 11. Micro-Emotional Expressions
 
 **The Problem:** AI gives subjects a "blank stare"—emotionally flat faces that lack soul.
 
@@ -166,7 +251,7 @@ subtle squinch eye-expression, natural crow's feet engagement, asymmetric micro 
 
 **Impact:** Adds "intelligence" to subject's gaze that stops scrollers and creates authentic human connection.
 
-### 9. Textile Architecture
+### 12. Textile Architecture
 
 **The Problem:** Just naming clothing ("white shirt," "cotton dress") gives AI no physics information.
 
