@@ -98,7 +98,7 @@ Style: [Overall aesthetic guidance - cinematography style, rendering quality, as
 
 ## Template Usage Notes:
 
-1. **Naming Convention:** Use `reveal.<product>.<effect>.md` for reveal sequences. Keep both dimensions explicit: the product or product category comes first, and the visual mechanism/effect comes second (e.g., `reveal.sneaker.component-assembly.md`, `reveal.beverage.molten-formation.md`). Use `seq.` for non-reveal sequences.
+1. **Naming Convention:** Use `reveal.<product>.<effect>.[title].md` for reveal sequences. Keep both dimensions explicit: the product or product category comes first, and the visual mechanism/effect comes second (e.g., `reveal.sneaker.component-assembly.nike-tiempo-shoe-assembly.md`, `reveal.beverage.molten-formation.coca-cola.md`). Use `seq.` for non-reveal sequences. If multiple variations of a technique are shown in a single file, extract them as separately-titled video sequence files without losing master or shared information in each file.
 
 2. **Classification Rule:** Classify by the product being revealed and by the mechanism that makes the reveal visually distinctive. Do not use a generic `self-build` label when a material-specific effect is available.
 

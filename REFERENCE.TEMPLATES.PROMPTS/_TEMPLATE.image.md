@@ -115,11 +115,9 @@
 **Negative Prompt (What to Avoid):**
 [List unwanted elements, common AI artifacts, quality issues to exclude - e.g., "blurry, low quality, distorted proportions, extra limbs, bad hands, oversaturated, artificial lighting, cluttered background"]
 
----
-
 ## Template Usage Notes:
 
-1. **Naming Convention:** Use descriptive filenames with category prefixes (e.g., `influencer.woman.beachwear.md`, `portrait.man.cinematic.md`, `product.luxury-watch.md`)
+1. **Naming Convention:** Use descriptive filenames with category prefixes (e.g., `influencer.woman.beachwear.md`, `portrait.man.cinematic.md`, `product.luxury-watch.md`). If an import contains multiple related prompts unrelated to a video sequence, or panel or reference board, extract them as separate files but named with consistency.
 
 2. **Description:** Focus on the visual end result - what will the generated image look like?
 

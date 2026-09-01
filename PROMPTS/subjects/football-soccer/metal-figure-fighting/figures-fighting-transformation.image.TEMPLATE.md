@@ -1,0 +1,7 @@
+-- DIRECTOR NOTE: It's important to start with the empty table NOT THE CREST ON TABLE otherwise you get two shields in some cases and the pirate develops a shield.
+
+POV photo taken from a phone looking down at the same wooden table by the window starting with [BASE IMAGE], same lighting and setting, but now the two metal crest emblems have transformed into detailed miniature figurines standing where the crests were.
+
+On the LEFT, where the Tosa East crest was: a fierce pirate figure like [IMAGE2], standing in a powerful stance. On the RIGHT, where the Brookfield East crest was: a powerful Spartan Warrior like [IMAGE3].
+
+Both figures are premium, highly detailed collectible-style figurines with realistic materials — real metal armor with brushed and polished finishes, leather and fur texture, enamel-colored shield crests, fine sculpted detail. They stand on the same scratched wooden table, soft natural window daylight from the left, realistic contact shadows grounding them on the wood. Full realism, RAW phone-photo quality: authentic metal reflections, tiny scratches and tooling marks, real fabric and fur texture, real wood grain, dust and imperfections on the table, muted true-to-life color grade, NOT oversaturated. Natural top-down phone framing, real depth of field. No cartoon, no illustration, no flat render — indistinguishable from a real phone photo of two detailed warrior figurines on a table. THEY ARE TURNED TOWARD EACH OTHER AND IT LOOKS LIKE THEY ARE FIGHTING.
