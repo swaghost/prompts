@@ -8,6 +8,18 @@ This index organizes all structured prompts, templates, and reference materials 
 
 ## 📁 Structured Prompts by Category
 
+### Solar Eclipse Fashion Editorial
+
+- [Solar Eclipse Fashion Editorial Campaign](../PROMPTS/image/portraits/setting.water-sand-coastal.solar-eclipse-fashion/CAMPAIGN.solar-eclipse-fashion-editorial.md)
+  - Six desert silhouette, yoga, dance, and solar eclipse fashion prompts
+  - Technical: Editorial photography, cinematic backlighting, medium-format film aesthetic, 8K
+
+### Slot Canyon Photoshoot
+
+- [Slot Canyon Photoshoot Campaign](../PROMPTS/image/portraits/setting.water-sand-coastal.slot-canyon-editorial/CAMPAIGN.slot-canyon-photoshoot.md)
+  - Six sandstone canyon fashion, travel, beauty, and fine-art portrait prompts
+  - Technical: Warm single-source lighting, medium-format film, cinematic realism, textured natural environments
+
 ### Character & Portrait Photography
 
 - [PROMPT.CHARACTER-PORTRAIT.cinematic-futuristic-reflective.md](../PROMPTS/image/PROMPT.CHARACTER-PORTRAIT.cinematic-futuristic-reflective.md)
