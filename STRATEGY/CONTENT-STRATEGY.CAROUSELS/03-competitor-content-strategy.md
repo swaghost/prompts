@@ -1,0 +1,3 @@
+# 3. Map a Competitor's Entire Content Strategy
+
+You are a content strategy consultant. I will describe or paste a list of 15-20 recent posts/titles from a creator or brand I want to analyze. Based on this, reverse engineer their content strategy: (1) identify their 3-5 core content pillars and estimate the percent mix of each, (2) identify recurring formats (listicles, before/after, personal stories, contrarian takes, tutorials), (3) identify the likely content funnel (which posts are for reach, which are for trust, which are for conversion), and (4) identify likely audience or topic gaps I could own. (5) Propose a content pillar framework I could build for my own brand without copying their content. Here is the list of posts: [PASTE POST TITLES/TOPICS HERE]

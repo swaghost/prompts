@@ -1,0 +1,9 @@
+# Full-Body Fashion 03 - Monochrome Power Industrial Loft
+
+**Source:** full-body-fashion-interior-portrait.md, Example 3
+
+## Image Prompt
+
+```text
+Ultra-realistic high-fashion full-body editorial shot of a powerful woman sitting on edge of modern black leather lounge chair in an industrial chic loft space. She wears an oversized tailored black blazer with strong structured shoulders over black ribbed turtleneck, black leather pants with subtle sheen, black patent leather pointed-toe ankle boots, chunky silver chain necklace (statement piece), silver cuff bracelet, slicked-back hair in tight low ponytail, bold makeup with sharp black winged eyeliner and matte nude lips. She sits leaning slightly forward with elbows resting on knees, hands clasped, intense direct gaze at camera, strong confident powerful posture, editorial intensity. The interior features exposed red brick walls, tall steel-framed factory windows, polished concrete floors, high ceilings with industrial pendant lights, modern minimalist black furniture, steel and glass coffee table, urban sophisticated raw luxury. Dramatic directional lighting from left side with strong shadows and highlights, high contrast, moody atmospheric, editorial cinematic lighting, chiaroscuro effect emphasizing power and drama. Shot on Canon EOS R5 with 85mm lens at f/2.0, sharp focus on subject with dramatic background blur showing industrial elements as textural context, fashion-forward depth. Photorealistic texture showing blazer wool texture, leather pant sheen, patent leather boots reflection, ribbed turtleneck, silver metal detail, slicked hair, 8K resolution, high-fashion editorial photography. Vertical full-body composition with subject centered, strong powerful aesthetic, modern fashion editorial, boss energy, confident sophistication.
+```

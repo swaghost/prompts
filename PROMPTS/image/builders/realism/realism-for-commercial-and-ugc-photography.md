@@ -137,6 +137,189 @@ ultra-realistic iPhone photo, candid off-guard moment, natural daylight, realist
 
 ---
 
+## Advanced Realism Techniques
+
+### 8. Age Realism Must Follow the Stated Age
+
+When a commercial, UGC, editorial, or product prompt includes an age or an older subject, do not rely on generic phrases such as "realistic elderly person." Apply age-appropriate anatomy and preserve the person's identity and dignity.
+
+**Add:**
+
+- Exact age or a narrow age range
+- Wrinkles with varied depth and direction that follow facial anatomy and expression
+- Visible pores, fine facial hairs, uneven pigmentation, age spots, and realistic sun damage where appropriate
+- Age-related changes in cheek volume, temples, eyelids, jawline, and neck when the age supports them
+- Natural gray or white hair following the subject's existing growth pattern
+- Exact eye color, facial proportions, distinctive marks, and asymmetries from the reference
+
+**Avoid:**
+
+- De-aging, airbrushing, poreless or plastic skin
+- Random decorative wrinkles pasted onto a young-looking face
+- Generic elderly features that erase identity
+- Automatically cloudy eyes, cataracts, skeletal anatomy, or sickly styling
+- Exaggerated wrinkles that read as caricature or prosthetic makeup
+
+**Reusable builder addition:**
+
+```text
+[exact age], unmistakably biologically consistent with that age, realistic age-appropriate facial anatomy and wrinkle patterns, visible pores and natural skin irregularities, natural pigmentation and age spots where appropriate, hair aging consistent with the subject's growth pattern, exact eye color and identity preserved, raw unretouched photographic skin, no de-aging, no beauty filter, no plastic smoothing
+```
+
+**Reference:** See [Age Realism for Human Image Prompts](../../../REFERENCE.REALISM/age-realism.md) for portrait, macro, age-progression, and negative-prompt variants.
+
+### 9. Freckles Must Read as Skin, Not a Filter
+
+When freckles are requested or visible in a reference, describe their density, anatomical zones, color variation, and asymmetry. Treat the freckle map as part of identity and keep it integrated with pores, vellus hair, redness, and natural skin tone variation.
+
+Do not treat `8K`, "ultra realistic," or beauty language as a substitute for visual detail. Name the imperfections that must be visible and describe how they behave under the chosen light and camera distance.
+
+**Add:**
+
+- Varied freckle size, opacity, spacing, and edge softness
+- Natural clusters across the nose bridge, upper cheeks, temples, or sun-exposed skin
+- Clear skin between asymmetrical clusters
+- Pigment embedded in skin with realistic light response
+- Exact freckle placement preserved from a reference
+
+**Avoid:**
+
+- Identical repeated dots, perfect symmetry, or sticker-like marks
+- Makeup-like freckle overlays or painted spots
+- Freckles floating above pore detail
+- Airbrushing, poreless skin, or beauty filters that erase the pattern
+
+**Reusable builder addition:**
+
+```text
+[light/subtle/dense] natural freckles distributed asymmetrically across [zones], varied in size, opacity, spacing, and warm [color] tones embedded in realistic skin, visible pores, fine vellus hair, natural redness and tonal variation, no repeated dot pattern, no makeup overlay, no airbrushing
+```
+
+**Reference:** See [Freckles Realism for Human Image Prompts](../../../REFERENCE.REALISM/freckles-realism.md) for close-up, macro, identity-lock, and negative-prompt variants.
+
+### 10. Stretch Marks Must Follow the Body
+
+When stretch marks are requested or visible in a reference, describe their anatomical location, maturity, color, direction, density, and variation. Treat them as natural body texture integrated with pores, vellus hair, pigmentation, folds, elasticity, and light response.
+
+**Add:**
+
+- Natural striae on explicitly named body areas
+- Varied length, width, spacing, opacity, and direction following body contours
+- Pink, red, violet, pale, or silver tones appropriate to maturity and skin tone
+- Realistic skin texture continuing around and between the marks
+- Exact stretch-mark placement preserved from a reference
+
+**Avoid:**
+
+- Repeated identical stripes, tattoo-like lines, or artificial overlays
+- Exaggerated scarring, wounds, gore, or disease language
+- Erasing or minimizing natural marks through beauty retouching
+- Assumptions about weight, health, pregnancy, age, or cause
+
+**Reusable builder addition:**
+
+```text
+natural stretch marks on [areas], [newer/mature/mixed] striae with varied length, width, spacing, direction, opacity, and [color] tones following anatomical contours, integrated with realistic pores, vellus hair, pigmentation, elasticity, and natural light response, unretouched skin, no repeated pattern, no airbrushing
+```
+
+**Reference:** See [Stretch Marks Realism for Human Image Prompts](../../../REFERENCE.REALISM/stretch-marks-realism.md) for full-body, portrait, macro, identity, and negative-prompt variants.
+
+### 11. Micro-Emotional Expressions
+
+**The Problem:** AI gives subjects a "blank stare"—emotionally flat faces that lack soul.
+
+**The Solution:** Explicitly prompt for eye muscle engagement and micro-expressions.
+
+**Instead of:**
+
+- "happy expression"
+- "smiling"
+- "joyful"
+
+**Use:**
+
+- **Squinch eye-expression**: Subtle lower eyelid contraction showing genuine emotion
+- **Subtle crow's feet engagement**: Natural fine lines at outer eye corners
+- **Micro smirk**: Asymmetric slight lip corner elevation (not full smile)
+- **Intelligent gaze**: Eyes conveying awareness, thought, presence
+
+**Prompt Addition:**
+
+```
+subtle squinch eye-expression, natural crow's feet engagement, asymmetric micro smirk, intelligent aware gaze with emotional presence
+```
+
+**Impact:** Adds "intelligence" to subject's gaze that stops scrollers and creates authentic human connection.
+
+### 12. Textile Architecture
+
+**The Problem:** Just naming clothing ("white shirt," "cotton dress") gives AI no physics information.
+
+**The Solution:** Describe fabric weight, drape behavior, and textile physics.
+
+**Instead of:**
+
+- "wearing a white shirt"
+- "cotton dress"
+- "silk blouse"
+
+**Use fabric physics:**
+
+- **Heavyweight 400gsm cotton**: Structured hang, sharp creases, substantial drape
+- **Raw silk with visible slub texture**: Irregular weave, matte sheen, delicate draping
+- **Micro-crease details on linen**: Natural wrinkles, lived-in appearance, breathable drape
+- **High-tension fabric draping**: Gravity pull, natural fold physics, weight distribution
+
+**Prompt Formula:**
+
+```
+[Garment] made from [specific fabric with weight], showing natural draping with gravity, micro-crease details where fabric bends, visible textile texture, high-tension fabric behavior, realistic fold patterns
+```
+
+**Examples:**
+
+- "Heavyweight 400gsm cotton tee with natural draping, micro-creases at shoulders, substantial fabric weight"
+- "Raw silk blouse with visible slub texture, irregular weave, matte sheen, high-tension draping"
+- "Linen shirt with pronounced micro-crease details, breathable appearance, natural wrinkles"
+
+**Impact:** Fabric physics signal realism—proper drape and texture make viewers accept the entire image as real.
+
+### 10. Lens Calibration
+
+**The Problem:** Not specifying focal length leaves perspective to AI randomness.
+
+**The Solution:** Always specify focal length—it controls compression, mood, and professional aesthetic.
+
+**The Three Essential Focal Lengths:**
+
+**85mm f/1.8 — Portrait Gold Standard**
+
+- Creamy bokeh background blur
+- Natural facial compression (flattering)
+- Professional editorial feel
+- Use for: Beauty, headshots, product hero shots
+- Prompt: "Shot on 85mm lens at f/1.8, creamy bokeh, natural facial compression"
+
+**35mm f/2.8 — Street Style Lens**
+
+- Candid and real feel
+- Environmental context visible
+- Documentary authenticity
+- Use for: Lifestyle, UGC, social media content
+- Prompt: "Shot on 35mm lens at f/2.8, street photography aesthetic, candid feel"
+
+**24mm Wide-Angle — Editorial Distortion**
+
+- Dramatic perspective distortion
+- Fashion-forward aesthetic
+- Expanded environmental context
+- Use for: High-fashion, editorial campaigns
+- Prompt: "Shot on 24mm wide-angle, editorial perspective distortion"
+
+**Impact:** Focal length specification is the difference between "nice photo" and "professional campaign."
+
+---
+
 ## Complete Product Photography Prompts
 
 ### Prompt 1: Low-Angle Sky Product Hero Shot

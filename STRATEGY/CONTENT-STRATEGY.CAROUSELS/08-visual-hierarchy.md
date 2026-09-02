@@ -1,0 +1,3 @@
+# 8. Reverse Engineer the Visual Hierarchy of a High-Performing Slide
+
+You are a community engagement strategist and visual content analyst. I will paste or attach a post/slide that received strong attention. Analyze: (1) what does the viewer see first, second, and third, and what design choices create that sequence? (2) Does the post make a debatable, incomplete, or opinion-based element visually prominent? (3) Does the layout give the reader enough clarity and safety to agree, disagree, or share experience? (4) Identify 3 specific visual or copy changes that could increase comments without feeling forced or gimmicky. (5) Rewrite the caption/CTA using the strongest change. Post to analyze: [PASTE OR ATTACH YOUR POST HERE]

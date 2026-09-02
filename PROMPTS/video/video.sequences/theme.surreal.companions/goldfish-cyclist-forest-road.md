@@ -1,0 +1,3 @@
+# Goldfish Cyclist - Forest Road Sequence (Seedance 2.5)
+
+A man cycles happily down a wet, misty forest road, pedaling toward the camera through the rain-soaked jungle. Behind him, a giant orange goldfish floats and drifts gently through the air, fins rippling as if swimming. The man glances back over his shoulder at the fish, smiles, then turns forward and keeps cycling calmly. Wind moves through the tall trees, leaves falling and swirling around him. Soft mist drifts, water glistens on the road. Wide cinematic camera angle slowly pulling back, dreamlike atmosphere, gentle forest ambiance, natural wind, peaceful and surreal mood.

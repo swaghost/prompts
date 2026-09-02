@@ -1,0 +1,9 @@
+# Full-Body Fashion 04 - Soft Pink Silk Romantic Living Room
+
+**Source:** full-body-fashion-interior-portrait.md, Example 4
+
+## Image Prompt
+
+```text
+Ultra-realistic high-fashion portrait of an elegant woman sitting sideways on a tufted cream velvet sofa, looking over shoulder toward camera in a classic bright traditional living room. She wears a blush pink silk slip dress with delicate lace trim at bust (thin straps, midi length), ivory cashmere cardigan draped loosely over shoulders, nude strappy heels with delicate ankle straps, pearl drop earrings, minimal gold bracelet. Her long soft blonde hair styled in loose beach waves flows over one shoulder, natural romantic texture, gentle face-framing. She sits with legs tucked to side, one arm over sofa back, turning to look at camera with gentle warm smile, soft approachable expression, romantic feminine energy. The interior features traditional elegant living room with cream walls, white crown molding, soft grey-blue accent wall, crystal chandelier overhead, large ornate gold-framed mirror, white marble fireplace mantel with arrangements of peonies and roses, Persian rug in soft blues and creams, refined timeless luxury. Soft bright natural window light from large windows behind sheer curtains, even flattering illumination, minimal shadows, fresh bright atmosphere, romantic dreamy quality, high-key soft lighting. Shot on Canon EOS R5 with 50mm lens at f/2.0, sharp focus on subject with soft dreamy background blur showing elegant room details, romantic depth. Photorealistic texture showing silk dress fabric sheen and drape, cashmere softness, lace detail, pearl luminescence, hair texture, skin with natural glow, 8K resolution, soft romantic editorial photography. Horizontal 3:2 composition, subject right of center with elegant room visible, soft feminine luxury aesthetic, timeless romantic elegance, approachable sophistication.
+```

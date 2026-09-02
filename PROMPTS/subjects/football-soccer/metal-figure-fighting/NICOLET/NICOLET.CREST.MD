@@ -1,0 +1,9 @@
+Use @image1 as the exact visual reference for the Sussex Nicolet high school soccer crest. Preserve its artwork, lettering, symbols, colors, proportions, orientation, and layout exactly. Do not invent, correct, simplify, replace, mirror, or rearrange any crest detail. The result must show one complete crest only, centered and fully visible.
+
+Create a casual, candid smartphone photograph looking directly at the crest on a clean matte white surface. Render the crest as a solid, premium machined-metal badge: a heavy three-dimensional die-cast object with raised and recessed relief, crisp CNC-milled edges, realistic bevels and chamfers, brushed steel, polished chrome, matte metal, and colored enamel inlays matching @image1. Keep every logo and letter legible and unchanged.
+
+Show authentic manufacturing detail: fine brushed-metal grain, restrained tooling marks, tiny realistic scratches and micro-imperfections, engraved edges, subtle enamel depth, metal fasteners or rivets only where consistent with the reference, and believable metallic reflections. Give the badge convincing weight with natural contact shadow and soft directional daylight. Use a muted, true-to-life color grade; do not oversaturate the team colors.
+
+Use realistic phone-camera optics: direct eye-level framing, slight natural handheld imperfection, accurate perspective, shallow but believable depth of field, and photographic exposure. The white background must remain clean and matte, with no wood grain, books, room, extra objects, second crest, extra text, watermark, or border.
+
+Negative prompt: cartoon, illustration, flat graphic, 2D logo, plastic, toy-like render, fantasy redesign, altered lettering, misspelled text, invented symbols, missing details, distorted geometry, duplicated crest, mirrored crest, extra objects, cluttered background, oversaturation, harsh artificial lighting, watermark, caption, or frame.

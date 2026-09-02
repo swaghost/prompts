@@ -1,0 +1,41 @@
+# Database connection and sensitive configuration
+db-config.json
+database-config.json
+connection-string.txt
+*.db-config.json
+*.connection.json
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+build/
+dist/
+*.egg-info/
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs
+*.log
+logs/
+
+# Temporary files
+*.tmp
+*.temp
+~*
+
+# Personal notes (optional)
+PERSONAL-NOTES.md
+TODO-PRIVATE.md

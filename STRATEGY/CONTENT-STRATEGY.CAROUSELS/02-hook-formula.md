@@ -1,0 +1,3 @@
+# 2. Extract the Exact Hook Formula Top Posts Use
+
+Act as a copywriting analyst specializing in scroll-stopping hooks. I will give you 5-10 hooks from top-performing posts in my niche. For each hook: (1) identify the hook type (curiosity gap, bold claim, contrarian statement, relatable pain point, numbered promise, etc.), (2) extract the underlying sentence structure as a fill-in-the-blank template, and (3) identify the emotional trigger it uses (fear, curiosity, urgency, desire, belonging). Then synthesize all patterns into 10 new hook templates I can reuse for any topic in my niche, and apply 3 of them to this topic: [INSERT YOUR TOPIC]. Hooks to analyze: [PASTE HOOKS HERE]
