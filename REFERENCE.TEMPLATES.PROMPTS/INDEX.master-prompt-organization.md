@@ -20,6 +20,42 @@ This index organizes all structured prompts, templates, and reference materials 
   - Six sandstone canyon fashion, travel, beauty, and fine-art portrait prompts
   - Technical: Warm single-source lighting, medium-format film, cinematic realism, textured natural environments
 
+### Dark Red Athletic Poster & Stadium Campaign
+
+- [Dark Red Athletic Poster Campaign](../PROMPTS/image/portraits/setting.sports-football.dark-red-poster-campaign/CAMPAIGN.dark-red-athletic-poster-stadium.md)
+  - Four football-inspired identity-consistent sports poster prompts
+  - Technical: Crimson stadium lighting, gritty smoke, distressed typography, portrait campaign composition
+
+### Paris Date Night Video Skit
+
+- [She's Not Real - Paris Date Skit](../PROMPTS/video/video.sequences/theme.paris-date-night/shes-not-real-paris-date-seedance-2-5.md)
+  - 30-second Seedance 2.5 night-date skit with AI reveal, dialogue, and CTA ending
+  - Technical: 9:16, 4K, image-to-video identity consistency, practical night lighting, precise object-text holds
+
+### Cupid Angel Fantasy Video Sequence
+
+- [Cupid - Angel and Bag Throw Sequence](../PROMPTS/video/video.sequences/theme.cupid-angel/cupid-angel-bag-throw-seedance-2-5.md)
+  - 19.5-second Seedance 2.5 fantasy sequence with an airborne angel, bag counterattack, and indifferent heroine
+  - Technical: 9:16, 30fps, realistic wing aerodynamics, gravity-based impact physics, golden-hour-to-dusk cinematography
+
+### Luxury Room Transformation Guide
+
+- [AI Luxury Room Transformation Guide - Google Flow](../PROMPTS/video/video.sequences/theme.real-estate.tours/luxury-room-transformation-google-flow.md)
+  - Locked-camera before-to-after room furnishing workflow with Nano Banana and Gemini Omni Flash
+  - Technical: 7-8 seconds, final-state reference image, timed physical assembly, diegetic ASMR, architectural continuity
+
+### Nike Athletic Footwear Campaign
+
+- [Nike Athletic Footwear Campaign - AI Image Prompts](../PROMPTS/image/commercial/campaign.nike-athletic-footwear-2026/README.md)
+  - Eight athletic, streetwear, trail-running, studio, and urban footwear campaign prompts
+  - Technical: Product-reference fidelity, low-angle perspective, natural and studio lighting, 8K commercial photography
+
+### Character Model Sheets and Turnarounds
+
+- [Extracted Character Sheet Style Prompts](../PROMPTS/image/builders/create.character-sheets/extracted/README.md)
+  - Six standalone model-sheet prompts with shared identity and production guidance retained
+  - Technical: 4:5 vertical, front/side/back turnaround, expressions, action poses, material callouts, Midjourney/Flux reference settings
+
 ### Character & Portrait Photography
 
 - [PROMPT.CHARACTER-PORTRAIT.cinematic-futuristic-reflective.md](../PROMPTS/image/PROMPT.CHARACTER-PORTRAIT.cinematic-futuristic-reflective.md)
