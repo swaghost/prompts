@@ -8,15 +8,41 @@ Use this reference with [FACS Cheat Sheet](../REFERENCE.EMOTION.FACS/FACS-cheat-
 
 These seven combinations are adapted from [iMotions' FACS visual guidebook](https://imotions.com/blog/learning/research-fundamentals/facial-action-coding-system/). They are the highest-confidence mappings in this reference.
 
-| Emotion group from list | Signature AU combination                  | Visual reading                                                                         |
-| ----------------------- | ----------------------------------------- | -------------------------------------------------------------------------------------- |
-| Joy / happiness         | AU6 + AU12                                | Cheeks lift; lip corners pull up and back.                                             |
-| Sadness                 | AU1 + AU4 + AU15                          | Inner brows raise and draw together; lip corners depress.                              |
-| Surprise                | AU1 + AU2 + AU5 + AU26                    | Brows raise, eyes widen, jaw drops.                                                    |
-| Fear                    | AU1 + AU2 + AU4 + AU5 + AU7 + AU20 + AU26 | Raised/drawn brows, widened and tightened eyes, laterally stretched lips, dropped jaw. |
-| Anger                   | AU4 + AU5 + AU7 + AU23                    | Lowered brow, intense eyes, tightened lids and lips.                                   |
-| Disgust                 | AU9 + AU15 + AU16                         | Nose wrinkles; lip corners and lower lip draw downward.                                |
-| Contempt / disdain      | AU12 + AU14, unilateral                   | One-sided lip-corner pull and dimpling.                                                |
+| Emotion group from list | Signature AU combination                  | Root intensity range | Visual reading                                                                         |
+| ----------------------- | ----------------------------------------- | -------------------- | -------------------------------------------------------------------------------------- |
+| Joy / happiness         | AU6 + AU12                                | Mild to overwhelming | Cheeks lift; lip corners pull up and back.                                             |
+| Sadness                 | AU1 + AU4 + AU15                          | Mild to overwhelming | Inner brows raise and draw together; lip corners depress.                              |
+| Surprise                | AU1 + AU2 + AU5 + AU26                    | Mild to intense      | Brows raise, eyes widen, jaw drops.                                                    |
+| Fear                    | AU1 + AU2 + AU4 + AU5 + AU7 + AU20 + AU26 | Mild to overwhelming | Raised/drawn brows, widened and tightened eyes, laterally stretched lips, dropped jaw. |
+| Anger                   | AU4 + AU5 + AU7 + AU23                    | Mild to overwhelming | Lowered brow, intense eyes, tightened lids and lips.                                   |
+| Disgust                 | AU9 + AU15 + AU16                         | Mild to intense      | Nose wrinkles; lip corners and lower lip draw downward.                                |
+| Contempt / disdain      | AU12 + AU14, unilateral                   | Mild to strong       | One-sided lip-corner pull and dimpling.                                                |
+
+## Individual-Emotion Placeholders
+
+Every bullet item in [Complete Human Emotion Reference List](REFERENCE.EMOTION-LIST.MD) is an individual placeholder in this cross-reference, identified as `source category :: listed term`. A placeholder inherits the FACS starting point and confidence from its source-category row above; it is not a claim that the term has a unique, validated AU signature.
+
+| Placeholder field  | Value                                                                                                              |
+| ------------------ | ------------------------------------------------------------------------------------------------------------------ |
+| **Term coverage**  | All 516 bullet terms in the source list, including intensity modifiers and mixed/complex states.                   |
+| **FACS direction** | Inherit the parent category's `FACS starting point`; retain `No fixed facial code` when that category has none.    |
+| **Intensity**      | Start with the root emotion's range below, then use the listed term's wording and scene context to select a level. |
+| **Unmapped terms** | Keep as `Placeholder - contextual performance required`; do not invent an AU recipe.                               |
+
+### Root-Emotion Intensity Bands
+
+| Root emotion or state                           | Default band      | Escalation terms from the source list                                                                                           |
+| ----------------------------------------------- | ----------------- | ------------------------------------------------------------------------------------------------------------------------------- |
+| Joy / happiness                                 | Moderate          | `elated`, `blissful`, `ecstatic`, `euphoric`, `jubilant`                                                                        |
+| Sadness                                         | Moderate          | `sorrowful`, `miserable`, `heartbroken`, `grief-stricken`, `anguished`                                                          |
+| Anger                                           | Moderate          | `furious`, `enraged`, `outraged`, `wrathful`, `livid`                                                                           |
+| Fear                                            | Moderate          | `scared`, `panicked`, `terrified`, `horrified`, `petrified`                                                                     |
+| Disgust                                         | Moderate          | `revolted`, `repulsed`, `sickened`, `appalled`                                                                                  |
+| Surprise                                        | Moderate          | `astonished`, `shocked`, `stunned`, `astounded`, `flabbergasted`                                                                |
+| Contempt / disdain                              | Moderate          | `scornful`, `condescending`, `superior`, `dismissive`                                                                           |
+| Calm / comfort / acceptance                     | Mild              | Use a lower-intensity relaxed baseline unless the narrative indicates otherwise.                                                |
+| Anxiety / tension / anticipation                | Moderate          | Raise intensity for `overwhelmed`, `agitated`, `foreboding`, or explicit threat context.                                        |
+| Atmospheric, temporal, social, and value labels | Context-dependent | Terms such as `premium`, `dark`, `collective joy`, and `future-focused` describe context or tone, not a fixed facial intensity. |
 
 ## Category Cross-Reference
 
