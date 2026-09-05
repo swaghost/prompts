@@ -8,6 +8,14 @@ Directory note: Keep the directory/index alphabetized by surname, then given nam
 
 [Primary genres, adjacent genres, and the kinds of scenes this grammar supports.]
 
+## Category Classification
+
+- Primary category: [one exact category]
+- Secondary categories: [zero to three exact categories]
+- Classification rationale: [one concise craft-based sentence]
+
+Category assignment reflects the director's dominant craft lineage, not nationality alone. Profiles can carry multiple category tags when their practice crosses traditions.
+
 ## Nationality
 
 [Country or cultural traditions most relevant to the director's practice, with transnational context where useful.]

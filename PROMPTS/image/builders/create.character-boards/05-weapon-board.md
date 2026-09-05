@@ -1,8 +1,35 @@
 # Weapon Board
 
+## Description
+
+A character-specific armory and loadout reference board showing signature weapons, complementary tools, geometry, mechanisms, materials, combat application, carry placement, damage states, and a shared color system. The board ties every item to the supplied character's visual language while maintaining realistic scale and handling.
+
 ## Use It When
 
 Best for weapon-heavy characters, tactical fighters, and signature loadouts.
+
+## Prerequisites
+
+- One clear full-body or three-quarter character reference image
+- Readable costume, era, materials, silhouette, and likely combat language
+- Optional verified weapon or loadout references; otherwise create only a coherent non-canon concept derived from visible design cues
+
+## Workflow
+
+1. Upload the character reference as the visual source of truth.
+2. Supply weapon references or verified loadout details when exact continuity is required.
+3. Paste the complete master prompt and generate natively in exact 4:5 portrait format, ideally 1080 x 1350 px or higher.
+4. Verify weapon geometry, scale, grip, carry placement, and material continuity across all panels.
+5. Regenerate rather than crop if the output is 9:16, square, landscape, or elongated.
+
+## Continuity Rules
+
+- Preserve the same character face, age, body proportions, costume, era, and design language whenever shown.
+- Keep each weapon's geometry, scale, materials, markings, and mechanisms consistent across views and states.
+- Show plausible grip, handling, carry placement, weight, contact, and safe spatial relationships.
+- Keep titles, labels, callouts, panels, swatches, and captions inside the 4:5 safe area.
+- Use readable English and distinguish verified loadout details from inferred concept design.
+- Treat the board as a production armory reference, not a random weapon collage.
 
 ## Master Prompt
 
@@ -32,4 +59,35 @@ Production-quality weapon design, realistic scale, consistent weapon geometry, h
 
 ```
 9:16, square, elongated infographic, weapon geometry drift, impossible scale, extra weapons, unsafe handling, unreadable callouts, clutter, cartoon, low detail, watermark, logo, or clipped panels.
+```
+
+## Quick Correction Line
+
+```text
+Keep all existing content, character identity, and weapon designs. Rebuild the entire composition natively in EXACT 4:5 portrait aspect ratio. Do not crop an elongated infographic. Reflow every weapon view, macro, combat frame, loadout callout, state, swatch, and caption inside the 4:5 safe area.
+```
+
+## Quality Checklist
+
+- [ ] Output is native 4:5 portrait with all content inside the safe area.
+- [ ] Character identity, costume, proportions, and visual era remain consistent.
+- [ ] Primary weapon geometry matches across front, side, three-quarter, action, carry, and damage views.
+- [ ] Secondary tools share one coherent material and design language.
+- [ ] Grips, mechanisms, edges, markings, scale, and carry positions remain plausible.
+- [ ] Combat frames show safe, readable handling without merged hands or floating weapons.
+- [ ] Labels, callouts, and HEX-coded swatches are legible.
+- [ ] No extra weapon, geometry drift, impossible scale, watermark, or clipped panel appears.
+
+## Fast Regeneration Commands
+
+```text
+Keep the exact same character and loadout. Correct weapon geometry so every view depicts the same object.
+
+Fix weapon scale, grip contact, carry placement, and hand anatomy without changing the designs.
+
+Reduce visual clutter by 15% while preserving every weapon view, macro, state, and callout.
+
+Increase typography readability and give the signature weapon hero section stronger priority.
+
+Rebuild natively in EXACT 4:5 portrait format and keep all content inside the safe area.
 ```

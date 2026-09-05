@@ -5,6 +5,7 @@ A collection of elegant Art Deco image prompts for premium vertical posters. The
 ## Collection
 
 - [Master Art Deco Poster Template](MASTER-art-deco-poster.md)
+- [Master Art Deco City Travel Poster](MASTER-art-deco-city-travel-poster.md)
 - [Jazz Age Nightclub](01-jazz-age-nightclub.md)
 - [Ocean Liner Travel](02-ocean-liner-travel.md)
 - [Fashion Portrait](03-art-deco-fashion-portrait.md)

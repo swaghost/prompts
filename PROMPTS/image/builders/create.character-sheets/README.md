@@ -6,14 +6,19 @@ Six standalone character-sheet image prompts extracted from the Professional AI 
 
 Every sheet should include a front, side, and back turnaround; four or five expression headshots; three to five dynamic poses; material or fabric callouts; color palette chips; and biographical or production notes where appropriate. Keep the same recognizable person, face, hair, proportions, outfit, accessories, and shoes in every panel.
 
+## Identity Lock Example And Template
+
+- [Identity Lock Example](character-sheet.IDENTITY-LOCK-EXAMPLE.md) - Completed cinematic character setup demonstrating subject, scene, expression, light, grade, camera, and render controls.
+- [Identity Lock Fill-in-the-Blank Template](character-sheet.IDENTITY-LOCK-TEMPLATE.md) - Reusable worksheet and full prompt with explicit variables for adapting the same structure to any subject.
+
 ## Collection
 
-1. [Classic Menswear and Business Suit](01-classic-menswear-business-suit.md)
-2. [Retro Japanese Storybook Illustration](02-retro-japanese-storybook.md)
-3. [Pro Footballer and Athletic Kit](03-pro-footballer-athletic-kit.md)
-4. [Evening Gown and Luxury Gala](04-evening-gown-luxury-gala.md)
-5. [Dark Academia Detective](05-dark-academia-detective.md)
-6. [Modern Business Chic](06-modern-business-chic.md)
+1. [Classic Menswear and Business Suit](classic-menswear-business-suit.md)
+2. [Retro Japanese Storybook Illustration](retro-japanese-storybook.md)
+3. [Pro Footballer and Athletic Kit](pro-footballer-athletic-kit.md)
+4. [Evening Gown and Luxury Gala](evening-gown-luxury-gala.md)
+5. [Dark Academia Detective](dark-academia-detective.md)
+6. [Modern Business Chic](modern-business-chic.md)
 
 ## Shared Identity Anchor
 

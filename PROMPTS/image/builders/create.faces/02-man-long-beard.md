@@ -1,1 +1,18 @@
 A hyper-detailed RAW beauty portrait of a man with a long, dense, naturally textured dark beard that extends several inches below the jawline, showcasing individual strands, subtle curl patterns, and realistic variations in thickness and color. His deep-set green eyes contrast with his rugged skin, which reveals pronounced pores, fine wrinkles at the outer eye corners, and natural roughness around the beard line. His medium-length brown hair is slightly unkempt but highly detailed, with visible split ends, light frizz, and natural shine. Captured on an 85mm f/1.4 lens with soft directional daylight that highlights both beard density and facial structure, the portrait preserves authentic imperfections such as faint acne scars, shallow depressions in the skin, uneven pigmentation, and subtle asymmetry in beard growth. Eyelashes and eyebrows are sharp and individually defined, while the beard exhibits realistic clumping, stray hairs, and tonal variations from root to tip. A shallow background blur enhances the extreme realism and editorial cinematic quality of the scene.
+
+## Technical Specifications (All Prompts)
+
+- **Camera:** 85mm f/1.4 lens
+- **Format:** RAW capture
+- **Lighting:** Soft diffused daylight
+- **Focus:** Hyper-sharp on face, shallow depth of field
+- **Style:** Editorial-quality beauty portrait, cinematic photorealism
+
+## Key Features
+
+- **Micro-detail preservation:** Visible pores, fine lines, skin texture
+- **Hair rendering:** Individual strands from root to tip
+- **Eye detail:** High-fidelity reflections, crisp eyelashes
+- **Authentic imperfections:** Freckles, scars, acne, asymmetry, tonal variation
+- **Natural lighting:** Reveals every detail without smoothing
+- **True-to-life color accuracy:** High dynamic range

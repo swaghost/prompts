@@ -37,6 +37,25 @@ This collection contains 6 builder prompts:
 5. **[Creature Board](05-creature-board-growth-stages.md)** — Creature design with growth/evolution stages
 6. **[Shot Board](06-shot-board-storyboard-12-panel.md)** — 12-shot storyboard for narrative sequences
 
+## Specialized Master Board Pack
+
+The [Master Board Prompt Pack](create.master-boards/README.md) adds six coordinated 4:5 production boards built from one uploaded identity reference:
+
+1. Identity Lock Board
+2. Performance Board
+3. Style Board
+4. Cinematography Board
+5. World Board
+6. Campaign Board
+
+## Natural Hand Gesture Pack
+
+The [Natural Hand Gesture Builder Pack](create.hand-gestures/README.md) provides eight individual identity-preserving prompts for relaxed pockets, hair adjustment, chin touch, forearm hold, waist placement, clasped hands, sleeve or wrist adjustment, and conversational open-palm gestures.
+
+## Cinema Color Extraction Pack
+
+The [Cinema Colour Vault Color Extraction Tools](create.color-palettes/README.md) provide five prompts for extracting a four-role palette from film frames, decoding color psychology, adapting cinematic relationships into original palettes, generating ramps and design tokens, and auditing contrast and hierarchy.
+
 ## Technical Specifications
 
 - **Format:** All prompts generate single composite images with multiple panels/cells

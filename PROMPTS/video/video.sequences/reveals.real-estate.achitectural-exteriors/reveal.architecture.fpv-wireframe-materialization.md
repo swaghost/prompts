@@ -1,4 +1,4 @@
-# Architecture Reveal - FPV Wireframe Materialization
+# Architecture Glow-Up Reveal - FPV Golden Wireframe Materialization
 
 ## Classification
 
@@ -12,6 +12,10 @@
 
 **Filename:** `reveal.architecture.fpv-wireframe-materialization.md`
 
+**Also Known As:** Golden wireframe reveal / architectural glow-up / FPV drone build
+
+**Source:** [Golden Wireframe Reveal - FPV Drone Build](https://golden-wireframe-animation.netlify.app/)
+
 ## Description of Resulting Video or Video Sequence
 
 A 10-second one-take FPV drone sequence that dynamically draws an unfinished building into existence during a close orbit and spiral climb. Golden wireframes materialize behind the camera, then collapse into the exact photorealistic architecture from the uploaded destination frame.
@@ -24,12 +28,41 @@ Perfect for architectural visualization, real-estate launches, developer present
 
 Seedance 2.5, Veo, Kling, Runway, Sora, or another image-to-video model that accepts a final architecture reference image. Best suited to an FPV-capable workflow with strong image-reference adherence.
 
+The source workflow demonstrates two paths:
+
+- **Google Flow:** Veo 3 Lite or Veo 3 Fast using the image as an Ingredient
+- **Professional workflow:** Seedance 2 or 2.5 through a compatible video platform using the image as a Reference Image
+
+Do not load the finished building as a start frame. The opening must remain an empty construction zone, so the image functions only as the final design and destination-frame authority.
+
 ## Prerequisites / Dependencies
 
 - **Dependency 1 - @image:** High-resolution final destination frame of the completed architecture
 - **Dependency 2 - Optional camera/depth reference:** A depth map or camera-path reference matching the intended close FPV movement
 - The final reference must clearly show the target building's form, footprint, silhouette, facade, materials, lighting, and surrounding area.
 - Keep the reference at the intended delivery aspect ratio before generation.
+
+## Critical Reference-Image Setup
+
+### Seedance 2 / 2.5 Workflow
+
+1. Open the platform's image-to-video or reference-to-video interface.
+2. Upload the completed building image as a **Reference Image**, not a Start Frame.
+3. Paste the complete Video Prompt without splitting its continuity rules or negative prompt.
+4. Select Seedance 2 or 2.5, the target aspect ratio, 10-second duration, and the highest practical resolution.
+5. Generate and inspect camera-path continuity, behind-camera construction order, material accuracy, and final-frame match.
+
+### Google Flow Workflow
+
+1. Open Google Flow and create a video generation.
+2. Add the completed building image through **Ingredients**, not Frames.
+3. Select Veo 3 Lite or Veo 3 Fast and configure the intended dimensions.
+4. Paste the complete prompt.
+5. Generate, then verify that the building is absent at frame one and that unvisited areas remain incomplete.
+
+### Why This Matters
+
+A Start Frame tells the model that the completed building already exists at `00:00`, contradicting the reveal. A Reference Image or Ingredient supplies design, material, lighting, environment, and final-camera information without forcing the finished architecture into the opening frame.
 
 ## Storyboard Prompt
 
@@ -151,3 +184,22 @@ cuts, hidden cuts, edits, transitions, fade in, fade out, camera reset, time jum
 - [ ] Wireframe materializes into the exact reference architecture at 00:08-00:09.
 - [ ] Final camera angle, framing, perspective, distance, and materials match @image.
 - [ ] Output is one continuous unbroken FPV take with no text, logos, or watermarks.
+- [ ] The completed image was supplied as a Reference Image or Ingredient, never as a Start Frame.
+
+## Generation Method Comparison
+
+| Method | Setup | Strength | Limitation |
+| --- | --- | --- | --- |
+| Google Flow / Veo 3 Lite or Fast | Add `@image` as an Ingredient | Accessible way to test the motion concept | Camera path and exact materialization may require several generations |
+| Seedance 2 / 2.5 | Add `@image` as a Reference Image | Stronger professional control and reference adherence | Usually paid and still requires continuity review |
+
+## Glow-Up Failure Checks
+
+- [ ] The opening shows an unfinished target area rather than the completed reference.
+- [ ] The camera begins near the target instead of approaching from far away.
+- [ ] Golden trails trace only the camera's completed path.
+- [ ] The unvisited side never appears finished early.
+- [ ] Lower structure remains stable while upper sections generate.
+- [ ] Wireframe collapses into real materials without changing geometry.
+- [ ] The final camera position and architecture match `@image` exactly.
+- [ ] No text, logos, UI, or platform artifacts appear in the generated video.

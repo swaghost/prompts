@@ -335,6 +335,34 @@ In addition to the living room style prompts above, this collection includes pro
 
 ---
 
+### 16. **Kitchen Isometric Documentation Board**
+
+[BOARDS.PRESENTATION.kitchen-isometric-documentation-board.md](BOARDS.SINGLE-ANGLE/BOARDS.PRESENTATION.kitchen-isometric-documentation-board.md)
+
+**Purpose:** Transform a kitchen image or floor plan into a vertical architectural presentation board
+
+**Includes:** Isometric view, floor plan, elevations, detail views, furniture schedule, lighting plan, material palette
+
+**Platform:** Image generation models with reference-image support
+
+**Best For:** Kitchen portfolios, client presentations, design reviews, social media boards
+
+---
+
+### 17. **3x3 Interior Camera-View Contact Sheet**
+
+[BOARDS.CONTACT-SHEET.3x3-interior-camera-views.md](BOARDS.MULTI-ANGLE/BOARDS.CONTACT-SHEET.3x3-interior-camera-views.md)
+
+**Purpose:** Generate nine camera views of one unchanged interior in a single contact sheet
+
+**Includes:** Zoom, wide, right, left, back, front, artwork, lighting, and table views
+
+**Platform:** Image generation models with reference-image and multi-panel support
+
+**Best For:** Interior coverage studies, architectural presentations, portfolio boards, visual continuity
+
+---
+
 ## How to Use These Prompts
 
 ### For Architectural Drawings:

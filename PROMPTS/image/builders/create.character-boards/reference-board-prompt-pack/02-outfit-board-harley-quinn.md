@@ -1,5 +1,36 @@
 # Outfit Board - Harley Quinn
 
+## Description
+
+A cinematic wardrobe-development board that presents one recognizable character in nine complete costume directions while preserving face, body proportions, hair identity, attitude, pose system, and studio presentation. The result functions as a production-ready 4:5 costume reference rather than nine unrelated redesigns.
+
+## Use It When
+
+Use this board for costume exploration, fashion campaigns, alternate-universe styling, wardrobe continuity, character pitches, cosplay planning, and visual-development reviews.
+
+## Prerequisites
+
+- One clear full-body or three-quarter character reference
+- Readable face, hairstyle, body proportions, signature makeup, and baseline costume language
+- Enough model capability for nine distinct head-to-toe outfits with one stable identity
+- Native 4:5 output; never crop from square, landscape, or 9:16
+
+## Workflow
+
+1. Upload one reference image as the identity source of truth.
+2. Paste the full prompt without deleting its grid, identity, text, or full-body rules.
+3. Generate natively at exact 4:5, preferably 3000 x 3750 px or higher.
+4. Check that all nine looks are distinct, complete, and appropriate to their labels.
+5. Regenerate rather than crop if feet, labels, panels, or safe-area content are missing.
+
+## Continuity Rules
+
+- Preserve the exact face, apparent age, complexion, facial structure, makeup language, body proportions, blonde twin ponytails, pink-and-blue ends, and character attitude.
+- Keep one consistent front-facing fashion-reference pose, camera height, lens character, background, exposure, and lighting system.
+- Change wardrobe, materials, accessories, and styling only as required by each outfit label.
+- Keep every look fully visible from head to toe with no cropped feet or hidden silhouette.
+- Treat the nine panels as one coordinated costume-development system.
+
 ## Platform and Format
 
 **Platform:** GPT Image 2  
@@ -31,3 +62,33 @@ AVOID: No other characters, identity changes, repeated outfits, cropped feet, pa
 - [ ] Same face, body proportions, hair, and character identity in every panel
 - [ ] Front-facing fashion pose and dark neutral studio background stay consistent
 - [ ] Feet remain visible and labels are limited to the approved text
+
+## Negative Prompt
+
+```text
+9:16, square, landscape, cropped board, white margins, sidebars, fewer than nine outfits, extra panels, repeated outfit, identity drift, changed face, changed age, changed body proportions, changed ponytail structure, missing pink or blue hair ends, random makeup, inconsistent pose, inconsistent camera, inconsistent background, inconsistent lighting, cropped head, cropped feet, incomplete outfit, merged garments, impossible clothing, panel numbers, extra text, misspelled labels, clipped labels, logo, watermark, other characters
+```
+
+## Quick Correction Line
+
+```text
+Keep the exact same character identity, hair, body proportions, nine outfit labels, board design, and approved text. Rebuild natively in exact 4:5 portrait format with one hero header and a complete 3x3 outfit grid. Show every look head to toe with one consistent fashion-reference pose and dark neutral background.
+```
+
+## Fast Regeneration Commands
+
+```text
+Keep the same face, hair, makeup language, and body proportions in all nine panels.
+
+Make every outfit more distinct and more faithful to its label without changing identity.
+
+Show every look fully from head to toe; restore any cropped feet or missing accessories.
+
+Keep one front-facing pose, camera, background, lighting, and color grade across the board.
+
+Improve label spelling and rebuild natively in exact 4:5 with no extra text or panel numbering.
+```
+
+## Source
+
+Part of the [Reference Board Prompt Pack](README.md). Adapt the named example only when you have the right to use the character or reference imagery; for original characters, replace identity-specific traits while preserving the board structure.
